@@ -1,19 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Daily Star – Opinion (dummy feed)]]></title>
-        <description><![CDATA[RSS feed could not scrape, showing placeholder]]></description>
+        <title><![CDATA[The Daily Star – Opinion]]></title>
+        <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Feb 2026 07:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 08:41:24 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Feb 2026 07:50:49 GMT</pubDate>
+        <pubDate>Mon, 23 Feb 2026 08:41:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Feed generation failed]]></title>
-            <description><![CDATA[An error occurred during scraping.]]></description>
-            <link>https://www.thedailystar.net</link>
-            <guid isPermaLink="true">https://www.thedailystar.net</guid>
-            <pubDate>Mon, 23 Feb 2026 07:50:49 GMT</pubDate>
+            <title><![CDATA[Army’s role during the polls and interim period merits a nod]]></title>
+            <description><![CDATA[Now that the dust has settled and we have begun another hopeful journey under a new government, we can look back at the interim government’s 18-month tenure and say with confidence that the defence forces,]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/armys-role-during-the-polls-and-interim-period-merits-nod-4112506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/armys-role-during-the-polls-and-interim-period-merits-nod-4112506</guid>
+            <dc:creator><![CDATA[Tanim Ahmed]]></dc:creator>
+            <pubDate>Mon, 23 Feb 2026 00:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tourism and roads won’t solve CHT’s deeper wounds]]></title>
+            <description><![CDATA[By Kurnikova ChakmaJoya DewanMuhammad Asadullah]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/tourism-and-roads-wont-solve-chts-deeper-wounds-4112526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tourism-and-roads-wont-solve-chts-deeper-wounds-4112526</guid>
+            <dc:creator><![CDATA[Kurnikova ChakmaJoya DewanMuhammad Asadullah]]></dc:creator>
+            <pubDate>Mon, 23 Feb 2026 00:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s foreign policy enters its post-election test]]></title>
+            <link>https://www.thedailystar.net/opinion/views/closer-look/news/bangladeshs-foreign-policy-enters-its-post-election-test-4112536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/bangladeshs-foreign-policy-enters-its-post-election-test-4112536</guid>
+            <pubDate>Mon, 23 Feb 2026 00:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the real poor get the benefits of the family card?]]></title>
+            <description><![CDATA[By Nawshad Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/will-the-real-poor-get-the-benefits-the-family-card-4112531</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/will-the-real-poor-get-the-benefits-the-family-card-4112531</guid>
+            <dc:creator><![CDATA[Nawshad Ahmed]]></dc:creator>
+            <pubDate>Mon, 23 Feb 2026 00:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Road safety must come first]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/road-safety-must-come-first-4112111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/road-safety-must-come-first-4112111</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Markets abroad balance profit and festival spirit, why can’t we?]]></title>
+            <description><![CDATA[By Mahtab Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/markets-abroad-balance-profit-and-festival-spirit-why-cant-we-4111631</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/markets-abroad-balance-profit-and-festival-spirit-why-cant-we-4111631</guid>
+            <dc:creator><![CDATA[Mahtab Uddin]]></dc:creator>
+            <pubDate>Sun, 22 Feb 2026 01:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why do voters elect controversial politicians?]]></title>
+            <description><![CDATA[By Abdullah A Dewan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-do-voters-elect-controversial-politicians-4111626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-do-voters-elect-controversial-politicians-4111626</guid>
+            <dc:creator><![CDATA[Abdullah A Dewan]]></dc:creator>
+            <pubDate>Sun, 22 Feb 2026 01:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The International Crimes Tribunal’s questionable detention policy]]></title>
+            <description><![CDATA[By David Bergman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-international-crimes-tribunals-questionable-detention-policy-4111636</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-international-crimes-tribunals-questionable-detention-policy-4111636</guid>
+            <dc:creator><![CDATA[David Bergman]]></dc:creator>
+            <pubDate>Sun, 22 Feb 2026 01:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clean air must be prioritised]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/clean-air-must-be-prioritised-4112501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/clean-air-must-be-prioritised-4112501</guid>
+            <pubDate>Mon, 23 Feb 2026 00:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Supreme Court ruling on global tariffs]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/us-supreme-court-ruling-global-tariffs-4111346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/us-supreme-court-ruling-global-tariffs-4111346</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prioritise mosquito control]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/prioritise-mosquito-control-4111621</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/prioritise-mosquito-control-4111621</guid>
+            <pubDate>Sun, 22 Feb 2026 01:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ekushey’s spirit must guide us all]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/ekusheys-spirit-must-guide-us-all-4110946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ekusheys-spirit-must-guide-us-all-4110946</guid>
+            <pubDate>Sat, 21 Feb 2026 01:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Complete haor embankments on time]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/complete-haor-embankments-time-4110951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/complete-haor-embankments-time-4110951</guid>
+            <pubDate>Sat, 21 Feb 2026 02:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the scheduling fiasco of Ekushey book fair tells us]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/what-the-scheduling-fiasco-ekushey-book-fair-tells-us-4110956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/what-the-scheduling-fiasco-ekushey-book-fair-tells-us-4110956</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 02:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A bizarre mission to restore the Madhupur Sal forest]]></title>
+            <description><![CDATA[By Philip Gain]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bizarre-mission-restore-the-madhupur-sal-forest-4110971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bizarre-mission-restore-the-madhupur-sal-forest-4110971</guid>
+            <dc:creator><![CDATA[Philip Gain]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 02:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reconciling hundi realities with LDC graduation goals]]></title>
+            <description><![CDATA[By Saba El Kabir]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/reconciling-hundi-realities-ldc-graduation-goals-4110961</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/reconciling-hundi-realities-ldc-graduation-goals-4110961</guid>
+            <dc:creator><![CDATA[Saba El Kabir]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 02:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A 10-point roadmap for Bangladesh's logistics transformation]]></title>
+            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/10-point-roadmap-bangladeshs-logistics-transformation-4110291</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/10-point-roadmap-bangladeshs-logistics-transformation-4110291</guid>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World day of social justice / How multispecies justice supports social justice]]></title>
+            <description><![CDATA[By Marzana Tasnim]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-multispecies-justice-supports-social-justice-4110331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-multispecies-justice-supports-social-justice-4110331</guid>
+            <dc:creator><![CDATA[Marzana Tasnim]]></dc:creator>
+            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Not Forgetting the Victims: Club Epstein and crimes against humanity]]></title>
+            <description><![CDATA[By Binoy Kampmark]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/not-forgetting-the-victims-club-epstein-and-crimes-against-humanity-4110976</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/not-forgetting-the-victims-club-epstein-and-crimes-against-humanity-4110976</guid>
+            <dc:creator><![CDATA[Binoy Kampmark]]></dc:creator>
+            <pubDate>Sat, 21 Feb 2026 02:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Refusing constitution assembly oath defies people’s verdict]]></title>
+            <description><![CDATA[By Sharif Bhuiyan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/refusing-constitution-assembly-oath-defies-peoples-verdict-4110346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/refusing-constitution-assembly-oath-defies-peoples-verdict-4110346</guid>
+            <dc:creator><![CDATA[Sharif Bhuiyan]]></dc:creator>
+            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
