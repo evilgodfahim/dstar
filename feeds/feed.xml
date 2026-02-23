@@ -4,10 +4,23 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Feb 2026 19:01:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 20:01:07 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Feb 2026 19:01:16 GMT</pubDate>
+        <pubDate>Mon, 23 Feb 2026 20:01:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[New government will continue ongoing banking reforms: governor]]></title>
+            <link>https://www.thedailystar.net/business/news/new-government-will-continue-ongoing-banking-reforms-governor-4113071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/new-government-will-continue-ongoing-banking-reforms-governor-4113071</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home minister orders review of post-Aug 5 cases to prevent harassment]]></title>
+            <description><![CDATA[Says opportunists targeted businessmen, journalists and others]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/home-minister-orders-review-post-aug-5-cases-prevent-harassment-4113036</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/home-minister-orders-review-post-aug-5-cases-prevent-harassment-4113036</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
         <item>
             <title><![CDATA[Counter case filed against supporters of Rumeen Farhana]]></title>
             <link>https://www.thedailystar.net/news-0/news/counter-case-filed-against-supporters-rumeen-farhana-4113131</link>
@@ -22,21 +35,20 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[EC transfers 112 officials from Secretariat and field offices]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/ec-transfers-112-officials-secretariat-and-field-offices-4113121</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/ec-transfers-112-officials-secretariat-and-field-offices-4113121</guid>
+            <title><![CDATA[Police Service Association opposes interim govt’s ‘hurried’ uniform change decision]]></title>
+            <description><![CDATA[Says most members of the force not in favour]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/police-service-association-opposes-interim-govts-hurried-uniform-change-decision-4113431</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/police-service-association-opposes-interim-govts-hurried-uniform-change-decision-4113431</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jamaat slams appointment of BNP-affiliated administrators to 6 city corporations]]></title>
-            <description><![CDATA[Golam Porwar says BNP-led govt’s move defies public expectations]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-slams-appointment-bnp-affiliated-administrators-6-city-corporations-4113096</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-slams-appointment-bnp-affiliated-administrators-6-city-corporations-4113096</guid>
+            <title><![CDATA[ICT prosecutor alleges corruption against Tajul, Tamim]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/ict-prosecutor-alleges-corruption-against-tajul-tamim-4113436</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/ict-prosecutor-alleges-corruption-against-tajul-tamim-4113436</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Extortion rose up to 50% during interim govt: DCCI]]></title>
-            <description><![CDATA[Warns businesses may have to close factories and leave if those illegal demands continue]]></description>
             <link>https://www.thedailystar.net/top-news/news/extortion-rose-50-during-interim-govt-dcci-4113091</link>
             <guid isPermaLink="true">https://www.thedailystar.net/top-news/news/extortion-rose-50-during-interim-govt-dcci-4113091</guid>
             <pubDate>Invalid Date</pubDate>
@@ -63,18 +75,6 @@
             <title><![CDATA[NBR misses target by Tk 60,110 crore despite 13% growth]]></title>
             <link>https://www.thedailystar.net/business/news/nbr-misses-target-tk-60110-crore-despite-13-growth-4113106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/nbr-misses-target-tk-60110-crore-despite-13-growth-4113106</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New government will continue ongoing banking reforms: governor]]></title>
-            <link>https://www.thedailystar.net/business/news/new-government-will-continue-ongoing-banking-reforms-governor-4113071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/new-government-will-continue-ongoing-banking-reforms-governor-4113071</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home minister orders review of post-Aug 5 cases to prevent harassment]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/home-minister-orders-review-post-aug-5-cases-prevent-harassment-4113036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/home-minister-orders-review-post-aug-5-cases-prevent-harassment-4113036</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -293,6 +293,12 @@
             <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.02.21)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260221-4111111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260221-4111111</guid>
+            <pubDate>Sat, 21 Feb 2026 06:06:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Today's Gallery (2026.02.20)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260220-4110416</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260220-4110416</guid>
@@ -305,10 +311,10 @@
             <pubDate>Thu, 19 Feb 2026 03:54:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Today's Gallery (2026.02.18)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260218-4108896</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260218-4108896</guid>
-            <pubDate>Wed, 18 Feb 2026 05:48:00 GMT</pubDate>
+            <title><![CDATA[Today's Gallery (2026.02.24)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260224-4113421</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260224-4113421</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.02.23)]]></title>
@@ -323,10 +329,10 @@
             <pubDate>Sun, 22 Feb 2026 03:44:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Today's Gallery (2026.02.21)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260221-4111111</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260221-4111111</guid>
-            <pubDate>Sat, 21 Feb 2026 06:06:00 GMT</pubDate>
+            <title><![CDATA[Today's Gallery (2026.02.18)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260218-4108896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260218-4108896</guid>
+            <pubDate>Wed, 18 Feb 2026 05:48:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.02.17)]]></title>
@@ -338,12 +344,6 @@
             <title><![CDATA[Today's Gallery (2026.02.16)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260216-4107126</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260216-4107126</guid>
-            <pubDate>Mon, 16 Feb 2026 02:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.02.16)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260216-4107121</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260216-4107121</guid>
             <pubDate>Mon, 16 Feb 2026 02:14:00 GMT</pubDate>
         </item>
     </channel>
