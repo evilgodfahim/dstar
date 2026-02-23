@@ -4,47 +4,53 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Feb 2026 20:01:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 21:54:21 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Feb 2026 20:01:07 GMT</pubDate>
+        <pubDate>Mon, 23 Feb 2026 21:54:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[NBR misses target by Tk 60,110 crore despite 13% growth]]></title>
+            <link>https://www.thedailystar.net/business/news/nbr-misses-target-tk-60110-crore-despite-13-growth-4113106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/nbr-misses-target-tk-60110-crore-despite-13-growth-4113106</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New government will continue ongoing banking reforms: governor]]></title>
+            <description><![CDATA[The finance minister tells the central bank chief]]></description>
             <link>https://www.thedailystar.net/business/news/new-government-will-continue-ongoing-banking-reforms-governor-4113071</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/new-government-will-continue-ongoing-banking-reforms-governor-4113071</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Home minister orders review of post-Aug 5 cases to prevent harassment]]></title>
-            <description><![CDATA[Says opportunists targeted businessmen, journalists and others]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/home-minister-orders-review-post-aug-5-cases-prevent-harassment-4113036</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/home-minister-orders-review-post-aug-5-cases-prevent-harassment-4113036</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Counter case filed against supporters of Rumeen Farhana]]></title>
-            <link>https://www.thedailystar.net/news-0/news/counter-case-filed-against-supporters-rumeen-farhana-4113131</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/counter-case-filed-against-supporters-rumeen-farhana-4113131</guid>
+            <title><![CDATA[Advocaat resigns as Curacao coach ahead of World Cup]]></title>
+            <description><![CDATA[Veteran Dutch coach Dick Advocaat, who led Curacao to their first World Cup qualification, has stepped down as manager months before the finals because of his daughter’s ill health.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/advocaat-resigns-curacao-coach-ahead-world-cup-4113446</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/advocaat-resigns-curacao-coach-ahead-world-cup-4113446</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Govt considering registered ‘service providers’ to handle passport applications]]></title>
-            <description><![CDATA[New system to first launch in Dhaka and divisional cities]]></description>
-            <link>https://www.thedailystar.net/news/governance/news/govt-considering-registered-service-providers-handle-passport-applications-4113056</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/govt-considering-registered-service-providers-handle-passport-applications-4113056</guid>
+            <title><![CDATA[Star-Dismislab Analysis / Mob attacks on Star,  Prothom Alo scripted]]></title>
+            <description><![CDATA[Interim govt, Meta failed to act on long-running online incitement]]></description>
+            <link>https://www.thedailystar.net/news/investigative-stories/news/mob-attacks-star-prothom-alo-scripted-4113416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/investigative-stories/news/mob-attacks-star-prothom-alo-scripted-4113416</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Police Service Association opposes interim govt’s ‘hurried’ uniform change decision]]></title>
-            <description><![CDATA[Says most members of the force not in favour]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/police-service-association-opposes-interim-govts-hurried-uniform-change-decision-4113431</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/police-service-association-opposes-interim-govts-hurried-uniform-change-decision-4113431</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[ICT prosecutor alleges corruption against Tajul, Tamim]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/ict-prosecutor-alleges-corruption-against-tajul-tamim-4113436</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/ict-prosecutor-alleges-corruption-against-tajul-tamim-4113436</guid>
+            <title><![CDATA[ICT prosecutor raises corruption allegations against Tajul, Tamim]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/ict-prosecutor-raises-corruption-allegations-against-tajul-tamim-4113436</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/ict-prosecutor-raises-corruption-allegations-against-tajul-tamim-4113436</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -69,12 +75,6 @@
             <title><![CDATA[Man hacked to death in N'ganj shortly after release on bail]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-hacked-death-nganj-shortly-after-release-bail-4113406</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-hacked-death-nganj-shortly-after-release-bail-4113406</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NBR misses target by Tk 60,110 crore despite 13% growth]]></title>
-            <link>https://www.thedailystar.net/business/news/nbr-misses-target-tk-60110-crore-despite-13-growth-4113106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/nbr-misses-target-tk-60110-crore-despite-13-growth-4113106</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
