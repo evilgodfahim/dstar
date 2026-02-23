@@ -4,13 +4,20 @@
         <description><![CDATA[Latest opinion pieces from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Feb 2026 10:43:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 11:35:24 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net/opinion" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Feb 2026 10:43:21 GMT</pubDate>
+        <pubDate>Mon, 23 Feb 2026 11:35:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Rein in mugging gangs]]></title>
+            <description><![CDATA[Mohammadpur, Adabor residents deserve to live in peace]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/rein-mugging-gangs-4112921</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/rein-mugging-gangs-4112921</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Army’s role during the polls and interim period merits a nod]]></title>
-            <description><![CDATA[Now that the dust has settled and we have begun another hopeful journey under a new government, we can look back at the interim government’s 18-month tenure and say with confidence that the defence forces,]]></description>
+            <description><![CDATA[By Tanim Ahmed]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/armys-role-during-the-polls-and-interim-period-merits-nod-4112506</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/armys-role-during-the-polls-and-interim-period-merits-nod-4112506</guid>
             <dc:creator><![CDATA[Tanim Ahmed]]></dc:creator>
@@ -61,14 +68,6 @@
             <pubDate>Sun, 22 Feb 2026 01:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The International Crimes Tribunal’s questionable detention policy]]></title>
-            <description><![CDATA[By David Bergman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-international-crimes-tribunals-questionable-detention-policy-4111636</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-international-crimes-tribunals-questionable-detention-policy-4111636</guid>
-            <dc:creator><![CDATA[David Bergman]]></dc:creator>
-            <pubDate>Sun, 22 Feb 2026 01:43:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Clean air must be prioritised]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/clean-air-must-be-prioritised-4112501</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/clean-air-must-be-prioritised-4112501</guid>
@@ -97,6 +96,14 @@
             <link>https://www.thedailystar.net/opinion/editorial/news/complete-haor-embankments-time-4110951</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/complete-haor-embankments-time-4110951</guid>
             <pubDate>Sat, 21 Feb 2026 02:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Modern-day slavery’ threatening our women migrants]]></title>
+            <description><![CDATA[By Md Abbas]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/modern-day-slavery-threatening-our-women-migrants-4111641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/modern-day-slavery-threatening-our-women-migrants-4111641</guid>
+            <dc:creator><![CDATA[Md Abbas]]></dc:creator>
+            <pubDate>Sun, 22 Feb 2026 01:46:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What the scheduling fiasco of Ekushey book fair tells us]]></title>
@@ -145,14 +152,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/not-forgetting-the-victims-club-epstein-and-crimes-against-humanity-4110976</guid>
             <dc:creator><![CDATA[Binoy Kampmark]]></dc:creator>
             <pubDate>Sat, 21 Feb 2026 02:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Refusing constitution assembly oath defies people’s verdict]]></title>
-            <description><![CDATA[By Sharif Bhuiyan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/refusing-constitution-assembly-oath-defies-peoples-verdict-4110346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/refusing-constitution-assembly-oath-defies-peoples-verdict-4110346</guid>
-            <dc:creator><![CDATA[Sharif Bhuiyan]]></dc:creator>
-            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
