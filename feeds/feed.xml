@@ -4,49 +4,10 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Feb 2026 14:58:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 16:09:02 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Feb 2026 14:58:35 GMT</pubDate>
+        <pubDate>Tue, 24 Feb 2026 16:09:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[23 ‘injured in polls violence’ leave hospital minutes after Chattogram-13 MP’s visit]]></title>
-            <link>https://www.thedailystar.net/news-0/news/23-injured-polls-violence-leave-hospital-minutes-after-chattogram-13-mps-visit-4113916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/23-injured-polls-violence-leave-hospital-minutes-after-chattogram-13-mps-visit-4113916</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NBR takes steps to facilitate tax return filing by Bangladeshis abroad]]></title>
-            <description><![CDATA[The NBR has introduced a special registration system for Bangladeshi taxpayers abroad]]></description>
-            <link>https://www.thedailystar.net/business/news/nbr-takes-steps-facilitate-tax-return-filing-bangladeshis-abroad-4113926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/nbr-takes-steps-facilitate-tax-return-filing-bangladeshis-abroad-4113926</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ali Hossain Fakir appointed new Inspector General of Police]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/ali-hossain-fakir-appointed-new-inspector-general-police-4113781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/ali-hossain-fakir-appointed-new-inspector-general-police-4113781</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Khalilur set to leave for Saudi Arabia Wednesday to attend OIC meeting]]></title>
-            <description><![CDATA[PM’s Adviser Humayun Kabir to accompany him]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/khalilur-set-leave-saudi-arabia-wednesday-attend-oic-meeting-4113876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/khalilur-set-leave-saudi-arabia-wednesday-attend-oic-meeting-4113876</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Any agreement on NCT must safeguard national interests: PM instructs officials]]></title>
-            <description><![CDATA[Gave the directive at a Cabinet Division meeting on the terminal’s operations]]></description>
-            <link>https://www.thedailystar.net/news-0/news/any-agreement-nct-must-safeguard-national-interests-pm-instructs-officials-4113911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/any-agreement-nct-must-safeguard-national-interests-pm-instructs-officials-4113911</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Year four of a seemingly forever war / A timeline of Russia’s invasion of Ukraine]]></title>
-            <link>https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/timeline-russias-invasion-ukraine-4113896</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/timeline-russias-invasion-ukraine-4113896</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
         <item>
             <title><![CDATA['President has withheld many facts about August 5']]></title>
             <link>https://www.thedailystar.net/news/bangladesh/politics/news/president-has-withheld-many-facts-about-august-5-4113891</link>
@@ -55,6 +16,7 @@
         </item>
         <item>
             <title><![CDATA[BGMEA seeks release of cash incentives to ensure workers’ salaries before Eid]]></title>
+            <description><![CDATA[Garment exporters tell Bangladesh Bank governor that delays in settling Tk 5,700 crore are straining factories]]></description>
             <link>https://www.thedailystar.net/business/news/bgmea-seeks-release-cash-incentives-ensure-workers-salaries-eid-4113866</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/bgmea-seeks-release-cash-incentives-ensure-workers-salaries-eid-4113866</guid>
             <pubDate>Invalid Date</pubDate>
@@ -67,29 +29,52 @@
         </item>
         <item>
             <title><![CDATA[LPG price cut: 12 kg cylinder now Tk 1,341]]></title>
+            <description><![CDATA[BERC revises February retail rates after VAT adjustment]]></description>
             <link>https://www.thedailystar.net/environment/natural-resources/energy/news/lpg-price-cut-12-kg-cylinder-now-tk-1341-4113886</link>
             <guid isPermaLink="true">https://www.thedailystar.net/environment/natural-resources/energy/news/lpg-price-cut-12-kg-cylinder-now-tk-1341-4113886</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chattogram-1 MP Nurul Amin hospitalised after car crashes into highway divider]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/chattogram-1-mp-nurul-amin-hospitalised-after-car-crashes-highway-divider-4113921</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/chattogram-1-mp-nurul-amin-hospitalised-after-car-crashes-highway-divider-4113921</guid>
+            <title><![CDATA[4 officers withdrawn after DU students protest police assault in Suhrawardy Udyan]]></title>
+            <description><![CDATA[Masud Alam confirms departmental action; names or ranks not disclosed]]></description>
+            <link>https://www.thedailystar.net/news-0/news/4-officers-withdrawn-after-du-students-protest-police-assault-suhrawardy-udyan-4113971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/4-officers-withdrawn-after-du-students-protest-police-assault-suhrawardy-udyan-4113971</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reading ‘Parallels’ through history, politics and literature]]></title>
-            <description><![CDATA[By Taufiqur Rahman Khan]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/reading-parallels-through-history-politics-and-literature-4113591</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/reading-parallels-through-history-politics-and-literature-4113591</guid>
-            <dc:creator><![CDATA[Taufiqur Rahman Khan]]></dc:creator>
+            <title><![CDATA[‘She does not talk, but at least she’s alive’]]></title>
+            <link>https://www.thedailystar.net/nrb/migration/news/she-does-not-talk-least-shes-alive-4113946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/nrb/migration/news/she-does-not-talk-least-shes-alive-4113946</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mob attacks on Star, Prothom Alo scripted: Star-Dismislab analysis]]></title>
-            <description><![CDATA[Interim govt, Meta failed to act on long-running online incitement]]></description>
-            <link>https://www.thedailystar.net/news/investigative-stories/news/mob-attacks-star-prothom-alo-scripted-4113416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/investigative-stories/news/mob-attacks-star-prothom-alo-scripted-4113416</guid>
+            <title><![CDATA[Any agreement on NCT must safeguard national interests: PM instructs officials]]></title>
+            <link>https://www.thedailystar.net/news-0/news/any-agreement-nct-must-safeguard-national-interests-pm-instructs-officials-4113911</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/any-agreement-nct-must-safeguard-national-interests-pm-instructs-officials-4113911</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gonotantrik Chhatra Jote demands removal of DC Masud]]></title>
+            <link>https://www.thedailystar.net/campus/news/gonotantrik-chhatra-jote-demands-removal-dc-masud-4113966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/gonotantrik-chhatra-jote-demands-removal-dc-masud-4113966</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amid mosquito surge, health ministry to test insecticide effectiveness]]></title>
+            <link>https://www.thedailystar.net/health/disease/news/amid-mosquito-surge-health-ministry-test-insecticide-effectiveness-4113951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/amid-mosquito-surge-health-ministry-test-insecticide-effectiveness-4113951</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Year four of a seemingly forever war / A timeline of Russia’s invasion of Ukraine]]></title>
+            <link>https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/timeline-russias-invasion-ukraine-4113896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/timeline-russias-invasion-ukraine-4113896</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another suspect arrested in Bhola rape case]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/another-suspect-arrested-bhola-rape-case-4113956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/another-suspect-arrested-bhola-rape-case-4113956</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -101,41 +86,54 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Explore ways to better tackle increasing debt obligations]]></title>
-            <description><![CDATA[When a government is strapped for cash, it typically turns inward, borrowing heavily from domestic banks. The collateral damage of this strategy is the private sector, which gets “crowded out” as less money is left for businesses to borrow and expand.]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/explore-ways-better-tackle-increasing-debt-obligations-4113266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/explore-ways-better-tackle-increasing-debt-obligations-4113266</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[News analysis / A costly trade gamble]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/costly-trade-gamble-4111721</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/costly-trade-gamble-4111721</guid>
-            <pubDate>Sun, 22 Feb 2026 03:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extortion rose by up to 50% during interim govt]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/extortion-rose-50-during-interim-govt-4113281</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/extortion-rose-50-during-interim-govt-4113281</guid>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NBR misses target by Tk 60,110 crore despite 13% growth]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/nbr-misses-target-tk-60110-crore-despite-13-growth-4113271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/nbr-misses-target-tk-60110-crore-despite-13-growth-4113271</guid>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangla Academy announces 2025 Literary Award winners]]></title>
-            <link>https://www.thedailystar.net/top-news/news/bangla-academy-announces-2025-literary-award-winners-4112916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/top-news/news/bangla-academy-announces-2025-literary-award-winners-4112916</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Meta’s unforgivable inaction]]></title>
+            <description><![CDATA[A shameful failure to protect independent journalism]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/metas-unforgivable-inaction-4113821</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/metas-unforgivable-inaction-4113821</guid>
             <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next Step / The ‘Asian tiger’ dream is stalling. It is time Bangladeshi founders look to the Gulf]]></title>
+            <link>https://www.thedailystar.net/tech-startup/news/the-asian-tiger-dream-stalling-it-time-bangladeshi-founders-look-the-gulf-4113661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/the-asian-tiger-dream-stalling-it-time-bangladeshi-founders-look-the-gulf-4113661</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mob attacks on Star, Prothom Alo scripted: Star-Dismislab analysis]]></title>
+            <description><![CDATA[Interim govt, Meta failed to act on long-running online incitement]]></description>
+            <link>https://www.thedailystar.net/news/investigative-stories/news/mob-attacks-star-prothom-alo-scripted-4113416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/investigative-stories/news/mob-attacks-star-prothom-alo-scripted-4113416</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Art within reach unfolds in ‘One Square Stories’]]></title>
+            <link>https://www.thedailystar.net/entertainment/theatre-arts/news/art-within-reach-unfolds-one-square-stories-4112986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/theatre-arts/news/art-within-reach-unfolds-one-square-stories-4112986</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI caricature trend: is it safe?]]></title>
+            <link>https://www.thedailystar.net/tech-startup/news/ai-caricature-trend-it-safe-4112941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/ai-caricature-trend-it-safe-4112941</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Star Youth / Looking into the ethos of self-help books]]></title>
+            <link>https://www.thedailystar.net/star-youth/news/looking-the-ethos-self-help-books-4113791</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-youth/news/looking-the-ethos-self-help-books-4113791</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Star Youth / Am I turning into my mother?]]></title>
+            <link>https://www.thedailystar.net/star-youth/news/am-i-turning-my-mother-4113786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-youth/news/am-i-turning-my-mother-4113786</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking the Bangladesh-US trade deal following the legal blow]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/rethinking-the-bangladesh-us-trade-deal-following-the-legal-blow-4113326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-the-bangladesh-us-trade-deal-following-the-legal-blow-4113326</guid>
+            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New US tariffs come in at lower 10% rate]]></title>
