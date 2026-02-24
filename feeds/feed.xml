@@ -4,61 +4,10 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Feb 2026 08:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 10:03:59 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Feb 2026 08:59:03 GMT</pubDate>
+        <pubDate>Tue, 24 Feb 2026 10:03:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Govt clears withdrawal of 1,202 more 'politically motivated' cases]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/govt-clears-withdrawal-1202-more-politically-motivated-cases-4113676</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/govt-clears-withdrawal-1202-more-politically-motivated-cases-4113676</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BB seeks explanation from officials for holding press conference without permission]]></title>
-            <description><![CDATA[The BB issued the show-cause notices yesterday and asked the respondents to provide explanations within 10 days]]></description>
-            <link>https://www.thedailystar.net/business/news/bb-seeks-explanation-officials-holding-press-conference-without-permission-4113651</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bb-seeks-explanation-officials-holding-press-conference-without-permission-4113651</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reaction / Policing at parks, suspecting the young]]></title>
-            <link>https://www.thedailystar.net/news/news/policing-parks-suspecting-the-young-4113706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/policing-parks-suspecting-the-young-4113706</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Third victim dies after Halishahar apartment blast in Chattogram]]></title>
-            <description><![CDATA[Six seriously burnt family members undergoing treatments]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/second-victim-ctgs-halishahar-blast-dies-dmch-4113566</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/second-victim-ctgs-halishahar-blast-dies-dmch-4113566</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cabinet directs government officials to strictly follow office hours]]></title>
-            <description><![CDATA[All ministries, field offices told to enforce attendance rules under 2019 regulations]]></description>
-            <link>https://www.thedailystar.net/news/governance/news/cabinet-directs-government-officials-strictly-follow-office-hours-4113736</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/cabinet-directs-government-officials-strictly-follow-office-hours-4113736</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mob attacks on Star, Prothom Alo scripted: Star-Dismislab analysis]]></title>
-            <link>https://www.thedailystar.net/news/investigative-stories/news/mob-attacks-star-prothom-alo-scripted-4113416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/investigative-stories/news/mob-attacks-star-prothom-alo-scripted-4113416</guid>
-            <pubDate>Tue, 24 Feb 2026 01:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four of a family injured in Cumilla gas cylinder explosion]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/four-family-injured-cumilla-gas-cylinder-explosion-4113596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/four-family-injured-cumilla-gas-cylinder-explosion-4113596</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM seeks action plans from new city administrators]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/pm-seeks-action-plans-new-city-administrators-4113711</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/pm-seeks-action-plans-new-city-administrators-4113711</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
         <item>
             <title><![CDATA[Jamaat MP meets BB governor over investment scope in Nagad]]></title>
             <link>https://www.thedailystar.net/business/news/jamaat-mp-meets-bb-governor-over-investment-scope-nagad-4113691</link>
@@ -67,6 +16,7 @@
         </item>
         <item>
             <title><![CDATA[One more arrested, sent to jail in Dipu murder case]]></title>
+            <description><![CDATA[23 arrested so far; three witnesses testified and 12 suspects submitted confessions, police say]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/one-more-arrested-sent-jail-dipu-murder-case-4113701</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/one-more-arrested-sent-jail-dipu-murder-case-4113701</guid>
             <pubDate>Invalid Date</pubDate>
@@ -78,8 +28,64 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Govt clears withdrawal of 1,202 more 'politically motivated' cases]]></title>
+            <description><![CDATA[Cases filed during 17-year regime of 'fascist' govt, says home ministry]]></description>
+            <link>https://www.thedailystar.net/news/governance/news/govt-clears-withdrawal-1202-more-politically-motivated-cases-4113676</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/govt-clears-withdrawal-1202-more-politically-motivated-cases-4113676</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ali Hossain Fakir appointed new IGP]]></title>
+            <description><![CDATA[APBn chief from 15th BCS Police batch to lead force]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/ali-hossain-fakir-appointed-new-igp-4113781</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/ali-hossain-fakir-appointed-new-igp-4113781</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tarique Rahman to launch pilot 'Family Card' scheme on March 10]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/tarique-rahman-launch-pilot-family-card-scheme-march-10-4113766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/tarique-rahman-launch-pilot-family-card-scheme-march-10-4113766</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Election Commission receives voter list for 50 reserved women’s seats]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/election-commission-receives-voter-list-50-reserved-womens-seats-4113771</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/election-commission-receives-voter-list-50-reserved-womens-seats-4113771</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cabinet directs government officials to strictly follow office hours]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/cabinet-directs-government-officials-strictly-follow-office-hours-4113736</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/cabinet-directs-government-officials-strictly-follow-office-hours-4113736</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New ICT chief prosecutor vows strict action against corruption]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/new-ict-chief-prosecutor-vows-strict-action-against-corruption-4113776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/new-ict-chief-prosecutor-vows-strict-action-against-corruption-4113776</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four of a family injured in Cumilla gas leakage explosion]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/four-family-injured-cumilla-gas-cylinder-explosion-4113596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/four-family-injured-cumilla-gas-cylinder-explosion-4113596</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM seeks action plans from new city administrators]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/pm-seeks-action-plans-new-city-administrators-4113711</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/pm-seeks-action-plans-new-city-administrators-4113711</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mob attacks on Star, Prothom Alo scripted: Star-Dismislab analysis]]></title>
+            <link>https://www.thedailystar.net/news/investigative-stories/news/mob-attacks-star-prothom-alo-scripted-4113416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/investigative-stories/news/mob-attacks-star-prothom-alo-scripted-4113416</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Reading ‘Parallels’ through history, politics and literature]]></title>
-            <description><![CDATA[By Taufiqur Rahman Khan]]></description>
+            <description><![CDATA[If we look at Bangladesh in parallel to Europe during the 1968 uprisings, we find Dhaka itself boiling with mass unrest in 1969.]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/reading-parallels-through-history-politics-and-literature-4113591</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/reading-parallels-through-history-politics-and-literature-4113591</guid>
             <dc:creator><![CDATA[Taufiqur Rahman Khan]]></dc:creator>
@@ -87,25 +93,16 @@
         </item>
         <item>
             <title><![CDATA[Explore ways to better tackle increasing debt obligations]]></title>
-            <description><![CDATA[When a government is strapped for cash, it typically turns inward, borrowing heavily from domestic banks. The collateral damage of this strategy is the private sector, which gets “crowded out” as less money is left for businesses to borrow and expand.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/explore-ways-better-tackle-increasing-debt-obligations-4113266</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/explore-ways-better-tackle-increasing-debt-obligations-4113266</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[When extortion is sanitised, rights become negotiable]]></title>
-            <description><![CDATA[By Abdullah A Dewan]]></description>
+            <description><![CDATA[When a private citizen pays, it is often an act of compulsion within a broken system. When a public official justifies the payment, it becomes an institutional endorsement.]]></description>
             <link>https://www.thedailystar.net/opinion/news/when-extortion-sanitised-rights-become-negotiable-4113361</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/when-extortion-sanitised-rights-become-negotiable-4113361</guid>
             <dc:creator><![CDATA[Abdullah A Dewan]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s renewables drive must include women]]></title>
-            <description><![CDATA[Women constitute only about 32 percent of the total global workforce in the renewable energy sector, with even lower representation in technical and decision-making positions.]]></description>
-            <link>https://www.thedailystar.net/opinion/news/bangladeshs-renewables-drive-must-include-women-4113311</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladeshs-renewables-drive-must-include-women-4113311</guid>
-            <dc:creator><![CDATA[Wasiur Rahman Tonmoy]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -145,9 +142,9 @@
             <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Australia's Test team to play in South Africa for first time since 'Sandpaper-gate']]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/australias-test-team-play-south-africa-first-time-sandpaper-gate-4113681</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/australias-test-team-play-south-africa-first-time-sandpaper-gate-4113681</guid>
+            <title><![CDATA[US women's ice hockey team declines to attend Trump address: media]]></title>
+            <link>https://www.thedailystar.net/sports/more-sports/news/us-womens-ice-hockey-team-declines-attend-trump-address-media-4113721</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/news/us-womens-ice-hockey-team-declines-attend-trump-address-media-4113721</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
