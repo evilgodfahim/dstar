@@ -4,57 +4,19 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Feb 2026 16:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 18:03:40 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Feb 2026 16:09:02 GMT</pubDate>
+        <pubDate>Tue, 24 Feb 2026 18:03:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA['President has withheld many facts about August 5']]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/politics/news/president-has-withheld-many-facts-about-august-5-4113891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/president-has-withheld-many-facts-about-august-5-4113891</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BGMEA seeks release of cash incentives to ensure workers’ salaries before Eid]]></title>
-            <description><![CDATA[Garment exporters tell Bangladesh Bank governor that delays in settling Tk 5,700 crore are straining factories]]></description>
-            <link>https://www.thedailystar.net/business/news/bgmea-seeks-release-cash-incentives-ensure-workers-salaries-eid-4113866</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bgmea-seeks-release-cash-incentives-ensure-workers-salaries-eid-4113866</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cultural afterglow of Breakfast at Tiffany's]]></title>
-            <link>https://www.thedailystar.net/culture/news/the-art-being-alone-public-4113941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/news/the-art-being-alone-public-4113941</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LPG price cut: 12 kg cylinder now Tk 1,341]]></title>
-            <description><![CDATA[BERC revises February retail rates after VAT adjustment]]></description>
-            <link>https://www.thedailystar.net/environment/natural-resources/energy/news/lpg-price-cut-12-kg-cylinder-now-tk-1341-4113886</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/environment/natural-resources/energy/news/lpg-price-cut-12-kg-cylinder-now-tk-1341-4113886</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 officers withdrawn after DU students protest police assault in Suhrawardy Udyan]]></title>
-            <description><![CDATA[Masud Alam confirms departmental action; names or ranks not disclosed]]></description>
-            <link>https://www.thedailystar.net/news-0/news/4-officers-withdrawn-after-du-students-protest-police-assault-suhrawardy-udyan-4113971</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/4-officers-withdrawn-after-du-students-protest-police-assault-suhrawardy-udyan-4113971</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘She does not talk, but at least she’s alive’]]></title>
-            <link>https://www.thedailystar.net/nrb/migration/news/she-does-not-talk-least-shes-alive-4113946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/nrb/migration/news/she-does-not-talk-least-shes-alive-4113946</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Any agreement on NCT must safeguard national interests: PM instructs officials]]></title>
-            <link>https://www.thedailystar.net/news-0/news/any-agreement-nct-must-safeguard-national-interests-pm-instructs-officials-4113911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/any-agreement-nct-must-safeguard-national-interests-pm-instructs-officials-4113911</guid>
+            <title><![CDATA[Brook 100 puts England into semifinals]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/brook-100-puts-england-semifinals-4114091</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/brook-100-puts-england-semifinals-4114091</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Gonotantrik Chhatra Jote demands removal of DC Masud]]></title>
+            <description><![CDATA[Stages protest march; accuses police of repression and class bias]]></description>
             <link>https://www.thedailystar.net/campus/news/gonotantrik-chhatra-jote-demands-removal-dc-masud-4113966</link>
             <guid isPermaLink="true">https://www.thedailystar.net/campus/news/gonotantrik-chhatra-jote-demands-removal-dc-masud-4113966</guid>
             <pubDate>Invalid Date</pubDate>
@@ -66,15 +28,53 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Year four of a seemingly forever war / A timeline of Russia’s invasion of Ukraine]]></title>
-            <link>https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/timeline-russias-invasion-ukraine-4113896</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/timeline-russias-invasion-ukraine-4113896</guid>
+            <title><![CDATA[Bank CEOs invited to sports development meeting]]></title>
+            <description><![CDATA[State minister for sports will chair the meeting on February 25]]></description>
+            <link>https://www.thedailystar.net/business/news/bank-ceos-invited-sports-development-meeting-4114016</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bank-ceos-invited-sports-development-meeting-4114016</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Another suspect arrested in Bhola rape case]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/another-suspect-arrested-bhola-rape-case-4113956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/another-suspect-arrested-bhola-rape-case-4113956</guid>
+            <title><![CDATA[In a fascism-free Bangladesh, causes behind Pilkhana killings are now understood: PM]]></title>
+            <description><![CDATA[National Martyred Army Day to be observed on Wednesday]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/fascism-free-bangladesh-causes-behind-pilkhana-killings-are-now-understood-pm-4114171</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/fascism-free-bangladesh-causes-behind-pilkhana-killings-are-now-understood-pm-4114171</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4 officers withdrawn after DU students protest police assault in Suhrawardy Udyan]]></title>
+            <link>https://www.thedailystar.net/news-0/news/4-officers-withdrawn-after-du-students-protest-police-assault-suhrawardy-udyan-4113971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/4-officers-withdrawn-after-du-students-protest-police-assault-suhrawardy-udyan-4113971</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fruit imports face curbs despite dollar relief]]></title>
+            <link>https://www.thedailystar.net/business/economy/commodities/news/fruit-imports-face-curbs-despite-dollar-relief-4114041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/commodities/news/fruit-imports-face-curbs-despite-dollar-relief-4114041</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘She does not talk, but at least she’s alive’]]></title>
+            <link>https://www.thedailystar.net/nrb/migration/news/she-does-not-talk-least-shes-alive-4113946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/nrb/migration/news/she-does-not-talk-least-shes-alive-4113946</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Father stops PM’s convoy at Secretariat, abducted son rescued hours later]]></title>
+            <link>https://www.thedailystar.net/news-0/news/father-stops-pms-convoy-secretariat-abducted-son-rescued-hours-later-4113931</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/father-stops-pms-convoy-secretariat-abducted-son-rescued-hours-later-4113931</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Any agreement on NCT must safeguard national interests: PM instructs officials]]></title>
+            <link>https://www.thedailystar.net/news-0/news/any-agreement-nct-must-safeguard-national-interests-pm-instructs-officials-4113911</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/any-agreement-nct-must-safeguard-national-interests-pm-instructs-officials-4113911</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police attacks echo old culture of repression: Jamaat ameer]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/police-attacks-echo-old-culture-repression-jamaat-ameer-4113986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/police-attacks-echo-old-culture-repression-jamaat-ameer-4113986</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -136,9 +136,9 @@
             <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New US tariffs come in at lower 10% rate]]></title>
-            <link>https://www.thedailystar.net/business/news/new-us-tariffs-come-lower-10-rate-4113851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/new-us-tariffs-come-lower-10-rate-4113851</guid>
+            <title><![CDATA[Fruit imports face curbs despite dollar relief]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/fruit-imports-face-curbs-despite-dollar-relief-4114191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/fruit-imports-face-curbs-despite-dollar-relief-4114191</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
