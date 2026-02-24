@@ -4,10 +4,23 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Feb 2026 18:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 19:50:51 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Feb 2026 18:03:40 GMT</pubDate>
+        <pubDate>Tue, 24 Feb 2026 19:50:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Any agreement on NCT must safeguard national interests: PM instructs officials]]></title>
+            <link>https://www.thedailystar.net/news-0/news/any-agreement-nct-must-safeguard-national-interests-pm-instructs-officials-4113911</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/any-agreement-nct-must-safeguard-national-interests-pm-instructs-officials-4113911</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police attacks echo old culture of repression: Jamaat ameer]]></title>
+            <description><![CDATA['Attacks by overenthusiastic police on journalists and working people are not isolated incidents,' Shafiqur Rahman says]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/police-attacks-echo-old-culture-repression-jamaat-ameer-4113986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/police-attacks-echo-old-culture-repression-jamaat-ameer-4113986</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brook 100 puts England into semifinals]]></title>
             <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/brook-100-puts-england-semifinals-4114091</link>
@@ -19,19 +32,6 @@
             <description><![CDATA[Stages protest march; accuses police of repression and class bias]]></description>
             <link>https://www.thedailystar.net/campus/news/gonotantrik-chhatra-jote-demands-removal-dc-masud-4113966</link>
             <guid isPermaLink="true">https://www.thedailystar.net/campus/news/gonotantrik-chhatra-jote-demands-removal-dc-masud-4113966</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amid mosquito surge, health ministry to test insecticide effectiveness]]></title>
-            <link>https://www.thedailystar.net/health/disease/news/amid-mosquito-surge-health-ministry-test-insecticide-effectiveness-4113951</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/amid-mosquito-surge-health-ministry-test-insecticide-effectiveness-4113951</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank CEOs invited to sports development meeting]]></title>
-            <description><![CDATA[State minister for sports will chair the meeting on February 25]]></description>
-            <link>https://www.thedailystar.net/business/news/bank-ceos-invited-sports-development-meeting-4114016</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bank-ceos-invited-sports-development-meeting-4114016</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -54,6 +54,18 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Death toll from Ctg’s Halishahar gas blast rises to 4]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/death-toll-ctgs-halishahar-gas-blast-rises-4-4114261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/death-toll-ctgs-halishahar-gas-blast-rises-4-4114261</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NCP to contest local govt polls independently]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/politics/news/ncp-contest-local-govt-polls-independently-4114226</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/ncp-contest-local-govt-polls-independently-4114226</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[‘She does not talk, but at least she’s alive’]]></title>
             <link>https://www.thedailystar.net/nrb/migration/news/she-does-not-talk-least-shes-alive-4113946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/nrb/migration/news/she-does-not-talk-least-shes-alive-4113946</guid>
@@ -63,18 +75,6 @@
             <title><![CDATA[Father stops PM’s convoy at Secretariat, abducted son rescued hours later]]></title>
             <link>https://www.thedailystar.net/news-0/news/father-stops-pms-convoy-secretariat-abducted-son-rescued-hours-later-4113931</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/father-stops-pms-convoy-secretariat-abducted-son-rescued-hours-later-4113931</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Any agreement on NCT must safeguard national interests: PM instructs officials]]></title>
-            <link>https://www.thedailystar.net/news-0/news/any-agreement-nct-must-safeguard-national-interests-pm-instructs-officials-4113911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/any-agreement-nct-must-safeguard-national-interests-pm-instructs-officials-4113911</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police attacks echo old culture of repression: Jamaat ameer]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/police-attacks-echo-old-culture-repression-jamaat-ameer-4113986</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/police-attacks-echo-old-culture-repression-jamaat-ameer-4113986</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
