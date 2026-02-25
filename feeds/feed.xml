@@ -4,14 +4,27 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 21:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 22:41:13 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 21:41:21 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 22:41:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Vinicius hits winner as Real Madrid eliminate Benfica after racism row]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/vinicius-hits-winner-real-madrid-eliminate-benfica-after-racism-row-4115321</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/vinicius-hits-winner-real-madrid-eliminate-benfica-after-racism-row-4115321</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Committed to ensuring that no incident like Feb 25, 2009 is ever repeated: Army chief]]></title>
+            <description><![CDATA[Gen Waker-Uz-Zaman addresses Martyred Army Day event; pledges continued support for families of martyrs]]></description>
             <link>https://www.thedailystar.net/news-0/news/committed-ensuring-no-incident-feb-25-2009-ever-repeated-army-chief-4115116</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/committed-ensuring-no-incident-feb-25-2009-ever-repeated-army-chief-4115116</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Holders PSG survive Monaco scare to reach Champions League last 16]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/psg-see-late-monaco-surge-advance-champions-league-4115316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/psg-see-late-monaco-surge-advance-champions-league-4115316</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -19,19 +32,6 @@
             <description><![CDATA[Police yet to determine motive behind murder or confirm victim’s political affiliation]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-shot-dead-after-iftar-chattograms-raozan-4114931</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-shot-dead-after-iftar-chattograms-raozan-4114931</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pilkhana carnage was an evil plot against Bangladesh’s sovereignty: PM]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/pilkhana-carnage-was-evil-plot-against-bangladeshs-sovereignty-pm-4114851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pilkhana-carnage-was-evil-plot-against-bangladeshs-sovereignty-pm-4114851</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shakib must clear legal hurdles to return: Aminul]]></title>
-            <description><![CDATA[State Minister for Youth and Sports Aminul Haque said today that Shakib Al Hasan and Mashrafe Bin Mortaza would be welcomed back to cricket if they can resolve the legal proceedings against them.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/shakib-must-clear-legal-hurdles-return-aminul-4114911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/shakib-must-clear-legal-hurdles-return-aminul-4114911</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -292,6 +292,12 @@
             <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.02.23)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260223-4112636</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260223-4112636</guid>
+            <pubDate>Mon, 23 Feb 2026 02:52:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Today's Gallery (2026.02.22)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260222-4111796</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260222-4111796</guid>
@@ -304,10 +310,10 @@
             <pubDate>Sat, 21 Feb 2026 06:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Today's Gallery (2026.02.20)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260220-4110416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260220-4110416</guid>
-            <pubDate>Fri, 20 Feb 2026 01:15:00 GMT</pubDate>
+            <title><![CDATA[Today's Gallery (2026.02.26)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260226-4115306</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260226-4115306</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.02.26)]]></title>
@@ -322,10 +328,10 @@
             <pubDate>Tue, 24 Feb 2026 01:05:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Today's Gallery (2026.02.23)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260223-4112636</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260223-4112636</guid>
-            <pubDate>Mon, 23 Feb 2026 02:52:00 GMT</pubDate>
+            <title><![CDATA[Today's Gallery (2026.02.20)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260220-4110416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260220-4110416</guid>
+            <pubDate>Fri, 20 Feb 2026 01:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.02.19)]]></title>
@@ -338,12 +344,6 @@
             <link>https://www.thedailystar.net/todays-gallery-20260218-4108896</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260218-4108896</guid>
             <pubDate>Wed, 18 Feb 2026 05:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.02.17)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260217-4108651</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260217-4108651</guid>
-            <pubDate>Invalid Date</pubDate>
         </item>
     </channel>
 </rss>
