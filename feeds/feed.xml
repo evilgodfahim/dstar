@@ -4,51 +4,19 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 07:57:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 09:01:32 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 07:57:18 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 09:01:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Five moments from Trump's record-breaking State of the Union address]]></title>
-            <link>https://www.thedailystar.net/news/world/usa/news/five-moments-trumps-record-breaking-state-the-union-address-4114581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/usa/news/five-moments-trumps-record-breaking-state-the-union-address-4114581</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2009 BDR carnage: 2024 enquiry commission finds evidence against top military officials, politicians]]></title>
-            <description><![CDATA[For 17 years, the killing of 74 people, including 57 of the nation’s top military officers, during a mutiny at the then BDR headquarters in Pilkhana has remained an open wound, clouded by state-led investigations dismissed by critics as a facade of justice.]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/evidence-found-against-top-military-officials-politicians-2024-enquiry-commission-4114291</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/evidence-found-against-top-military-officials-politicians-2024-enquiry-commission-4114291</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pilkhana carnage: President, PM pay homage to martyred army officers]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/pilkhana-carnage-president-pm-pay-homage-martyred-army-officers-4114511</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pilkhana-carnage-president-pm-pay-homage-martyred-army-officers-4114511</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Jubo League leader Samrat gets 20-year jail term in graft and money laundering case]]></title>
-            <description><![CDATA[Court also fines Tk 20 lakh and orders confiscation of  illegally acquired assets]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/ex-jubo-league-leader-samrat-gets-20-year-jail-term-graft-and-money-laundering-case-4114646</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/ex-jubo-league-leader-samrat-gets-20-year-jail-term-graft-and-money-laundering-case-4114646</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BB governor faces employee protest, resignation call]]></title>
-            <description><![CDATA[The protesting officials held the rally at 11:00am in front of the central bank headquarters]]></description>
-            <link>https://www.thedailystar.net/business/news/bb-governor-faces-employee-protest-resignation-call-4114641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bb-governor-faces-employee-protest-resignation-call-4114641</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
         <item>
             <title><![CDATA[Talks of contractual secretaries stir discontent in civil service]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/talks-contractual-secretaries-stir-discontent-civil-service-4114271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/talks-contractual-secretaries-stir-discontent-civil-service-4114271</guid>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Wed, 25 Feb 2026 02:15:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Update / Salahuddin backtracks on decision to form new commission for Pilkhana carnage probe]]></title>
+            <description><![CDATA[Salahuddin says existing independent report will be implemented in phases]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/govt-implement-commissions-proposals-pilkhana-carnage-phases-home-minister-4114526</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-implement-commissions-proposals-pilkhana-carnage-phases-home-minister-4114526</guid>
             <pubDate>Invalid Date</pubDate>
@@ -61,50 +29,84 @@
         </item>
         <item>
             <title><![CDATA[Govt prioritises mosquito eradication amid rising dengue cases]]></title>
+            <description><![CDATA[Hospitals on alert as minister urges public cooperation to curb spread]]></description>
             <link>https://www.thedailystar.net/news/governance/news/govt-prioritises-mosquito-eradication-amid-rising-dengue-cases-4114586</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/govt-prioritises-mosquito-eradication-amid-rising-dengue-cases-4114586</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ali Hossain Fakir takes charge as IGP]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/ali-hossain-fakir-takes-charge-igp-4114541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/ali-hossain-fakir-takes-charge-igp-4114541</guid>
+            <title><![CDATA[DMP Commissioner Sazzat Ali resigns]]></title>
+            <description><![CDATA[Resignation comes a day after appointment of new IGP]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/dmp-commissioner-sazzat-ali-resigns-4114666</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/dmp-commissioner-sazzat-ali-resigns-4114666</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Agartala-Dhaka-Kolkata bus service resumes after 18 months]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/agartala-dhaka-kolkata-bus-service-resumes-after-18-month-4114546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/agartala-dhaka-kolkata-bus-service-resumes-after-18-month-4114546</guid>
+            <title><![CDATA[Jamaat accuses president of breaching oath over interview remarks]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/jamaat-accuses-president-breaching-oath-over-interview-remarks-4114686</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/jamaat-accuses-president-breaching-oath-over-interview-remarks-4114686</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt to rehabilitate all July uprising victims regardless of affiliation: Ishraque]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/govt-rehabilitate-all-july-uprising-victims-regardless-affiliation-ishraque-4114721</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/govt-rehabilitate-all-july-uprising-victims-regardless-affiliation-ishraque-4114721</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[February polls generally peaceful, voters could vote freely: Shujan]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/february-polls-generally-peaceful-voters-could-vote-freely-shujan-4114701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/february-polls-generally-peaceful-voters-could-vote-freely-shujan-4114701</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three days into mother’s burial, two handcuffed brothers join father’s funeral on parole]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/three-days-mothers-burial-two-handcuffed-brothers-join-fathers-funeral-parole-4114706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/three-days-mothers-burial-two-handcuffed-brothers-join-fathers-funeral-parole-4114706</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EC to publish report on foreign observers of 13th parliamentary polls]]></title>
+            <link>https://www.thedailystar.net/news/national-election-2026/news/ec-publish-report-foreign-observers-13th-parliamentary-polls-4114711</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/national-election-2026/news/ec-publish-report-foreign-observers-13th-parliamentary-polls-4114711</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BB governor faces employee protest, resignation call]]></title>
+            <link>https://www.thedailystar.net/business/news/bb-governor-faces-employee-protest-resignation-call-4114641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bb-governor-faces-employee-protest-resignation-call-4114641</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In the shadow of distance: Bangladesh, memory, and the diasporic imagination]]></title>
+            <description><![CDATA[By Tanveer Ahmed]]></description>
+            <link>https://www.thedailystar.net/slow-reads/wisdom/news/the-shadow-distance-bangladesh-memory-and-the-diasporic-imagination-4114556</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/the-shadow-distance-bangladesh-memory-and-the-diasporic-imagination-4114556</guid>
+            <dc:creator><![CDATA[Tanveer Ahmed]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate actions need less talk, more work]]></title>
+            <description><![CDATA[A lesson emerging from COP participation is that for advocacy to deliver results, it must be married to strategy.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/climate-actions-need-less-talk-more-work-4114206</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-actions-need-less-talk-more-work-4114206</guid>
+            <dc:creator><![CDATA[Namira ShameemHossain Zillur Rahman]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make ICT policy a priority, not a side show]]></title>
+            <description><![CDATA[By Zarif Faiaz]]></description>
+            <link>https://www.thedailystar.net/opinion/news/make-ict-policy-priority-not-side-show-4114216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/make-ict-policy-priority-not-side-show-4114216</guid>
+            <dc:creator><![CDATA[Zarif Faiaz]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[What the transport minister’s words really revealed]]></title>
-            <description><![CDATA[By Nazbul H Khan]]></description>
+            <description><![CDATA[What if the minister did not seek to legalise or sanitise extortion, but unintentionally described an informal system of governance that already operates alongside the formal state?]]></description>
             <link>https://www.thedailystar.net/opinion/news/what-the-transport-ministers-words-really-revealed-4114506</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/what-the-transport-ministers-words-really-revealed-4114506</guid>
             <dc:creator><![CDATA[Nazbul H Khan]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Refrain from partisan acts]]></title>
-            <description><![CDATA[Soon after his appointment on February 18, the LGRD minister said local government elections would be held as soon as possible.]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/refrain-partisan-acts-4114201</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/refrain-partisan-acts-4114201</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / Students and the spectre of intimidation at Suhrawardy Udyan]]></title>
-            <description><![CDATA[By Azra Humayra]]></description>
-            <link>https://www.thedailystar.net/campus/opinion/news/students-and-the-spectre-intimidation-suhrawardy-udyan-4113901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/campus/opinion/news/students-and-the-spectre-intimidation-suhrawardy-udyan-4113901</guid>
-            <dc:creator><![CDATA[Azra Humayra]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Next Step / The ‘Asian tiger’ dream is stalling. It is time Bangladeshi founders look to the Gulf]]></title>
-            <description><![CDATA[There is a familiar refrain doing the rounds in Dhaka’s startup circles. “The ecosystem is dead.” “The ship is sinking.” The mood is understandable, but it misdiagnoses the problem. Bangladesh’s startup ecosystem is not dying. It is just working from the wrong map.]]></description>
-            <link>https://www.thedailystar.net/tech-startup/news/the-asian-tiger-dream-stalling-it-time-bangladeshi-founders-look-the-gulf-4113661</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/the-asian-tiger-dream-stalling-it-time-bangladeshi-founders-look-the-gulf-4113661</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -132,10 +134,10 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Climate actions need less talk, more work]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/climate-actions-need-less-talk-more-work-4114206</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-actions-need-less-talk-more-work-4114206</guid>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Think twice before forcing a third language on school students]]></title>
+            <link>https://www.thedailystar.net/opinion/news/think-twice-forcing-third-language-school-students-4114211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/think-twice-forcing-third-language-school-students-4114211</guid>
+            <pubDate>Wed, 25 Feb 2026 00:06:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TakaPay struggles to gain traction two years after launch]]></title>
@@ -144,15 +146,15 @@
             <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Medvedev calls for ranking system rethink to ease burden on players]]></title>
-            <link>https://www.thedailystar.net/sports/more-sports/tennis/news/medvedev-calls-ranking-system-rethink-ease-burden-players-4114611</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/tennis/news/medvedev-calls-ranking-system-rethink-ease-burden-players-4114611</guid>
+            <title><![CDATA[Sikandar Raza regains top all-rounder spot]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/sikandar-raza-regains-top-all-rounder-spot-4114661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/sikandar-raza-regains-top-all-rounder-spot-4114661</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pran Roy sells his car as Kakoli’s medical costs rise]]></title>
-            <link>https://www.thedailystar.net/entertainment/tv-film/news/pran-roy-sells-his-car-kakolis-medical-costs-rise-4114561</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/pran-roy-sells-his-car-kakolis-medical-costs-rise-4114561</guid>
+            <title><![CDATA[Arijit Singh assures fans of unreleased songs after retirement announcement]]></title>
+            <link>https://www.thedailystar.net/entertainment/music/news/arijit-singh-assures-fans-unreleased-songs-after-retirement-announcement-4114716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/music/news/arijit-singh-assures-fans-unreleased-songs-after-retirement-announcement-4114716</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
