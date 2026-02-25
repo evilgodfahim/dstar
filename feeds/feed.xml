@@ -4,43 +4,10 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Feb 2026 23:39:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 02:46:47 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Feb 2026 23:39:37 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 02:46:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Bodo/Glimt sink Inter to continue Champions League fairy tale]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/bodoglimt-sink-inter-continue-champions-league-fairy-tale-4114371</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/bodoglimt-sink-inter-continue-champions-league-fairy-tale-4114371</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sorloth treble helps Atletico past Brugge into Champions League last 16]]></title>
-            <description><![CDATA[Alexander Sorloth's hattrick fired Atletico Madrid into the Champions League last 16 with an emphatic 4-1 win over Club Brugge on Tuesday, progressing 7-4 on aggregate from the playoff round.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/sorloth-treble-helps-atletico-past-brugge-champions-league-last-16-4114366</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/sorloth-treble-helps-atletico-past-brugge-champions-league-last-16-4114366</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mbappe to miss Real Madrid CL clash against Benfica due to injury: Report]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/mbappe-miss-real-madrid-cl-clash-against-benfica-due-injury-4114386</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/mbappe-miss-real-madrid-cl-clash-against-benfica-due-injury-4114386</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newcastle complete cruise into Champions League last 16]]></title>
-            <description><![CDATA[Newcastle United completed their stroll into the Champions League last 16 with a 3-2 win over Qarabag on Tuesday to progress 9-3 on aggregate over the Azeri champions.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/newcastle-complete-cruise-champions-league-last-16-4114381</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/newcastle-complete-cruise-champions-league-last-16-4114381</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In a fascism-free Bangladesh, causes behind Pilkhana killings are now understood: PM]]></title>
-            <description><![CDATA[National Martyred Army Day to be observed on Wednesday]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/fascism-free-bangladesh-causes-behind-pilkhana-killings-are-now-understood-pm-4114171</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/fascism-free-bangladesh-causes-behind-pilkhana-killings-are-now-understood-pm-4114171</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
         <item>
             <title><![CDATA[4 officers withdrawn after DU students protest police assault in Suhrawardy Udyan]]></title>
             <link>https://www.thedailystar.net/news-0/news/4-officers-withdrawn-after-du-students-protest-police-assault-suhrawardy-udyan-4113971</link>
@@ -49,6 +16,7 @@
         </item>
         <item>
             <title><![CDATA[Fruit imports face curbs despite dollar relief]]></title>
+            <description><![CDATA[Although foreign currency pressures have eased, 100% cash margin requirements keep supply tight and prices high]]></description>
             <link>https://www.thedailystar.net/business/economy/commodities/news/fruit-imports-face-curbs-despite-dollar-relief-4114041</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/commodities/news/fruit-imports-face-curbs-despite-dollar-relief-4114041</guid>
             <pubDate>Invalid Date</pubDate>
@@ -61,20 +29,52 @@
         </item>
         <item>
             <title><![CDATA[NCP to contest local govt polls independently]]></title>
+            <description><![CDATA[Forms committee, prepares candidates for city and upazila polls]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/politics/news/ncp-contest-local-govt-polls-independently-4114226</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/ncp-contest-local-govt-polls-independently-4114226</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘She does not talk, but at least she’s alive’]]></title>
-            <link>https://www.thedailystar.net/nrb/migration/news/she-does-not-talk-least-shes-alive-4113946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/nrb/migration/news/she-does-not-talk-least-shes-alive-4113946</guid>
+            <title><![CDATA[Talks of contractual secretaries stir discontent in civil service]]></title>
+            <description><![CDATA[A sense of disgruntlement has taken over the civil administration over discussions to appoint retired officers to top positions in key ministries through contracts.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/talks-contractual-secretaries-stir-discontent-civil-service-4114271</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/talks-contractual-secretaries-stir-discontent-civil-service-4114271</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Father stops PM’s convoy at Secretariat, abducted son rescued hours later]]></title>
-            <link>https://www.thedailystar.net/news-0/news/father-stops-pms-convoy-secretariat-abducted-son-rescued-hours-later-4113931</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/father-stops-pms-convoy-secretariat-abducted-son-rescued-hours-later-4113931</guid>
+            <title><![CDATA[Govt aims to gradually issue 2cr family cards]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/govt-aims-gradually-issue-2cr-family-cards-4114296</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-aims-gradually-issue-2cr-family-cards-4114296</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[17 YEARS OF BDR CARNAGE / 139 appeals over death penalty still pending]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/139-appeals-over-death-penalty-still-pending-4114026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/139-appeals-over-death-penalty-still-pending-4114026</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Surge in mosquitos: Health ministry to test insecticide effectiveness]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/surge-mosquitos-health-ministry-test-insecticide-effectiveness-4114336</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/surge-mosquitos-health-ministry-test-insecticide-effectiveness-4114336</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump vows 'turnaround for the ages' in State of the Union]]></title>
+            <link>https://www.thedailystar.net/news/world/news/trump-vows-turnaround-the-ages-state-the-union-4114416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/trump-vows-turnaround-the-ages-state-the-union-4114416</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US to offer passport services in West Bank settlement for first time]]></title>
+            <link>https://www.thedailystar.net/news/world/news/us-offer-passport-services-west-bank-settlement-first-time-4114411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/us-offer-passport-services-west-bank-settlement-first-time-4114411</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In a fascism-free Bangladesh, causes behind Pilkhana killings are now understood: PM]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/fascism-free-bangladesh-causes-behind-pilkhana-killings-are-now-understood-pm-4114171</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/fascism-free-bangladesh-causes-behind-pilkhana-killings-are-now-understood-pm-4114171</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -130,10 +130,10 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rethinking the Bangladesh-US trade deal following the legal blow]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/rethinking-the-bangladesh-us-trade-deal-following-the-legal-blow-4113326</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-the-bangladesh-us-trade-deal-following-the-legal-blow-4113326</guid>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Climate actions need less talk, more work]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/climate-actions-need-less-talk-more-work-4114206</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/climate-actions-need-less-talk-more-work-4114206</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Fruit imports face curbs despite dollar relief]]></title>
@@ -142,9 +142,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Achraf Hakimi to face trial for rape, France Info reports]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/achraf-hakimi-face-trial-rape-france-info-reports-4113841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/achraf-hakimi-face-trial-rape-france-info-reports-4113841</guid>
+            <title><![CDATA[A chaotic Bernabeu return awaits Mourinho]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/chaotic-bernabeu-return-awaits-mourinho-4114401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/chaotic-bernabeu-return-awaits-mourinho-4114401</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
