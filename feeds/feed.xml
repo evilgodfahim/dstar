@@ -4,41 +4,59 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 09:01:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 10:57:00 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 09:01:32 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 10:57:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Talks of contractual secretaries stir discontent in civil service]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/talks-contractual-secretaries-stir-discontent-civil-service-4114271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/talks-contractual-secretaries-stir-discontent-civil-service-4114271</guid>
-            <pubDate>Wed, 25 Feb 2026 02:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Update / Salahuddin backtracks on decision to form new commission for Pilkhana carnage probe]]></title>
-            <description><![CDATA[Salahuddin says existing independent report will be implemented in phases]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/govt-implement-commissions-proposals-pilkhana-carnage-phases-home-minister-4114526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-implement-commissions-proposals-pilkhana-carnage-phases-home-minister-4114526</guid>
+            <title><![CDATA[Three days after mother’s burial, two handcuffed brothers join father’s funeral on parole]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/three-days-after-mothers-burial-two-handcuffed-brothers-join-fathers-funeral-parole-4114706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/three-days-after-mothers-burial-two-handcuffed-brothers-join-fathers-funeral-parole-4114706</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jamaat invites Tarique to February 28 iftar programme]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/jamaat-invites-tarique-february-28-iftar-programme-4114576</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/jamaat-invites-tarique-february-28-iftar-programme-4114576</guid>
+            <title><![CDATA[EC to publish report on foreign observers of 13th parliamentary polls]]></title>
+            <description><![CDATA[33-member committee formed to document activities during February 12 vote]]></description>
+            <link>https://www.thedailystar.net/news/national-election-2026/news/ec-publish-report-foreign-observers-13th-parliamentary-polls-4114711</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/national-election-2026/news/ec-publish-report-foreign-observers-13th-parliamentary-polls-4114711</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Govt prioritises mosquito eradication amid rising dengue cases]]></title>
-            <description><![CDATA[Hospitals on alert as minister urges public cooperation to curb spread]]></description>
-            <link>https://www.thedailystar.net/news/governance/news/govt-prioritises-mosquito-eradication-amid-rising-dengue-cases-4114586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/govt-prioritises-mosquito-eradication-amid-rising-dengue-cases-4114586</guid>
+            <title><![CDATA[Abundant blossoms raise hopes for a bumper mango harvest in Rajshahi]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/agriculture/news/abundant-blossoms-raise-hopes-bumper-mango-harvest-rajshahi-4114736</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/agriculture/news/abundant-blossoms-raise-hopes-bumper-mango-harvest-rajshahi-4114736</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India, Pakistan in tricky spot as semifinal battle intensifies]]></title>
+            <description><![CDATA[A defeat to England after a washout against New Zealand means Pakistan's fate is not entirely in their hands.]]></description>
+            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/india-pakistan-tricky-spot-semifinal-battle-intensifies-4114471</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/india-pakistan-tricky-spot-semifinal-battle-intensifies-4114471</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Md Mostaqur Rahman new Bangladesh Bank governor]]></title>
+            <description><![CDATA[The government cancelled the remaining term of Ahsan H Mansur, the outgoing governor]]></description>
+            <link>https://www.thedailystar.net/business/news/md-mostaqur-rahman-new-bangladesh-bank-governor-4114756</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/md-mostaqur-rahman-new-bangladesh-bank-governor-4114756</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BB governor leaving job amid protest]]></title>
+            <link>https://www.thedailystar.net/business/news/bb-governor-leaving-job-amid-protest-4114726</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bb-governor-leaving-job-amid-protest-4114726</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[DMP Commissioner Sazzat Ali resigns]]></title>
-            <description><![CDATA[Resignation comes a day after appointment of new IGP]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/dmp-commissioner-sazzat-ali-resigns-4114666</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/dmp-commissioner-sazzat-ali-resigns-4114666</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fitra fixed at minimum Tk 110]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/fitra-fixed-minimum-tk-110-4114766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/fitra-fixed-minimum-tk-110-4114766</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -57,24 +75,6 @@
             <title><![CDATA[February polls generally peaceful, voters could vote freely: Shujan]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/february-polls-generally-peaceful-voters-could-vote-freely-shujan-4114701</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/february-polls-generally-peaceful-voters-could-vote-freely-shujan-4114701</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three days into mother’s burial, two handcuffed brothers join father’s funeral on parole]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/three-days-mothers-burial-two-handcuffed-brothers-join-fathers-funeral-parole-4114706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/three-days-mothers-burial-two-handcuffed-brothers-join-fathers-funeral-parole-4114706</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EC to publish report on foreign observers of 13th parliamentary polls]]></title>
-            <link>https://www.thedailystar.net/news/national-election-2026/news/ec-publish-report-foreign-observers-13th-parliamentary-polls-4114711</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/national-election-2026/news/ec-publish-report-foreign-observers-13th-parliamentary-polls-4114711</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BB governor faces employee protest, resignation call]]></title>
-            <link>https://www.thedailystar.net/business/news/bb-governor-faces-employee-protest-resignation-call-4114641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bb-governor-faces-employee-protest-resignation-call-4114641</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -140,10 +140,10 @@
             <pubDate>Wed, 25 Feb 2026 00:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TakaPay struggles to gain traction two years after launch]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/takapay-struggles-gain-traction-two-years-after-launch-4114181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/takapay-struggles-gain-traction-two-years-after-launch-4114181</guid>
-            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[Adviser to BB governor ‘forced out’ of central bank]]></title>
+            <link>https://www.thedailystar.net/business/news/adviser-bb-governor-forced-out-central-bank-4114771</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/adviser-bb-governor-forced-out-central-bank-4114771</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Sikandar Raza regains top all-rounder spot]]></title>
@@ -315,7 +315,7 @@
             <title><![CDATA[Today's Gallery (2026.02.26)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260226-4114346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260226-4114346</guid>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Wed, 25 Feb 2026 03:17:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.02.24)]]></title>
