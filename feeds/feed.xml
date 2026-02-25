@@ -4,34 +4,34 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 18:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 19:52:03 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 18:05:04 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 19:52:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Committed to ensuring that no incident like Feb 25, 2009 is ever repeated: Army chief]]></title>
+            <link>https://www.thedailystar.net/news-0/news/committed-ensuring-no-incident-feb-25-2009-ever-repeated-army-chief-4115116</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/committed-ensuring-no-incident-feb-25-2009-ever-repeated-army-chief-4115116</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man shot dead after iftar in Chattogram’s Raozan]]></title>
+            <description><![CDATA[Police yet to determine motive behind murder or confirm victim’s political affiliation]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-shot-dead-after-iftar-chattograms-raozan-4114931</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-shot-dead-after-iftar-chattograms-raozan-4114931</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pilkhana carnage was an evil plot against Bangladesh’s sovereignty: PM]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/pilkhana-carnage-was-evil-plot-against-bangladeshs-sovereignty-pm-4114851</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pilkhana-carnage-was-evil-plot-against-bangladeshs-sovereignty-pm-4114851</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shakib must clear legal hurdles to return: Aminul]]></title>
+            <description><![CDATA[State Minister for Youth and Sports Aminul Haque said today that Shakib Al Hasan and Mashrafe Bin Mortaza would be welcomed back to cricket if they can resolve the legal proceedings against them.]]></description>
             <link>https://www.thedailystar.net/sports/cricket/news/shakib-must-clear-legal-hurdles-return-aminul-4114911</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/shakib-must-clear-legal-hurdles-return-aminul-4114911</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand fight back to eliminate co-hosts Sri Lanka]]></title>
-            <description><![CDATA[Mitchell Santner led New Zealand's recovery with a captain's knock of 47 off 26 balls.]]></description>
-            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/new-zealand-fight-back-eliminate-co-hosts-sri-lanka-4115031</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/new-zealand-fight-back-eliminate-co-hosts-sri-lanka-4115031</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HC issues contempt rule against 9 Barishal lawyers over vandalism, remarks on judge]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/hc-issues-contempt-rule-against-9-barishal-lawyers-over-vandalism-remarks-judge-4114901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/hc-issues-contempt-rule-against-9-barishal-lawyers-over-vandalism-remarks-judge-4114901</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amar Ekushey Boi Mela kicks off tomorrow]]></title>
-            <description><![CDATA[PM Tarique to inaugurate Book Fair at 2:00pm]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/amar-ekushey-boi-mela-kicks-tomorrow-4114921</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/amar-ekushey-boi-mela-kicks-tomorrow-4114921</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -42,9 +42,27 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[15 injured in blast at newly built LPG refuelling station in Cox’s Bazar]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/15-injured-blast-newly-built-lpg-refuelling-station-coxs-bazar-4115226</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/15-injured-blast-newly-built-lpg-refuelling-station-coxs-bazar-4115226</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5.1 magnitude earthquake jolts Myanmar, Ctg]]></title>
+            <link>https://www.thedailystar.net/news-0/news/51-magnitude-earthquake-jolts-myanmar-ctg-4115156</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/51-magnitude-earthquake-jolts-myanmar-ctg-4115156</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Analysis / Out with the reformist governor, in with the businessman]]></title>
             <link>https://www.thedailystar.net/news-analysis/news/out-the-reformist-governor-the-businessman-4114926</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/out-the-reformist-governor-the-businessman-4114926</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar govt, Arakan Army congratulate new Bangladesh Foreign Minister]]></title>
+            <link>https://www.thedailystar.net/news-0/news/myanmar-govt-arakan-army-congratulate-new-bangladesh-foreign-minister-4115221</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/myanmar-govt-arakan-army-congratulate-new-bangladesh-foreign-minister-4115221</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -54,27 +72,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Committed to ensuring that no incident like Feb 25, 2009 is ever repeated: Army chief]]></title>
-            <link>https://www.thedailystar.net/news-0/news/committed-ensuring-no-incident-feb-25-2009-ever-repeated-army-chief-4115116</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/committed-ensuring-no-incident-feb-25-2009-ever-repeated-army-chief-4115116</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man shot dead after iftar in Chattogram’s Raozan]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-shot-dead-after-iftar-chattograms-raozan-4114931</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/man-shot-dead-after-iftar-chattograms-raozan-4114931</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who is the new governor of Bangladesh Bank?]]></title>
-            <link>https://www.thedailystar.net/business/news/who-the-new-governor-bangladesh-bank-4114896</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/who-the-new-governor-bangladesh-bank-4114896</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pilkhana carnage was an evil plot against Bangladesh’s sovereignty: PM]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/pilkhana-carnage-was-evil-plot-against-bangladeshs-sovereignty-pm-4114851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pilkhana-carnage-was-evil-plot-against-bangladeshs-sovereignty-pm-4114851</guid>
+            <title><![CDATA[14-year-old girl hacked to death in Dhaka’s Hazaribagh]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/14-year-old-girl-hacked-death-dhakas-hazaribagh-4115206</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/14-year-old-girl-hacked-death-dhakas-hazaribagh-4115206</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -138,9 +138,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tax return deadline may be extended to March 31]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/tax-return-deadline-may-be-extended-march-31-4115146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/tax-return-deadline-may-be-extended-march-31-4115146</guid>
+            <title><![CDATA[Stabilised economy, but many reforms left unfinished]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/stabilised-economy-many-reforms-left-unfinished-4115176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/stabilised-economy-many-reforms-left-unfinished-4115176</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
