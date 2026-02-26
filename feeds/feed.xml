@@ -4,49 +4,10 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 23:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 02:42:14 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 23:36:33 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 02:42:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Vinicius hits winner as Real Madrid eliminate Benfica after racism row]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/vinicius-hits-winner-real-madrid-eliminate-benfica-after-racism-row-4115321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/vinicius-hits-winner-real-madrid-eliminate-benfica-after-racism-row-4115321</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Galatasaray survive Juve scare to squeeze into Champions League last 16]]></title>
-            <description><![CDATA[Galatasaray scraped through to the last 16 of the Champions League despite throwing away a three-goal aggregate lead at 10-man Juventus on Wednesday, with two extra-time goals limiting the Turkish outfit to a 3-2 defeat.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/galatasaray-survive-juve-scare-squeeze-champions-league-last-16-4115331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/galatasaray-survive-juve-scare-squeeze-champions-league-last-16-4115331</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Committed to ensuring that no incident like Feb 25, 2009 is ever repeated: Army chief]]></title>
-            <link>https://www.thedailystar.net/news-0/news/committed-ensuring-no-incident-feb-25-2009-ever-repeated-army-chief-4115116</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/committed-ensuring-no-incident-feb-25-2009-ever-repeated-army-chief-4115116</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Holders PSG survive Monaco scare to reach Champions League last 16]]></title>
-            <description><![CDATA[Paris Saint-Germain came from behind and then survived a late scare against 10-man Monaco, drawing 2-2 in the second leg of their Champions League knockout phase play-off tie on Wednesday to reach the last 16 with a 5-4 aggregate victory.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/psg-see-late-monaco-surge-advance-champions-league-4115316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/psg-see-late-monaco-surge-advance-champions-league-4115316</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Bangladesh Bank governor had Tk 89cr loans rescheduled before appointment]]></title>
-            <description><![CDATA[MTB approved Hera Sweaters a 10-year repayment facility with a 2-year grace period]]></description>
-            <link>https://www.thedailystar.net/business/news/new-bangladesh-bank-governor-had-tk-89cr-loans-rescheduled-appointment-4115006</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/new-bangladesh-bank-governor-had-tk-89cr-loans-rescheduled-appointment-4115006</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15 injured in blast at newly built LPG refuelling station in Cox’s Bazar]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/15-injured-blast-newly-built-lpg-refuelling-station-coxs-bazar-4115226</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/15-injured-blast-newly-built-lpg-refuelling-station-coxs-bazar-4115226</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
         <item>
             <title><![CDATA[5.1 magnitude earthquake jolts Myanmar, Ctg]]></title>
             <link>https://www.thedailystar.net/news-0/news/51-magnitude-earthquake-jolts-myanmar-ctg-4115156</link>
@@ -55,6 +16,7 @@
         </item>
         <item>
             <title><![CDATA[Analysis / Out with the reformist governor, in with the businessman]]></title>
+            <description><![CDATA[A hasty exit for the central bank governor raises questions about its independence under the new govt]]></description>
             <link>https://www.thedailystar.net/news-analysis/news/out-the-reformist-governor-the-businessman-4114926</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/out-the-reformist-governor-the-businessman-4114926</guid>
             <pubDate>Invalid Date</pubDate>
@@ -67,14 +29,52 @@
         </item>
         <item>
             <title><![CDATA[Abrupt ouster of Mansur as governor draws sharp criticism]]></title>
+            <description><![CDATA[Analysts caution that the move sends troubling signals about institutional stability]]></description>
             <link>https://www.thedailystar.net/top-news/news/abrupt-ouster-mansur-governor-draws-sharp-criticism-4114906</link>
             <guid isPermaLink="true">https://www.thedailystar.net/top-news/news/abrupt-ouster-mansur-governor-draws-sharp-criticism-4114906</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[14-year-old girl hacked to death in Dhaka’s Hazaribagh]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/14-year-old-girl-hacked-death-dhakas-hazaribagh-4115206</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/14-year-old-girl-hacked-death-dhakas-hazaribagh-4115206</guid>
+            <title><![CDATA[Shock ouster of BB governor]]></title>
+            <description><![CDATA[In a stunning development that roiled the financial sector, the government yesterday removed Bangladesh Bank Governor Ahsan H Mansur, replacing him with a corporate accountant who owns a garment company.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/shock-ouster-bb-governor-4115256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/shock-ouster-bb-governor-4115256</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[News analysis / Appointment that can undo economic recovery]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/appointment-can-undo-economic-recovery-4115241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/appointment-can-undo-economic-recovery-4115241</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Bangladesh Bank governor had Tk 89cr loans rescheduled before appointment]]></title>
+            <link>https://www.thedailystar.net/business/news/new-bangladesh-bank-governor-had-tk-89cr-loans-rescheduled-appointment-4115006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/new-bangladesh-bank-governor-had-tk-89cr-loans-rescheduled-appointment-4115006</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yet another unelected VC set to take DU helm]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/yet-another-unelected-vc-set-take-du-helm-4115016</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/yet-another-unelected-vc-set-take-du-helm-4115016</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ekushey book fair begins today]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/ekushey-book-fair-begins-today-4115026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/ekushey-book-fair-begins-today-4115026</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mango trees in full bloom]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/mango-trees-full-bloom-4114966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/mango-trees-full-bloom-4114966</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[15 injured in blast at newly built LPG refuelling station in Cox’s Bazar]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/15-injured-blast-newly-built-lpg-refuelling-station-coxs-bazar-4115226</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/15-injured-blast-newly-built-lpg-refuelling-station-coxs-bazar-4115226</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -144,9 +144,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Last-gasp Atalanta eliminate Dortmund to reach CL last 16]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/last-gasp-atalanta-eliminate-dortmund-reach-cl-last-16-4115311</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/last-gasp-atalanta-eliminate-dortmund-reach-cl-last-16-4115311</guid>
+            <title><![CDATA[Holders PSG survive Monaco scare to reach Champions League last 16]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/psg-see-late-monaco-surge-advance-champions-league-4115316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/psg-see-late-monaco-surge-advance-champions-league-4115316</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
