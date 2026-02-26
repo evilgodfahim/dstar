@@ -4,34 +4,34 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 19:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 20:47:12 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 19:02:25 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 20:47:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Govt focused on dismantling market syndicates: Home minister]]></title>
+            <link>https://www.thedailystar.net/business/news/govt-focused-dismantling-market-syndicates-home-minister-4115841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-focused-dismantling-market-syndicates-home-minister-4115841</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Teenager found dead in Narsingdi field; family alleges rape and murder]]></title>
+            <description><![CDATA[Parents say she was killed by stalkers who had gang-raped her around two weeks ago]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/teenager-found-dead-narsingdi-field-family-alleges-rape-and-murder-4115866</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/teenager-found-dead-narsingdi-field-family-alleges-rape-and-murder-4115866</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Md Sarwar given charge as DMP commissioner]]></title>
-            <description><![CDATA[Additional commissioner to perform duties with immediate effect until a regular appointment is made, official order says]]></description>
             <link>https://www.thedailystar.net/news-0/news/md-sarwar-given-charge-dmp-commissioner-4115836</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/md-sarwar-given-charge-dmp-commissioner-4115836</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[India thrash Zimbabwe in T20 World Cup, SA into semi-finals]]></title>
+            <description><![CDATA[Defending champions India thrashed Zimbabwe by 72 runs in their Super Eights T20 World Cup match on Thursday, a result that guaranteed South Africa a place in the semi-finals.]]></description>
             <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/india-thrash-zimbabwe-t20-world-cup-sa-semi-finals-4115851</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/india-thrash-zimbabwe-t20-world-cup-sa-semi-finals-4115851</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nahid, Meherob star as North Zone win again]]></title>
-            <description><![CDATA[Pacer Nahid Rana and all-rounder S M Meherob Hasan delivered impressive spells as North Zone registered their second consecutive victory in the ongoing Bangladesh Cricket League (BCL) one-day competition with a six-wicket win over South Zone at the Rajshahi Divisional Stadium on Thursday.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/nahid-meherob-star-north-zone-win-again-4115876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/nahid-meherob-star-north-zone-win-again-4115876</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -54,6 +54,12 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Afghan military attacks Pakistan after deadly strikes]]></title>
+            <link>https://www.thedailystar.net/news/world/news/afghan-military-attacks-pakistan-after-deadly-strikes-4116181</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/afghan-military-attacks-pakistan-after-deadly-strikes-4116181</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man in viral DU assault video identified as murder case accused]]></title>
             <link>https://www.thedailystar.net/news-0/news/man-viral-du-assault-video-identified-murder-case-accused-4115871</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/man-viral-du-assault-video-identified-murder-case-accused-4115871</guid>
@@ -69,12 +75,6 @@
             <title><![CDATA[There’s nothing to say, finance minister says about governor’s exit, appointment]]></title>
             <link>https://www.thedailystar.net/business/news/theres-nothing-say-finance-minister-says-about-governors-exit-appointment-4115726</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/theres-nothing-say-finance-minister-says-about-governors-exit-appointment-4115726</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt focused on dismantling market syndicates: Home minister]]></title>
-            <link>https://www.thedailystar.net/business/news/govt-focused-dismantling-market-syndicates-home-minister-4115841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-focused-dismantling-market-syndicates-home-minister-4115841</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -146,9 +146,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Italy's sole survivor in Champions League cannot mask Serie A struggles]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/italys-sole-survivor-champions-league-cannot-mask-serie-struggles-4115846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/italys-sole-survivor-champions-league-cannot-mask-serie-struggles-4115846</guid>
+            <title><![CDATA[Taskin happy with Bogura’s sporting conditions on one-day return]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/taskin-happy-boguras-sporting-conditions-one-day-return-4115861</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/taskin-happy-boguras-sporting-conditions-one-day-return-4115861</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
