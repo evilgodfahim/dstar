@@ -4,10 +4,23 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 16:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 17:13:29 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 16:18:59 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 17:13:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Nahid, Meherob star as North Zone win again]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/nahid-meherob-star-north-zone-win-again-4115876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/nahid-meherob-star-north-zone-win-again-4115876</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can the new Bangladesh Bank governor act independently? TIB voices concerns]]></title>
+            <description><![CDATA[Questions ability to control inflation and ensure banking discipline amid business and political ties]]></description>
+            <link>https://www.thedailystar.net/news-0/news/can-the-new-bangladesh-bank-governor-act-independently-tib-voices-concerns-4115696</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/can-the-new-bangladesh-bank-governor-act-independently-tib-voices-concerns-4115696</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inferno at Cox’s Bazar LPG station: 3 in ICU among 6 critical patients]]></title>
             <link>https://www.thedailystar.net/news-0/news/inferno-coxs-bazar-lpg-station-3-icu-among-6-critical-patients-4115786</link>
@@ -15,23 +28,10 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Taskin happy with Bogura’s sporting conditions on one-day return]]></title>
-            <description><![CDATA[Bangladesh’s ace pacer Taskin Ahmed last played an ODI in October last year. Since then he has been primarily playing T20s. Taskin today appeared in his first 50-over game in a while in the ongoing Bangladesh Cricket League (BCL) one-day tournament and returned figures of two for 46, bowling his full quota of overs.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/taskin-happy-boguras-sporting-conditions-one-day-return-4115861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/taskin-happy-boguras-sporting-conditions-one-day-return-4115861</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BNP nominates Rezaul Karim Badsha for Bogura‑6 by‑election]]></title>
-            <link>https://www.thedailystar.net/news/national-election-2026/news/bnp-nominates-rezaul-karim-badsha-bogura-6-election-4115721</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/national-election-2026/news/bnp-nominates-rezaul-karim-badsha-bogura-6-election-4115721</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abhishek, Pandya fire India to 256-4 against Zimbabwe]]></title>
-            <description><![CDATA[Opener Abhishek Sharma and Hardik Pandya hit blistering fifties as India reached 256-4 against Zimbabwe in the T20 World Cup Super Eights on Thursday, the second highest total in the history of the tournament.]]></description>
-            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/abhishek-pandya-fire-india-256-4-against-zimbabwe-4115851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/abhishek-pandya-fire-india-256-4-against-zimbabwe-4115851</guid>
+            <title><![CDATA[NPA raises concern over BB governor appointment]]></title>
+            <description><![CDATA["Removal of the governor before completion of tenure will discourage qualified individuals in the future, it says]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/politics/news/npa-raises-concern-over-bb-governor-appointment-4115936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/npa-raises-concern-over-bb-governor-appointment-4115936</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -45,6 +45,12 @@
             <title><![CDATA[More reshuffle in Bangladesh Army high command]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/more-reshuffle-bangladesh-army-high-command-4115801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/more-reshuffle-bangladesh-army-high-command-4115801</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man in viral DU assault video identified as murder case accused]]></title>
+            <link>https://www.thedailystar.net/news-0/news/man-viral-du-assault-video-identified-murder-case-accused-4115871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/man-viral-du-assault-video-identified-murder-case-accused-4115871</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -69,12 +75,6 @@
             <title><![CDATA[Md Sarwar given charge as DMP commissioner]]></title>
             <link>https://www.thedailystar.net/news-0/news/md-sarwar-given-charge-dmp-commissioner-4115836</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/md-sarwar-given-charge-dmp-commissioner-4115836</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can the new Bangladesh Bank governor act independently? TIB voices concerns]]></title>
-            <link>https://www.thedailystar.net/news-0/news/can-the-new-bangladesh-bank-governor-act-independently-tib-voices-concerns-4115696</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/can-the-new-bangladesh-bank-governor-act-independently-tib-voices-concerns-4115696</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -125,7 +125,7 @@
             <title><![CDATA[Last-minute study strategies that actually work]]></title>
             <link>https://www.thedailystar.net/rising-stars/education/news/last-minute-study-strategies-actually-work-4114596</link>
             <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/education/news/last-minute-study-strategies-actually-work-4114596</guid>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Thu, 26 Feb 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When early childhood is spent in front of screens]]></title>
@@ -140,15 +140,15 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bangladesh’s per capita income rises 1% to $2,769]]></title>
-            <link>https://www.thedailystar.net/business/news/bangladeshs-capita-income-rises-1-2769-4115746</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladeshs-capita-income-rises-1-2769-4115746</guid>
+            <title><![CDATA[Per capita income rises 1% to $2,769]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/capita-income-rises-1-2769-4115991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/capita-income-rises-1-2769-4115991</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pybus ‘fine with’ working and living in Afghanistan as head coach]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/pybus-fine-working-and-living-afghanistan-head-coach-4115781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/pybus-fine-working-and-living-afghanistan-head-coach-4115781</guid>
+            <title><![CDATA[Italy's sole survivor in Champions League cannot mask Serie A struggles]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/italys-sole-survivor-champions-league-cannot-mask-serie-struggles-4115846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/italys-sole-survivor-champions-league-cannot-mask-serie-struggles-4115846</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
