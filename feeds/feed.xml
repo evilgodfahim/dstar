@@ -4,9 +4,9 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Feb 2026 19:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 20:36:12 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Feb 2026 19:38:52 GMT</pubDate>
+        <pubDate>Fri, 27 Feb 2026 20:36:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Messi knocked down by fan in Puerto Rico pitch invasion]]></title>
@@ -15,23 +15,23 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Benfica suspend five fans for alleged racist remarks in Madrid loss]]></title>
+            <description><![CDATA[Benfica announced on Friday they had provisionally suspended five supporters for allegedly making racist comments during this month's Champions League first leg loss to Real Madrid.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/benfica-suspend-five-fans-alleged-racist-remarks-madrid-loss-4116721</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/benfica-suspend-five-fans-alleged-racist-remarks-madrid-loss-4116721</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Man dies in AC compressor blast in Dhaka's Narinda]]></title>
-            <description><![CDATA[Parents sustain burn injuries]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/man-dies-ac-compressor-blast-dhakas-narinda-4116641</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/man-dies-ac-compressor-blast-dhakas-narinda-4116641</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA['Strongest earthquake in our memory': Satkhira residents recount moments of terror]]></title>
+            <description><![CDATA[Assasuni identified as epicentre; residents recount intense shaking during Jummah prayers]]></description>
             <link>https://www.thedailystar.net/environment/climate-crisis/natural-disaster/news/strongest-earthquake-our-memory-satkhira-residents-recount-moments-terror-4116441</link>
             <guid isPermaLink="true">https://www.thedailystar.net/environment/climate-crisis/natural-disaster/news/strongest-earthquake-our-memory-satkhira-residents-recount-moments-terror-4116441</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tax hike vital for economic recovery: Finance minister]]></title>
-            <description><![CDATA[Creating new employment is among the govt's main goals, he says]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/education-health-employment-be-prioritised-upcoming-budget-amir-khosru-4116561</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/education-health-employment-be-prioritised-upcoming-budget-amir-khosru-4116561</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
