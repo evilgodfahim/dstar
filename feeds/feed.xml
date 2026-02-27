@@ -4,47 +4,53 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Feb 2026 07:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 08:52:22 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Feb 2026 07:07:13 GMT</pubDate>
+        <pubDate>Fri, 27 Feb 2026 08:52:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[‘I still don’t know who killed my daughter or why’]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/i-still-dont-know-who-killed-my-daughter-or-why-4115926</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/i-still-dont-know-who-killed-my-daughter-or-why-4115926</guid>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A game with three sides at play]]></title>
+            <description><![CDATA[For New Zealand, it is simple: win and advance.]]></description>
             <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/game-three-sides-play-4116356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/game-three-sides-play-4116356</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Bonolota Express’ cast promises a family treat this Eid]]></title>
-            <description><![CDATA[The film is slated for release this coming Eid and features a star-studded ensemble, five of whom shared their thoughts on the much-anticipated project.]]></description>
             <link>https://www.thedailystar.net/entertainment/news/bonolota-express-cast-promises-family-treat-eid-4116341</link>
             <guid isPermaLink="true">https://www.thedailystar.net/entertainment/news/bonolota-express-cast-promises-family-treat-eid-4116341</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Anthropic says won't give US military unconditional AI use]]></title>
+            <description><![CDATA[Washington had given them until Friday to agree to unconditional military use of its technology]]></description>
             <link>https://www.thedailystar.net/tech-startup/ai/news/anthropic-says-wont-give-us-military-unconditional-ai-use-4116321</link>
             <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/ai/news/anthropic-says-wont-give-us-military-unconditional-ai-use-4116321</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[8 police personnel injured as vehicle overturns in Brahmanbaria]]></title>
-            <description><![CDATA[Two officers in critical condition after crash en route to ceremonial salute for state minister]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/8-police-personnel-injured-vehicle-overturns-brahmanbaria-4116371</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/8-police-personnel-injured-vehicle-overturns-brahmanbaria-4116371</guid>
+            <title><![CDATA[Just in / 5.4-magnitude earthquake felt across Bangladesh; epicentre Satkhira, says BMD]]></title>
+            <description><![CDATA[Tremors felt at 1:52pm]]></description>
+            <link>https://www.thedailystar.net/news/news/54-magnitude-earthquake-felt-across-bangladesh-epicentre-satkhira-says-bmd-4116396</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/54-magnitude-earthquake-felt-across-bangladesh-epicentre-satkhira-says-bmd-4116396</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / A controversial decision]]></title>
-            <description><![CDATA[Critical decisions are usually judged by three things: their merit, method, and meaning or significance.]]></description>
             <link>https://www.thedailystar.net/opinion/views/the-third-view/news/controversial-decision-4116106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/controversial-decision-4116106</guid>
             <pubDate>Fri, 27 Feb 2026 00:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pakistan bombs targets in Afghan cities, minister calls it 'open war']]></title>
-            <link>https://www.thedailystar.net/news/asia/news/pakistan-bombs-targets-afghan-cities-minister-calls-it-open-war-4116301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/asia/news/pakistan-bombs-targets-afghan-cities-minister-calls-it-open-war-4116301</guid>
+            <title><![CDATA['Open war': Pakistan claims it killed 133 Taliban soldiers; Afghanistan claims 55 Pakistani soldiers killed]]></title>
+            <link>https://www.thedailystar.net/news/asia/news/open-war-pakistan-claims-it-killed-133-taliban-soldiers-afghanistan-claims-55-pakistani-soldiers-4116301</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/asia/news/open-war-pakistan-claims-it-killed-133-taliban-soldiers-afghanistan-claims-55-pakistani-soldiers-4116301</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -69,12 +75,6 @@
             <title><![CDATA[Economic risk rises despite political clarity]]></title>
             <link>https://www.thedailystar.net/business/economy/news/economic-risk-rises-despite-political-clarity-4116111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/economic-risk-rises-despite-political-clarity-4116111</guid>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘I still don’t know who killed my daughter or why’]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/i-still-dont-know-who-killed-my-daughter-or-why-4115926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/i-still-dont-know-who-killed-my-daughter-or-why-4115926</guid>
             <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -146,15 +146,15 @@
             <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AFC Women's Asian Cup 2026 / China not taking Bangladesh lightly]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/china-not-taking-bangladesh-lightly-4116166</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/china-not-taking-bangladesh-lightly-4116166</guid>
-            <pubDate>Fri, 27 Feb 2026 00:44:00 GMT</pubDate>
+            <title><![CDATA[China chase glory days at Women's Asian Cup as Japan, Australia threat looms]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/china-chase-glory-days-womens-asian-cup-japan-australia-threat-looms-4116366</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/china-chase-glory-days-womens-asian-cup-japan-australia-threat-looms-4116366</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[ATN Bangla’s ‘Kobi Bari’ returns for Ekushey Book Fair season]]></title>
-            <link>https://www.thedailystar.net/entertainment/news/atn-banglas-kobi-bari-returns-ekushey-book-fair-season-4116376</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/news/atn-banglas-kobi-bari-returns-ekushey-book-fair-season-4116376</guid>
+            <title><![CDATA[Allu Arjun and Deepika Padukone team up in Atlee’s AA22xA6]]></title>
+            <link>https://www.thedailystar.net/entertainment/tv-film/news/allu-arjun-and-deepika-padukone-team-atlees-aa22xa6-4116386</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/allu-arjun-and-deepika-padukone-team-atlees-aa22xa6-4116386</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
