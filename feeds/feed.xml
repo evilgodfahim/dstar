@@ -4,41 +4,47 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 07:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 08:38:13 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 07:33:51 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 08:38:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Elderly woman, teenage granddaughter found murdered in Pabna]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/elderly-woman-teenage-granddaughter-found-murdered-pabna-4116956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/elderly-woman-teenage-granddaughter-found-murdered-pabna-4116956</guid>
+            <title><![CDATA[Business Plus  / The rice gene bank that feeds Bangladesh]]></title>
+            <link>https://www.thedailystar.net/business/news/the-rice-gene-bank-feeds-bangladesh-4116591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/the-rice-gene-bank-feeds-bangladesh-4116591</guid>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quakes outside seismic zones worry experts]]></title>
+            <description><![CDATA[Two earthquakes within 24 hours struck the Khulna region, triggering panic in an area not typically known for seismic activity.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/quakes-outside-seismic-zones-worry-experts-4116766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/quakes-outside-seismic-zones-worry-experts-4116766</guid>
+            <pubDate>Sat, 28 Feb 2026 01:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BNP moves to unite grassroots ahead of local polls]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/politics/news/bnp-moves-unite-grassroots-ahead-local-polls-4116751</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/bnp-moves-unite-grassroots-ahead-local-polls-4116751</guid>
+            <pubDate>Sat, 28 Feb 2026 01:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Narsingdi rape, murder: Prime suspect tried to flee to India, police say]]></title>
+            <description><![CDATA['Nura planned to cross border through Dinajpur district']]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/narsingdi-rape-murder-prime-suspect-tried-flee-india-police-say-4116921</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/narsingdi-rape-murder-prime-suspect-tried-flee-india-police-say-4116921</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bill Clinton to lawmakers investigating Epstein: 'I saw nothing']]></title>
-            <description><![CDATA[The former president gave closed-door testimony about his relationship with the late sex offender]]></description>
-            <link>https://www.thedailystar.net/news/world/usa/news/bill-clinton-lawmakers-investigating-epstein-i-saw-nothing-4116916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/usa/news/bill-clinton-lawmakers-investigating-epstein-i-saw-nothing-4116916</guid>
+            <title><![CDATA[Live updates / US, Israel strike Iran; Tehran starts retaliation]]></title>
+            <description><![CDATA[Explosions were heard in Tehran on Saturday, Iranian media reported. 'Hour of your freedom is at hand,' Trump tells Iranians.]]></description>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Businessman critically burned in 'AC blast' in Netrokona shop]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/businessman-critically-burned-ac-blast-netrokona-shop-4116991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/businessman-critically-burned-ac-blast-netrokona-shop-4116991</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kalapara of Patuakhali: Schoolteacher’s home declared a bird haven]]></title>
-            <description><![CDATA[In Musulliyabad village under Kalapara upazila of Patuakhali, the house of a schoolteacher has been declared a bird haven.]]></description>
-            <link>https://www.thedailystar.net/environment/wild-life/news/kalapara-patuakhali-schoolteachers-home-declared-bird-haven-4116841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/environment/wild-life/news/kalapara-patuakhali-schoolteachers-home-declared-bird-haven-4116841</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live updates / US-Israel strike Iran; Tehran preparing for retaliation]]></title>
-            <description><![CDATA[Explosions were heard in Tehran on Saturday, Iranian media reported.]]></description>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-preparing-retaliation-4116961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-preparing-retaliation-4116961</guid>
+            <title><![CDATA[Tarique continues office on holidays, attends meeting]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/tarique-continues-office-holidays-attends-meeting-4117011</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tarique-continues-office-holidays-attends-meeting-4117011</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -48,49 +54,43 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Reciprocal trade deal with US agreement ‘highly discriminatory’: CPD]]></title>
+            <link>https://www.thedailystar.net/business/news/reciprocal-trade-deal-us-agreement-highly-discriminatory-cpd-4117001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/reciprocal-trade-deal-us-agreement-highly-discriminatory-cpd-4117001</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt to proceed with Bangla Academy award for Mohon Raihan after review]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/govt-proceed-bangla-academy-award-mohon-raihan-after-review-4117021</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-proceed-bangla-academy-award-mohon-raihan-after-review-4117021</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Garment workers block Dhaka–Sylhet highway over unpaid wages]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/garment-workers-block-dhaka-sylhet-highway-over-unpaid-wages-4116996</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/garment-workers-block-dhaka-sylhet-highway-over-unpaid-wages-4116996</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Business Plus  / The rice gene bank that feeds Bangladesh]]></title>
-            <link>https://www.thedailystar.net/business/news/the-rice-gene-bank-feeds-bangladesh-4116591</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/the-rice-gene-bank-feeds-bangladesh-4116591</guid>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quakes outside seismic zones worry experts]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/quakes-outside-seismic-zones-worry-experts-4116766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/quakes-outside-seismic-zones-worry-experts-4116766</guid>
+            <title><![CDATA[Prity ready to give her best if given chance]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/prity-ready-give-her-best-if-given-chance-4117006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/prity-ready-give-her-best-if-given-chance-4117006</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[BNP moves to unite grassroots ahead of local polls]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/politics/news/bnp-moves-unite-grassroots-ahead-local-polls-4116751</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/bnp-moves-unite-grassroots-ahead-local-polls-4116751</guid>
+            <title><![CDATA[Who truly pays for the Ramadan price spike?]]></title>
+            <description><![CDATA[By Farah Kabir]]></description>
+            <link>https://www.thedailystar.net/opinion/news/who-truly-pays-the-ramadan-price-spike-4116671</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/who-truly-pays-the-ramadan-price-spike-4116671</guid>
+            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Narsingdi rape, murder: Prime suspect tried to flee to India, police say]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/narsingdi-rape-murder-prime-suspect-tried-flee-india-police-say-4116921</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/narsingdi-rape-murder-prime-suspect-tried-flee-india-police-say-4116921</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Depoliticise institutions, not ideas]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/depoliticise-institutions-not-ideas-4116666</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/depoliticise-institutions-not-ideas-4116666</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / A controversial decision]]></title>
-            <description><![CDATA[Critical decisions are usually judged by three things: their merit, method, and meaning or significance.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/controversial-decision-4116106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/controversial-decision-4116106</guid>
-            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <title><![CDATA[Leaders, beware of ‘Yes Men’]]></title>
+            <description><![CDATA[The truth is that leaders who surround themselves with people brave enough to say “this may be wrong” are far better equipped to govern than those shielded by constant applause.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/leaders-beware-yes-men-4116681</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/leaders-beware-yes-men-4116681</guid>
+            <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -102,10 +102,11 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA['That's what she said' on being funny]]></title>
-            <description><![CDATA[Is humour freedom? Is it risk? Is it armour? Is it rebellion? Watch Kaarina Kaisar, social media personality, comedian, and writer, talk to The Daily Star's Naziba Basher on today's episode of "That’s What She Said"]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/entertainment-multimedia/news/thats-what-she-said-being-funny-4116516</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/entertainment-multimedia/news/thats-what-she-said-being-funny-4116516</guid>
+            <title><![CDATA[Depoliticise institutions, not ideas]]></title>
+            <description><![CDATA[Not often do you hear a politician saying that “politicising education, research, and the practice of arts and literature is never a mark of a civilised society.”]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/depoliticise-institutions-not-ideas-4116666</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/depoliticise-institutions-not-ideas-4116666</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -133,10 +134,10 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Leaders, beware of ‘Yes Men’]]></title>
-            <link>https://www.thedailystar.net/opinion/news/leaders-beware-yes-men-4116681</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/leaders-beware-yes-men-4116681</guid>
-            <pubDate>Sat, 28 Feb 2026 01:13:00 GMT</pubDate>
+            <title><![CDATA[Restoring public confidence in the judiciary is a test for the government]]></title>
+            <link>https://www.thedailystar.net/opinion/news/restoring-public-confidence-the-judiciary-test-the-government-4116686</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/restoring-public-confidence-the-judiciary-test-the-government-4116686</guid>
+            <pubDate>Sat, 28 Feb 2026 01:16:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UN panel sets up process to assess Bangladesh’s request to delay LDC graduation]]></title>
@@ -145,15 +146,15 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[All you need to know about the 12 teams in Women's Asian Cup]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/all-you-need-know-about-the-12-teams-womens-asian-cup-4116951</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/all-you-need-know-about-the-12-teams-womens-asian-cup-4116951</guid>
+            <title><![CDATA[2026 Women's Asian Cup: When and where are Bangladesh's matches]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/2026-womens-asian-cup-when-and-where-are-bangladeshs-matches-4116966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/2026-womens-asian-cup-when-and-where-are-bangladeshs-matches-4116966</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Edge Gallery pays tribute to 1952 language movement through art and history]]></title>
-            <link>https://www.thedailystar.net/entertainment/theatre-arts/news/edge-gallery-pays-tribute-1952-language-movement-through-art-and-history-4116981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/theatre-arts/news/edge-gallery-pays-tribute-1952-language-movement-through-art-and-history-4116981</guid>
+            <title><![CDATA[Top Dhallywood stars set to lead Eid 2026 releases]]></title>
+            <link>https://www.thedailystar.net/entertainment/tv-film/news/top-dhallywood-stars-set-lead-eid-2026-releases-4117016</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/top-dhallywood-stars-set-lead-eid-2026-releases-4117016</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -205,18 +206,18 @@
             <pubDate>Fri, 20 Feb 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['That's what she said' on being funny]]></title>
+            <description><![CDATA[Is humour freedom? Is it risk? Is it armour? Is it rebellion? Watch Kaarina Kaisar, social media personality, comedian, and writer, talk to The Daily Star's Naziba Basher on today's episode of...]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/entertainment-multimedia/news/thats-what-she-said-being-funny-4116516</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/entertainment-multimedia/news/thats-what-she-said-being-funny-4116516</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Watch / Possible US strategies for attack on Iran]]></title>
             <description><![CDATA[.]]></description>
             <link>https://www.thedailystar.net/star-multimedia/news/possible-us-strategies-attack-iran-4114491</link>
             <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/possible-us-strategies-attack-iran-4114491</guid>
             <pubDate>Wed, 25 Feb 2026 11:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch / Tarique Rahman's start is worthy of congratulations: Mahfuz Anam]]></title>
-            <description><![CDATA[What's our take on Bangla? Watch to find out more]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/news/tarique-rahmans-start-worthy-congratulations-mahfuz-anam-4111481</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/tarique-rahmans-start-worthy-congratulations-mahfuz-anam-4111481</guid>
-            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / Facing the most vital election ever]]></title>
@@ -314,7 +315,7 @@
             <title><![CDATA[Today's Gallery (2026.02.28)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260228-4116836</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260228-4116836</guid>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Sat, 28 Feb 2026 02:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.02.27)]]></title>
