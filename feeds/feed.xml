@@ -4,42 +4,48 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 20:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 21:28:37 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 20:34:12 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 21:28:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Dhaka voices alarm over escalating Middle East conflict]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-voices-alarm-over-escalating-middle-east-conflict-4117401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-voices-alarm-over-escalating-middle-east-conflict-4117401</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[City move two points behind Arsenal as Liverpool hit five]]></title>
+            <description><![CDATA[Manchester City kept the pressure firmly on Premier League leaders Arsenal with a nervy 1-0 victory at Leeds United on Saturday, pulling within two points of top spot courtesy of Antoine Semenyo's strike on the stroke of halftime.]]></description>
             <link>https://www.thedailystar.net/sports/football/news/city-move-two-points-behind-arsenal-liverpool-hit-five-4117416</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/city-move-two-points-behind-arsenal-liverpool-hit-five-4117416</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Govt offers overnight stay for passengers after flight cancellations]]></title>
-            <description><![CDATA[Affected passengers asked to contact welfare desk or lounge for assistance]]></description>
             <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/govt-offers-overnight-stay-passengers-after-flight-cancellations-4117406</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/govt-offers-overnight-stay-passengers-after-flight-cancellations-4117406</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Streets empty and shops close as US strikes confirm Iranian fears]]></title>
+            <description><![CDATA[Explosions reported over cities across the region, including in the United Arab Emirates, Saudi Arabia, Qatar, Kuwait, Iraq and Jordan]]></description>
             <link>https://www.thedailystar.net/news/world/middle-east/news/streets-empty-and-shops-close-us-strikes-confirm-iranian-fears-4117191</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/streets-empty-and-shops-close-us-strikes-confirm-iranian-fears-4117191</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Israelis shelter underground as Iran fires missiles]]></title>
-            <description><![CDATA[It is the second time in under a year that Israelis undertake the wartime routine]]></description>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/israelis-shelter-underground-iran-fires-missiles-4117201</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/israelis-shelter-underground-iran-fires-missiles-4117201</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live updates / Over 200 killed in US-Israeli strikes: Red Crescent]]></title>
+            <title><![CDATA[Live updates / Israel says Khamenei dead, Iranian news agencies refute claim]]></title>
             <description><![CDATA[Explosions were heard in Tehran on Saturday, Iranian media reported. 'Hour of your freedom is at hand,' Trump tells Iranians.]]></description>
             <link>https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</guid>
             <pubDate>Sat, 28 Feb 2026 12:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['We feel reports of Khamenei death are correct,' Trump tells NBC]]></title>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/we-feel-reports-khamenei-death-are-correct-trump-tells-nbc-4117491</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/we-feel-reports-khamenei-death-are-correct-trump-tells-nbc-4117491</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Netanyahu says 'many signs' Iran's Khamenei is dead]]></title>
@@ -69,12 +75,6 @@
             <title><![CDATA[Bangladeshi expats in Abu Dhabi in fear after blasts near US Base]]></title>
             <link>https://www.thedailystar.net/news/world/middle-east/news/bangladeshi-expats-abu-dhabi-fear-after-blasts-near-us-base-4117216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/bangladeshi-expats-abu-dhabi-fear-after-blasts-near-us-base-4117216</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka voices alarm over escalating Middle East conflict]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-voices-alarm-over-escalating-middle-east-conflict-4117401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-voices-alarm-over-escalating-middle-east-conflict-4117401</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
