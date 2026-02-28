@@ -4,34 +4,34 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 10:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 11:26:47 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 10:31:29 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 11:26:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Traders urge urgent steps to improve law and order]]></title>
+            <link>https://www.thedailystar.net/business/news/traders-urge-urgent-steps-improve-law-and-order-4117066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/traders-urge-urgent-steps-improve-law-and-order-4117066</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Police baton charge garment workers protesting on Dhaka–Sylhet highway]]></title>
+            <description><![CDATA[Around 200 workers demand January salaries]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/police-baton-charge-garment-workers-protesting-dhaka-sylhet-highway-4116996</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/police-baton-charge-garment-workers-protesting-dhaka-sylhet-highway-4116996</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[CAMPE calls for legal framework to implement 12-point education agenda]]></title>
-            <description><![CDATA[Speakers stress political commitment, financing reforms and comprehensive roadmap]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/campe-calls-legal-framework-implement-12-point-education-agenda-4117031</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/campe-calls-legal-framework-implement-12-point-education-agenda-4117031</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sobhana named ICC’s Women’s Player of the Month for January]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/sobhana-named-iccs-womens-player-the-month-january-4117036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/sobhana-named-iccs-womens-player-the-month-january-4117036</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prity ready to give her best if given chance]]></title>
-            <description><![CDATA[Young winger Sauravi Akanda Prity said Bangladesh are using their remaining training sessions to correct mistakes and settle into unfamiliar surroundings as the team finalises preparations for their historic debut in the AFC Women’s Asian Cup in Australia.]]></description>
-            <link>https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/prity-ready-give-her-best-if-given-chance-4117006</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/prity-ready-give-her-best-if-given-chance-4117006</guid>
+            <title><![CDATA[Jammu and Kashmir clinch maiden Ranji Trophy title after 67-year wait]]></title>
+            <description><![CDATA["I cannot explain and I don't have any words. It is the biggest thing in my life," Jammu and Kashmir captain Paras Dogra said.]]></description>
+            <link>https://www.thedailystar.net/sports/cricket/news/jammu-and-kashmir-clinch-maiden-ranji-trophy-title-after-67-year-wait-4117061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/jammu-and-kashmir-clinch-maiden-ranji-trophy-title-after-67-year-wait-4117061</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -78,22 +78,6 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Who truly pays for the Ramadan price spike?]]></title>
-            <description><![CDATA[By Farah Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/news/who-truly-pays-the-ramadan-price-spike-4116671</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/who-truly-pays-the-ramadan-price-spike-4116671</guid>
-            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leaders, beware of ‘Yes Men’]]></title>
-            <description><![CDATA[The truth is that leaders who surround themselves with people brave enough to say “this may be wrong” are far better equipped to govern than those shielded by constant applause.]]></description>
-            <link>https://www.thedailystar.net/opinion/news/leaders-beware-yes-men-4116681</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/leaders-beware-yes-men-4116681</guid>
-            <dc:creator><![CDATA[Abu Afsarul Haider]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The promises and perils of a ‘Notun Tej’ in Bangladeshi architecture]]></title>
             <description><![CDATA[By Adnan Zillur Morshed]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-promises-and-perils-notun-tej-bangladeshi-architecture-4116616</link>
@@ -107,6 +91,22 @@
             <link>https://www.thedailystar.net/opinion/news/education-system-must-be-built-proficiency-not-pass-rates-4116146</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/education-system-must-be-built-proficiency-not-pass-rates-4116146</guid>
             <dc:creator><![CDATA[Ananta Neelim]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The poison tree of Rangpur]]></title>
+            <description><![CDATA[By S Dilip Roy]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/the-poison-tree-rangpur-4116606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/the-poison-tree-rangpur-4116606</guid>
+            <dc:creator><![CDATA[S Dilip Roy]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Voting without access: How the national election failed voters with disabilities]]></title>
+            <description><![CDATA[For the first time in years, voters across Bangladesh felt they had taken part in a national election without fear.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/voting-without-access-how-the-national-election-failed-voters-disabilities-4116601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/voting-without-access-how-the-national-election-failed-voters-disabilities-4116601</guid>
+            <dc:creator><![CDATA[Ystiaque Ahmed]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
