@@ -4,59 +4,21 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 11:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 12:59:56 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 11:26:47 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 12:59:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Traders urge urgent steps to improve law and order]]></title>
-            <link>https://www.thedailystar.net/business/news/traders-urge-urgent-steps-improve-law-and-order-4117066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/traders-urge-urgent-steps-improve-law-and-order-4117066</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police baton charge garment workers protesting on Dhaka–Sylhet highway]]></title>
-            <description><![CDATA[Around 200 workers demand January salaries]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/police-baton-charge-garment-workers-protesting-dhaka-sylhet-highway-4116996</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/police-baton-charge-garment-workers-protesting-dhaka-sylhet-highway-4116996</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CAMPE calls for legal framework to implement 12-point education agenda]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/campe-calls-legal-framework-implement-12-point-education-agenda-4117031</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/campe-calls-legal-framework-implement-12-point-education-agenda-4117031</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jammu and Kashmir clinch maiden Ranji Trophy title after 67-year wait]]></title>
-            <description><![CDATA["I cannot explain and I don't have any words. It is the biggest thing in my life," Jammu and Kashmir captain Paras Dogra said.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/jammu-and-kashmir-clinch-maiden-ranji-trophy-title-after-67-year-wait-4117061</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/jammu-and-kashmir-clinch-maiden-ranji-trophy-title-after-67-year-wait-4117061</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live updates / US, Israel strike Iran; Tehran starts retaliation]]></title>
-            <description><![CDATA[Explosions were heard in Tehran on Saturday, Iranian media reported. 'Hour of your freedom is at hand,' Trump tells Iranians.]]></description>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tarique continues office on holidays, attends meeting]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/tarique-continues-office-holidays-attends-meeting-4117011</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tarique-continues-office-holidays-attends-meeting-4117011</guid>
+            <title><![CDATA[Analysis / A war neither Pakistan nor Afghanistan can win, but South Asia will lose]]></title>
+            <link>https://www.thedailystar.net/analysis-2/news/war-neither-pakistan-nor-afghanistan-can-win-south-asia-will-lose-4117076</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/analysis-2/news/war-neither-pakistan-nor-afghanistan-can-win-south-asia-will-lose-4117076</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Shipping minister orders legal action over delayed unloading of imported food grains]]></title>
+            <description><![CDATA[Surprise visit to Dhaleshwari finds wheat, maize-laden lighter vessels anchored for up to 18 days]]></description>
             <link>https://www.thedailystar.net/news/governance/news/shipping-minister-orders-legal-action-over-delayed-unloading-imported-food-grains-4116986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/shipping-minister-orders-legal-action-over-delayed-unloading-imported-food-grains-4116986</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump warns some Americans may die amid US strikes in Iran]]></title>
-            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/trump-warns-some-americans-may-die-amid-us-strikes-iran-4117041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/trump-warns-some-americans-may-die-amid-us-strikes-iran-4117041</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -67,14 +29,52 @@
         </item>
         <item>
             <title><![CDATA[Jamaat women’s wing demands justice for violence against women, children]]></title>
+            <description><![CDATA[10-point charter seeks safety measures, speedy trials, and accountability]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/jamaat-womens-wing-demands-justice-violence-against-women-children-4117046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/jamaat-womens-wing-demands-justice-violence-against-women-children-4117046</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Govt to proceed with Bangla Academy award for Mohon Raihan after review]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/govt-proceed-bangla-academy-award-mohon-raihan-after-review-4117021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-proceed-bangla-academy-award-mohon-raihan-after-review-4117021</guid>
+            <title><![CDATA[Live updates / US‑Israel attacks on Iran escalate, death toll climbs amid Iranian retaliation]]></title>
+            <description><![CDATA[Explosions were heard in Tehran on Saturday, Iranian media reported. 'Hour of your freedom is at hand,' Trump tells Iranians.]]></description>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biman suspends Middle East bound flights]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/biman-suspends-middle-east-bound-flights-4117081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/biman-suspends-middle-east-bound-flights-4117081</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump warns some Americans may die amid US strikes in Iran]]></title>
+            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/trump-warns-some-americans-may-die-amid-us-strikes-iran-4117041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/trump-warns-some-americans-may-die-amid-us-strikes-iran-4117041</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flights between Dhaka and Gulf destinations suspended amid tensions]]></title>
+            <link>https://www.thedailystar.net/business/economy/aviation/news/flights-between-dhaka-and-gulf-destinations-suspended-amid-tensions-4117096</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/aviation/news/flights-between-dhaka-and-gulf-destinations-suspended-amid-tensions-4117096</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home minister promises action over attacks on Prothom Alo, Daily Star]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/home-minister-promises-action-over-attacks-prothom-alo-daily-star-4117106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/home-minister-promises-action-over-attacks-prothom-alo-daily-star-4117106</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh embassy advises citizens in Qatar to stay indoors]]></title>
+            <link>https://www.thedailystar.net/nrb/away-home/embassy-more/news/bangladesh-embassy-advises-citizens-qatar-stay-indoors-4117101</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/nrb/away-home/embassy-more/news/bangladesh-embassy-advises-citizens-qatar-stay-indoors-4117101</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tarique continues office on holidays, attends meeting]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/tarique-continues-office-holidays-attends-meeting-4117011</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tarique-continues-office-holidays-attends-meeting-4117011</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -140,21 +140,21 @@
             <pubDate>Sat, 28 Feb 2026 01:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[UN panel sets up process to assess Bangladesh’s request to delay LDC graduation]]></title>
-            <link>https://www.thedailystar.net/business/news/un-panel-sets-process-assess-bangladeshs-request-delay-ldc-graduation-4116596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/un-panel-sets-process-assess-bangladeshs-request-delay-ldc-graduation-4116596</guid>
+            <title><![CDATA[Business Plus  / The rice gene bank that feeds Bangladesh]]></title>
+            <link>https://www.thedailystar.net/business/news/the-rice-gene-bank-feeds-bangladesh-4116591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/the-rice-gene-bank-feeds-bangladesh-4116591</guid>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jammu and Kashmir clinch maiden Ranji Trophy title after 67-year wait]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/jammu-and-kashmir-clinch-maiden-ranji-trophy-title-after-67-year-wait-4117061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/jammu-and-kashmir-clinch-maiden-ranji-trophy-title-after-67-year-wait-4117061</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[2026 Women's Asian Cup: When and where are Bangladesh's matches]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/2026-womens-asian-cup-when-and-where-are-bangladeshs-matches-4116966</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/2026-womens-asian-cup-when-and-where-are-bangladeshs-matches-4116966</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top Dhallywood stars set to lead Eid 2026 releases]]></title>
-            <link>https://www.thedailystar.net/entertainment/tv-film/news/top-dhallywood-stars-set-lead-eid-2026-releases-4117016</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/top-dhallywood-stars-set-lead-eid-2026-releases-4117016</guid>
+            <title><![CDATA[Farooki breaks silence on ‘Shonibar Bikel’ theatre release]]></title>
+            <link>https://www.thedailystar.net/entertainment/tv-film/news/farooki-breaks-silence-shonibar-bikel-theatre-release-4117071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/farooki-breaks-silence-shonibar-bikel-theatre-release-4117071</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
