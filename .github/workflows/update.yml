@@ -1,4 +1,4 @@
-name: Update RSS Feed
+name: Update English RSS Feed
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     services:
       flaresolverr:
         image: ghcr.io/flaresolverr/flaresolverr:latest
@@ -17,7 +17,7 @@ jobs:
         env:
           LOG_LEVEL: info
           CAPTCHA_SOLVER: none
-    
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -42,19 +42,18 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Generate RSS
-        run: npm start
+      - name: Generate English RSS
+        run: node generate-rss.js
         env:
           FLARESOLVERR_URL: http://localhost:8191
 
-      - name: Commit and push changes
+      - name: Commit English feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [ -f feeds/feed.xml ]; then
             git add feeds/feed.xml
-            git commit -m "Auto-update RSS feed [skip ci]" || echo "No changes to commit"
+            git commit -m "Auto-update English RSS feed [skip ci]" || echo "No changes to commit"
             git push
           else
             echo "⚠️ feeds/feed.xml not found. Skipping commit."
-          fi
