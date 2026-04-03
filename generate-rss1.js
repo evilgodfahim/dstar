@@ -6,7 +6,7 @@ const RSS = require("rss");
 const baseURL = "https://bangla.thedailystar.net";
 const targetURL = "https://bangla.thedailystar.net/";
 const flareSolverrURL = process.env.FLARESOLVERR_URL || "http://localhost:8191";
-const FEED_PATH = "./feeds/feed.xml";
+const FEED_PATH = "./feeds/bangla_feed.xml";
 const MAX_ITEMS = 500;
 
 fs.mkdirSync("./feeds", { recursive: true });
