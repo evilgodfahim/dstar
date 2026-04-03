@@ -2,11 +2,7 @@
   "name": "dailystar-opinion-feed",
   "version": "1.0.0",
   "description": "RSS feed generator for The Daily Star (English + Bangla)",
-  "scripts": {
-    "english": "node generate-rss.js",
-    "bangla": "node generate-rss1.js",
-    "all": "npm run english && npm run bangla"
-  },
+  "scripts": {},
   "dependencies": {
     "axios": "^1.7.0",
     "cheerio": "^1.0.0-rc.12",
