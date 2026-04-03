@@ -47,13 +47,15 @@ jobs:
         env:
           FLARESOLVERR_URL: http://localhost:8191
 
-      - name: Commit Bangla feed
+      - name: Commit and push Bangla feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           if [ -f feeds/bangla_feed.xml ]; then
             git add feeds/bangla_feed.xml
             git commit -m "Auto-update Bangla RSS feed [skip ci]" || echo "No changes to commit"
             git push
           else
             echo "⚠️ feeds/bangla_feed.xml not found. Skipping commit."
+          fi
