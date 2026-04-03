@@ -1,10 +1,13 @@
 {
   "name": "dailystar-opinion-feed",
   "version": "1.0.0",
-  "description": "RSS feed generator for The Daily Star Opinion section",
+  "description": "RSS feed generator for The Daily Star (English + Bangla)",
   "main": "generate-rss.js",
   "scripts": {
-    "start": "node generate-rss.js"
+    "start": "npm run english",
+    "english": "node generate-rss.js",
+    "bangla": "node generate-rss1.js",
+    "all": "npm run english && npm run bangla"
   },
   "dependencies": {
     "axios": "^1.7.0",
