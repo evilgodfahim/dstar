@@ -1,4 +1,4 @@
-name: Update RSS Feed
+name: Update Bangla RSS Feed
 
 on:
   schedule:
@@ -42,42 +42,18 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # ===== RUN BOTH FEEDS (separate, fail-safe) =====
-      - name: Generate English RSS
-        run: npm run english
-        env:
-          FLARESOLVERR_URL: http://localhost:8191
-
       - name: Generate Bangla RSS
-        run: npm run bangla
+        run: node generate-rss1.js
         env:
           FLARESOLVERR_URL: http://localhost:8191
 
-      # ===== COMMIT BOTH FILES =====
-      - name: Commit and push changes
+      - name: Commit Bangla feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          CHANGED=0
-
-          if [ -f feeds/feed.xml ]; then
-            git add feeds/feed.xml
-            CHANGED=1
-          else
-            echo "⚠️ feeds/feed.xml not found"
-          fi
-
           if [ -f feeds/bangla_feed.xml ]; then
             git add feeds/bangla_feed.xml
-            CHANGED=1
-          else
-            echo "⚠️ feeds/bangla_feed.xml not found"
-          fi
-
-          if [ $CHANGED -eq 1 ]; then
-            git commit -m "Auto-update RSS feeds [skip ci]" || echo "No changes to commit"
+            git commit -m "Auto-update Bangla RSS feed [skip ci]" || echo "No changes to commit"
             git push
           else
-            echo "⚠️ No feed files found. Skipping commit."
-          fi
+            echo "⚠️ feeds/bangla_feed.xml not found. Skipping commit."
