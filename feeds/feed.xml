@@ -4,39 +4,148 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 12:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 16:05:03 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
+        <pubDate>Fri, 05 Jun 2026 16:05:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.06.04)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260604-4190826</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260604-4190826</guid>
-            <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dhaka at the Palais / A girl and her horse trudge through the Short Film Corner]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/girl-and-her-horse-trudge-through-the-short-film-corner-4182106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/girl-and-her-horse-trudge-through-the-short-film-corner-4182106</guid>
-            <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[News Report / A bilingual ode to the hills: On the launch of Adivasi Premikar Mukh: The Portrait of an Adivasi Beloved]]></title>
             <link>https://www.thedailystar.net/news/news/bilingual-ode-the-hills-the-launch-adivasi-premikar-mukh-the-portrait-adivasi-beloved-4178481</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/news/bilingual-ode-the-hills-the-launch-adivasi-premikar-mukh-the-portrait-adivasi-beloved-4178481</guid>
-            <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ever wonder how the name Tikatuli came about?]]></title>
             <link>https://www.thedailystar.net/ds/my-dhaka/news/ever-wonder-how-the-name-tikatuli-came-about-4178676</link>
             <guid isPermaLink="true">https://www.thedailystar.net/ds/my-dhaka/news/ever-wonder-how-the-name-tikatuli-came-about-4178676</guid>
-            <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Eid quietly changes for parents every single year]]></title>
             <link>https://www.thedailystar.net/life-living/relationships-family/news/how-eid-quietly-changes-parents-every-single-year-4184281</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/relationships-family/news/how-eid-quietly-changes-parents-every-single-year-4184281</guid>
-            <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Ali’ wins another international prize, this time at Balinale 2026]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/ali-wins-another-international-prize-time-balinale-2026-4191371</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/ali-wins-another-international-prize-time-balinale-2026-4191371</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aussies touch down in Dhaka for ODI, T20I series]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/aussies-touch-down-dhaka-odi-t20i-series-4191381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/aussies-touch-down-dhaka-odi-t20i-series-4191381</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Environment Day / How BNP can make its 25 crore tree plantation project work]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/how-bnp-can-make-its-25-crore-tree-plantation-project-work-4190861</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-bnp-can-make-its-25-crore-tree-plantation-project-work-4190861</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Environment Day / Time to address the unequal burden of environmental change]]></title>
+            <description><![CDATA[Every year, Bangladesh observes World Environment Day with the same familiar rituals: tree plantation drives, school rallies, and repeated promises to address pollution and climate change.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/time-address-the-unequal-burden-environmental-change-4190856</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-address-the-unequal-burden-environmental-change-4190856</guid>
+            <dc:creator><![CDATA[Nazmun Naher]]></dc:creator>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electricity price hikes: Why is BNP reverting to failed power policies?]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/electricity-price-hikes-why-bnp-reverting-failed-power-policies-4190851</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/electricity-price-hikes-why-bnp-reverting-failed-power-policies-4190851</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Address the risks of AI-enabled identity fraud]]></title>
+            <description><![CDATA[Dismislab’s recent findings on artificial intelligence’s (AI) ability to generate altered versions of Bangladeshi National Identity (NID) cards should serve as a wake-up call for both policymakers and technology companies.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/address-the-risks-ai-enabled-identity-fraud-4190846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-the-risks-ai-enabled-identity-fraud-4190846</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A tragedy born of negligence]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/tragedy-born-negligence-4191301</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/tragedy-born-negligence-4191301</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 more children die with measles-like symptoms, toll reaches 610]]></title>
+            <link>https://www.thedailystar.net/health/disease/news/5-more-children-die-measles-symptoms-toll-reaches-610-4191306</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/5-more-children-die-measles-symptoms-toll-reaches-610-4191306</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran dismisses idea of Trump meeting supreme leader]]></title>
+            <link>https://www.thedailystar.net/news/world/news/iran-dismisses-idea-trump-meeting-supreme-leader-4191356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/iran-dismisses-idea-trump-meeting-supreme-leader-4191356</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Senate approves $70 bn for Trump immigration crackdown]]></title>
+            <link>https://www.thedailystar.net/news/world/news/us-senate-approves-70-bn-trump-immigration-crackdown-4191331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/us-senate-approves-70-bn-trump-immigration-crackdown-4191331</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FIFA World Cup fever sweeps through Old Dhaka in colourful fan procession]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/fifa-world-cup-fever-sweeps-through-old-dhaka-colourful-fan-procession-4191401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/fifa-world-cup-fever-sweeps-through-old-dhaka-colourful-fan-procession-4191401</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Delhi hotel fire: Bangladeshi victim had travelled for relative’s kidney treatment]]></title>
+            <link>https://www.thedailystar.net/news/accidents-fires/news/delhi-hotel-fire-bangladeshi-victim-had-travelled-relatives-kidney-treatment-4191376</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-fires/news/delhi-hotel-fire-bangladeshi-victim-had-travelled-relatives-kidney-treatment-4191376</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leak on space station triggers brief safety alert]]></title>
+            <link>https://www.thedailystar.net/historical/science/news/leak-space-station-triggers-brief-safety-alert-4191416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/historical/science/news/leak-space-station-triggers-brief-safety-alert-4191416</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran declares support for Hezbollah with wider peace deal in doubt]]></title>
+            <description><![CDATA[Fighting continues across Lebanon, Gaza, northern Israel, and Kuwait despite ceasefires]]></description>
+            <link>https://www.thedailystar.net/news/world/news/iran-declares-support-hezbollah-wider-peace-deal-doubt-4191321</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/iran-declares-support-hezbollah-wider-peace-deal-doubt-4191321</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BGB blocks multiple push-in attempts along northern border]]></title>
+            <description><![CDATA[Dozens, including women and children, remain stranded near zero line in Lalmonirhat, Panchagarh and Chapainawabganj]]></description>
+            <link>https://www.thedailystar.net/news/cross-border/news/bgb-blocks-multiple-push-attempts-along-northern-border-4191251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/cross-border/news/bgb-blocks-multiple-push-attempts-along-northern-border-4191251</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brazil supporters hold motorcycle procession in Rangamati]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/brazil-supporters-hold-motorcycle-procession-rangamati-4191411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/brazil-supporters-hold-motorcycle-procession-rangamati-4191411</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ireland bans two Israeli ministers from entering country]]></title>
+            <link>https://www.thedailystar.net/news/world/news/ireland-bans-two-israeli-ministers-entering-country-4191366</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/ireland-bans-two-israeli-ministers-entering-country-4191366</guid>
+            <pubDate>Fri, 05 Jun 2026 16:05:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladeshi documentary ‘Payer Chhaap’ to be screened in China]]></title>
@@ -57,43 +166,9 @@
             <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Environment Day / How BNP can make its 25 crore tree plantation project work]]></title>
-            <description><![CDATA[On March 4, 2026, the Bangladeshi premier formalised his government’s plan to plant 25 crore trees during its current tenure, thus keeping the BNP’s election promise.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-bnp-can-make-its-25-crore-tree-plantation-project-work-4190861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-bnp-can-make-its-25-crore-tree-plantation-project-work-4190861</guid>
-            <dc:creator><![CDATA[Haseeb Md. Irfanullah]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Address the risks of AI-enabled identity fraud]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/address-the-risks-ai-enabled-identity-fraud-4190846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/address-the-risks-ai-enabled-identity-fraud-4190846</guid>
-            <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A tragedy born of negligence]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/tragedy-born-negligence-4191301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/tragedy-born-negligence-4191301</guid>
-            <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will we learn from the Khan Jahan Ali crocodile tragedy?]]></title>
-            <description><![CDATA[Following Khan Jahan Ali crocodile tragedy, questions emerge about wildlife management, safety, and institutional reform in Bangladesh.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/will-we-learn-the-khan-jahan-ali-crocodile-tragedy-4190841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/will-we-learn-the-khan-jahan-ali-crocodile-tragedy-4190841</guid>
-            <dc:creator><![CDATA[Reza Khan]]></dc:creator>
-            <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[World Environment Day / Lawachara: The forest that breathes plastic]]></title>
             <link>https://www.thedailystar.net/news/environment/news/lawachara-the-forest-breathes-plastic-4191231</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/environment/news/lawachara-the-forest-breathes-plastic-4191231</guid>
-            <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Environment Day / Time to address the unequal burden of environmental change]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/time-address-the-unequal-burden-environmental-change-4190856</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-address-the-unequal-burden-environmental-change-4190856</guid>
             <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
         </item>
         <item>
@@ -106,19 +181,6 @@
             <title><![CDATA[Who will answer for Bangladesh’s ecological wounds?]]></title>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/who-will-answer-bangladeshs-ecological-wounds-4191126</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/who-will-answer-bangladeshs-ecological-wounds-4191126</guid>
-            <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 more children die with measles-like symptoms, toll reaches 610]]></title>
-            <description><![CDATA[Confirmed measles fatalities remain at 91]]></description>
-            <link>https://www.thedailystar.net/health/disease/news/5-more-children-die-measles-symptoms-toll-reaches-610-4191306</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/5-more-children-die-measles-symptoms-toll-reaches-610-4191306</guid>
-            <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BGB blocks multiple push-in attempts along northern border]]></title>
-            <link>https://www.thedailystar.net/news/cross-border/news/bgb-blocks-multiple-push-attempts-along-northern-border-4191251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/cross-border/news/bgb-blocks-multiple-push-attempts-along-northern-border-4191251</guid>
             <pubDate>Fri, 05 Jun 2026 12:15:04 GMT</pubDate>
         </item>
         <item>
@@ -159,12 +221,6 @@
             <pubDate>Fri, 05 Jun 2026 08:47:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Electricity price hikes: Why is BNP reverting to failed power policies?]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/electricity-price-hikes-why-bnp-reverting-failed-power-policies-4190851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/electricity-price-hikes-why-bnp-reverting-failed-power-policies-4190851</guid>
-            <pubDate>Fri, 05 Jun 2026 08:47:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Father incurs Tk 6 lakh in debt trying to save twins, loses both to measles]]></title>
             <link>https://www.thedailystar.net/health/disease/news/father-incurs-tk-6-lakh-debt-trying-save-twins-loses-both-measles-4191256</link>
             <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/father-incurs-tk-6-lakh-debt-trying-save-twins-loses-both-measles-4191256</guid>
@@ -188,6 +244,13 @@
             <link>https://www.thedailystar.net/business/news/mgi-barred-taking-80-million-ifc-loan-4190751</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/mgi-barred-taking-80-million-ifc-loan-4190751</guid>
             <pubDate>Fri, 05 Jun 2026 08:47:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will we learn from the Khan Jahan Ali crocodile tragedy?]]></title>
+            <description><![CDATA[Following Khan Jahan Ali crocodile tragedy, questions emerge about wildlife management, safety, and institutional reform in Bangladesh.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/will-we-learn-the-khan-jahan-ali-crocodile-tragedy-4190841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/will-we-learn-the-khan-jahan-ali-crocodile-tragedy-4190841</guid>
+            <pubDate>Fri, 05 Jun 2026 08:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Entertainment’s rising stars / Tragedy made Hridoy a tea-seller, passion made him a successful rapper]]></title>
@@ -3106,68 +3169,6 @@ Readers can access the e-paper for free during the holiday.]]></description>
             <link>https://www.thedailystar.net/culture/news/the-real-gore-hunger-4185991</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/news/the-real-gore-hunger-4185991</guid>
             <pubDate>Fri, 29 May 2026 04:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM Tarique pledges ‘desired Bangladesh’ in Eid address to army]]></title>
-            <description><![CDATA[Calls for collective duty and cooperation]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/pm-tarique-pledges-desired-bangladesh-eid-address-army-4186036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-tarique-pledges-desired-bangladesh-eid-address-army-4186036</guid>
-            <pubDate>Fri, 29 May 2026 04:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Messi leads Argentina squad for sixth World Cup]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/messi-leads-argentina-squad-sixth-world-cup-4186191</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/messi-leads-argentina-squad-sixth-world-cup-4186191</guid>
-            <pubDate>Fri, 29 May 2026 04:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.05.29)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260529-4186181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260529-4186181</guid>
-            <pubDate>Fri, 29 May 2026 01:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[People who stay back in Dhaka on Eid]]></title>
-            <link>https://www.thedailystar.net/ds/my-dhaka/news/people-who-stay-back-dhaka-eid-4186171</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/ds/my-dhaka/news/people-who-stay-back-dhaka-eid-4186171</guid>
-            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fashion, footwear retailers report weak Eid sales]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/fashion-footwear-retailers-report-weak-eid-sales-4186151</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/fashion-footwear-retailers-report-weak-eid-sales-4186151</guid>
-            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt gunning for 6.5pc growth next year]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/govt-gunning-65pc-growth-next-year-4186106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-gunning-65pc-growth-next-year-4186106</guid>
-            <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Between homecomings and holidays abroad: Celebrities celebrate Eid]]></title>
-            <link>https://www.thedailystar.net/culture/tv-film/news/between-homecomings-and-holidays-abroad-celebrities-celebrate-eid-4186026</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/between-homecomings-and-holidays-abroad-celebrities-celebrate-eid-4186026</guid>
-            <pubDate>Thu, 28 May 2026 23:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interview /  Brazil must leave egos behind: Weverton]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/brazil-must-leave-egos-behind-weverton-4186066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/brazil-must-leave-egos-behind-weverton-4186066</guid>
-            <pubDate>Thu, 28 May 2026 23:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[14 Days To Go / Ronaldo’s greatest feats on football’s biggest stage]]></title>
-            <description><![CDATA[Since stepping into professional football in 2002, Cristiano Ronaldo has dazzled audiences from Lisbon to Manchester, Madrid, and now Saudi Arabia. He has conquered Europe with both club and country, and in his glittering career, he is steadily moving toward the unbelievable milestone of 1,000 goals.]]></description>
-            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/ronaldos-greatest-feats-footballs-biggest-stage-4186086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/ronaldos-greatest-feats-footballs-biggest-stage-4186086</guid>
-            <pubDate>Thu, 28 May 2026 23:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sinner cites fatigue after French Open exit, eyes rest before Wimbledon]]></title>
-            <link>https://www.thedailystar.net/sports/more-sports/tennis/news/sinner-cites-fatigue-after-french-open-exit-eyes-rest-wimbledon-4186091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/tennis/news/sinner-cites-fatigue-after-french-open-exit-eyes-rest-wimbledon-4186091</guid>
-            <pubDate>Thu, 28 May 2026 23:22:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
