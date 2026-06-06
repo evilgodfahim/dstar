@@ -4,39 +4,162 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jun 2026 10:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 12:09:49 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
+        <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.06.04)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260604-4190826</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260604-4190826</guid>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dhaka at the Palais / A girl and her horse trudge through the Short Film Corner]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/girl-and-her-horse-trudge-through-the-short-film-corner-4182106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/girl-and-her-horse-trudge-through-the-short-film-corner-4182106</guid>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[News Report / A bilingual ode to the hills: On the launch of Adivasi Premikar Mukh: The Portrait of an Adivasi Beloved]]></title>
             <link>https://www.thedailystar.net/news/news/bilingual-ode-the-hills-the-launch-adivasi-premikar-mukh-the-portrait-adivasi-beloved-4178481</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/news/bilingual-ode-the-hills-the-launch-adivasi-premikar-mukh-the-portrait-adivasi-beloved-4178481</guid>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ever wonder how the name Tikatuli came about?]]></title>
             <link>https://www.thedailystar.net/ds/my-dhaka/news/ever-wonder-how-the-name-tikatuli-came-about-4178676</link>
             <guid isPermaLink="true">https://www.thedailystar.net/ds/my-dhaka/news/ever-wonder-how-the-name-tikatuli-came-about-4178676</guid>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Eid quietly changes for parents every single year]]></title>
             <link>https://www.thedailystar.net/life-living/relationships-family/news/how-eid-quietly-changes-parents-every-single-year-4184281</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/relationships-family/news/how-eid-quietly-changes-parents-every-single-year-4184281</guid>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shilpakala Academy honours Humayun Ahmed with a special tribute event]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/shilpakala-academy-honours-humayun-ahmed-special-tribute-event-4191936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/shilpakala-academy-honours-humayun-ahmed-special-tribute-event-4191936</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India name Sooryavanshi in T20 squad, Suryakumar fired as captain]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/india-name-sooryavanshi-t20-squad-suryakumar-fired-captain-4191836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/india-name-sooryavanshi-t20-squad-suryakumar-fired-captain-4191836</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should Bangladesh Bank cut rates in the middle of an energy shock?]]></title>
+            <link>https://www.thedailystar.net/business/news/should-bangladesh-bank-cut-rates-the-middle-energy-shock-4191736</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/should-bangladesh-bank-cut-rates-the-middle-energy-shock-4191736</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The structural flaw in how we support entrepreneurs]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/the-structural-flaw-how-we-support-entrepreneurs-4191471</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-structural-flaw-how-we-support-entrepreneurs-4191471</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After initial rejection, Bangladesh Bank reconsiders MGI's $80m IFC loan]]></title>
+            <link>https://www.thedailystar.net/business/news/mgi-barred-taking-80-million-ifc-loan-4190751</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/mgi-barred-taking-80-million-ifc-loan-4190751</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life and death on Bangladesh’s char islands]]></title>
+            <description><![CDATA[For Nazma Begum, motherhood became a memory of grief before it could become a fulfilled dream. Two years ago, the 20-year-old gave birth to her first child on a remote river island in northern Bangladesh. The joy of holding her newborn lasted only three days.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/life-and-death-bangladeshs-char-islands-4191636</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/life-and-death-bangladeshs-char-islands-4191636</guid>
+            <dc:creator><![CDATA[S Dilip Roy]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From a shrine pond to a Mirpur flat: We keep mourning what we fail to protect]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/shrine-pond-mirpur-flat-we-keep-mourning-what-we-fail-protect-4191486</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/shrine-pond-mirpur-flat-we-keep-mourning-what-we-fail-protect-4191486</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Bangladesh achieve energy sovereignty? A new perspective]]></title>
+            <description><![CDATA[Bangladesh stands at a critical developmental crossroads, paralysed by an acute and systemic energy crisis. Recent global shortages in fossil fuels have exposed the severe vulnerabilities of the nation’s energy architecture.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-achieve-energy-sovereignty-new-perspective-4191451</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-achieve-energy-sovereignty-new-perspective-4191451</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CNG filling station owners seek commission hike to Tk 13.96 from Tk 8]]></title>
+            <link>https://www.thedailystar.net/news/environment/natural-resources/energy/news/cng-filling-station-owners-seek-commission-hike-tk-1396-tk-8-4191806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/natural-resources/energy/news/cng-filling-station-owners-seek-commission-hike-tk-1396-tk-8-4191806</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Tofail Bhai I knew]]></title>
+            <description><![CDATA[By Mujahidul Islam Selim]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/the-tofail-bhai-i-knew-4191851</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-tofail-bhai-i-knew-4191851</guid>
+            <dc:creator><![CDATA[Mujahidul Islam Selim]]></dc:creator>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BGB foils BSF push-in attempt at Thakurgaon border]]></title>
+            <link>https://www.thedailystar.net/news/news/bgb-foils-bsf-push-attempt-thakurgaon-border-4191946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/bgb-foils-bsf-push-attempt-thakurgaon-border-4191946</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seven killed in separate road crashes across country]]></title>
+            <link>https://www.thedailystar.net/news/accidents-fires/news/seven-killed-separate-road-crashes-across-country-4191901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-fires/news/seven-killed-separate-road-crashes-across-country-4191901</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ad-din terms newborn deaths ‘unexpected negligence’, suspends two staffers]]></title>
+            <link>https://www.thedailystar.net/news/healthcare/hospitals/news/ad-din-terms-newborn-deaths-unexpected-negligence-suspends-two-staffers-4191841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/hospitals/news/ad-din-terms-newborn-deaths-unexpected-negligence-suspends-two-staffers-4191841</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tarique Rahman stresses area-specific tree plantation for better survival rate]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/tarique-rahman-stresses-area-specific-tree-plantation-better-survival-rate-4191896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tarique-rahman-stresses-area-specific-tree-plantation-better-survival-rate-4191896</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Show-cause notice within law, says health minister countering Ad-din's challenge]]></title>
+            <link>https://www.thedailystar.net/news/healthcare/news/show-cause-notice-within-law-says-health-minister-countering-ad-dins-challenge-4191916</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/news/show-cause-notice-within-law-says-health-minister-countering-ad-dins-challenge-4191916</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Overhaul CETP management to boost leather sector compliance: economist]]></title>
+            <description><![CDATA[The call emerged during a webinar today on the future of the country's leather sector]]></description>
+            <link>https://www.thedailystar.net/business/news/overhaul-cetp-management-boost-leather-sector-compliance-economist-4191921</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/overhaul-cetp-management-boost-leather-sector-compliance-economist-4191921</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Butler makes two changes for SAFF final against India]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/butler-makes-two-changes-saff-final-against-india-4191926</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/butler-makes-two-changes-saff-final-against-india-4191926</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Technology, innovation crucial for agro-industrial growth: information minister]]></title>
+            <description><![CDATA[The minister handed over the Bangladesh Agro-Industry Media Award 2025]]></description>
+            <link>https://www.thedailystar.net/business/news/technology-innovation-crucial-agro-industrial-growth-information-minister-4191931</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/technology-innovation-crucial-agro-industrial-growth-information-minister-4191931</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking free from power sector looting cartel will take time: Info minister]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/breaking-free-power-sector-looting-cartel-will-take-time-info-minister-4191831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/breaking-free-power-sector-looting-cartel-will-take-time-info-minister-4191831</guid>
+            <pubDate>Sat, 06 Jun 2026 12:09:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Jumanji’ and ‘Top Gun: Maverick’ actor James Handy stabbed to death]]></title>
@@ -51,51 +174,10 @@
             <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Should Bangladesh Bank cut rates in the middle of an energy shock?]]></title>
-            <link>https://www.thedailystar.net/business/news/should-bangladesh-bank-cut-rates-the-middle-energy-shock-4191736</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/should-bangladesh-bank-cut-rates-the-middle-energy-shock-4191736</guid>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The structural flaw in how we support entrepreneurs]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/the-structural-flaw-how-we-support-entrepreneurs-4191471</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-structural-flaw-how-we-support-entrepreneurs-4191471</guid>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After initial rejection, Bangladesh Bank reconsiders MGI's $80m IFC loan]]></title>
-            <link>https://www.thedailystar.net/business/news/mgi-barred-taking-80-million-ifc-loan-4190751</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/mgi-barred-taking-80-million-ifc-loan-4190751</guid>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A tragedy born of negligence]]></title>
             <description><![CDATA[Hold those responsible for newborn deaths at Ad-din hospital to account.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/tragedy-born-negligence-4191301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/tragedy-born-negligence-4191301</guid>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From a shrine pond to a Mirpur flat: We keep mourning what we fail to protect]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/shrine-pond-mirpur-flat-we-keep-mourning-what-we-fail-protect-4191486</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/shrine-pond-mirpur-flat-we-keep-mourning-what-we-fail-protect-4191486</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Bangladesh achieve energy sovereignty? A new perspective]]></title>
-            <description><![CDATA[Bangladesh stands at a critical developmental crossroads, paralysed by an acute and systemic energy crisis. Recent global shortages in fossil fuels have exposed the severe vulnerabilities of the nation’s energy architecture.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-achieve-energy-sovereignty-new-perspective-4191451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-achieve-energy-sovereignty-new-perspective-4191451</guid>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life and death on Bangladesh’s char islands]]></title>
-            <description><![CDATA[By S Dilip Roy]]></description>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/life-and-death-bangladeshs-char-islands-4191636</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/life-and-death-bangladeshs-char-islands-4191636</guid>
-            <dc:creator><![CDATA[S Dilip Roy]]></dc:creator>
             <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
         </item>
         <item>
@@ -114,24 +196,6 @@
             <title><![CDATA[Six injured in separate gas explosions in Mirpur, Uttarkhan]]></title>
             <link>https://www.thedailystar.net/news/accidents-fires/news/six-injured-separate-gas-explosions-mirpur-uttarkhan-4191861</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-fires/news/six-injured-separate-gas-explosions-mirpur-uttarkhan-4191861</guid>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CNG filling station owners seek commission hike to Tk 13.96 from Tk 8]]></title>
-            <link>https://www.thedailystar.net/news/environment/natural-resources/energy/news/cng-filling-station-owners-seek-commission-hike-tk-1396-tk-8-4191806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/natural-resources/energy/news/cng-filling-station-owners-seek-commission-hike-tk-1396-tk-8-4191806</guid>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ad-din terms newborn deaths ‘unexpected negligence’, suspends two staffers]]></title>
-            <link>https://www.thedailystar.net/news/healthcare/hospitals/news/ad-din-terms-newborn-deaths-unexpected-negligence-suspends-two-staffers-4191841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/hospitals/news/ad-din-terms-newborn-deaths-unexpected-negligence-suspends-two-staffers-4191841</guid>
-            <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking free from power sector looting cartel will take time: Info minister]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/breaking-free-power-sector-looting-cartel-will-take-time-info-minister-4191831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/breaking-free-power-sector-looting-cartel-will-take-time-info-minister-4191831</guid>
             <pubDate>Sat, 06 Jun 2026 10:12:01 GMT</pubDate>
         </item>
         <item>
@@ -378,6 +442,12 @@
             <description><![CDATA[The performances of ministers, state ministers, and lawmakers are under close scrutiny as Prime Minister Tarique Rahman has begun reviewing their efforts to deliver on the BNP’s election pledges, advance development initiatives, and maintain party discipline.]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/ministers-mps-face-closer-pmo-scrutiny-4191531</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/ministers-mps-face-closer-pmo-scrutiny-4191531</guid>
+            <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strangers at the table: Dhaka’s supper club stories]]></title>
+            <link>https://www.thedailystar.net/weekend-read/news/strangers-the-table-dhakas-supper-club-stories-4191446</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/weekend-read/news/strangers-the-table-dhakas-supper-club-stories-4191446</guid>
             <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3107,74 +3177,6 @@ Readers can access the e-paper for free during the holiday.]]></description>
             <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-says-no-negotiations-taking-place-nuclear-issue-state-tv-4186521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-says-no-negotiations-taking-place-nuclear-issue-state-tv-4186521</guid>
             <pubDate>Sat, 30 May 2026 04:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump to decide imminently on Iran deal, says Hormuz Strait must open]]></title>
-            <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/trump-decide-imminently-iran-deal-says-hormuz-strait-must-open-4186516</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/trump-decide-imminently-iran-deal-says-hormuz-strait-must-open-4186516</guid>
-            <pubDate>Sat, 30 May 2026 04:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eid waste lingers in Dhaka’s backstreets despite cleanup assurances]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/eid-waste-lingers-dhakas-backstreets-despite-cleanup-assurances-4186431</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/eid-waste-lingers-dhakas-backstreets-despite-cleanup-assurances-4186431</guid>
-            <pubDate>Sat, 30 May 2026 04:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zia’s 45th death anniv today]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/obituary/news/zias-45th-death-anniv-today-4186591</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/obituary/news/zias-45th-death-anniv-today-4186591</guid>
-            <pubDate>Sat, 30 May 2026 04:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three Bangladeshis hurt in Israeli strike in Lebanon]]></title>
-            <description><![CDATA[Victims include Joyena of Narsingdi, whose leg was amputated, Momin of Brahmanbaria, and an unidentified child]]></description>
-            <link>https://www.thedailystar.net/news/world/news/three-bangladeshis-hurt-israeli-strike-lebanon-4186491</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/three-bangladeshis-hurt-israeli-strike-lebanon-4186491</guid>
-            <pubDate>Sat, 30 May 2026 04:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[270 injured in Eid sacrifice-related incidents in Dhaka in 2 days]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/270-injured-eid-sacrifice-related-incidents-dhaka-2-days-4186471</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/270-injured-eid-sacrifice-related-incidents-dhaka-2-days-4186471</guid>
-            <pubDate>Sat, 30 May 2026 04:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2 city officials withdrawn after PM drives around Dhaka inspecting clean-up drive]]></title>
-            <description><![CDATA[Action taken after Tarique Rahman finds Qurbani waste and garbage on city roads during inspection]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/2-city-officials-withdrawn-after-pm-drives-around-dhaka-inspecting-clean-drive-4186456</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/2-city-officials-withdrawn-after-pm-drives-around-dhaka-inspecting-clean-drive-4186456</guid>
-            <pubDate>Sat, 30 May 2026 04:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mexico restricting travelers from Central Africa over Ebola fears]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/mexico-restricting-travelers-central-africa-over-ebola-fears-4186701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/mexico-restricting-travelers-central-africa-over-ebola-fears-4186701</guid>
-            <pubDate>Sat, 30 May 2026 04:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.05.30)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260530-4186631</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260530-4186631</guid>
-            <pubDate>Sat, 30 May 2026 02:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The sacred water world of the Sundarbans]]></title>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/the-sacred-water-world-the-sundarbans-4185496</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/the-sacred-water-world-the-sundarbans-4185496</guid>
-            <pubDate>Sat, 30 May 2026 00:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creative Nonfiction / Our Eids and Puja in Azimpur]]></title>
-            <link>https://www.thedailystar.net/culture/books-literature/news/our-eids-and-puja-azimpur-4186646</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/books-literature/news/our-eids-and-puja-azimpur-4186646</guid>
-            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NITOR sees post‑Eid patient surge]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/nitor-sees-post-eid-patient-surge-4186556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/nitor-sees-post-eid-patient-surge-4186556</guid>
-            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
