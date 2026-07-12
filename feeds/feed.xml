@@ -4,21 +4,199 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 15:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 17:07:03 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
+        <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The lost world of Dhaka's courtesans and baijis]]></title>
             <link>https://www.thedailystar.net/slow-reads/focus/news/the-lost-world-dhakas-courtesans-and-baijis-4199276</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-lost-world-dhakas-courtesans-and-baijis-4199276</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Interactive / A Bank Held Hostage]]></title>
             <link>https://www.thedailystar.net/ds/investigative-stories/news/bank-held-hostage-4173491</link>
             <guid isPermaLink="true">https://www.thedailystar.net/ds/investigative-stories/news/bank-held-hostage-4173491</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch / What awaits Sheikh Hasina when she returns to the country?]]></title>
+            <description><![CDATA[Recently, Reuters claimed that she wants to return to the country in December. But the question is, what will happen if Sheikh Hasina returns? Will she face trial? Will she be able to appeal?]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news-multimedia/news/what-awaits-sheikh-hasina-when-she-returns-the-country-4222181</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news-multimedia/news/what-awaits-sheikh-hasina-when-she-returns-the-country-4222181</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Politics and religion has now gotten mixed with support for WC team: Kazi Sabir]]></title>
+            <description><![CDATA[Watch today's episode of Star Discourse to find out more.]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/sports-multimedia/news/politics-and-religion-has-now-gotten-mixed-support-wc-team-kazi-sabir-4222196</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/sports-multimedia/news/politics-and-religion-has-now-gotten-mixed-support-wc-team-kazi-sabir-4222196</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#World Cup / Is FIFA really biased towards Argentina? Football fans debate!]]></title>
+            <link>https://www.thedailystar.net/life-living/news/fifa-really-biased-towards-argentina-football-fans-debate-4219056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/fifa-really-biased-towards-argentina-football-fans-debate-4219056</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#World Cup / Regular fans vs Seasonal fans: Same old fight every World Cup]]></title>
+            <link>https://www.thedailystar.net/life-living/news/regular-fans-vs-seasonal-fans-same-old-fight-every-world-cup-4219821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/regular-fans-vs-seasonal-fans-same-old-fight-every-world-cup-4219821</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#World Cup / 5 surprising facts about Moroccan football that make their story special]]></title>
+            <link>https://www.thedailystar.net/life-living/news/5-surprising-facts-about-moroccan-football-make-their-story-special-4219811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/5-surprising-facts-about-moroccan-football-make-their-story-special-4219811</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#Social Issues  / Badsha Bahadur deserved rescue before his suffering went viral]]></title>
+            <link>https://www.thedailystar.net/life-living/news/badsha-bahadur-deserved-rescue-his-suffering-went-viral-4219801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/badsha-bahadur-deserved-rescue-his-suffering-went-viral-4219801</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Palestinians are creating a digital archive to safeguard a history under threat]]></title>
+            <link>https://www.thedailystar.net/news/tech-startup/news/palestinians-are-creating-digital-archive-safeguard-history-under-threat-4220581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/tech-startup/news/palestinians-are-creating-digital-archive-safeguard-history-under-threat-4220581</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Un-erasable: This open-access digital archive is preserving evidence of war from Gaza]]></title>
+            <link>https://www.thedailystar.net/news/tech-startup/news/un-erasable-open-access-digital-archive-preserving-evidence-war-gaza-4220721</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/tech-startup/news/un-erasable-open-access-digital-archive-preserving-evidence-war-gaza-4220721</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#World Cup / Iconic songs of English football fans]]></title>
+            <link>https://www.thedailystar.net/life-living/news/iconic-songs-english-football-fans-4221361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/iconic-songs-english-football-fans-4221361</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Inner Certitude’: Mohiuddin Ahmed’s solo exhibition explores themes of environmental change]]></title>
+            <link>https://www.thedailystar.net/culture/theatre-arts/news/inner-certitude-mohiuddin-ahmeds-solo-exhibition-explores-themes-environmental-change-4222076</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/theatre-arts/news/inner-certitude-mohiuddin-ahmeds-solo-exhibition-explores-themes-environmental-change-4222076</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[McCullum stands down as England Test cricket coach]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/mccullum-stands-down-england-test-cricket-coach-4222191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/mccullum-stands-down-england-test-cricket-coach-4222191</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Traders seek customs reforms to cut clearance delays]]></title>
+            <link>https://www.thedailystar.net/business/news/traders-seek-customs-reforms-cut-clearance-delays-4222186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/traders-seek-customs-reforms-cut-clearance-delays-4222186</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build physical spaces for children before banning virtual ones]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/build-physical-spaces-children-banning-virtual-ones-4221616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/build-physical-spaces-children-banning-virtual-ones-4221616</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the International Crimes Tribunal’s mandate must be protected]]></title>
+            <description><![CDATA[The most dangerous misuse of a justice system begins with the filing of a complaint that should never have entered the system in the first place—a problem that now confronts the International Crimes Tribunal.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-the-international-crimes-tribunals-mandate-must-be-protected-4221596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-international-crimes-tribunals-mandate-must-be-protected-4221596</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We must prepare for a harsher climate]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/we-must-prepare-harsher-climate-4222041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-must-prepare-harsher-climate-4222041</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The rise, decline and revival of Buddhism in Bengal]]></title>
+            <description><![CDATA[Buddhist customs, and the regions of Chittagong and southern Arakan State are recognised as areas where Buddhism has survived as a living tradition.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/the-rise-decline-and-revival-buddhism-bengal-4221981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-rise-decline-and-revival-buddhism-bengal-4221981</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Bangladesh should respond to China’s proposed corridor]]></title>
+            <description><![CDATA[By Md Mazhar Uddin Bhuiyan]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/how-bangladesh-should-respond-chinas-proposed-corridor-4221446</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/how-bangladesh-should-respond-chinas-proposed-corridor-4221446</guid>
+            <dc:creator><![CDATA[Md Mazhar Uddin Bhuiyan]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A 3.4 km journey through floodwater took 90 mins in Dhaka today]]></title>
+            <link>https://www.thedailystar.net/news/news/34-km-journey-through-floodwater-took-90-mins-dhaka-today-4222021</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/34-km-journey-through-floodwater-took-90-mins-dhaka-today-4222021</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No plan to sell Teletalk: Telecom minister]]></title>
+            <link>https://www.thedailystar.net/news/tech-startup/news/no-plan-sell-teletalk-telecom-minister-4222126</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/tech-startup/news/no-plan-sell-teletalk-telecom-minister-4222126</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Have Argentina finally solved their striker dilemma?]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/have-argentina-finally-solved-their-striker-dilemma-4222241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/have-argentina-finally-solved-their-striker-dilemma-4222241</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3 more dead as landslides, floods batter Cox’s Bazar]]></title>
+            <link>https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/3-more-dead-landslides-floods-batter-coxs-bazar-4222151</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/3-more-dead-landslides-floods-batter-coxs-bazar-4222151</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[200,000 still marooned as rain deepens Cox's Bazar flood crisis]]></title>
+            <link>https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/200000-still-marooned-rain-deepens-coxs-bazar-flood-crisis-4222121</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/200000-still-marooned-rain-deepens-coxs-bazar-flood-crisis-4222121</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka: How a city was planned to drown]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/dhaka-how-city-was-planned-drown-4221991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/dhaka-how-city-was-planned-drown-4221991</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The pass that never came]]></title>
+            <description><![CDATA[The quarterfinal between Norway and England today produced what was arguably one of the biggest talking points of the World Cup so far.]]></description>
+            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-pass-never-came-4222236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-pass-never-came-4222236</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hygienic meat production can unlock exports: Agri minister]]></title>
+            <description><![CDATA[Bangladesh has the potential to become an exporter of premium-quality meat within the next five years, says Mohammed Aminur Rashid]]></description>
+            <link>https://www.thedailystar.net/business/news/hygienic-meat-production-can-unlock-exports-agri-minister-4222246</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/hygienic-meat-production-can-unlock-exports-agri-minister-4222246</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man loses legs after jumping under train in Jhenaidah]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/man-loses-legs-after-jumping-under-train-jhenaidah-4222211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/man-loses-legs-after-jumping-under-train-jhenaidah-4222211</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monsoon fury batters India as floods, landslides leave trail of destruction]]></title>
+            <description><![CDATA[Heavy rain disrupts life from Assam and West Bengal to Mumbai and Delhi]]></description>
+            <link>https://www.thedailystar.net/news/environment/climate-crisis/news/monsoon-fury-batters-india-floods-landslides-leave-trail-destruction-4222216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/climate-crisis/news/monsoon-fury-batters-india-floods-landslides-leave-trail-destruction-4222216</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Law says dropped ball, FIFA says no wire touch]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/law-says-dropped-ball-fifa-says-no-wire-touch-4222251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/law-says-dropped-ball-fifa-says-no-wire-touch-4222251</guid>
+            <pubDate>Sun, 12 Jul 2026 17:07:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dhaka drowns after overnight rainfall]]></title>
@@ -28,58 +206,10 @@
             <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[#World Cup / Is FIFA really biased towards Argentina? Football fans debate!]]></title>
-            <link>https://www.thedailystar.net/life-living/news/fifa-really-biased-towards-argentina-football-fans-debate-4219056</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/fifa-really-biased-towards-argentina-football-fans-debate-4219056</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#World Cup / Regular fans vs Seasonal fans: Same old fight every World Cup]]></title>
-            <link>https://www.thedailystar.net/life-living/news/regular-fans-vs-seasonal-fans-same-old-fight-every-world-cup-4219821</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/regular-fans-vs-seasonal-fans-same-old-fight-every-world-cup-4219821</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Alvarez, Lautaro save Argentina to book a Blockbuster against England]]></title>
             <description><![CDATA[Find out more on today's episode of Fever Pitch]]></description>
             <link>https://www.thedailystar.net/star-multimedia/sports-multimedia/news/alvarez-lautaro-save-argentina-book-blockbuster-against-england-4222176</link>
             <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/sports-multimedia/news/alvarez-lautaro-save-argentina-book-blockbuster-against-england-4222176</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#World Cup / 5 surprising facts about Moroccan football that make their story special]]></title>
-            <link>https://www.thedailystar.net/life-living/news/5-surprising-facts-about-moroccan-football-make-their-story-special-4219811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/5-surprising-facts-about-moroccan-football-make-their-story-special-4219811</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#Social Issues  / Badsha Bahadur deserved rescue before his suffering went viral]]></title>
-            <link>https://www.thedailystar.net/life-living/news/badsha-bahadur-deserved-rescue-his-suffering-went-viral-4219801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/badsha-bahadur-deserved-rescue-his-suffering-went-viral-4219801</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Un-erasable: This open-access digital archive is preserving evidence of war from Gaza]]></title>
-            <link>https://www.thedailystar.net/news/tech-startup/news/un-erasable-open-access-digital-archive-preserving-evidence-war-gaza-4220721</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/tech-startup/news/un-erasable-open-access-digital-archive-preserving-evidence-war-gaza-4220721</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Palestinians are creating a digital archive to safeguard a history under threat]]></title>
-            <link>https://www.thedailystar.net/news/tech-startup/news/palestinians-are-creating-digital-archive-safeguard-history-under-threat-4220581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/tech-startup/news/palestinians-are-creating-digital-archive-safeguard-history-under-threat-4220581</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#World Cup / Iconic songs of English football fans]]></title>
-            <link>https://www.thedailystar.net/life-living/news/iconic-songs-english-football-fans-4221361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/iconic-songs-english-football-fans-4221361</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Inner Certitude’: Mohiuddin Ahmed’s solo exhibition explores themes of environmental change]]></title>
-            <link>https://www.thedailystar.net/culture/theatre-arts/news/inner-certitude-mohiuddin-ahmeds-solo-exhibition-explores-themes-environmental-change-4222076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/theatre-arts/news/inner-certitude-mohiuddin-ahmeds-solo-exhibition-explores-themes-environmental-change-4222076</guid>
             <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
         </item>
         <item>
@@ -95,81 +225,15 @@
             <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Build physical spaces for children before banning virtual ones]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/build-physical-spaces-children-banning-virtual-ones-4221616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/build-physical-spaces-children-banning-virtual-ones-4221616</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the International Crimes Tribunal’s mandate must be protected]]></title>
-            <description><![CDATA[The most dangerous misuse of a justice system begins with the filing of a complaint that should never have entered the system in the first place—a problem that now confronts the International Crimes Tribunal.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-the-international-crimes-tribunals-mandate-must-be-protected-4221596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-the-international-crimes-tribunals-mandate-must-be-protected-4221596</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We must prepare for a harsher climate]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/we-must-prepare-harsher-climate-4222041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-must-prepare-harsher-climate-4222041</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise, decline and revival of Buddhism in Bengal]]></title>
-            <description><![CDATA[Buddhist customs, and the regions of Chittagong and southern Arakan State are recognised as areas where Buddhism has survived as a living tradition.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/the-rise-decline-and-revival-buddhism-bengal-4221981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-rise-decline-and-revival-buddhism-bengal-4221981</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Bangladesh should respond to China’s proposed corridor]]></title>
-            <description><![CDATA[By Md Mazhar Uddin Bhuiyan]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/how-bangladesh-should-respond-chinas-proposed-corridor-4221446</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/how-bangladesh-should-respond-chinas-proposed-corridor-4221446</guid>
-            <dc:creator><![CDATA[Md Mazhar Uddin Bhuiyan]]></dc:creator>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bangladesh records 5 more measles-related deaths in 24 hours]]></title>
             <link>https://www.thedailystar.net/health/disease/news/bangladesh-records-5-more-measles-related-deaths-24-hours-4222136</link>
             <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/bangladesh-records-5-more-measles-related-deaths-24-hours-4222136</guid>
             <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A 3.4 km journey through floodwater took 90 mins in Dhaka today]]></title>
-            <link>https://www.thedailystar.net/news/news/34-km-journey-through-floodwater-took-90-mins-dhaka-today-4222021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/34-km-journey-through-floodwater-took-90-mins-dhaka-today-4222021</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No plan to sell Teletalk: Telecom minister]]></title>
-            <link>https://www.thedailystar.net/news/tech-startup/news/no-plan-sell-teletalk-telecom-minister-4222126</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/tech-startup/news/no-plan-sell-teletalk-telecom-minister-4222126</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CID attaches Tk 33cr in assets of BSB Global Networks owner Khairul Bashar Bahar]]></title>
             <link>https://www.thedailystar.net/news/crime-justice/news/cid-attaches-tk-33cr-assets-bsb-global-networks-owner-khairul-bashar-bahar-4222156</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/cid-attaches-tk-33cr-assets-bsb-global-networks-owner-khairul-bashar-bahar-4222156</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 more dead as landslides, floods batter Cox’s Bazar]]></title>
-            <link>https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/3-more-dead-landslides-floods-batter-coxs-bazar-4222151</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/3-more-dead-landslides-floods-batter-coxs-bazar-4222151</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[200,000 still marooned as rain deepens Cox's Bazar flood crisis]]></title>
-            <link>https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/200000-still-marooned-rain-deepens-coxs-bazar-flood-crisis-4222121</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/200000-still-marooned-rain-deepens-coxs-bazar-flood-crisis-4222121</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka: How a city was planned to drown]]></title>
-            <description><![CDATA[Dhaka waterlogging is driven by colonial urban planning that deliberately destroyed historic Dhaka canals and wetlands.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/dhaka-how-city-was-planned-drown-4221991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/dhaka-how-city-was-planned-drown-4221991</guid>
             <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
         </item>
         <item>
@@ -190,12 +254,6 @@
             <description><![CDATA[Tests scheduled for July 13, 15 and 16 remain postponed in flood-affected districts under the Chattogram Education Board]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/education/news/hsc-exams-continue-nationwide-except-under-chattogram-board-4222101</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/education/news/hsc-exams-continue-nationwide-except-under-chattogram-board-4222101</guid>
-            <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch / What awaits Sheikh Hasina when she returns to the country?]]></title>
-            <link>https://www.thedailystar.net/star-multimedia/news-multimedia/news/what-awaits-sheikh-hasina-when-she-returns-the-country-4222181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news-multimedia/news/what-awaits-sheikh-hasina-when-she-returns-the-country-4222181</guid>
             <pubDate>Sun, 12 Jul 2026 15:03:29 GMT</pubDate>
         </item>
         <item>
@@ -3096,64 +3154,6 @@
             <link>https://www.thedailystar.net/sports/cricket/news/batting-woes-waste-ranas-record-breaking-performance-4217471</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/batting-woes-waste-ranas-record-breaking-performance-4217471</guid>
             <pubDate>Mon, 06 Jul 2026 22:21:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Argentina and the curse of comfort]]></title>
-            <description><![CDATA[Lionel Messi looked to the sky, fists clenched, as Argentina’s Round of 32 clash against Cape Verde in Miami on Saturday came to an end. There had been tears in his eyes just a few minutes earlier. Messi’s reaction was not merely one of relief washing over him but that of a survivor emerging from great turmoil. The Blue Sharks had awakened a fear Argentina did not know still existed within them.]]></description>
-            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/argentina-and-the-curse-comfort-4217731</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/argentina-and-the-curse-comfort-4217731</guid>
-            <pubDate>Mon, 06 Jul 2026 22:21:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The lurking giant]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-lurking-giant-4217756</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-lurking-giant-4217756</guid>
-            <pubDate>Mon, 06 Jul 2026 22:21:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fire at 14-storey residential building in Dhaka's Mirpur doused]]></title>
-            <description><![CDATA[Six firefighting units went to the scene to douse the blaze in basement of government quarter building]]></description>
-            <link>https://www.thedailystar.net/news/accidents-fires/news/fire-14-storey-residential-building-dhakas-mirpur-doused-4217476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-fires/news/fire-14-storey-residential-building-dhakas-mirpur-doused-4217476</guid>
-            <pubDate>Mon, 06 Jul 2026 22:21:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Little disappointed in our batting unit': Miraz rues Tigers' ODI opener defeat against Zimbabwe]]></title>
-            <description><![CDATA[Bangladesh captain Mehidy Hasan Miraz admitted he was "a little disappointed" with his side's batting after the Tigers slipped to a 25-run defeat in the first ODI against Zimbabwe in Harare on Monday, squandering a record-breaking bowling performance from Nahid Rana.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/little-disappointed-our-batting-unit-miraz-rues-tigers-odi-opener-defeat-against-zimbabwe-4217721</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/little-disappointed-our-batting-unit-miraz-rues-tigers-odi-opener-defeat-against-zimbabwe-4217721</guid>
-            <pubDate>Mon, 06 Jul 2026 20:58:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ronaldo vs Yamal: A clash of generations]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/ronaldo-vs-yamal-clash-generations-4216601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/ronaldo-vs-yamal-clash-generations-4216601</guid>
-            <pubDate>Mon, 06 Jul 2026 20:58:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ronaldo, Yamal headline heavyweight Portugal-Spain clash]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/ronaldo-yamal-headline-heavyweight-portugal-spain-clash-4217436</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/ronaldo-yamal-headline-heavyweight-portugal-spain-clash-4217436</guid>
-            <pubDate>Mon, 06 Jul 2026 19:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ministry cancels order to keep Zia, Khaleda, Tarique books in primary schools]]></title>
-            <link>https://www.thedailystar.net/news/education/news/ministry-cancels-order-keep-zia-khaleda-tarique-books-primary-schools-4217361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/ministry-cancels-order-keep-zia-khaleda-tarique-books-primary-schools-4217361</guid>
-            <pubDate>Mon, 06 Jul 2026 19:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump confirms he asked FIFA boss for review of Balogun red card]]></title>
-            <description><![CDATA[President Donald Trump confirmed Monday he asked FIFA boss Gianni Infantino to review the "horrible" decision to hand a red card to star US striker Folarin Balogun, but said he did not request it be overturned.]]></description>
-            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/trump-confirms-he-asked-fifa-boss-review-balogun-red-card-4217596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/trump-confirms-he-asked-fifa-boss-review-balogun-red-card-4217596</guid>
-            <pubDate>Mon, 06 Jul 2026 19:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Al-Arafah Islami Bank launches  IlmNet education platform]]></title>
-            <link>https://www.thedailystar.net/business/organisation-news/news/al-arafah-islami-bank-launches-ilmnet-education-platform-4217491</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/organisation-news/news/al-arafah-islami-bank-launches-ilmnet-education-platform-4217491</guid>
-            <pubDate>Mon, 06 Jul 2026 16:55:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
