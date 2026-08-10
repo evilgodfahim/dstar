@@ -4,22 +4,144 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 11:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 13:22:39 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[SSC pass rate falls to 62.25%; GPA-5 holders also decline]]></title>
             <description><![CDATA[SSC pass rate falls to 62.25%, down 6.2 percentage points from last year]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/education/news/ssc-pass-rate-falls-6225-gpa-5-holders-also-decline-4244231</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/education/news/ssc-pass-rate-falls-6225-gpa-5-holders-also-decline-4244231</guid>
-            <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The hole story behind Jacy’s leap of faith]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/the-hole-story-behind-jacys-leap-faith-4244471</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/the-hole-story-behind-jacys-leap-faith-4244471</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BSA hosts three-day film festival ‘Ekal-Sekal’]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/bsa-hosts-three-day-film-festival-ekal-sekal-4244336</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/bsa-hosts-three-day-film-festival-ekal-sekal-4244336</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt forms steering panel on creative economy]]></title>
+            <link>https://www.thedailystar.net/business/news/govt-forms-steering-panel-creative-economy-4244406</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-forms-steering-panel-creative-economy-4244406</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hasina’s media interactions are hurting bilateral ties]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What happens to your digital life after death?]]></title>
+            <link>https://www.thedailystar.net/news/tech-startup/news/what-happens-your-digital-life-after-death-4244491</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/tech-startup/news/what-happens-your-digital-life-after-death-4244491</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why blaming Dhaka's bus drivers misses the real problem]]></title>
+            <description><![CDATA[Blaming bus drivers for Dhaka’s traffic chaos fundamentally overlooks systemic governance failures, poor vehicle safety, and exploitative wages.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/why-blaming-dhakas-bus-drivers-misses-the-real-problem-4244066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/why-blaming-dhakas-bus-drivers-misses-the-real-problem-4244066</guid>
+            <dc:creator><![CDATA[Dhrubo Alam]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malaysia and Bangladesh want solutions. Is Myanmar ready for Rohingya return?]]></title>
+            <description><![CDATA[Malaysia’s proposed Rohingya repatriation raises a crucial question: has Myanmar created conditions for safe, voluntary and dignified return?]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protection or control? The politics of women’s residence halls]]></title>
+            <description><![CDATA[By Nuzia Hasin Rasha]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/protection-or-control-the-politics-womens-residence-halls-4243916</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/protection-or-control-the-politics-womens-residence-halls-4243916</guid>
+            <dc:creator><![CDATA[Nuzia Hasin Rasha]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dengue hospitalisations hit record high with 726 cases in 24 hours]]></title>
+            <link>https://www.thedailystar.net/health/disease/news/dengue-hospitalisations-hit-record-high-726-cases-24-hours-4244541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/dengue-hospitalisations-hit-record-high-726-cases-24-hours-4244541</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Falling SSC pass rate tells only half the story]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/falling-ssc-pass-rate-tells-only-half-the-story-4244521</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/falling-ssc-pass-rate-tells-only-half-the-story-4244521</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I never said I was quitting acting: Hasan Masood]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/i-never-said-i-was-quitting-acting-hasan-masood-4244476</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/i-never-said-i-was-quitting-acting-hasan-masood-4244476</guid>
-            <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India’s RAW chief meets PM Tarique’s defence adviser in Dhaka]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/indias-raw-chief-meets-pm-tariques-defence-adviser-dhaka-4244546</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/indias-raw-chief-meets-pm-tariques-defence-adviser-dhaka-4244546</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No decision yet on PM's India visit for BRICS summit: Foreign minister]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/no-decision-yet-pms-india-visit-brics-summit-foreign-minister-4244416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/no-decision-yet-pms-india-visit-brics-summit-foreign-minister-4244416</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Islami Bank files ACC complaint against Shahabuddin, S Alam over alleged Tk 500cr embezzlement]]></title>
+            <link>https://www.thedailystar.net/news/corruption/news/islami-bank-files-acc-complaint-against-shahabuddin-s-alam-over-alleged-tk-500cr-embezzlement-4244466</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/corruption/news/islami-bank-files-acc-complaint-against-shahabuddin-s-alam-over-alleged-tk-500cr-embezzlement-4244466</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RU artist says removed artwork did not place 2024 above 1971]]></title>
+            <link>https://www.thedailystar.net/campus/news/ru-artist-says-removed-artwork-did-not-place-2024-above-1971-4244531</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/ru-artist-says-removed-artwork-did-not-place-2024-above-1971-4244531</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Odhikar finds BNP, allies linked to most violence across all phases of 2026 polls]]></title>
+            <description><![CDATA[Rights group identifies Chattogram, Cox’s Bazar, Bhola, Mymensingh and Dhaka as major hotspots]]></description>
+            <link>https://www.thedailystar.net/news/politics/news/odhikar-finds-bnp-allies-linked-most-violence-across-all-phases-2026-polls-4244501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/odhikar-finds-bnp-allies-linked-most-violence-across-all-phases-2026-polls-4244501</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘The Odyssey’ sails past ‘The Dark Knight Rises’ as Nolan’s biggest hit]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/the-odyssey-sails-past-the-dark-knight-rises-nolans-biggest-hit-4244436</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/the-odyssey-sails-past-the-dark-knight-rises-nolans-biggest-hit-4244436</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Students can now pay overseas tuition by card]]></title>
+            <description><![CDATA[Bangladesh Bank (BB) said authorised dealer banks may issue or approve the use of designated cards for such payments through the online platforms of foreign institutions]]></description>
+            <link>https://www.thedailystar.net/business/news/students-can-now-pay-overseas-tuition-card-4244526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/students-can-now-pay-overseas-tuition-card-4244526</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh urges India to expedite Hasina extradition]]></title>
+            <description><![CDATA[Dhaka also renews request for return of those accused in Osman Hadi killing]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-urges-india-expedite-hasina-extradition-4244371</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-urges-india-expedite-hasina-extradition-4244371</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ASI found dead in hotel room, injured wife and unharmed baby found inside]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/asi-found-dead-hotel-room-injured-wife-and-unharmed-baby-found-inside-4244516</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/asi-found-dead-hotel-room-injured-wife-and-unharmed-baby-found-inside-4244516</guid>
+            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘A plan for every batter’: Taskin trusts his process against Australia batters]]></title>
@@ -28,39 +150,11 @@
             <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hasina’s media interactions are hurting bilateral ties]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</guid>
-            <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[We need a road safety law built on 'forgiving roads']]></title>
             <description><![CDATA[Every day, people in Bangladesh leave home expecting to return safely, but for too many, that expectation never comes to pass.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/we-need-road-safety-law-built-forgiving-roads-4243901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-road-safety-law-built-forgiving-roads-4243901</guid>
             <dc:creator><![CDATA[Tamanna Mizan]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why blaming Dhaka's bus drivers misses the real problem]]></title>
-            <description><![CDATA[By Dhrubo Alam]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/why-blaming-dhakas-bus-drivers-misses-the-real-problem-4244066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/why-blaming-dhakas-bus-drivers-misses-the-real-problem-4244066</guid>
-            <dc:creator><![CDATA[Dhrubo Alam]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malaysia and Bangladesh want solutions. Is Myanmar ready for Rohingya return?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</guid>
-            <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protection or control? The politics of women’s residence halls]]></title>
-            <description><![CDATA[Women breaking out of the patriarchal cage during the struggle against fascism is, for many, like the decorative showpieces we keep in our cupboards at home—taken out when guests arrive and put back on the shelf once they leave.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/protection-or-control-the-politics-womens-residence-halls-4243916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/protection-or-control-the-politics-womens-residence-halls-4243916</guid>
-            <dc:creator><![CDATA[Nuzia Hasin Rasha]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
         </item>
         <item>
@@ -76,27 +170,9 @@
             <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Govt forms steering panel on creative economy]]></title>
-            <link>https://www.thedailystar.net/business/news/govt-forms-steering-panel-creative-economy-4244406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-forms-steering-panel-creative-economy-4244406</guid>
-            <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh urges India to expedite Hasina extradition]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-urges-india-expedite-hasina-extradition-4244371</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-urges-india-expedite-hasina-extradition-4244371</guid>
-            <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bangladesh, India can resolve issues through dialogue: Trivedi]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-india-can-resolve-issues-through-dialogue-trivedi-4244376</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-india-can-resolve-issues-through-dialogue-trivedi-4244376</guid>
-            <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No decision yet on PM's India visit for BRICS summit: Foreign minister]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/no-decision-yet-pms-india-visit-brics-summit-foreign-minister-4244416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/no-decision-yet-pms-india-visit-brics-summit-foreign-minister-4244416</guid>
             <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
         </item>
         <item>
@@ -104,13 +180,6 @@
             <description><![CDATA["Leadership in football is not a possession. It is not about holding -- or demanding -- power to be held," they wrote.]]></description>
             <link>https://www.thedailystar.net/sports/football/news/football-belongs-no-individual-uefa-concacaf-afc-hit-out-infantino-4244401</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/football-belongs-no-individual-uefa-concacaf-afc-hit-out-infantino-4244401</guid>
-            <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Islami Bank files ACC complaint against Shahabuddin, S Alam over alleged Tk 500cr embezzlement]]></title>
-            <description><![CDATA[Bank alleges Suprov Composite Knit’s loan limit was raised from Tk 100 crore to Tk 500 crore through irregularities after S Alam Group took control of Islami Bank]]></description>
-            <link>https://www.thedailystar.net/news/corruption/news/islami-bank-files-acc-complaint-against-shahabuddin-s-alam-over-alleged-tk-500cr-embezzlement-4244466</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/corruption/news/islami-bank-files-acc-complaint-against-shahabuddin-s-alam-over-alleged-tk-500cr-embezzlement-4244466</guid>
             <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
         </item>
         <item>
@@ -125,18 +194,6 @@
             <link>https://www.thedailystar.net/news/asia/southeast-asia/news/ex-thai-mp-shoots-dead-local-official-over-money-row-4244421</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/asia/southeast-asia/news/ex-thai-mp-shoots-dead-local-official-over-money-row-4244421</guid>
             <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The hole story behind Jacy’s leap of faith]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/the-hole-story-behind-jacys-leap-faith-4244471</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/the-hole-story-behind-jacys-leap-faith-4244471</guid>
-            <pubDate>Mon, 10 Aug 2026 11:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BSA hosts three-day film festival ‘Ekal-Sekal’]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/bsa-hosts-three-day-film-festival-ekal-sekal-4244336</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/bsa-hosts-three-day-film-festival-ekal-sekal-4244336</guid>
-            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The unforgiven: Football’s most controversial transfers]]></title>
@@ -3100,64 +3157,6 @@
             <title><![CDATA[Recipes that keep your gas cylinder going longer]]></title>
             <link>https://www.thedailystar.net/life-living/food-recipes/news/recipes-keep-your-gas-cylinder-going-longer-4235451</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/food-recipes/news/recipes-keep-your-gas-cylinder-going-longer-4235451</guid>
-            <pubDate>Tue, 04 Aug 2026 03:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Topkhana Road: What’s in a name?]]></title>
-            <link>https://www.thedailystar.net/ds/my-dhaka/news/topkhana-road-whats-name-4233991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/ds/my-dhaka/news/topkhana-road-whats-name-4233991</guid>
-            <pubDate>Tue, 04 Aug 2026 03:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘The scarcity of actors forced me back on stage’]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/the-scarcity-actors-forced-me-back-stage-4239526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/the-scarcity-actors-forced-me-back-stage-4239526</guid>
-            <pubDate>Tue, 04 Aug 2026 03:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The club is Bangladesh': New hockey coach Gerhard’s selection mantra]]></title>
-            <link>https://www.thedailystar.net/sports/more-sports/news/the-club-bangladesh-new-hockey-coach-gerhards-selection-mantra-4239216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/news/the-club-bangladesh-new-hockey-coach-gerhards-selection-mantra-4239216</guid>
-            <pubDate>Tue, 04 Aug 2026 03:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inherited Memories / One railwayman's line-box, three eras of history]]></title>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/one-railwaymans-line-box-three-eras-history-4238301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/one-railwaymans-line-box-three-eras-history-4238301</guid>
-            <pubDate>Tue, 04 Aug 2026 03:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are we eating microplastics with our fish?]]></title>
-            <description><![CDATA[Microplastics are plastic particles smaller than 5 mm that originate from the breakdown of larger plastic products or from intentionally manufactured micro-sized plastics used in consumer products.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/microplastics-bangladeshs-fish-growing-threat-public-health-4237161</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/microplastics-bangladeshs-fish-growing-threat-public-health-4237161</guid>
-            <dc:creator><![CDATA[Shafi Mohammad Tareq]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 03:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From 'wasteland' to Bhasanchar: Bangladesh’s ongoing experiment in governing uncertain land]]></title>
-            <description><![CDATA[Bhasanchar reflects a continuing colonial legacy in Bangladesh, utilising unstable land and displaced refugees to consolidate state power.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/wasteland-bhasanchar-bangladeshs-ongoing-experiment-governing-uncertain-land-4239511</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/wasteland-bhasanchar-bangladeshs-ongoing-experiment-governing-uncertain-land-4239511</guid>
-            <pubDate>Tue, 04 Aug 2026 03:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reuters Analysis / How Iran is widening its pressure campaign to force US concessions]]></title>
-            <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/how-iran-widening-its-pressure-campaign-force-us-concessions-4239671</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/how-iran-widening-its-pressure-campaign-force-us-concessions-4239671</guid>
-            <pubDate>Tue, 04 Aug 2026 03:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amid reports of Aug 5 event, Bangladesh asks India to prevent Hasina’s political speeches]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/amid-reports-aug-5-event-bangladesh-asks-india-prevent-hasinas-political-speeches-4239186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/amid-reports-aug-5-event-bangladesh-asks-india-prevent-hasinas-political-speeches-4239186</guid>
-            <pubDate>Tue, 04 Aug 2026 03:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[17 killed in mob violence, 6 in political clashes in July: HRSS report]]></title>
-            <description><![CDATA[258 women and girls were victims of violence]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/rights/news/17-killed-mob-violence-6-political-clashes-july-hrss-report-4239546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/rights/news/17-killed-mob-violence-6-political-clashes-july-hrss-report-4239546</guid>
             <pubDate>Tue, 04 Aug 2026 03:19:06 GMT</pubDate>
         </item>
     </channel>
