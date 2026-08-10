@@ -4,22 +4,137 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 15:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 16:59:32 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[SSC pass rate falls to 62.25%; GPA-5 holders also decline]]></title>
-            <description><![CDATA[SSC pass rate falls to 62.25%, down 6.2 percentage points from last year]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/education/news/ssc-pass-rate-falls-6225-gpa-5-holders-also-decline-4244231</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/education/news/ssc-pass-rate-falls-6225-gpa-5-holders-also-decline-4244231</guid>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[I never said I was quitting acting: Hasan Masood]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/i-never-said-i-was-quitting-acting-hasan-masood-4244476</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/i-never-said-i-was-quitting-acting-hasan-masood-4244476</guid>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jishan blitz seals Malaysia T20 sweep]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/jishan-blitz-seals-malaysia-t20-sweep-4244661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/jishan-blitz-seals-malaysia-t20-sweep-4244661</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BB offers incentives to boost Bangla QR transactions]]></title>
+            <link>https://www.thedailystar.net/business/news/bb-offers-incentives-boost-bangla-qr-transactions-4244626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bb-offers-incentives-boost-bangla-qr-transactions-4244626</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What happens to your digital life after death?]]></title>
+            <link>https://www.thedailystar.net/news/tech-startup/news/what-happens-your-digital-life-after-death-4244491</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/tech-startup/news/what-happens-your-digital-life-after-death-4244491</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malaysia and Bangladesh want solutions. Is Myanmar ready for Rohingya return?]]></title>
+            <description><![CDATA[Malaysia’s proposed Rohingya repatriation raises a crucial question: has Myanmar created conditions for safe, voluntary and dignified return?]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which female-dominated jobs are actually the most exposed to AI?]]></title>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/which-female-dominated-jobs-are-actually-the-most-exposed-ai-4243731</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/which-female-dominated-jobs-are-actually-the-most-exposed-ai-4243731</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Dhaka's waterlogging crisis has little to do with heavy rain]]></title>
+            <description><![CDATA[By Md Khalequzzaman]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/why-dhakas-waterlogging-crisis-has-little-do-heavy-rain-4242371</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/why-dhakas-waterlogging-crisis-has-little-do-heavy-rain-4242371</guid>
+            <dc:creator><![CDATA[Md Khalequzzaman]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why blaming Dhaka's bus drivers misses the real problem]]></title>
+            <description><![CDATA[Blaming bus drivers for Dhaka’s traffic chaos fundamentally overlooks systemic governance failures, poor vehicle safety, and exploitative wages.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/why-blaming-dhakas-bus-drivers-misses-the-real-problem-4244066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/why-blaming-dhakas-bus-drivers-misses-the-real-problem-4244066</guid>
+            <dc:creator><![CDATA[Dhrubo Alam]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Falling SSC pass rate tells only half the story]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/falling-ssc-pass-rate-tells-only-half-the-story-4244521</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/falling-ssc-pass-rate-tells-only-half-the-story-4244521</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘I will not be able to talk to you anymore’: A son’s final message before Riyadh fire]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/i-will-not-be-able-talk-you-anymore-sons-final-message-riyadh-fire-4244571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/i-will-not-be-able-talk-you-anymore-sons-final-message-riyadh-fire-4244571</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hefazat says sculptures of its leaders at July Uprising Museum must be removed]]></title>
+            <link>https://www.thedailystar.net/news/politics/news/hefazat-says-sculptures-its-leaders-july-uprising-museum-must-be-removed-4244641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/hefazat-says-sculptures-its-leaders-july-uprising-museum-must-be-removed-4244641</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cabinet gives final approval to draft Human Rights Commission Act, 2026]]></title>
+            <link>https://www.thedailystar.net/news/news/cabinet-gives-final-approval-draft-human-rights-commission-act-2026-4244671</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/cabinet-gives-final-approval-draft-human-rights-commission-act-2026-4244671</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cabinet approves amendment to bar former owners from regaining weak banks]]></title>
+            <link>https://www.thedailystar.net/business/banking/news/cabinet-approves-amendment-bar-former-owners-regaining-weak-banks-4244596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/banking/news/cabinet-approves-amendment-bar-former-owners-regaining-weak-banks-4244596</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Update / Colombia earthquake kills at least 22 as buildings collapse in several cities]]></title>
+            <description><![CDATA[The early-morning quake was also felt in Ecuador, Panama and Venezuela -- itself hit by a devastating quake in late June]]></description>
+            <link>https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/colombia-earthquake-kills-least-22-buildings-collapse-several-cities-4244601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/colombia-earthquake-kills-least-22-buildings-collapse-several-cities-4244601</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh Bank removes two-year cap on bank administrators]]></title>
+            <link>https://www.thedailystar.net/business/news/bangladesh-bank-removes-two-year-cap-bank-administrators-4244636</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-bank-removes-two-year-cap-bank-administrators-4244636</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shadik Kayem warns of ‘stronger than July’ movement over teacher recruitment decision]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/education/news/shadik-kayem-warns-stronger-july-movement-over-teacher-recruitment-decision-4244681</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/education/news/shadik-kayem-warns-stronger-july-movement-over-teacher-recruitment-decision-4244681</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Odhikar finds BNP, allies linked to most violence across all phases of 2026 polls]]></title>
+            <description><![CDATA[Rights group identifies Chattogram, Cox’s Bazar, Bhola, Mymensingh and Dhaka as major hotspots]]></description>
+            <link>https://www.thedailystar.net/news/politics/news/odhikar-finds-bnp-allies-linked-most-violence-across-all-phases-2026-polls-4244501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/odhikar-finds-bnp-allies-linked-most-violence-across-all-phases-2026-polls-4244501</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Private medical facilities: Licence validity extended for 2yrs, but hurdles remain]]></title>
+            <link>https://www.thedailystar.net/health/news/private-medical-facilities-licence-validity-extended-2yrs-hurdles-remain-4244676</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/news/private-medical-facilities-licence-validity-extended-2yrs-hurdles-remain-4244676</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gunmen stop van carrying cash near Dhaka airport, flee with Tk 1.21cr]]></title>
+            <description><![CDATA[Filling station official was hacked after refusing to hand over the money, according to the case statement]]></description>
+            <link>https://www.thedailystar.net/news/crime-justice/news/gunmen-stop-van-carrying-cash-near-dhaka-airport-flee-tk-121cr-4244656</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/gunmen-stop-van-carrying-cash-near-dhaka-airport-flee-tk-121cr-4244656</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Students can now pay overseas tuition by card]]></title>
+            <link>https://www.thedailystar.net/business/news/students-can-now-pay-overseas-tuition-card-4244526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/students-can-now-pay-overseas-tuition-card-4244526</guid>
+            <pubDate>Mon, 10 Aug 2026 16:59:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Head refuses to read too much into Bangladesh's warm-up woes]]></title>
@@ -34,56 +149,9 @@
             <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What happens to your digital life after death?]]></title>
-            <link>https://www.thedailystar.net/news/tech-startup/news/what-happens-your-digital-life-after-death-4244491</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/tech-startup/news/what-happens-your-digital-life-after-death-4244491</guid>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malaysia and Bangladesh want solutions. Is Myanmar ready for Rohingya return?]]></title>
-            <description><![CDATA[Malaysia’s proposed Rohingya repatriation raises a crucial question: has Myanmar created conditions for safe, voluntary and dignified return?]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</guid>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which female-dominated jobs are actually the most exposed to AI?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/which-female-dominated-jobs-are-actually-the-most-exposed-ai-4243731</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/which-female-dominated-jobs-are-actually-the-most-exposed-ai-4243731</guid>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why blaming Dhaka's bus drivers misses the real problem]]></title>
-            <description><![CDATA[Blaming bus drivers for Dhaka’s traffic chaos fundamentally overlooks systemic governance failures, poor vehicle safety, and exploitative wages.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/why-blaming-dhakas-bus-drivers-misses-the-real-problem-4244066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/why-blaming-dhakas-bus-drivers-misses-the-real-problem-4244066</guid>
-            <dc:creator><![CDATA[Dhrubo Alam]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Falling SSC pass rate tells only half the story]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/falling-ssc-pass-rate-tells-only-half-the-story-4244521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/falling-ssc-pass-rate-tells-only-half-the-story-4244521</guid>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Dhaka's waterlogging crisis has little to do with heavy rain]]></title>
-            <description><![CDATA[By Md Khalequzzaman]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/why-dhakas-waterlogging-crisis-has-little-do-heavy-rain-4242371</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/why-dhakas-waterlogging-crisis-has-little-do-heavy-rain-4242371</guid>
-            <dc:creator><![CDATA[Md Khalequzzaman]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[5 more die with measles like symptoms]]></title>
             <link>https://www.thedailystar.net/health/disease/news/5-more-die-measles-symptoms-4244586</link>
             <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/5-more-die-measles-symptoms-4244586</guid>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Odhikar finds BNP, allies linked to most violence across all phases of 2026 polls]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/odhikar-finds-bnp-allies-linked-most-violence-across-all-phases-2026-polls-4244501</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/odhikar-finds-bnp-allies-linked-most-violence-across-all-phases-2026-polls-4244501</guid>
             <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
         </item>
         <item>
@@ -99,25 +167,6 @@
             <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Students can now pay overseas tuition by card]]></title>
-            <link>https://www.thedailystar.net/business/news/students-can-now-pay-overseas-tuition-card-4244526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/students-can-now-pay-overseas-tuition-card-4244526</guid>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cabinet approves amendment to bar former owners from regaining weak banks]]></title>
-            <description><![CDATA[Draft change repeals Section 18a of the Bank Resolution Act, subject to legislative vetting]]></description>
-            <link>https://www.thedailystar.net/business/banking/news/cabinet-approves-amendment-bar-former-owners-regaining-weak-banks-4244596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/banking/news/cabinet-approves-amendment-bar-former-owners-regaining-weak-banks-4244596</guid>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘I will not be able to talk to you anymore’: A son’s final message before Riyadh fire]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/i-will-not-be-able-talk-you-anymore-sons-final-message-riyadh-fire-4244571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/i-will-not-be-able-talk-you-anymore-sons-final-message-riyadh-fire-4244571</guid>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why Glasner chose the Marinakis gamble]]></title>
             <description><![CDATA[The central and most intriguing part of this appointment is the paradox. Glasner had every reason to avoid Forest because of Marinakis' reputation, yet Marinakis himself became one of the reasons he accepted.]]></description>
             <link>https://www.thedailystar.net/sports/football/news/why-glasner-chose-the-marinakis-gamble-4244611</link>
@@ -128,13 +177,6 @@
             <title><![CDATA[Pop Culture / Why Sheepstealer is House of the Dragon season 3’s best character]]></title>
             <link>https://www.thedailystar.net/culture/tv-film/news/why-sheepstealer-house-the-dragon-season-3s-best-character-4244556</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/why-sheepstealer-house-the-dragon-season-3s-best-character-4244556</guid>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BB offers incentives to boost Bangla QR transactions]]></title>
-            <description><![CDATA[Under the incentive scheme, acquiring institutions will receive 0.10 percent of the transaction value, while issuing institutions will receive 0.20 percent, subject to certain conditions]]></description>
-            <link>https://www.thedailystar.net/business/news/bb-offers-incentives-boost-bangla-qr-transactions-4244626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bb-offers-incentives-boost-bangla-qr-transactions-4244626</guid>
             <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
         </item>
         <item>
@@ -547,6 +589,13 @@
             <link>https://www.thedailystar.net/sports/football/news/arteta-backs-guimaraes-ignite-something-different-arsenal-4244106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/arteta-backs-guimaraes-ignite-something-different-arsenal-4244106</guid>
             <pubDate>Mon, 10 Aug 2026 02:19:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SSC pass rate falls to 62.25%; GPA-5 holders also decline]]></title>
+            <description><![CDATA[SSC pass rate falls to 62.25%, down 6.2 percentage points from last year]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/education/news/ssc-pass-rate-falls-6225-gpa-5-holders-also-decline-4244231</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/education/news/ssc-pass-rate-falls-6225-gpa-5-holders-also-decline-4244231</guid>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hasina’s media interactions are hurting bilateral ties]]></title>
@@ -3100,60 +3149,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/nirmal-purja-how-remember-legend-accused-never-convicted-4238931</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/nirmal-purja-how-remember-legend-accused-never-convicted-4238931</guid>
             <pubDate>Tue, 04 Aug 2026 09:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why changing Rab's name or repackaging it is not enough]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-changing-rabs-name-or-repackaging-it-not-enough-4239531</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-changing-rabs-name-or-repackaging-it-not-enough-4239531</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 09:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The reforms that will shape the true legacy of July uprising]]></title>
-            <description><![CDATA[July 2024 is one of the pivotal moments in Bangladesh’s history. What started as a student-led protest demanding reform in the quota system for government jobs rapidly grew into a nationwide uprising, culminating in a change of government.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/the-reforms-will-shape-the-true-legacy-july-uprising-4239506</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/the-reforms-will-shape-the-true-legacy-july-uprising-4239506</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 04 Aug 2026 09:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chattogram hospital fined Tk 1.5 lakh for operating without environmental clearance]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/chattogram-hospital-fined-tk-15-lakh-operating-without-environmental-clearance-4239831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/chattogram-hospital-fined-tk-15-lakh-operating-without-environmental-clearance-4239831</guid>
-            <pubDate>Tue, 04 Aug 2026 09:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rail link between Dhaka and northern Bangladesh snapped following derailment]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/transport/news/rail-link-between-dhaka-and-northern-bangladesh-snapped-following-derailment-4239771</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/transport/news/rail-link-between-dhaka-and-northern-bangladesh-snapped-following-derailment-4239771</guid>
-            <pubDate>Tue, 04 Aug 2026 09:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICT aims to complete July Uprising investigations, trials within a year]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/ict-aims-complete-july-uprising-investigations-trials-within-year-4239826</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/ict-aims-complete-july-uprising-investigations-trials-within-year-4239826</guid>
-            <pubDate>Tue, 04 Aug 2026 09:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Banner dispute sparks Shibir-Chhatra Dal clash at Begum Rokeya University]]></title>
-            <description><![CDATA[Seven injured after row over exhibition display; proctor says situation is now under control]]></description>
-            <link>https://www.thedailystar.net/news/education/campus/news/banner-dispute-sparks-shibir-chhatra-dal-clash-begum-rokeya-university-4239781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/education/campus/news/banner-dispute-sparks-shibir-chhatra-dal-clash-begum-rokeya-university-4239781</guid>
-            <pubDate>Tue, 04 Aug 2026 09:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barcelona goalkeeper Ter Stegen joins Ajax on loan]]></title>
-            <description><![CDATA[Barcelona goalkeeper Marc-Andre ter Stegen joined Ajax on loan for the 2026/27 season on Tuesday.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/barcelona-goalkeeper-ter-stegen-joins-ajax-loan-4239836</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/barcelona-goalkeeper-ter-stegen-joins-ajax-loan-4239836</guid>
-            <pubDate>Tue, 04 Aug 2026 09:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Great to have it back’: Graeme Smith relishes 50-over World Cup return to African soil]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/great-have-it-back-graeme-smith-relishes-50-over-world-cup-return-african-soil-4239706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/great-have-it-back-graeme-smith-relishes-50-over-world-cup-return-african-soil-4239706</guid>
-            <pubDate>Tue, 04 Aug 2026 06:33:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
