@@ -4,15 +4,126 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 08:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 10:23:30 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 08:44:04 GMT</pubDate>
+        <pubDate>Mon, 10 Aug 2026 10:23:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[BSA hosts three-day film festival ‘Ekal-Sekal’]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/bsa-hosts-three-day-film-festival-ekal-sekal-4244336</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/bsa-hosts-three-day-film-festival-ekal-sekal-4244336</guid>
-            <pubDate>Mon, 10 Aug 2026 08:44:04 GMT</pubDate>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The unforgiven: Football’s most controversial transfers]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/the-unforgiven-footballs-most-controversial-transfers-4244411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/the-unforgiven-footballs-most-controversial-transfers-4244411</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Think again before opening up fuel imports to private companies]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/think-again-opening-fuel-imports-private-companies-4243906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/think-again-opening-fuel-imports-private-companies-4243906</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malaysia and Bangladesh want solutions. Is Myanmar ready for Rohingya return?]]></title>
+            <description><![CDATA[Malaysia’s proposed Rohingya repatriation raises a crucial question: has Myanmar created conditions for safe, voluntary and dignified return?]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We need a road safety law built on 'forgiving roads']]></title>
+            <description><![CDATA[By Tamanna Mizan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-need-road-safety-law-built-forgiving-roads-4243901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-road-safety-law-built-forgiving-roads-4243901</guid>
+            <dc:creator><![CDATA[Tamanna Mizan]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hasina’s media interactions are hurting bilateral ties]]></title>
+            <description><![CDATA[By Kamal Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which female-dominated jobs are actually the most exposed to AI?]]></title>
+            <description><![CDATA[As the impacts of AI sweep across the labour force, female-concentrated segments of the workforce are most exposed to AI-fuelled automation.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/which-female-dominated-jobs-are-actually-the-most-exposed-ai-4243731</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/which-female-dominated-jobs-are-actually-the-most-exposed-ai-4243731</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SSC results: Milon says marks reflected students’ performance]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/education/news/ssc-results-milon-says-marks-reflected-students-performance-4244316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/education/news/ssc-results-milon-says-marks-reflected-students-performance-4244316</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt forms taskforce to deregulate, improve business climate]]></title>
+            <link>https://www.thedailystar.net/business/news/govt-forms-taskforce-deregulate-improve-business-climate-4244391</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-forms-taskforce-deregulate-improve-business-climate-4244391</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt forms steering panel on creative economy]]></title>
+            <link>https://www.thedailystar.net/business/news/govt-forms-steering-panel-creative-economy-4244406</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-forms-steering-panel-creative-economy-4244406</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Thai MP shoots dead local official over money row]]></title>
+            <link>https://www.thedailystar.net/news/asia/southeast-asia/news/ex-thai-mp-shoots-dead-local-official-over-money-row-4244421</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/asia/southeast-asia/news/ex-thai-mp-shoots-dead-local-official-over-money-row-4244421</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh urges India to expedite Hasina extradition]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-urges-india-expedite-hasina-extradition-4244371</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-urges-india-expedite-hasina-extradition-4244371</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh, India can resolve issues through dialogue: Trivedi]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-india-can-resolve-issues-through-dialogue-trivedi-4244376</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-india-can-resolve-issues-through-dialogue-trivedi-4244376</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran says Saudi-Pakistan–Turkey deal shows 'change in perception' towards US]]></title>
+            <description><![CDATA[Iran's foreign ministry said Monday that a defence pact signed last week between Saudi Arabia, Turkey and Pakistan was "a sign of a change in the perception" of countries in the region towards the United States]]></description>
+            <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-says-saudi-pakistan-turkey-deal-shows-change-perception-towards-us-4244386</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-says-saudi-pakistan-turkey-deal-shows-change-perception-towards-us-4244386</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No decision yet on PM's India visit for BRICS summit: Foreign minister]]></title>
+            <description><![CDATA[Khalilur Rahman says invitation was extended to Tarique Rahman as BIMSTEC chair, not as Bangladesh PM]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/no-decision-yet-pms-india-visit-brics-summit-foreign-minister-4244416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/no-decision-yet-pms-india-visit-brics-summit-foreign-minister-4244416</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RU removes artwork after criticism over 1971, 2024 portrayal]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/ru-removes-artwork-after-criticism-over-1971-2024-portrayal-4244441</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/ru-removes-artwork-after-criticism-over-1971-2024-portrayal-4244441</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Football 'belongs to no individual': UEFA, CONCACAF, AFC hit out at Infantino]]></title>
+            <description><![CDATA["Leadership in football is not a possession. It is not about holding -- or demanding -- power to be held," they wrote.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/football-belongs-no-individual-uefa-concacaf-afc-hit-out-infantino-4244401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/football-belongs-no-individual-uefa-concacaf-afc-hit-out-infantino-4244401</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Severe dengue often develops on 3rd, 4th day of fever’]]></title>
+            <link>https://www.thedailystar.net/health/disease/news/severe-dengue-often-develops-3rd-4th-day-fever-4244426</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/severe-dengue-often-develops-3rd-4th-day-fever-4244426</guid>
+            <pubDate>Mon, 10 Aug 2026 10:23:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iraola brings chaos back to Liverpool]]></title>
@@ -24,42 +135,6 @@
             <title><![CDATA[Trading of shares of 3 NBFIs suspended after BB declares them non-viable]]></title>
             <link>https://www.thedailystar.net/business/news/trading-shares-3-nbfis-suspended-after-bb-declares-them-non-viable-4244301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/trading-shares-3-nbfis-suspended-after-bb-declares-them-non-viable-4244301</guid>
-            <pubDate>Mon, 10 Aug 2026 08:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Think again before opening up fuel imports to private companies]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/think-again-opening-fuel-imports-private-companies-4243906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/think-again-opening-fuel-imports-private-companies-4243906</guid>
-            <pubDate>Mon, 10 Aug 2026 08:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malaysia and Bangladesh want solutions. Is Myanmar ready for Rohingya return?]]></title>
-            <description><![CDATA[Malaysia’s proposed Rohingya repatriation raises a crucial question: has Myanmar created conditions for safe, voluntary and dignified return?]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/malaysia-and-bangladesh-want-solutions-myanmar-ready-rohingya-return-4243701</guid>
-            <pubDate>Mon, 10 Aug 2026 08:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need a road safety law built on 'forgiving roads']]></title>
-            <description><![CDATA[By Tamanna Mizan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-need-road-safety-law-built-forgiving-roads-4243901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-road-safety-law-built-forgiving-roads-4243901</guid>
-            <dc:creator><![CDATA[Tamanna Mizan]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 08:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hasina’s media interactions are hurting bilateral ties]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/hasinas-media-interactions-are-hurting-bilateral-ties-4243891</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 08:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which female-dominated jobs are actually the most exposed to AI?]]></title>
-            <description><![CDATA[As the impacts of AI sweep across the labour force, female-concentrated segments of the workforce are most exposed to AI-fuelled automation.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/which-female-dominated-jobs-are-actually-the-most-exposed-ai-4243731</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/which-female-dominated-jobs-are-actually-the-most-exposed-ai-4243731</guid>
             <pubDate>Mon, 10 Aug 2026 08:44:04 GMT</pubDate>
         </item>
         <item>
@@ -81,28 +156,9 @@
             <pubDate>Mon, 10 Aug 2026 08:44:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SSC results: Milon says marks reflected students’ performance]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/education/news/ssc-results-milon-says-marks-reflected-students-performance-4244316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/education/news/ssc-results-milon-says-marks-reflected-students-performance-4244316</guid>
-            <pubDate>Mon, 10 Aug 2026 08:44:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Indian High Commissioner Trivedi meets PM Tarique]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/indian-high-commissioner-trivedi-meets-pm-tarique-4244346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/indian-high-commissioner-trivedi-meets-pm-tarique-4244346</guid>
-            <pubDate>Mon, 10 Aug 2026 08:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh urges India to expedite Hasina extradition]]></title>
-            <description><![CDATA[Dhaka also renews request for return of those accused in Osman Hadi killing]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-urges-india-expedite-hasina-extradition-4244371</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-urges-india-expedite-hasina-extradition-4244371</guid>
-            <pubDate>Mon, 10 Aug 2026 08:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh, India can resolve issues through dialogue: Trivedi]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-india-can-resolve-issues-through-dialogue-trivedi-4244376</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-india-can-resolve-issues-through-dialogue-trivedi-4244376</guid>
             <pubDate>Mon, 10 Aug 2026 08:44:04 GMT</pubDate>
         </item>
         <item>
@@ -3101,61 +3157,6 @@
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/sea-blindness-strategic-agency-bangladeshs-maritime-culture-crowded-bay-4239256</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/sea-blindness-strategic-agency-bangladeshs-maritime-culture-crowded-bay-4239256</guid>
             <pubDate>Tue, 04 Aug 2026 00:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.08.04)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260804-4239661</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260804-4239661</guid>
-            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry in a bind]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/industry-bind-4239371</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/industry-bind-4239371</guid>
-            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DENGUE OUTBREAK / DENV-3 now dominant strain]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/denv-3-now-dominant-strain-4239456</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/denv-3-now-dominant-strain-4239456</guid>
-            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gas crisis ripples across economy]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/gas-crisis-ripples-across-economy-4239576</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/gas-crisis-ripples-across-economy-4239576</guid>
-            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Looking back at July: Road to one-point demand]]></title>
-            <description><![CDATA[It began with a question that resonated with millions of young Bangladeshis competing for scarce government jobs: should merit take a back seat to quotas?]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/looking-back-july-road-one-point-demand-4239581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/looking-back-july-road-one-point-demand-4239581</guid>
-            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As factories close, thousands hunt for jobs at gates]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/factories-close-thousands-hunt-jobs-gates-4239376</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/factories-close-thousands-hunt-jobs-gates-4239376</guid>
-            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[National cybersecurity rating system set for launch]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/national-cybersecurity-rating-system-set-launch-4239351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/national-cybersecurity-rating-system-set-launch-4239351</guid>
-            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Attendance at public hospitals: Govt to use GPS to monitor staffers]]></title>
-            <link>https://www.thedailystar.net/news/healthcare/hospitals/news/attendance-public-hospitals-govt-use-gps-monitor-staffers-4239586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/hospitals/news/attendance-public-hospitals-govt-use-gps-monitor-staffers-4239586</guid>
-            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry in a bind]]></title>
-            <link>https://www.thedailystar.net/business/news/industry-bind-4239371</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/industry-bind-4239371</guid>
-            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
