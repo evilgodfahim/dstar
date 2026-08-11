@@ -4,38 +4,108 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 05:56:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 07:19:49 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.08.11)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260811-4244911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260811-4244911</guid>
-            <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ajay Devgn replaces Anup Soni as ‘Crime Patrol’ host]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/ajay-devgn-replaces-anup-soni-crime-patrol-host-4245076</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/ajay-devgn-replaces-anup-soni-crime-patrol-host-4245076</guid>
-            <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Taskin ready to shoulder pace burden in Australia]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/taskin-ready-shoulder-pace-burden-australia-4244631</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/taskin-ready-shoulder-pace-burden-australia-4244631</guid>
-            <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FBCCI board reduced to 48 under new rules]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/fbcci-board-reduced-48-under-new-rules-4244801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/fbcci-board-reduced-48-under-new-rules-4244801</guid>
-            <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
+            <title><![CDATA[Golf ball becomes fish food]]></title>
+            <link>https://www.thedailystar.net/sports/more-sports/golf/news/golf-ball-becomes-fish-food-4245081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/golf/news/golf-ball-becomes-fish-food-4245081</guid>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh's vaccine future depends on a world-class regulator]]></title>
             <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-vaccine-future-depends-world-class-regulator-4244846</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-vaccine-future-depends-world-class-regulator-4244846</guid>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[To feel Bengali, to think beyond Bengal: Dipankar Gupta in conversation]]></title>
+            <description><![CDATA[Sociologist Dipankar Gupta critically examines Bengali identity, the bhadralok construct, and his intellectual evolution across the decades.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/feel-bengali-think-beyond-bengal-dipankar-gupta-conversation-4244591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/feel-bengali-think-beyond-bengal-dipankar-gupta-conversation-4244591</guid>
+            <dc:creator><![CDATA[Priyam Paul]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next Step / "Digital inclusion is fundamentally a human issue": Maureen Hilyard on building a more inclusive internet]]></title>
+            <link>https://www.thedailystar.net/news/tech-startup/news/digital-inclusion-fundamentally-human-issue-maureen-hilyard-building-more-inclusive-internet-4245031</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/tech-startup/news/digital-inclusion-fundamentally-human-issue-maureen-hilyard-building-more-inclusive-internet-4245031</guid>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why every protest matters: Lessons from Bangladesh, India and Nepal]]></title>
+            <description><![CDATA[By Zarrar Khuhro]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-every-protest-matters-lessons-bangladesh-india-and-nepal-4244561</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-every-protest-matters-lessons-bangladesh-india-and-nepal-4244561</guid>
+            <dc:creator><![CDATA[Zarrar Khuhro]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stop turning divorce into a social punishment for women]]></title>
+            <description><![CDATA[In Bangladesh, divorce is still too often treated not as a legal ending of a marriage not working as intended, but as a moral failure, especially on the part of a wife.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/stop-turning-divorce-social-punishment-women-4244821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/stop-turning-divorce-social-punishment-women-4244821</guid>
+            <dc:creator><![CDATA[Lina Dilruba Sharmin]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Bangladesh can make the most of its South Korea CEPA]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/how-bangladesh-can-make-the-most-its-south-korea-cepa-4244806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/how-bangladesh-can-make-the-most-its-south-korea-cepa-4244806</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breastfeeding corners: A small space, a big relief]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/breastfeeding-corners-small-space-big-relief-4245111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/breastfeeding-corners-small-space-big-relief-4245111</guid>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Sreemangal, books are making a comeback]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/education/news/sreemangal-books-are-making-comeback-4245091</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/education/news/sreemangal-books-are-making-comeback-4245091</guid>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US State Dept revokes over 175,000 visas]]></title>
+            <link>https://www.thedailystar.net/news/world/news/us-state-dept-revokes-over-175000-visas-4245086</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/us-state-dept-revokes-over-175000-visas-4245086</guid>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Big Four' bowlers back as ageing Australia begin gruelling run]]></title>
+            <description><![CDATA[The two-Test series, starting in tropical Darwin on Thursday before moving to Mackay, will be the first red ball cricket the world's number one side have played since the Sydney Test against England in early January.]]></description>
+            <link>https://www.thedailystar.net/sports/cricket/news/big-four-bowlers-back-ageing-australia-begin-gruelling-run-4245096</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/big-four-bowlers-back-ageing-australia-begin-gruelling-run-4245096</guid>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three killed, 15 injured in Chandpur bus-truck collision]]></title>
+            <description><![CDATA[The collision occurred when the bus was overtaking another vehicle on Chandpur-Cumilla highway]]></description>
+            <link>https://www.thedailystar.net/news/accidents-fires/news/three-killed-15-injured-chandpur-bus-truck-collision-4245106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-fires/news/three-killed-15-injured-chandpur-bus-truck-collision-4245106</guid>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh and India scramble to save white-ball series]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/bangladesh-and-india-scramble-save-white-ball-series-4245116</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/bangladesh-and-india-scramble-save-white-ball-series-4245116</guid>
+            <pubDate>Tue, 11 Aug 2026 07:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taskin ready to shoulder pace burden in Australia]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/taskin-ready-shoulder-pace-burden-australia-4244631</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/taskin-ready-shoulder-pace-burden-australia-4244631</guid>
             <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
         </item>
         <item>
@@ -46,70 +116,9 @@
             <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[To feel Bengali, to think beyond Bengal: Dipankar Gupta in conversation]]></title>
-            <description><![CDATA[By Priyam Paul]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/feel-bengali-think-beyond-bengal-dipankar-gupta-conversation-4244591</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/feel-bengali-think-beyond-bengal-dipankar-gupta-conversation-4244591</guid>
-            <dc:creator><![CDATA[Priyam Paul]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why every protest matters: Lessons from Bangladesh, India and Nepal]]></title>
-            <description><![CDATA[Small protests can expose deep grievances, but state overreaction can transform a limited demand into a wider revolt.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-every-protest-matters-lessons-bangladesh-india-and-nepal-4244561</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-every-protest-matters-lessons-bangladesh-india-and-nepal-4244561</guid>
-            <dc:creator><![CDATA[Zarrar Khuhro]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Bangladesh can make the most of its South Korea CEPA]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/how-bangladesh-can-make-the-most-its-south-korea-cepa-4244806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/how-bangladesh-can-make-the-most-its-south-korea-cepa-4244806</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Trump took secret flight out of Turkey due to Iran threat, the Washington Post reports]]></title>
             <link>https://www.thedailystar.net/news/world/usa/news/trump-took-secret-flight-out-turkey-due-iran-threat-the-washington-post-reports-4245036</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/usa/news/trump-took-secret-flight-out-turkey-due-iran-threat-the-washington-post-reports-4245036</guid>
-            <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Population council asleep for 16 years]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/population-council-asleep-16-years-4245001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/population-council-asleep-16-years-4245001</guid>
-            <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A village in tears]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/village-tears-4244966</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/village-tears-4244966</guid>
-            <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[News analysis / BNP courts Hefazat. A playbook all too familiar?]]></title>
-            <link>https://www.thedailystar.net/news/world/news/bnp-courts-hefazat-playbook-all-too-familiar-4244991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/bnp-courts-hefazat-playbook-all-too-familiar-4244991</guid>
-            <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Door closes for errant ex-owners to reclaim banks]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/door-closes-errant-ex-owners-reclaim-banks-4244951</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/door-closes-errant-ex-owners-reclaim-banks-4244951</guid>
-            <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Profit streak to cash crisis: BPC seeks Tk 18,699cr lifeline]]></title>
-            <description><![CDATA[Citing the rapid depletion of its cash reserves, BPC said continued losses could affect its ability to open letters of credit (LCs) for future fuel imports, according to minutes of a BPC board meeting in July.]]></description>
-            <link>https://www.thedailystar.net/business/economy/news/profit-streak-cash-crisis-bpc-seeks-tk-18699cr-lifeline-4244811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/profit-streak-cash-crisis-bpc-seeks-tk-18699cr-lifeline-4244811</guid>
-            <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US State Dept revokes over 175,000 visas]]></title>
-            <link>https://www.thedailystar.net/news/world/news/us-state-dept-revokes-over-175000-visas-4245086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/us-state-dept-revokes-over-175000-visas-4245086</guid>
             <pubDate>Tue, 11 Aug 2026 05:56:44 GMT</pubDate>
         </item>
         <item>
@@ -214,6 +223,49 @@
             <link>https://www.thedailystar.net/sports/football/news/palestinian-club-football-restart-september-after-gaza-war-stoppage-4244946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/palestinian-club-football-restart-september-after-gaza-war-stoppage-4244946</guid>
             <pubDate>Tue, 11 Aug 2026 02:09:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.08.11)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260811-4244911</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260811-4244911</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FBCCI board reduced to 48 under new rules]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/fbcci-board-reduced-48-under-new-rules-4244801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/fbcci-board-reduced-48-under-new-rules-4244801</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Population council asleep for 16 years]]></title>
+            <description><![CDATA[Fertility rate rising, demographic dividend at risk]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/population-council-asleep-16-years-4245001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/population-council-asleep-16-years-4245001</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A village in tears]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/village-tears-4244966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/village-tears-4244966</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[News analysis / BNP courts Hefazat. A playbook all too familiar?]]></title>
+            <link>https://www.thedailystar.net/news/world/news/bnp-courts-hefazat-playbook-all-too-familiar-4244991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/bnp-courts-hefazat-playbook-all-too-familiar-4244991</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Door closes for errant ex-owners to reclaim banks]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/door-closes-errant-ex-owners-reclaim-banks-4244951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/door-closes-errant-ex-owners-reclaim-banks-4244951</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Profit streak to cash crisis: BPC seeks Tk 18,699cr lifeline]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/profit-streak-cash-crisis-bpc-seeks-tk-18699cr-lifeline-4244811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/profit-streak-cash-crisis-bpc-seeks-tk-18699cr-lifeline-4244811</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Liverpool bolster injury-hit defence with loan signing of Barca's Araujo]]></title>
@@ -3099,56 +3151,6 @@
             <title><![CDATA[Hasina’s departure was ‘part of a package’, says Zahed]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/hasinas-departure-was-part-package-says-zahed-4239846</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/hasinas-departure-was-part-package-says-zahed-4239846</guid>
-            <pubDate>Tue, 04 Aug 2026 23:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sole arrestee in Tonu murder case released on HC bail]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/sole-arrestee-tonu-murder-case-released-hc-bail-4240106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/sole-arrestee-tonu-murder-case-released-hc-bail-4240106</guid>
-            <pubDate>Tue, 04 Aug 2026 23:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Content creator Ripon Mia accused of raping 15-year-old; village arbitration sparks outrage]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/content-creator-ripon-mia-accused-raping-15-year-old-village-arbitration-sparks-outrage-4240226</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/content-creator-ripon-mia-accused-raping-15-year-old-village-arbitration-sparks-outrage-4240226</guid>
-            <pubDate>Tue, 04 Aug 2026 23:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 BGB platoons deployed in Gopalganj; DC says move is routine]]></title>
-            <link>https://www.thedailystar.net/news/news/5-bgb-platoons-deployed-gopalganj-dc-says-move-routine-4240166</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/5-bgb-platoons-deployed-gopalganj-dc-says-move-routine-4240166</guid>
-            <pubDate>Tue, 04 Aug 2026 23:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Those in power benefitted most from July’: Porwar on BNP rule and unmet expectations]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/those-power-benefitted-most-july-porwar-bnp-rule-and-unmet-expectations-4240136</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/those-power-benefitted-most-july-porwar-bnp-rule-and-unmet-expectations-4240136</guid>
-            <pubDate>Tue, 04 Aug 2026 23:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘A country can’t change overnight’: Fakhrul on Hasina’s return, Jamaat’s rise and over 5 months of BNP rule]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/country-cant-change-overnight-fakhrul-hasinas-return-jamaats-rise-and-over-5-months-bnp-rule-4240101</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/country-cant-change-overnight-fakhrul-hasinas-return-jamaats-rise-and-over-5-months-bnp-rule-4240101</guid>
-            <pubDate>Tue, 04 Aug 2026 23:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hasina’s speeches: Govt urges media not to publish them, ICT chief prosecutor says no blanket ban]]></title>
-            <description><![CDATA[Information ministry cites court directives and the spirit of the July Uprising, while chief prosecutor says only remarks amounting to hate speech are restricted]]></description>
-            <link>https://www.thedailystar.net/news/governance/news/hasinas-speeches-govt-urges-media-not-publish-them-ict-chief-prosecutor-says-no-blanket-ban-4240146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/hasinas-speeches-govt-urges-media-not-publish-them-ict-chief-prosecutor-says-no-blanket-ban-4240146</guid>
-            <pubDate>Tue, 04 Aug 2026 23:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Naogaon school torched after attempted rape allegation against Jamaat leader]]></title>
-            <description><![CDATA[Police say the accused headmaster is absconding; Joypurhat Jamaat forms a team to investigate]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/naogaon-school-torched-after-attempted-rape-allegation-against-jamaat-leader-4240386</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/naogaon-school-torched-after-attempted-rape-allegation-against-jamaat-leader-4240386</guid>
-            <pubDate>Tue, 04 Aug 2026 23:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vinicius Jr embraces Mourinho's 'happy football' philosophy as contract talks loom]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/vinicius-jr-embraces-mourinhos-happy-football-philosophy-contract-talks-loom-4240301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/vinicius-jr-embraces-mourinhos-happy-football-philosophy-contract-talks-loom-4240301</guid>
             <pubDate>Tue, 04 Aug 2026 23:08:46 GMT</pubDate>
         </item>
     </channel>
