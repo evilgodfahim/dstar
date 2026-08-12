@@ -4,32 +4,100 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 04:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 06:19:19 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.08.12)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260812-4245746</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260812-4245746</guid>
-            <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
+            <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Mastul’ draws overflowing crowd at Shilpakala film festival]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/mastul-draws-overflowing-crowd-shilpakala-film-festival-4245896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/mastul-draws-overflowing-crowd-shilpakala-film-festival-4245896</guid>
+            <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shamit Shome to join Pele's NY Cosmos!]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/shamit-shome-join-peles-ny-cosmos-4245886</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/shamit-shome-join-peles-ny-cosmos-4245886</guid>
+            <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International Youth Day / Give young workers a seat at the decision-making table]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</guid>
+            <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What a historic ADP low tells us about our development governance]]></title>
+            <description><![CDATA[Bangladesh has recorded another historically weak year in implementing its Annual Development Programme (ADP).]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</guid>
+            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Bangladesh needs a regional strategy beyond SAARC]]></title>
+            <description><![CDATA[By M Kabir Hassan]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-needs-regional-strategy-beyond-saarc-4245411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-needs-regional-strategy-beyond-saarc-4245411</guid>
+            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revive the population council urgently]]></title>
+            <description><![CDATA[The fact that a vital institution like the National Population Council (NPC) has been inactive for 16 years is shocking and frustrating.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/revive-the-population-council-urgently-4245606</guid>
+            <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SSC Results: When students fail in such numbers, we must rethink the system]]></title>
+            <description><![CDATA[By Md Mostafizur Rahaman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/ssc-results-when-students-fail-such-numbers-we-must-rethink-the-system-4245636</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ssc-results-when-students-fail-such-numbers-we-must-rethink-the-system-4245636</guid>
+            <dc:creator><![CDATA[Md Mostafizur Rahaman]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man shot dead at Khulna brick kiln]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/man-shot-dead-khulna-brick-kiln-4245911</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/man-shot-dead-khulna-brick-kiln-4245911</guid>
+            <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Power cuts leave 200 hilsa trawlers stranded in Patuakhali for lack of ice]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/power-cuts-leave-200-hilsa-fishing-trawlers-stranded-lack-ice-4245916</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/power-cuts-leave-200-hilsa-fishing-trawlers-stranded-lack-ice-4245916</guid>
+            <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pressure cooker wrapped in black tape sparks bomb scare in Savar]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/pressure-cooker-wrapped-black-tape-sparks-bomb-scare-savar-4245921</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pressure-cooker-wrapped-black-tape-sparks-bomb-scare-savar-4245921</guid>
+            <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia go full-strength as Cummins reveals playing XI against Bangladesh]]></title>
+            <description><![CDATA[Australia captain Pat Cummins has confirmed the XI his side will use for the opening ICC World Test Championship contest against Bangladesh in Darwin.]]></description>
+            <link>https://www.thedailystar.net/sports/cricket/news/australia-go-full-strength-cummins-reveals-playing-xi-against-bangladesh-4245891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/australia-go-full-strength-cummins-reveals-playing-xi-against-bangladesh-4245891</guid>
+            <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New attacks on shipping as Iran war talks hit fresh impasse]]></title>
+            <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/new-attacks-shipping-iran-war-talks-hit-fresh-impasse-4245876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/new-attacks-shipping-iran-war-talks-hit-fresh-impasse-4245876</guid>
+            <pubDate>Wed, 12 Aug 2026 06:19:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AFC Challenge League / Police FC fail to emulate Fortis]]></title>
             <link>https://www.thedailystar.net/sports/football/news/police-fc-fail-emulate-fortis-4245796</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/police-fc-fail-emulate-fortis-4245796</guid>
-            <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BB considers Tk 1,000cr collateral-free loans for young entrepreneurs]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/bb-considers-tk-1000cr-collateral-free-loans-young-entrepreneurs-4245561</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bb-considers-tk-1000cr-collateral-free-loans-young-entrepreneurs-4245561</guid>
-            <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What a historic ADP low tells us about our development governance]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</guid>
             <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
         </item>
         <item>
@@ -54,57 +122,6 @@
             <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Bangladesh needs a regional strategy beyond SAARC]]></title>
-            <description><![CDATA[By M Kabir Hassan]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-needs-regional-strategy-beyond-saarc-4245411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-needs-regional-strategy-beyond-saarc-4245411</guid>
-            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh to carry out first-ever watercraft census]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/bangladesh-carry-out-first-ever-watercraft-census-4245541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bangladesh-carry-out-first-ever-watercraft-census-4245541</guid>
-            <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australia go full-strength as Cummins reveals playing XI against Bangladesh]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/australia-go-full-strength-cummins-reveals-playing-xi-against-bangladesh-4245891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/australia-go-full-strength-cummins-reveals-playing-xi-against-bangladesh-4245891</guid>
-            <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt targets sustainable farming on 50% of land]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/govt-targets-sustainable-farming-50-land-4245556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/govt-targets-sustainable-farming-50-land-4245556</guid>
-            <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inflation falls to eight-month low of 8.32% in July]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/inflation-falls-eight-month-low-832-july-4245571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/inflation-falls-eight-month-low-832-july-4245571</guid>
-            <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New attacks on shipping as Iran war talks hit fresh impasse]]></title>
-            <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/new-attacks-shipping-iran-war-talks-hit-fresh-impasse-4245876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/new-attacks-shipping-iran-war-talks-hit-fresh-impasse-4245876</guid>
-            <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Health costs far exceed cigarette tax revenue]]></title>
-            <description><![CDATA[Smokers increasingly switch to cheaper brands]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/health-costs-far-exceed-cigarette-tax-revenue-4245791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/health-costs-far-exceed-cigarette-tax-revenue-4245791</guid>
-            <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Extreme heat costs workers Tk 77,000cr a year: study]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/extreme-heat-costs-workers-tk-77000cr-year-study-4245566</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/extreme-heat-costs-workers-tk-77000cr-year-study-4245566</guid>
-            <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cristiano Ronaldo marries long-term partner Georgina Rodriguez]]></title>
             <description><![CDATA[Cristiano Ronaldo and his longtime partner Georgina Rodriguez have finally tied the knot, with the Portugal superstar and the Spanish-Argentine becoming husband and wife in a private civil ceremony in Portugal on Tuesday.]]></description>
             <link>https://www.thedailystar.net/sports/football/news/ronaldo-and-georgina-tie-the-knot-4245761</link>
@@ -118,17 +135,59 @@
             <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[BB considers Tk 1,000cr collateral-free loans for young entrepreneurs]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/bb-considers-tk-1000cr-collateral-free-loans-young-entrepreneurs-4245561</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bb-considers-tk-1000cr-collateral-free-loans-young-entrepreneurs-4245561</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh to carry out first-ever watercraft census]]></title>
+            <description><![CDATA[To revive the water transport sector and unlock its full potential for the economy, the government is set to conduct Bangladesh’s first-ever census on watercraft.]]></description>
+            <link>https://www.thedailystar.net/business/economy/news/bangladesh-carry-out-first-ever-watercraft-census-4245541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bangladesh-carry-out-first-ever-watercraft-census-4245541</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt targets sustainable farming on 50% of land]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/govt-targets-sustainable-farming-50-land-4245556</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/govt-targets-sustainable-farming-50-land-4245556</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inflation falls to eight-month low of 8.32% in July]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/inflation-falls-eight-month-low-832-july-4245571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/inflation-falls-eight-month-low-832-july-4245571</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Health costs far exceed cigarette tax revenue]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/health-costs-far-exceed-cigarette-tax-revenue-4245791</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/health-costs-far-exceed-cigarette-tax-revenue-4245791</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extreme heat costs workers Tk 77,000cr a year: study]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/extreme-heat-costs-workers-tk-77000cr-year-study-4245566</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/extreme-heat-costs-workers-tk-77000cr-year-study-4245566</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rooftop solar panels can add 3,600MWp to national grid]]></title>
+            <description><![CDATA[Bangladesh could generate more than 3,600 megawatts peak (MWp) of electricity from rooftop solar panels, according to a new assessment by the state-owned Infrastructure Development Company Limited (Idcol).]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/rooftop-solar-panels-can-add-3600mwp-national-grid-4245801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/rooftop-solar-panels-can-add-3600mwp-national-grid-4245801</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jute sticks now a profitable by-product in Magura]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/jute-sticks-now-profitable-product-magura-4245591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/jute-sticks-now-profitable-product-magura-4245591</guid>
+            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[PSG want to win everything: Luis Enrique]]></title>
             <link>https://www.thedailystar.net/sports/football/news/psg-want-win-everything-luis-enrique-4245771</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/psg-want-win-everything-luis-enrique-4245771</guid>
-            <pubDate>Tue, 11 Aug 2026 23:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To feel Bengali, to think beyond Bengal: Dipankar Gupta in conversation]]></title>
-            <description><![CDATA[Sociologist Dipankar Gupta critically examines Bengali identity, the bhadralok construct, and his intellectual evolution across the decades.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/feel-bengali-think-beyond-bengal-dipankar-gupta-conversation-4244591</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/feel-bengali-think-beyond-bengal-dipankar-gupta-conversation-4244591</guid>
-            <dc:creator><![CDATA[Priyam Paul]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 23:49:35 GMT</pubDate>
         </item>
         <item>
@@ -548,6 +607,12 @@
             <link>https://www.thedailystar.net/sports/football/news/palestinian-club-football-restart-september-after-gaza-war-stoppage-4244946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/palestinian-club-football-restart-september-after-gaza-war-stoppage-4244946</guid>
             <pubDate>Tue, 11 Aug 2026 02:09:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[To feel Bengali, to think beyond Bengal: Dipankar Gupta in conversation]]></title>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/feel-bengali-think-beyond-bengal-dipankar-gupta-conversation-4244591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/feel-bengali-think-beyond-bengal-dipankar-gupta-conversation-4244591</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Feroza Begum Memorial Lecture and Scholarship Award’ honours young scholars]]></title>
@@ -2272,6 +2337,7 @@
         </item>
         <item>
             <title><![CDATA[Business Plus  / The fall of an industrial city]]></title>
+            <description><![CDATA[Khulna’s industrial belt now lies largely abandoned, with its people leaving too]]></description>
             <link>https://www.thedailystar.net/business/news/the-fall-industrial-city-4242376</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/the-fall-industrial-city-4242376</guid>
             <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
@@ -3090,67 +3156,6 @@
             <link>https://www.thedailystar.net/news/bangladesh/news/inside-the-museum-resistance-4241231</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/inside-the-museum-resistance-4241231</guid>
             <pubDate>Thu, 06 Aug 2026 03:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Over 200 small Gazipur garment factories declare 3-day break]]></title>
-            <link>https://www.thedailystar.net/business/news/over-200-small-gazipur-garment-factories-declare-3-day-break-4241176</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/over-200-small-gazipur-garment-factories-declare-3-day-break-4241176</guid>
-            <pubDate>Thu, 06 Aug 2026 01:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10,000 steps a day: Health myth or medical fact?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/10000-steps-day-health-myth-or-medical-fact-4240861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/10000-steps-day-health-myth-or-medical-fact-4240861</guid>
-            <pubDate>Thu, 06 Aug 2026 00:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pregnancy after 35: Separating facts from fear]]></title>
-            <link>https://www.thedailystar.net/life-living/health-fitness/news/pregnancy-after-35-separating-facts-fear-4241451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/health-fitness/news/pregnancy-after-35-separating-facts-fear-4241451</guid>
-            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspective / When the real cost of food delivery is your health and wealth]]></title>
-            <link>https://www.thedailystar.net/life-living/news/when-the-real-cost-food-delivery-your-health-and-wealth-4241456</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/when-the-real-cost-food-delivery-your-health-and-wealth-4241456</guid>
-            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Career / Medical interns open up about the experiences that shape them]]></title>
-            <link>https://www.thedailystar.net/campus/news/the-making-doctor-4239816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/the-making-doctor-4239816</guid>
-            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspective / How life changed for me in my 40s]]></title>
-            <link>https://www.thedailystar.net/life-living/news/how-life-changed-me-my-40s-4241446</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/how-life-changed-me-my-40s-4241446</guid>
-            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Education / A Bangladeshi photojournalist's Chevening journey]]></title>
-            <link>https://www.thedailystar.net/campus/news/bangladeshi-photojournalists-chevening-journey-4241326</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/bangladeshi-photojournalists-chevening-journey-4241326</guid>
-            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.08.06)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260806-4241281</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260806-4241281</guid>
-            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tax return filing rate falls in FY26 to multi-year low]]></title>
-            <description><![CDATA[Although the deadline for filing income tax returns was extended four times until March, the return filing rate fell in fiscal year 2025-26 from a year earlier.]]></description>
-            <link>https://www.thedailystar.net/business/economy/news/tax-return-filing-rate-falls-fy26-multi-year-low-4241011</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/tax-return-filing-rate-falls-fy26-multi-year-low-4241011</guid>
-            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Breastfeeding Week / A mother’s gift, lifeline for another baby]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/mothers-gift-lifeline-another-baby-4241241</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/mothers-gift-lifeline-another-baby-4241241</guid>
-            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
