@@ -4,26 +4,139 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 10:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 11:52:49 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 10:13:09 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Manikganj hosts cultural programme commemorating Rabindranath Tagore]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/manikganj-hosts-cultural-programme-commemorating-rabindranath-tagore-4245961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/manikganj-hosts-cultural-programme-commemorating-rabindranath-tagore-4245961</guid>
-            <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reaction / Be like Doku and kill with kindness]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/be-doku-and-kill-kindness-4246071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/be-doku-and-kill-kindness-4246071</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HSBC restarts buybacks after rates and wealth boost H1 profit]]></title>
+            <link>https://www.thedailystar.net/business/news/hsbc-restarts-buybacks-after-rates-and-wealth-boost-h1-profit-4246081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/hsbc-restarts-buybacks-after-rates-and-wealth-boost-h1-profit-4246081</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International Youth Day / Give young workers a seat at the decision-making table]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What a historic ADP low tells us about our development governance]]></title>
+            <description><![CDATA[By Muhammad Muktadirul Islam Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</guid>
+            <dc:creator><![CDATA[Muhammad Muktadirul Islam Khan]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Bangladesh needs a regional strategy beyond SAARC]]></title>
+            <description><![CDATA[SAARC’s prolonged paralysis exposes the limits of political regionalism, prompting Bangladesh to rethink its economic strategy.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-needs-regional-strategy-beyond-saarc-4245411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-needs-regional-strategy-beyond-saarc-4245411</guid>
+            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thirst in the Sundarbans: The water crisis facing Munda women]]></title>
+            <description><![CDATA[As freshwater disappears from the Sundarbans, Munda women bear the growing burden of climate-driven water scarcity.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/thirst-the-sundarbans-the-water-crisis-facing-munda-women-4245686</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/thirst-the-sundarbans-the-water-crisis-facing-munda-women-4245686</guid>
+            <dc:creator><![CDATA[Md. Al-Mamun Marufa Alam]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the UGC research funding debate is missing]]></title>
+            <description><![CDATA[By Md. Bakhtiar Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-the-ugc-research-funding-debate-missing-4246076</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-ugc-research-funding-debate-missing-4246076</guid>
+            <dc:creator><![CDATA[Md. Bakhtiar Uddin]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explosion near Barishal court gate briefly disrupts proceedings]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/blast-near-barishal-court-gate-sparks-panic-4245936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/blast-near-barishal-court-gate-sparks-panic-4245936</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2 young men found dead on railway tracks in Gopalganj]]></title>
+            <link>https://www.thedailystar.net/news/accidents-fires/news/2-young-men-found-dead-railway-tracks-gopalganj-4246031</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-fires/news/2-young-men-found-dead-railway-tracks-gopalganj-4246031</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Father turns son in after Thakurgaon security guard killing]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/father-turns-son-after-thakurgaon-security-guard-killing-4246086</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/father-turns-son-after-thakurgaon-security-guard-killing-4246086</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does Biman keep fixing problems the hard way?]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/why-does-biman-keep-fixing-problems-the-hard-way-4245646</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-does-biman-keep-fixing-problems-the-hard-way-4245646</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prosecution seeks maximum punishment for Obaidul Quader, 6 others over July Uprising atrocities]]></title>
+            <link>https://www.thedailystar.net/news/news/prosecution-seeks-maximum-punishment-obaidul-quader-6-others-over-july-uprising-atrocities-4245991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/prosecution-seeks-maximum-punishment-obaidul-quader-6-others-over-july-uprising-atrocities-4245991</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Powerful bomb in pressure cooker defused in Savar, blast shakes neighbourhood]]></title>
+            <description><![CDATA[DMP Bomb Disposal Unit neutralised the device after police evacuated and cordoned off the area]]></description>
+            <link>https://www.thedailystar.net/news/crime-justice/news/powerful-bomb-pressure-cooker-defused-savar-blast-shakes-neighbourhood-4246056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/powerful-bomb-pressure-cooker-defused-savar-blast-shakes-neighbourhood-4246056</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pop Culture / Samurai Jack and the future we became]]></title>
+            <link>https://www.thedailystar.net/culture/tv-film/news/samurai-jack-and-the-future-we-became-4246091</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/samurai-jack-and-the-future-we-became-4246091</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elderly couple, house help murdered at Sylhet house]]></title>
+            <description><![CDATA[The couple’s four children live abroad; police have formed special team for investigation]]></description>
+            <link>https://www.thedailystar.net/news/crime-justice/news/elderly-couple-house-help-murdered-sylhet-house-4245956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/elderly-couple-house-help-murdered-sylhet-house-4245956</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oscar-winning actor Brad Pitt offers to ‘show Neymar how to sell the scene’]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/oscar-winning-actor-brad-pitt-offers-show-neymar-how-sell-the-scene-4245996</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/oscar-winning-actor-brad-pitt-offers-show-neymar-how-sell-the-scene-4245996</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2 DU students expelled from hall over homosexuality allegations]]></title>
+            <description><![CDATA[Sheikh Mujibur Rahman Hall permanently cancelled their seats as further disciplinary action is considered]]></description>
+            <link>https://www.thedailystar.net/news/education/campus/news/2-du-students-expelled-hall-over-homosexuality-allegations-4246046</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/education/campus/news/2-du-students-expelled-hall-over-homosexuality-allegations-4246046</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Documentation gap keeps marginalised Bangladeshis from healthcare, education, safety nets: Speakers]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/documentation-gap-keeps-marginalised-bangladeshis-healthcare-education-safety-nets-speakers-4246026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/documentation-gap-keeps-marginalised-bangladeshis-healthcare-education-safety-nets-speakers-4246026</guid>
+            <pubDate>Wed, 12 Aug 2026 11:52:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Litton ‘100 percent fit’ ahead of Darwin Test]]></title>
             <link>https://www.thedailystar.net/sports/cricket/news/litton-100-percent-fit-ahead-darwin-test-4246016</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/litton-100-percent-fit-ahead-darwin-test-4246016</guid>
-            <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What a historic ADP low tells us about our development governance]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</guid>
             <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
         </item>
         <item>
@@ -34,22 +147,6 @@
             <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[International Youth Day / Give young workers a seat at the decision-making table]]></title>
-            <description><![CDATA[By Max Tuñón]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/give-young-workers-seat-the-decision-making-table-4245626</guid>
-            <dc:creator><![CDATA[Max Tuñón]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh needs a regional strategy beyond SAARC]]></title>
-            <description><![CDATA[By M Kabir Hassan]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-needs-regional-strategy-beyond-saarc-4245411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-needs-regional-strategy-beyond-saarc-4245411</guid>
-            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The invisible crisis: Why Bangladesh must wake up to its data vulnerability]]></title>
             <description><![CDATA[Bangladesh’s fragile digital governance and frequent data breaches demand urgent operational reforms to protect citizens’ personal information.]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-invisible-crisis-why-bangladesh-must-wake-its-data-vulnerability-4245576</link>
@@ -57,46 +154,9 @@
             <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Elderly couple, house help murdered at Sylhet house]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/elderly-couple-house-help-murdered-sylhet-house-4245956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/elderly-couple-house-help-murdered-sylhet-house-4245956</guid>
-            <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Documentation gap keeps marginalised Bangladeshis from healthcare, education, safety nets: Speakers]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/documentation-gap-keeps-marginalised-bangladeshis-healthcare-education-safety-nets-speakers-4246026</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/documentation-gap-keeps-marginalised-bangladeshis-healthcare-education-safety-nets-speakers-4246026</guid>
-            <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oscar-winning actor Brad Pitt offers to ‘show Neymar how to sell the scene’]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/oscar-winning-actor-brad-pitt-offers-show-neymar-how-sell-the-scene-4245996</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/oscar-winning-actor-brad-pitt-offers-show-neymar-how-sell-the-scene-4245996</guid>
-            <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pakistan interior minister in Iran to discuss regional security]]></title>
             <link>https://www.thedailystar.net/news/world/news/pakistan-interior-minister-iran-discuss-regional-security-4245941</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/pakistan-interior-minister-iran-discuss-regional-security-4245941</guid>
-            <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explosion near Barishal court gate briefly disrupts proceedings]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/blast-near-barishal-court-gate-sparks-panic-4245936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/blast-near-barishal-court-gate-sparks-panic-4245936</guid>
-            <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why does Biman keep fixing problems the hard way?]]></title>
-            <description><![CDATA[Reading the news of Biman Bangladesh Airlines flying engineers and spare parts about 7,000 kilometres from Dhaka to fix a Dreamliner stranded at Rome Fiumicino Airport, one cannot help but wonder: does this make any sense at all?]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-does-biman-keep-fixing-problems-the-hard-way-4245646</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-does-biman-keep-fixing-problems-the-hard-way-4245646</guid>
-            <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prosecution seeks maximum punishment for Obaidul Quader, 6 others over July Uprising atrocities]]></title>
-            <link>https://www.thedailystar.net/news/news/prosecution-seeks-maximum-punishment-obaidul-quader-6-others-over-july-uprising-atrocities-4245991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/prosecution-seeks-maximum-punishment-obaidul-quader-6-others-over-july-uprising-atrocities-4245991</guid>
             <pubDate>Wed, 12 Aug 2026 10:13:08 GMT</pubDate>
         </item>
         <item>
@@ -202,13 +262,6 @@
             <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bangladesh is getting dangerously hotter. Are we ready?]]></title>
-            <description><![CDATA[Extreme heat in Bangladesh is rapidly escalating into a severe public health emergency, demanding urgent climate adaptation.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/bangladesh-getting-dangerously-hotter-are-we-ready-4245211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/bangladesh-getting-dangerously-hotter-are-we-ready-4245211</guid>
-            <pubDate>Wed, 12 Aug 2026 04:52:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cristiano Ronaldo marries long-term partner Georgina Rodriguez]]></title>
             <description><![CDATA[Cristiano Ronaldo and his longtime partner Georgina Rodriguez have finally tied the knot, with the Portugal superstar and the Spanish-Argentine becoming husband and wife in a private civil ceremony in Portugal on Tuesday.]]></description>
             <link>https://www.thedailystar.net/sports/football/news/ronaldo-and-georgina-tie-the-knot-4245761</link>
@@ -289,12 +342,6 @@
             <title><![CDATA[Books make a comeback in Sreemangal schools]]></title>
             <link>https://www.thedailystar.net/news/education/news/novels-making-comeback-sreemangal-school-4245846</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/novels-making-comeback-sreemangal-school-4245846</guid>
-            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thirst in the Sundarbans: The water crisis facing Munda women]]></title>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/thirst-the-sundarbans-the-water-crisis-facing-munda-women-4245686</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/thirst-the-sundarbans-the-water-crisis-facing-munda-women-4245686</guid>
             <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -492,12 +539,6 @@
             <title><![CDATA[PM assures support as AmCham eyes more US investment]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/pm-assures-support-amcham-eyes-more-us-investment-4245161</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-assures-support-amcham-eyes-more-us-investment-4245161</guid>
-            <pubDate>Tue, 11 Aug 2026 13:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Main Vaapas Aaunga: A quiet film about going home found its way through Bollywood’s noise]]></title>
-            <link>https://www.thedailystar.net/culture/news/main-vaapas-aaunga-quiet-film-about-going-home-found-its-way-through-bollywoods-noise-4245296</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/news/main-vaapas-aaunga-quiet-film-about-going-home-found-its-way-through-bollywoods-noise-4245296</guid>
             <pubDate>Tue, 11 Aug 2026 13:19:36 GMT</pubDate>
         </item>
         <item>
@@ -726,6 +767,18 @@
             <link>https://www.thedailystar.net/sports/football/news/palestinian-club-football-restart-september-after-gaza-war-stoppage-4244946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/palestinian-club-football-restart-september-after-gaza-war-stoppage-4244946</guid>
             <pubDate>Tue, 11 Aug 2026 02:09:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh is getting dangerously hotter. Are we ready?]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/bangladesh-getting-dangerously-hotter-are-we-ready-4245211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/bangladesh-getting-dangerously-hotter-are-we-ready-4245211</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Main Vaapas Aaunga: A quiet film about going home found its way through Bollywood’s noise]]></title>
+            <link>https://www.thedailystar.net/culture/news/main-vaapas-aaunga-quiet-film-about-going-home-found-its-way-through-bollywoods-noise-4245296</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/news/main-vaapas-aaunga-quiet-film-about-going-home-found-its-way-through-bollywoods-noise-4245296</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[To feel Bengali, to think beyond Bengal: Dipankar Gupta in conversation]]></title>
@@ -3107,55 +3160,6 @@
             <link>https://www.thedailystar.net/culture/music/news/rabindranath-forever-he-indispensable-anima-roy-4240766</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/music/news/rabindranath-forever-he-indispensable-anima-roy-4240766</guid>
             <pubDate>Thu, 06 Aug 2026 09:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miraz century rescues Tigers in Australia practice match]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/miraz-century-rescues-tigers-australia-practice-match-4241376</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/miraz-century-rescues-tigers-australia-practice-match-4241376</guid>
-            <pubDate>Thu, 06 Aug 2026 09:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Agricultural support must reach small farmers]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/agricultural-support-must-reach-small-farmers-4240981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/agricultural-support-must-reach-small-farmers-4240981</guid>
-            <pubDate>Thu, 06 Aug 2026 09:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HC orders immediate treatment for accident victims at all hospitals]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/hc-orders-immediate-treatment-accident-victims-all-hospitals-4241416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/hc-orders-immediate-treatment-accident-victims-all-hospitals-4241416</guid>
-            <pubDate>Thu, 06 Aug 2026 09:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dismembered body parts of woman found in Dhaka's Sabujbag]]></title>
-            <description><![CDATA[Police search for remaining body parts; CCTV footage being examined]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/dismembered-body-woman-found-dhakas-sabujbag-4241361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/dismembered-body-woman-found-dhakas-sabujbag-4241361</guid>
-            <pubDate>Thu, 06 Aug 2026 09:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overseas jobs fall to five-year low amid Middle East uncertainty]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/overseas-jobs-fall-five-year-low-amid-middle-east-uncertainty-4240871</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/overseas-jobs-fall-five-year-low-amid-middle-east-uncertainty-4240871</guid>
-            <pubDate>Thu, 06 Aug 2026 09:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Locked for seven years, Jhenaidah’s Sadhuhati library awaits revival]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/locked-seven-years-jhenaidahs-sadhuhati-library-awaits-revival-4241391</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/locked-seven-years-jhenaidahs-sadhuhati-library-awaits-revival-4241391</guid>
-            <pubDate>Thu, 06 Aug 2026 09:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Public universities must not fall back into partisan control]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/public-universities-must-not-fall-back-partisan-control-4241001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/public-universities-must-not-fall-back-partisan-control-4241001</guid>
-            <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspective / Dhaka's floods say more about us than the rain]]></title>
-            <link>https://www.thedailystar.net/life-living/news/dhakas-floods-say-more-about-us-the-rain-4236221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/dhakas-floods-say-more-about-us-the-rain-4236221</guid>
-            <pubDate>Thu, 06 Aug 2026 06:37:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
