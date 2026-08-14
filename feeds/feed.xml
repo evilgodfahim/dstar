@@ -4,27 +4,122 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 06:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 08:21:15 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 06:19:03 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.08.14)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260814-4247356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260814-4247356</guid>
-            <pubDate>Fri, 14 Aug 2026 06:19:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Humour / The types of students at a university library]]></title>
             <link>https://www.thedailystar.net/youth/campus/news/the-types-students-university-library-4246041</link>
             <guid isPermaLink="true">https://www.thedailystar.net/youth/campus/news/the-types-students-university-library-4246041</guid>
-            <pubDate>Fri, 14 Aug 2026 06:19:03 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explainer / When numbers don't add up: Understanding dyscalculia]]></title>
+            <link>https://www.thedailystar.net/campus/news/when-numbers-dont-add-understanding-dyscalculia-4246036</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/when-numbers-dont-add-understanding-dyscalculia-4246036</guid>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Dragging artistes to court over every little matter is shameful’: Nusraat Faria]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/dragging-artistes-court-over-every-little-matter-shameful-nusraat-faria-4247566</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/dragging-artistes-court-over-every-little-matter-shameful-nusraat-faria-4247566</guid>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Zealand Football withdraws support for Infantino, urges review]]></title>
             <link>https://www.thedailystar.net/sports/football/news/new-zealand-football-withdraws-support-infantino-urges-review-4247521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/new-zealand-football-withdraws-support-infantino-urges-review-4247521</guid>
-            <pubDate>Fri, 14 Aug 2026 06:19:03 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the Saudi Arabia-Turkiye-Pakistan Makkah Agreement create a new regional security order?]]></title>
+            <description><![CDATA[The Makkah defence pact signals a major shift towards regional security cooperation, challenging established alliances and reshaping strategic calculations.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/will-the-saudi-arabia-turkiye-pakistan-makkah-agreement-create-new-regional-security-order-4246186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/will-the-saudi-arabia-turkiye-pakistan-makkah-agreement-create-new-regional-security-order-4246186</guid>
+            <dc:creator><![CDATA[Zahid Hussain]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Bangladesh needs mandatory warning labels on packaged foods]]></title>
+            <description><![CDATA[Mandatory front-of-pack labelling can help Bangladeshis identify unhealthy packaged foods and make informed choices to prevent non-communicable diseases.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/why-bangladesh-needs-mandatory-warning-labels-packaged-foods-4246841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/why-bangladesh-needs-mandatory-warning-labels-packaged-foods-4246841</guid>
+            <dc:creator><![CDATA[Marjana Muntaha]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mirrors of Empire / The bureaucrats and intellectuals who shaped the Mughal Empire]]></title>
+            <description><![CDATA[By Raziuddin Aquil]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/the-bureaucrats-and-intellectuals-who-shaped-the-mughal-empire-4247326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-bureaucrats-and-intellectuals-who-shaped-the-mughal-empire-4247326</guid>
+            <dc:creator><![CDATA[Raziuddin Aquil]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s FDI puzzle: Why human capital, not red tape, is the real constraint]]></title>
+            <description><![CDATA[By M.G. Quibria]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</guid>
+            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Graveyard dispute erupts into clash in Netrokona, injuring at least 50]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/graveyard-dispute-erupts-clash-netrokona-injuring-least-50-4247581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/graveyard-dispute-erupts-clash-netrokona-injuring-least-50-4247581</guid>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dengue cases surge in Chattogram as 361 infections recorded in 11 days]]></title>
+            <link>https://www.thedailystar.net/health/news/dengue-cases-surge-chattogram-361-infections-recorded-11-days-4247546</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/news/dengue-cases-surge-chattogram-361-infections-recorded-11-days-4247546</guid>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aus vs Ban 1st Test, Day 2  / Miraz, Mahmud show grit as Bangladesh end Day 2 with 153-run lead]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/mominul-falls-49-after-102-run-stand-tanzid-4247516</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/mominul-falls-49-after-102-run-stand-tanzid-4247516</guid>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure]]></title>
+            <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/us-says-it-can-keep-naval-blockade-iran-indefinitely-vows-more-economic-pressure-4247586</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/us-says-it-can-keep-naval-blockade-iran-indefinitely-vows-more-economic-pressure-4247586</guid>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swiatek rolls past Rybakina for WTA Toronto title]]></title>
+            <description><![CDATA[Former world number one Iga Swiatek captured her first title of the year on Thursday, roaring past a weary Elena Rybakina 6-2, 6-3 to win the WTA 1000 in Toronto.]]></description>
+            <link>https://www.thedailystar.net/sports/more-sports/tennis/news/swiatek-rolls-past-rybakina-wta-toronto-title-4247591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/tennis/news/swiatek-rolls-past-rybakina-wta-toronto-title-4247591</guid>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five workers die inside ship being dismantled in Sitakunda]]></title>
+            <description><![CDATA[The workers were inside an LNG carrier being dismantled]]></description>
+            <link>https://www.thedailystar.net/news/accidents-fires/news/five-workers-die-inside-ship-being-dismantled-sitakunda-4247556</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-fires/news/five-workers-die-inside-ship-being-dismantled-sitakunda-4247556</guid>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sri Lankan coach dies after altercation with young cricketers]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/sri-lankan-coach-dies-after-altercation-young-cricketers-4247576</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/sri-lankan-coach-dies-after-altercation-young-cricketers-4247576</guid>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US says lower oil prices, not Iran's nuclear program, are now top priority in war]]></title>
+            <description><![CDATA[Keeping oil and gas cheap for Americans all over the country is goal number one, says JD Vance]]></description>
+            <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/us-says-lower-oil-prices-not-irans-nuclear-program-are-now-top-priority-war-4247526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/us-says-lower-oil-prices-not-irans-nuclear-program-are-now-top-priority-war-4247526</guid>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CNG drivers block Chattogram road for 5 hours over gas shortage]]></title>
+            <link>https://www.thedailystar.net/news/news/cng-drivers-block-chattogram-road-5-hours-over-gas-shortage-4247541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/cng-drivers-block-chattogram-road-5-hours-over-gas-shortage-4247541</guid>
+            <pubDate>Fri, 14 Aug 2026 08:21:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dilruba Doyel, Nishat Priom lead ‘Bihan’ on the realities of working women]]></title>
@@ -33,51 +128,9 @@
             <pubDate>Fri, 14 Aug 2026 06:19:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Will the Saudi Arabia-Turkiye-Pakistan Makkah Agreement create a new regional security order?]]></title>
-            <description><![CDATA[The Makkah defence pact signals a major shift towards regional security cooperation, challenging established alliances and reshaping strategic calculations.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/will-the-saudi-arabia-turkiye-pakistan-makkah-agreement-create-new-regional-security-order-4246186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/will-the-saudi-arabia-turkiye-pakistan-makkah-agreement-create-new-regional-security-order-4246186</guid>
-            <dc:creator><![CDATA[Zahid Hussain]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 06:19:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Fidel Castro at 100 / Why Fidel Castro’s legacy still haunts Washington]]></title>
             <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/why-fidel-castros-legacy-still-haunts-washington-4247081</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/why-fidel-castros-legacy-still-haunts-washington-4247081</guid>
-            <pubDate>Fri, 14 Aug 2026 06:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh needs mandatory warning labels on packaged foods]]></title>
-            <description><![CDATA[Mandatory front-of-pack labelling can help Bangladeshis identify unhealthy packaged foods and make informed choices to prevent non-communicable diseases.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/why-bangladesh-needs-mandatory-warning-labels-packaged-foods-4246841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/why-bangladesh-needs-mandatory-warning-labels-packaged-foods-4246841</guid>
-            <dc:creator><![CDATA[Marjana Muntaha]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 06:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s FDI puzzle: Why human capital, not red tape, is the real constraint]]></title>
-            <description><![CDATA[By M.G. Quibria]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</guid>
-            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 06:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US says lower oil prices, not Iran's nuclear program, are now top priority in war]]></title>
-            <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/us-says-lower-oil-prices-not-irans-nuclear-program-are-now-top-priority-war-4247526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/us-says-lower-oil-prices-not-irans-nuclear-program-are-now-top-priority-war-4247526</guid>
-            <pubDate>Fri, 14 Aug 2026 06:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CNG drivers block Chattogram road for 5 hours over gas shortage]]></title>
-            <link>https://www.thedailystar.net/news/news/cng-drivers-block-chattogram-road-5-hours-over-gas-shortage-4247541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/cng-drivers-block-chattogram-road-5-hours-over-gas-shortage-4247541</guid>
-            <pubDate>Fri, 14 Aug 2026 06:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aus vs Ban 1st Test, Day 2  / Tanzid departs but Shanto, Mushfiqur continue to extend lead]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/mominul-falls-49-after-102-run-stand-tanzid-4247516</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/mominul-falls-49-after-102-run-stand-tanzid-4247516</guid>
             <pubDate>Fri, 14 Aug 2026 06:19:03 GMT</pubDate>
         </item>
         <item>
@@ -145,6 +198,12 @@
             <pubDate>Fri, 14 Aug 2026 02:27:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.08.14)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260814-4247356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260814-4247356</guid>
+            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[City Group plans to raise Tk 1,500cr from stock market]]></title>
             <link>https://www.thedailystar.net/business/economy/news/city-group-plans-raise-tk-1500cr-stock-market-4247246</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/city-group-plans-raise-tk-1500cr-stock-market-4247246</guid>
@@ -190,7 +249,6 @@
         </item>
         <item>
             <title><![CDATA[Govt’s debt outpacing revenue growth: Bangladesh Bank]]></title>
-            <description><![CDATA[The government’s debt is growing faster than its revenue base, widening the gap between accumulated debt and the state’s annual resource mobilisation capacity, according to Bangladesh Bank’s latest report.]]></description>
             <link>https://www.thedailystar.net/business/economy/news/govts-debt-outpacing-revenue-growth-bangladesh-bank-4247231</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/govts-debt-outpacing-revenue-growth-bangladesh-bank-4247231</guid>
             <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
@@ -3100,63 +3158,6 @@
             <link>https://www.thedailystar.net/news/bangladesh/news/acute-doctor-shortage-cripples-barguna-general-hospital-4242771</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/acute-doctor-shortage-cripples-barguna-general-hospital-4242771</guid>
             <pubDate>Sat, 08 Aug 2026 11:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tarique Rahman was tortured at JIC during 1/11: ICT chief prosecutor]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/tarique-rahman-was-tortured-jic-during-111-ict-chief-prosecutor-4242741</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tarique-rahman-was-tortured-jic-during-111-ict-chief-prosecutor-4242741</guid>
-            <pubDate>Sat, 08 Aug 2026 11:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fascism beneficiaries actively working to destabilise energy sector: PM]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/fascism-beneficiaries-actively-working-destabilise-energy-sector-pm-4242786</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/fascism-beneficiaries-actively-working-destabilise-energy-sector-pm-4242786</guid>
-            <pubDate>Sat, 08 Aug 2026 11:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Balaka Lounge at Dhaka airport temporarily closed after fire]]></title>
-            <description><![CDATA[Fire breaks out in lounge kitchen early today; no casualties or injuries reported]]></description>
-            <link>https://www.thedailystar.net/news/accidents-fires/news/balaka-lounge-dhaka-airport-temporarily-closed-after-fire-4242761</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-fires/news/balaka-lounge-dhaka-airport-temporarily-closed-after-fire-4242761</guid>
-            <pubDate>Sat, 08 Aug 2026 11:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biman sends engineers to Rome to fix grounded plane, two flights delayed]]></title>
-            <description><![CDATA[The aircraft, S2-AJY, operating on the Toronto-Rome-Dhaka route]]></description>
-            <link>https://www.thedailystar.net/business/news/biman-sends-engineers-rome-fix-grounded-plane-two-flights-delayed-4242756</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/biman-sends-engineers-rome-fix-grounded-plane-two-flights-delayed-4242756</guid>
-            <pubDate>Sat, 08 Aug 2026 11:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Head embraces opening role after Ashes success]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/head-embraces-opening-role-after-ashes-success-4242801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/head-embraces-opening-role-after-ashes-success-4242801</guid>
-            <pubDate>Sat, 08 Aug 2026 11:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What it means for Bangladesh to join the Saudi-led maritime alliance]]></title>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-it-means-bangladesh-join-the-saudi-led-maritime-alliance-4239866</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-it-means-bangladesh-join-the-saudi-led-maritime-alliance-4239866</guid>
-            <pubDate>Sat, 08 Aug 2026 10:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The fine line between moral courage and entitlement]]></title>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-fine-line-between-moral-courage-and-entitlement-4242446</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-fine-line-between-moral-courage-and-entitlement-4242446</guid>
-            <pubDate>Sat, 08 Aug 2026 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM inaugurates doctors’ rally]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/pm-inaugurates-doctors-rally-4242716</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-inaugurates-doctors-rally-4242716</guid>
-            <pubDate>Sat, 08 Aug 2026 08:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rain likely in Dhaka, seven other divisions]]></title>
-            <description><![CDATA[Moderately heavy to heavy rainfall likely at places across the country]]></description>
-            <link>https://www.thedailystar.net/news/environment/weather/news/rain-likely-dhaka-seven-other-divisions-4242726</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/weather/news/rain-likely-dhaka-seven-other-divisions-4242726</guid>
-            <pubDate>Sat, 08 Aug 2026 08:50:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
