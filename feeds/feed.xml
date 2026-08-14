@@ -4,27 +4,27 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 20:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 21:30:41 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.08.15)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260815-4247811</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260815-4247811</guid>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Badhonhara Brishtidhara' ushers in monsoon melodies at Chhayanaut]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/badhonhara-brishtidhara-ushers-monsoon-melodies-chhayanaut-4247656</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/badhonhara-brishtidhara-ushers-monsoon-melodies-chhayanaut-4247656</guid>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Darwin Test  / Back-to-back days of dominance for the Tigers: Here are the highlights]]></title>
             <link>https://www.thedailystar.net/sports/cricket/news/back-back-days-dominance-the-tigers-here-are-the-highlights-4247661</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/back-back-days-dominance-the-tigers-here-are-the-highlights-4247661</guid>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mirrors of Empire / The bureaucrats and intellectuals who shaped the Mughal Empire]]></title>
@@ -32,15 +32,7 @@
             <link>https://www.thedailystar.net/slow-reads/focus/news/the-bureaucrats-and-intellectuals-who-shaped-the-mughal-empire-4247326</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-bureaucrats-and-intellectuals-who-shaped-the-mughal-empire-4247326</guid>
             <dc:creator><![CDATA[Raziuddin Aquil]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s FDI puzzle: Why human capital, not red tape, is the real constraint]]></title>
-            <description><![CDATA[Bangladesh struggles to attract high-value foreign investment, but its deeper problem lies in skills, education and economic complexity.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</guid>
-            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Breastfeeding in Bangladesh: What is holding mothers back?]]></title>
@@ -48,7 +40,15 @@
             <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/breastfeeding-bangladesh-what-holding-mothers-back-4247721</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/breastfeeding-bangladesh-what-holding-mothers-back-4247721</guid>
             <dc:creator><![CDATA[Banani Chakraborty]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s FDI puzzle: Why human capital, not red tape, is the real constraint]]></title>
+            <description><![CDATA[Bangladesh struggles to attract high-value foreign investment, but its deeper problem lies in skills, education and economic complexity.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</guid>
+            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chained majesties: The plight of captive elephants in Bangladesh]]></title>
@@ -56,70 +56,70 @@
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/chained-majesties-the-plight-captive-elephants-bangladesh-4247716</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/chained-majesties-the-plight-captive-elephants-bangladesh-4247716</guid>
             <dc:creator><![CDATA[Amirul RajivNaim Ul Hasan]]></dc:creator>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[52 Awami League leaders, activists sent to jail over 'Aug 15 gathering']]></title>
             <link>https://www.thedailystar.net/news/crime-justice/news/52-awami-league-leaders-activists-sent-jail-over-aug-15-gathering-4247711</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/52-awami-league-leaders-activists-sent-jail-over-aug-15-gathering-4247711</guid>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[People won't accept PM Tarique's India visit without accountability for sheltering Hasina: Nahid]]></title>
             <link>https://www.thedailystar.net/news/politics/news/people-wont-accept-pm-tariques-india-visit-without-accountability-sheltering-hasina-nahid-4247686</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/people-wont-accept-pm-tariques-india-visit-without-accountability-sheltering-hasina-nahid-4247686</guid>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Another 20 seconds and I would have died']]></title>
-            <link>https://www.thedailystar.net/news/accidents-fires/news/another-20-seconds-and-i-would-have-died-4247671</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-fires/news/another-20-seconds-and-i-would-have-died-4247671</guid>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Summit resumes LNG supply to national grid]]></title>
             <link>https://www.thedailystar.net/news/environment/natural-resources/energy/news/summit-resumes-lng-supply-national-grid-4247676</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/environment/natural-resources/energy/news/summit-resumes-lng-supply-national-grid-4247676</guid>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Another 20 seconds and I would have died']]></title>
+            <link>https://www.thedailystar.net/news/accidents-fires/news/another-20-seconds-and-i-would-have-died-4247671</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-fires/news/another-20-seconds-and-i-would-have-died-4247671</guid>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JCD set to announce new central committee within 1-2 days]]></title>
             <link>https://www.thedailystar.net/news/politics/news/jcd-set-announce-new-central-committee-within-1-2-days-4247771</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/jcd-set-announce-new-central-committee-within-1-2-days-4247771</guid>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shafiqur calls for special parliament session amid energy crisis]]></title>
             <description><![CDATA[Jamaat chief cites load-shedding, economic strain and law-and-order deterioration]]></description>
             <link>https://www.thedailystar.net/news/politics/news/shafiqur-calls-special-parliament-session-amid-energy-crisis-4247776</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/shafiqur-calls-special-parliament-session-amid-energy-crisis-4247776</guid>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gill says 'huge honour' to lead India in 600th Test]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/gill-says-huge-honour-lead-india-600th-test-4247746</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/gill-says-huge-honour-lead-india-600th-test-4247746</guid>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pakistan captain Babar Azam in injury scare ahead of England opener]]></title>
             <description><![CDATA[Pakistan captain Babar Azam suffered an injury during the second day of a warm-up match ahead of next week's first Test against England.]]></description>
             <link>https://www.thedailystar.net/sports/cricket/news/pakistan-captain-babar-azam-injury-scare-ahead-england-opener-4247741</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/pakistan-captain-babar-azam-injury-scare-ahead-england-opener-4247741</guid>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gill says 'huge honour' to lead India in 600th Test]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/gill-says-huge-honour-lead-india-600th-test-4247746</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/gill-says-huge-honour-lead-india-600th-test-4247746</guid>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Barapukuria power plant unit-1 shut down over mechanical failure]]></title>
             <description><![CDATA[Plant was supplying around 50 MW from unit-1 before shutdown]]></description>
             <link>https://www.thedailystar.net/news/environment/natural-resources/energy/news/barapukuria-power-plant-unit-1-shut-down-over-mechanical-failure-4247726</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/environment/natural-resources/energy/news/barapukuria-power-plant-unit-1-shut-down-over-mechanical-failure-4247726</guid>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sitakunda shipbreaking yard faced legal action over safety violations last month]]></title>
             <link>https://www.thedailystar.net/news/accidents-fires/news/sitakunda-shipbreaking-yard-faced-legal-action-over-safety-violations-last-month-4247636</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-fires/news/sitakunda-shipbreaking-yard-faced-legal-action-over-safety-violations-last-month-4247636</guid>
-            <pubDate>Fri, 14 Aug 2026 20:36:14 GMT</pubDate>
+            <pubDate>Fri, 14 Aug 2026 21:30:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India's Tata Steel sells Jamshedpur FC for token sum of $1]]></title>
