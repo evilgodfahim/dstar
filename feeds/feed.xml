@@ -4,41 +4,39 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 09:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 11:25:47 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Perspective / Meet the hawkers carrying Nakshi Kantha through Dhaka]]></title>
+            <link>https://www.thedailystar.net/life-living/news/meet-the-hawkers-carrying-nakshi-kantha-through-dhaka-4248201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/meet-the-hawkers-carrying-nakshi-kantha-through-dhaka-4248201</guid>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[20 legendary Ayub Bachchu songs reimagined in tribute to late maestro]]></title>
             <link>https://www.thedailystar.net/culture/music/news/20-legendary-ayub-bachchu-songs-reimagined-tribute-late-maestro-4248051</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/music/news/20-legendary-ayub-bachchu-songs-reimagined-tribute-late-maestro-4248051</guid>
-            <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rajshahi Stars target finals on AFC Women's Champions League debut]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/rajshahi-stars-target-finals-afc-womens-champions-league-debut-4248116</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/rajshahi-stars-target-finals-afc-womens-champions-league-debut-4248116</guid>
-            <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
+            <title><![CDATA[Hazlewood sees Bangladesh blueprint for Australia]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/hazlewood-sees-bangladesh-blueprint-australia-4248126</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/hazlewood-sees-bangladesh-blueprint-australia-4248126</guid>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[US raises pressure on EU to 'deliver' on non-tariff trade commitments]]></title>
             <link>https://www.thedailystar.net/business/news/us-raises-pressure-eu-deliver-non-tariff-trade-commitments-4248081</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/us-raises-pressure-eu-deliver-non-tariff-trade-commitments-4248081</guid>
-            <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How long must a school suffer?]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/how-long-must-school-suffer-4247786</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/how-long-must-school-suffer-4247786</guid>
-            <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In a democracy, RTI is an accountability tool]]></title>
-            <description><![CDATA[By Dr Shamsul BariRuhi Naz]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/democracy-rti-accountability-tool-4247806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/democracy-rti-accountability-tool-4247806</guid>
-            <dc:creator><![CDATA[Dr Shamsul BariRuhi Naz]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Research should be about pursuing knowledge, not publication numbers]]></title>
@@ -46,7 +44,15 @@
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/research-should-be-about-pursuing-knowledge-not-publication-numbers-4247791</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/research-should-be-about-pursuing-knowledge-not-publication-numbers-4247791</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In a democracy, RTI is an accountability tool]]></title>
+            <description><![CDATA[By Dr Shamsul BariRuhi Naz]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/democracy-rti-accountability-tool-4247806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/democracy-rti-accountability-tool-4247806</guid>
+            <dc:creator><![CDATA[Dr Shamsul BariRuhi Naz]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Assassination of Sheikh Mujibur Rahman / The fault lines that set the stage for August 15]]></title>
@@ -54,7 +60,7 @@
             <link>https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</guid>
             <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh’s FDI puzzle: Why human capital, not red tape, is the real constraint]]></title>
@@ -62,12 +68,68 @@
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</guid>
             <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Update / Indonesia quake death toll rises to 38: Disaster official]]></title>
+            <link>https://www.thedailystar.net/news/world/news/indonesia-quake-death-toll-rises-38-disaster-4248001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/indonesia-quake-death-toll-rises-38-disaster-4248001</guid>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four madrasa students injured in crude bomb blast in Madaripur]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/four-madrasa-students-injured-crude-bomb-blast-madaripur-4248186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/four-madrasa-students-injured-crude-bomb-blast-madaripur-4248186</guid>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death toll crosses 900 as eight more die with measles-like symptoms in 24hrs]]></title>
+            <link>https://www.thedailystar.net/health/disease/news/death-toll-crosses-900-8-more-die-measles-symptoms-24hrs-4248131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/death-toll-crosses-900-8-more-die-measles-symptoms-24hrs-4248131</guid>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rizvi, 3 others made BNP Standing Committee members]]></title>
+            <link>https://www.thedailystar.net/news/politics/news/rizvi-3-others-made-bnp-standing-committee-members-4248191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/rizvi-3-others-made-bnp-standing-committee-members-4248191</guid>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / India is warming to Tarique. Is it abandoning Hasina?]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-warming-tarique-it-abandoning-hasina-4248096</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-warming-tarique-it-abandoning-hasina-4248096</guid>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shanto ‘focused on process, not result’ despite being on top]]></title>
+            <description><![CDATA[The Tigers entered the Test in Darwin hoping simply to play five days of competitive cricket, but three days into the match they find themselves in a commanding position after producing an impressive all-round performance.]]></description>
             <link>https://www.thedailystar.net/sports/cricket/news/shanto-focused-process-not-result-despite-being-top-4248151</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/shanto-focused-process-not-result-despite-being-top-4248151</guid>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BRAC Bank's profit surges 57% in Jan-June 2026]]></title>
+            <link>https://www.thedailystar.net/business/news/brac-banks-profit-surges-57-jan-june-2026-4248206</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/brac-banks-profit-surges-57-jan-june-2026-4248206</guid>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM vows hassle-free retirement benefits for teachers]]></title>
+            <description><![CDATA[Over 123,000 retired teachers, employees to receive benefits through online system]]></description>
+            <link>https://www.thedailystar.net/news/governance/news/pm-vows-hassle-free-retirement-benefits-teachers-4248146</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/pm-vows-hassle-free-retirement-benefits-teachers-4248146</guid>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Woman hacked to death in Gazipur home; husband, daughter injured]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/woman-hacked-death-gazipur-home-husband-daughter-injured-4248166</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/woman-hacked-death-gazipur-home-husband-daughter-injured-4248166</guid>
+            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rajshahi Stars target finals on AFC Women's Champions League debut]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/rajshahi-stars-target-finals-afc-womens-champions-league-debut-4248116</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/rajshahi-stars-target-finals-afc-womens-champions-league-debut-4248116</guid>
             <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
         </item>
         <item>
@@ -83,29 +145,10 @@
             <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Update / Indonesia quake death toll rises to 38: Disaster official]]></title>
-            <link>https://www.thedailystar.net/news/world/news/indonesia-quake-death-toll-rises-38-disaster-4248001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/indonesia-quake-death-toll-rises-38-disaster-4248001</guid>
-            <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM vows hassle-free retirement benefits for teachers]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/pm-vows-hassle-free-retirement-benefits-teachers-4248146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/pm-vows-hassle-free-retirement-benefits-teachers-4248146</guid>
-            <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Aus vs Ban, 1st Test, Day 3 / Tigers stay in control as Australia steady late in Darwin]]></title>
             <description><![CDATA[Australia reached 161 for four at stumps, still trailing Bangladesh by 67 runs with two days remaining. Green was unbeaten on 43 and Carey on 19, with the pair ensuring there was no further damage before the close.]]></description>
             <link>https://www.thedailystar.net/sports/cricket/news/hazlewood-ends-hasan-taijul-resistance-quick-succession-4247961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/hazlewood-ends-hasan-taijul-resistance-quick-succession-4247961</guid>
-            <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death toll crosses 900 as eight more die with measles-like symptoms in 24hrs]]></title>
-            <description><![CDATA[Suspected measles deaths rise to 803; confirmed toll remains 99]]></description>
-            <link>https://www.thedailystar.net/health/disease/news/death-toll-crosses-900-8-more-die-measles-symptoms-24hrs-4248131</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/death-toll-crosses-900-8-more-die-measles-symptoms-24hrs-4248131</guid>
             <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
         </item>
         <item>
@@ -132,12 +175,6 @@
             <link>https://www.thedailystar.net/opinion/news/bangladesh-must-redesign-education-the-age-ai-4247796</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/bangladesh-must-redesign-education-the-age-ai-4247796</guid>
             <dc:creator><![CDATA[H. M. Sabbir Hossain]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 08:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis / India is warming to Tarique. Is it abandoning Hasina?]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-warming-tarique-it-abandoning-hasina-4248096</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-warming-tarique-it-abandoning-hasina-4248096</guid>
             <pubDate>Sat, 15 Aug 2026 08:36:00 GMT</pubDate>
         </item>
         <item>
@@ -386,6 +423,7 @@
         </item>
         <item>
             <title><![CDATA[Once a forest now a landscape of loss]]></title>
+            <description><![CDATA[About two and a half kilometres southeast of Dulahazara Bazar in Cox’s Bazar’s Chakaria upazila, along a winding rural road, lies Paglir Bil Road.]]></description>
             <link>https://www.thedailystar.net/weekend-read/news/once-forest-now-landscape-loss-4247781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/weekend-read/news/once-forest-now-landscape-loss-4247781</guid>
             <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
@@ -1303,7 +1341,7 @@
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cover Story  / Is the CFA worth it? Bangladeshi candidates weigh in]]></title>
+            <title><![CDATA[Education / Is the CFA worth it? Bangladeshi candidates weigh in]]></title>
             <link>https://www.thedailystar.net/campus/news/the-cfa-worth-it-bangladeshi-candidates-weigh-4245986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/campus/news/the-cfa-worth-it-bangladeshi-candidates-weigh-4245986</guid>
             <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
@@ -3130,44 +3168,6 @@
             <link>https://www.thedailystar.net/news/bangladesh/rights/news/blast-demands-justice-tortured-sisters-shariatpur-4243736</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/rights/news/blast-demands-justice-tortured-sisters-shariatpur-4243736</guid>
             <pubDate>Sun, 09 Aug 2026 14:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[⁠Int'l Indigenous Peoples Day / Ctg's Chandanaish: Forgotten in the hills of Dhopachhari]]></title>
-            <link>https://www.thedailystar.net/news/news/ctgs-chandanaish-forgotten-the-hills-dhopachhari-4243726</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/ctgs-chandanaish-forgotten-the-hills-dhopachhari-4243726</guid>
-            <pubDate>Sun, 09 Aug 2026 14:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM hands over new homes to flood-hit families in Ctg’s Banshkhali]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/pm-hands-over-new-homes-flood-hit-families-ctgs-banshkhali-4243511</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-hands-over-new-homes-flood-hit-families-ctgs-banshkhali-4243511</guid>
-            <pubDate>Sun, 09 Aug 2026 14:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shahid Mahmud Jangi pens nostalgic ode to Suchitra Sen]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/shahid-mahmud-jangi-pens-nostalgic-ode-suchitra-sen-4243566</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/shahid-mahmud-jangi-pens-nostalgic-ode-suchitra-sen-4243566</guid>
-            <pubDate>Sun, 09 Aug 2026 11:35:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When Europe’s top leagues and competitions return]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/when-europes-top-leagues-and-competitions-return-4243451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/when-europes-top-leagues-and-competitions-return-4243451</guid>
-            <pubDate>Sun, 09 Aug 2026 11:35:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International Day of the World's Indigenous Peoples / We cannot let Indigenous midwifery and its traditions disappear]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/we-cannot-let-indigenous-midwifery-and-its-traditions-disappear-4243106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-cannot-let-indigenous-midwifery-and-its-traditions-disappear-4243106</guid>
-            <pubDate>Sun, 09 Aug 2026 11:35:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A rosy narrative on decentralising school management is not helpful]]></title>
-            <description><![CDATA[The narrative of a success story about reaching near-universal enrolment and closing the gender gap in primary education in Bangladesh is quite justified, but the achievement itself is neither exceptional nor improbable, as is sometimes claimed.]]></description>
-            <link>https://www.thedailystar.net/opinion/news/rosy-narrative-decentralising-school-management-not-helpful-4243091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/rosy-narrative-decentralising-school-management-not-helpful-4243091</guid>
-            <dc:creator><![CDATA[Manzoor Ahmed]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 11:35:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
