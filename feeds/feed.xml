@@ -4,26 +4,107 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 05:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 06:48:40 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 06:48:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.08.15)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260815-4247811</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260815-4247811</guid>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 legendary Ayub Bachchu songs reimagined in tribute to late maestro]]></title>
+            <link>https://www.thedailystar.net/culture/music/news/20-legendary-ayub-bachchu-songs-reimagined-tribute-late-maestro-4248051</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/music/news/20-legendary-ayub-bachchu-songs-reimagined-tribute-late-maestro-4248051</guid>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LaLiga returns with plenty to watch]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/laliga-returns-plenty-watch-4248011</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/laliga-returns-plenty-watch-4248011</guid>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Assassination of Sheikh Mujibur Rahman / The fault lines that set the stage for August 15]]></title>
+            <link>https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</guid>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breastfeeding in Bangladesh: What is holding mothers back?]]></title>
+            <description><![CDATA[Despite the immense benefits of breast milk, socioeconomic barriers and aggressive formula marketing hinder breastfeeding in Bangladesh.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/breastfeeding-bangladesh-what-holding-mothers-back-4247721</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/breastfeeding-bangladesh-what-holding-mothers-back-4247721</guid>
+            <dc:creator><![CDATA[Banani Chakraborty]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chained majesties: The plight of captive elephants in Bangladesh]]></title>
+            <description><![CDATA[By Amirul RajivNaim Ul Hasan]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/chained-majesties-the-plight-captive-elephants-bangladesh-4247716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/chained-majesties-the-plight-captive-elephants-bangladesh-4247716</guid>
+            <dc:creator><![CDATA[Amirul RajivNaim Ul Hasan]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s FDI puzzle: Why human capital, not red tape, is the real constraint]]></title>
+            <description><![CDATA[Bangladesh struggles to attract high-value foreign investment, but its deeper problem lies in skills, education and economic complexity.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</guid>
+            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enforced disappearances must be investigated independently]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aus vs Ban, 1st Test, Day 3 / Hasan Mahmud removes both openers; Australia trail by 177 runs at tea]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/hazlewood-ends-hasan-taijul-resistance-quick-succession-4247961</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/hazlewood-ends-hasan-taijul-resistance-quick-succession-4247961</guid>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dengue surge overwhelms Khulna hospitals as deaths, admissions climb]]></title>
+            <link>https://www.thedailystar.net/health/disease/news/dengue-surge-overwhelms-khulna-hospitals-deaths-admissions-climb-4248056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/dengue-surge-overwhelms-khulna-hospitals-deaths-admissions-climb-4248056</guid>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Update / Powerful quake off Indonesia kills 20, sparks mass evacuations]]></title>
+            <link>https://www.thedailystar.net/news/world/news/powerful-quake-indonesia-kills-20-sparks-mass-evacuations-4248001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/powerful-quake-indonesia-kills-20-sparks-mass-evacuations-4248001</guid>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM stresses humane approach, equal access to quality healthcare]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/pm-stresses-humane-approach-equal-access-quality-healthcare-4248061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-stresses-humane-approach-equal-access-quality-healthcare-4248061</guid>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five killed in Michigan shooting, suspect found dead, police say]]></title>
+            <description><![CDATA[One victim remained hospitalized ​in critical condition, the police said]]></description>
+            <link>https://www.thedailystar.net/news/world/usa/news/five-killed-michigan-shooting-suspect-found-dead-police-say-4248036</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/usa/news/five-killed-michigan-shooting-suspect-found-dead-police-say-4248036</guid>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putin visits disputed island near Japan, drawing Tokyo's ire]]></title>
+            <link>https://www.thedailystar.net/news/world/news/putin-visits-disputed-island-near-japan-drawing-tokyos-ire-4248016</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/putin-visits-disputed-island-near-japan-drawing-tokyos-ire-4248016</guid>
+            <pubDate>Sat, 15 Aug 2026 06:48:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arteta tells Arsenal fans not to fret over his future]]></title>
             <link>https://www.thedailystar.net/sports/football/news/arteta-tells-arsenal-fans-not-fret-over-his-future-4247921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/arteta-tells-arsenal-fans-not-fret-over-his-future-4247921</guid>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Bangladesh, 40 nations helping China evade tariffs’]]></title>
-            <link>https://www.thedailystar.net/business/news/bangladesh-40-nations-helping-china-evade-tariffs-4247936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-40-nations-helping-china-evade-tariffs-4247936</guid>
             <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
         </item>
         <item>
@@ -33,85 +114,10 @@
             <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Breastfeeding in Bangladesh: What is holding mothers back?]]></title>
-            <description><![CDATA[Despite the immense benefits of breast milk, socioeconomic barriers and aggressive formula marketing hinder breastfeeding in Bangladesh.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/breastfeeding-bangladesh-what-holding-mothers-back-4247721</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/breastfeeding-bangladesh-what-holding-mothers-back-4247721</guid>
-            <dc:creator><![CDATA[Banani Chakraborty]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chained majesties: The plight of captive elephants in Bangladesh]]></title>
-            <description><![CDATA[By Amirul RajivNaim Ul Hasan]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/chained-majesties-the-plight-captive-elephants-bangladesh-4247716</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/chained-majesties-the-plight-captive-elephants-bangladesh-4247716</guid>
-            <dc:creator><![CDATA[Amirul RajivNaim Ul Hasan]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s FDI puzzle: Why human capital, not red tape, is the real constraint]]></title>
-            <description><![CDATA[Bangladesh struggles to attract high-value foreign investment, but its deeper problem lies in skills, education and economic complexity.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</guid>
-            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enforced disappearances must be investigated independently]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/enforced-disappearances-must-be-investigated-independently-4247216</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The day before his assassination]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/the-day-his-assassination-4247881</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/the-day-his-assassination-4247881</guid>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aus vs Ban, 1st Test, Day 3 / Mahmud removes openers as Tigers turn the screws around Aussies]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/hazlewood-ends-hasan-taijul-resistance-quick-succession-4247961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/hazlewood-ends-hasan-taijul-resistance-quick-succession-4247961</guid>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five killed in Michigan shooting, suspect found dead, police say]]></title>
-            <link>https://www.thedailystar.net/news/world/usa/news/five-killed-michigan-shooting-suspect-found-dead-police-say-4248036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/usa/news/five-killed-michigan-shooting-suspect-found-dead-police-say-4248036</guid>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tarique likely to visit India between August 20 and 25]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/tarique-likely-visit-india-between-august-20-and-25-4247871</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tarique-likely-visit-india-between-august-20-and-25-4247871</guid>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Summit LNG back online; Excelerate FSRU now offline]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/summit-lng-back-online-excelerate-fsru-now-offline-4247861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/summit-lng-back-online-excelerate-fsru-now-offline-4247861</guid>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Business Plus  / The middle-class gutted by inflation]]></title>
-            <link>https://www.thedailystar.net/business/news/the-middle-class-gutted-inflation-4247766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/the-middle-class-gutted-inflation-4247766</guid>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Power plant chokes Hathazari canal]]></title>
             <description><![CDATA[The Bangladesh Power Development Board (BPDB) converted part of the Mithachhara canal in Chattogram’s Hathazari upazila to facilitate the construction of a power plant, disrupting the key waterway’s natural flow and threatening local livelihoods and the environment.]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/power-plant-chokes-hathazari-canal-4247916</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/power-plant-chokes-hathazari-canal-4247916</guid>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Update / Powerful quake off Indonesia kills 20, sparks mass evacuations]]></title>
-            <description><![CDATA[Dozens of aftershocks have already been felt, the strongest measured at a magnitude of 6.1]]></description>
-            <link>https://www.thedailystar.net/news/world/news/powerful-quake-indonesia-kills-20-sparks-mass-evacuations-4248001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/powerful-quake-indonesia-kills-20-sparks-mass-evacuations-4248001</guid>
             <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
         </item>
         <item>
@@ -128,12 +134,6 @@
             <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Putin visits disputed island near Japan, drawing Tokyo's ire]]></title>
-            <link>https://www.thedailystar.net/news/world/news/putin-visits-disputed-island-near-japan-drawing-tokyos-ire-4248016</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/putin-visits-disputed-island-near-japan-drawing-tokyos-ire-4248016</guid>
-            <pubDate>Sat, 15 Aug 2026 05:30:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[GDP calculation methodology has ‘significant flaws’]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/gdp-calculation-methodology-has-significant-flaws-4247891</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/gdp-calculation-methodology-has-significant-flaws-4247891</guid>
@@ -144,13 +144,6 @@
             <description><![CDATA[For many middle-class families, life is built around some common characteristics.]]></description>
             <link>https://www.thedailystar.net/ds/business-plus/news/the-middle-class-gutted-inflation-4247766</link>
             <guid isPermaLink="true">https://www.thedailystar.net/ds/business-plus/news/the-middle-class-gutted-inflation-4247766</guid>
-            <pubDate>Sat, 15 Aug 2026 04:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LaLiga returns with plenty to watch]]></title>
-            <description><![CDATA[Spain's top flight kicks off the 2026/27 season on Saturday with Alaves hosting Getafe, although defending champions Barcelona and Jose Mourinho's Real Madrid are not in action yet.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/laliga-returns-plenty-watch-4248011</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/laliga-returns-plenty-watch-4248011</guid>
             <pubDate>Sat, 15 Aug 2026 04:37:32 GMT</pubDate>
         </item>
         <item>
@@ -228,6 +221,44 @@
             <link>https://www.thedailystar.net/news/crime-justice/news/52-awami-league-leaders-activists-sent-jail-over-aug-15-gathering-4247711</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/52-awami-league-leaders-activists-sent-jail-over-aug-15-gathering-4247711</guid>
             <pubDate>Sat, 15 Aug 2026 01:38:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Bangladesh, 40 nations helping China evade tariffs’]]></title>
+            <link>https://www.thedailystar.net/business/news/bangladesh-40-nations-helping-china-evade-tariffs-4247936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-40-nations-helping-china-evade-tariffs-4247936</guid>
+            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The day before his assassination]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/the-day-his-assassination-4247881</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/the-day-his-assassination-4247881</guid>
+            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tarique likely to visit India between August 20 and 25]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/tarique-likely-visit-india-between-august-20-and-25-4247871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tarique-likely-visit-india-between-august-20-and-25-4247871</guid>
+            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Summit LNG back online; Excelerate FSRU now offline]]></title>
+            <description><![CDATA[Just as the Summit LNG terminal resumed feeding the national grid yesterday, Excelerate Energy’s terminal went offline following another technical fault, prolonging the severe gas shortage that has stifled economic activities.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/summit-lng-back-online-excelerate-fsru-now-offline-4247861</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/summit-lng-back-online-excelerate-fsru-now-offline-4247861</guid>
+            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Business Plus  / The middle-class gutted by inflation]]></title>
+            <link>https://www.thedailystar.net/business/news/the-middle-class-gutted-inflation-4247766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/the-middle-class-gutted-inflation-4247766</guid>
+            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[180-day assessment: Govt passes itself with flying colours]]></title>
+            <description><![CDATA[The BNP government has restored economic stability and made progress in several development and social welfare programmes during its first 180 days in power, according to its own assessment.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/6-month-assessment-govt-passes-itself-flying-colours-4247826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/6-month-assessment-govt-passes-itself-flying-colours-4247826</guid>
+            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gill says 'huge honour' to lead India in 600th Test]]></title>
@@ -3133,38 +3164,6 @@
             <link>https://www.thedailystar.net/news/crime-justice/news/quader-told-palak-slow-internet-during-july-uprising-phone-conversation-submitted-ict-4243411</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/quader-told-palak-slow-internet-during-july-uprising-phone-conversation-submitted-ict-4243411</guid>
             <pubDate>Sun, 09 Aug 2026 08:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World number one Sabalenka stunned by Alexandrova at Toronto Masters]]></title>
-            <link>https://www.thedailystar.net/sports/more-sports/tennis/news/world-number-one-sabalenka-stunned-alexandrova-toronto-masters-4243431</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/tennis/news/world-number-one-sabalenka-stunned-alexandrova-toronto-masters-4243431</guid>
-            <pubDate>Sun, 09 Aug 2026 07:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We are yet to build an institution for theatre: Ramendu Majumdar]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/we-are-yet-build-institution-theatre-ramendu-majumdar-4242911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/we-are-yet-build-institution-theatre-ramendu-majumdar-4242911</guid>
-            <pubDate>Sun, 09 Aug 2026 07:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What research retractions reveal about our universities’ weaknesses]]></title>
-            <description><![CDATA[A recent Prothom Alo report on at least 325 retracted papers affiliated with researchers at Bangladeshi universities has attracted significant public attention, with indignation expressed at the state of Bangladesh’s scholarly enterprise.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-research-retractions-reveal-about-our-universities-weaknesses-4243116</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-research-retractions-reveal-about-our-universities-weaknesses-4243116</guid>
-            <dc:creator><![CDATA[Syed Saad Andaleeb]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 07:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t let another waterway project fail]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/dont-let-another-waterway-project-fail-4243086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-let-another-waterway-project-fail-4243086</guid>
-            <pubDate>Sun, 09 Aug 2026 07:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM reaches Matarbari to inspect deep-sea port, development projects]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/pm-reaches-matarbari-inspect-deep-sea-port-development-projects-4243391</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-reaches-matarbari-inspect-deep-sea-port-development-projects-4243391</guid>
-            <pubDate>Sun, 09 Aug 2026 07:05:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
