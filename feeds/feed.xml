@@ -4,15 +4,134 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 11:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 13:34:57 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Perspective / Meet the hawkers carrying Nakshi Kantha through Dhaka]]></title>
             <link>https://www.thedailystar.net/life-living/news/meet-the-hawkers-carrying-nakshi-kantha-through-dhaka-4248201</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/meet-the-hawkers-carrying-nakshi-kantha-through-dhaka-4248201</guid>
-            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘The Quiet Within’: Exhibition blurs the line between photography and painting]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/the-quiet-within-exhibition-blurs-the-line-between-photography-and-painting-4248231</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/the-quiet-within-exhibition-blurs-the-line-between-photography-and-painting-4248231</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shanto ‘focused on process, not result’ despite being on top]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/shanto-focused-process-not-result-despite-being-top-4248151</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/shanto-focused-process-not-result-despite-being-top-4248151</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh needs a smarter outbound investment policy for post-LDC era]]></title>
+            <link>https://www.thedailystar.net/business/news/bangladesh-needs-smarter-outbound-investment-policy-post-ldc-era-4248226</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-needs-smarter-outbound-investment-policy-post-ldc-era-4248226</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The unspoken burden of being the head of the family]]></title>
+            <link>https://www.thedailystar.net/life-living/relationships-family/news/the-unspoken-burden-being-the-head-the-family-4248196</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/relationships-family/news/the-unspoken-burden-being-the-head-the-family-4248196</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shipbreaking industry needs real oversight]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/shipbreaking-industry-needs-real-oversight-4248256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/shipbreaking-industry-needs-real-oversight-4248256</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Assassination of Sheikh Mujibur Rahman / The fault lines that set the stage for August 15]]></title>
+            <description><![CDATA[The question whether Mujib’s murder could have been avoided still remains.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</guid>
+            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s FDI puzzle: Why human capital, not red tape, is the real constraint]]></title>
+            <description><![CDATA[Bangladesh struggles to attract high-value foreign investment, but its deeper problem lies in skills, education and economic complexity.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</guid>
+            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sheikh Mujib’s killing: What the newspapers told and what they omitted]]></title>
+            <description><![CDATA[By Rahat Minhaz]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/sheikh-mujibs-killing-what-the-newspapers-told-and-what-they-omitted-4248181</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/sheikh-mujibs-killing-what-the-newspapers-told-and-what-they-omitted-4248181</guid>
+            <dc:creator><![CDATA[Rahat Minhaz]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BGB foils 'BSF push-in attempt' along Jhenaidah border]]></title>
+            <link>https://www.thedailystar.net/news/cross-border/news/bgb-foils-bsf-push-attempt-along-jhenaidah-border-4248261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/cross-border/news/bgb-foils-bsf-push-attempt-along-jhenaidah-border-4248261</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In conversation with William Dalrymple / ‘Britain didn't conquer India’]]></title>
+            <description><![CDATA[By Karim Waheed]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/britain-didnt-conquer-india-56137</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/britain-didnt-conquer-india-56137</guid>
+            <dc:creator><![CDATA[Karim Waheed]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death toll crosses 900 as eight more die with measles-like symptoms in 24hrs]]></title>
+            <link>https://www.thedailystar.net/health/disease/news/death-toll-crosses-900-8-more-die-measles-symptoms-24hrs-4248131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/death-toll-crosses-900-8-more-die-measles-symptoms-24hrs-4248131</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rizvi, 3 others made BNP Standing Committee members]]></title>
+            <link>https://www.thedailystar.net/news/politics/news/rizvi-3-others-made-bnp-standing-committee-members-4248191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/rizvi-3-others-made-bnp-standing-committee-members-4248191</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Policemen, among 4, injured in gunfight with suspected drug dealers in Fatullah]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/policemen-among-4-injured-gunfight-suspected-drug-dealers-fatullah-4248251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/policemen-among-4-injured-gunfight-suspected-drug-dealers-fatullah-4248251</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / India is warming to Tarique. Is it abandoning Hasina?]]></title>
+            <description><![CDATA[The Indian envoy flying back to Delhi within hours of meeting Prime Minister Tarique Rahman, to be followed by an audience with Prime Minister Modi the following day, should indicate India’s willingness in rebuilding its relations with Bangladesh]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-warming-tarique-it-abandoning-hasina-4248096</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-warming-tarique-it-abandoning-hasina-4248096</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Recap / Top 5 economic developments of last week]]></title>
+            <description><![CDATA[The following is a recap of those major stories as covered by Star Business]]></description>
+            <link>https://www.thedailystar.net/business/news/top-5-economic-developments-last-week-4248156</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/top-5-economic-developments-last-week-4248156</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Update / Indonesia quake death toll rises to 38: Disaster official]]></title>
+            <link>https://www.thedailystar.net/news/world/news/indonesia-quake-death-toll-rises-38-disaster-4248001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/indonesia-quake-death-toll-rises-38-disaster-4248001</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four madrasa students injured in crude bomb blast in Madaripur]]></title>
+            <description><![CDATA[Police suspect ball-like object exploded after students picked it up]]></description>
+            <link>https://www.thedailystar.net/news/crime-justice/news/four-madrasa-students-injured-crude-bomb-blast-madaripur-4248186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/four-madrasa-students-injured-crude-bomb-blast-madaripur-4248186</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Model-actress Ridhika Ridhi found dead at Bashundhara home]]></title>
+            <link>https://www.thedailystar.net/news/news/model-actress-ridhika-ridhi-found-dead-bashundhara-home-4248266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/model-actress-ridhika-ridhi-found-dead-bashundhara-home-4248266</guid>
+            <pubDate>Sat, 15 Aug 2026 13:34:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[20 legendary Ayub Bachchu songs reimagined in tribute to late maestro]]></title>
@@ -52,59 +171,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/democracy-rti-accountability-tool-4247806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/democracy-rti-accountability-tool-4247806</guid>
             <dc:creator><![CDATA[Dr Shamsul BariRuhi Naz]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Assassination of Sheikh Mujibur Rahman / The fault lines that set the stage for August 15]]></title>
-            <description><![CDATA[The question whether Mujib’s murder could have been avoided still remains.]]></description>
-            <link>https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-fault-lines-set-the-stage-august-15-4247801</guid>
-            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s FDI puzzle: Why human capital, not red tape, is the real constraint]]></title>
-            <description><![CDATA[By M.G. Quibria]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladeshs-fdi-puzzle-why-human-capital-not-red-tape-the-real-constraint-4247076</guid>
-            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
-            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Update / Indonesia quake death toll rises to 38: Disaster official]]></title>
-            <link>https://www.thedailystar.net/news/world/news/indonesia-quake-death-toll-rises-38-disaster-4248001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/indonesia-quake-death-toll-rises-38-disaster-4248001</guid>
-            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four madrasa students injured in crude bomb blast in Madaripur]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/four-madrasa-students-injured-crude-bomb-blast-madaripur-4248186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/four-madrasa-students-injured-crude-bomb-blast-madaripur-4248186</guid>
-            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death toll crosses 900 as eight more die with measles-like symptoms in 24hrs]]></title>
-            <link>https://www.thedailystar.net/health/disease/news/death-toll-crosses-900-8-more-die-measles-symptoms-24hrs-4248131</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/death-toll-crosses-900-8-more-die-measles-symptoms-24hrs-4248131</guid>
-            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rizvi, 3 others made BNP Standing Committee members]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/rizvi-3-others-made-bnp-standing-committee-members-4248191</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/rizvi-3-others-made-bnp-standing-committee-members-4248191</guid>
-            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis / India is warming to Tarique. Is it abandoning Hasina?]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-warming-tarique-it-abandoning-hasina-4248096</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-warming-tarique-it-abandoning-hasina-4248096</guid>
-            <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shanto ‘focused on process, not result’ despite being on top]]></title>
-            <description><![CDATA[The Tigers entered the Test in Darwin hoping simply to play five days of competitive cricket, but three days into the match they find themselves in a commanding position after producing an impressive all-round performance.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/shanto-focused-process-not-result-despite-being-top-4248151</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/shanto-focused-process-not-result-despite-being-top-4248151</guid>
             <pubDate>Sat, 15 Aug 2026 11:25:47 GMT</pubDate>
         </item>
         <item>
@@ -155,12 +221,6 @@
             <title><![CDATA[PM stresses humane approach, equal access to quality healthcare]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/pm-stresses-humane-approach-equal-access-quality-healthcare-4248061</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-stresses-humane-approach-equal-access-quality-healthcare-4248061</guid>
-            <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Recap / Top 5 economic developments of last week]]></title>
-            <link>https://www.thedailystar.net/business/news/top-5-economic-developments-last-week-4248156</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/top-5-economic-developments-last-week-4248156</guid>
             <pubDate>Sat, 15 Aug 2026 09:31:32 GMT</pubDate>
         </item>
         <item>
@@ -423,9 +483,14 @@
         </item>
         <item>
             <title><![CDATA[Once a forest now a landscape of loss]]></title>
-            <description><![CDATA[About two and a half kilometres southeast of Dulahazara Bazar in Cox’s Bazar’s Chakaria upazila, along a winding rural road, lies Paglir Bil Road.]]></description>
             <link>https://www.thedailystar.net/weekend-read/news/once-forest-now-landscape-loss-4247781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/weekend-read/news/once-forest-now-landscape-loss-4247781</guid>
+            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Essay / Poet Shamsur Rahman’s drama translation:  Eugene O’Neill’s ‘Marco Millions’]]></title>
+            <link>https://www.thedailystar.net/culture/books-literature/essay/news/poet-shamsur-rahmans-drama-translation-eugene-oneills-marco-millions-4247761</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/books-literature/essay/news/poet-shamsur-rahmans-drama-translation-eugene-oneills-marco-millions-4247761</guid>
             <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3103,71 +3168,6 @@
             <link>https://www.thedailystar.net/nrb/migration/news/bangladesh-among-top-5-sources-uk-asylum-claims-few-approved-high-commissioner-4243611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/nrb/migration/news/bangladesh-among-top-5-sources-uk-asylum-claims-few-approved-high-commissioner-4243611</guid>
             <pubDate>Sun, 09 Aug 2026 16:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RU hall union leader alleges Rucsu pressure to drop ‘mob justice’ debate topic]]></title>
-            <link>https://www.thedailystar.net/campus/news/ru-hall-union-leader-alleges-rucsu-pressure-drop-mob-justice-debate-topic-4243781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/ru-hall-union-leader-alleges-rucsu-pressure-drop-mob-justice-debate-topic-4243781</guid>
-            <pubDate>Sun, 09 Aug 2026 16:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LightCastle, Meta launch Small Business Growth Academy in Bangladesh]]></title>
-            <link>https://www.thedailystar.net/business/news/lightcastle-meta-launch-small-business-growth-academy-bangladesh-4243691</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/lightcastle-meta-launch-small-business-growth-academy-bangladesh-4243691</guid>
-            <pubDate>Sun, 09 Aug 2026 15:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Maldini quit FIGC after 17 days]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/why-maldini-quit-figc-after-17-days-4243776</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/why-maldini-quit-figc-after-17-days-4243776</guid>
-            <pubDate>Sun, 09 Aug 2026 15:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s youth and the global opportunity]]></title>
-            <description><![CDATA[Bangladesh's path to BPO leadership is not to imitate the Philippines or India. It is to occupy the space that neither has fully captured: AI-native, multi-skilled, and positioned at the intersection of quality and value]]></description>
-            <link>https://www.thedailystar.net/business/news/bangladeshs-youth-and-the-global-opportunity-4243641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladeshs-youth-and-the-global-opportunity-4243641</guid>
-            <dc:creator><![CDATA[Rashed Mujib Noman]]></dc:creator>
-            <pubDate>Sun, 09 Aug 2026 15:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Many class 4, 5 students lack basic Bangla reading skills: Bobby Hajjaj]]></title>
-            <link>https://www.thedailystar.net/news/education/news/many-class-4-5-students-lack-basic-bangla-reading-skills-bobby-hajjaj-4243576</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/many-class-4-5-students-lack-basic-bangla-reading-skills-bobby-hajjaj-4243576</guid>
-            <pubDate>Sun, 09 Aug 2026 15:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BGB hands detained Indian national over to Panchagarh police]]></title>
-            <description><![CDATA[Incident comes after BSF reportedly took away elderly Bangladeshi man into India]]></description>
-            <link>https://www.thedailystar.net/news/cross-border/news/bgb-hands-detained-indian-national-over-panchagarh-police-4243761</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/cross-border/news/bgb-hands-detained-indian-national-over-panchagarh-police-4243761</guid>
-            <pubDate>Sun, 09 Aug 2026 15:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BFF yet to take a position on Infantino: Tabith]]></title>
-            <description><![CDATA[Tabith's comments came after an international media report claimed that Bangladesh was among the countries supporting Infantino, who is seeking re-election as FIFA president in 2027.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/bff-yet-take-position-infantino-tabith-4243706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/bff-yet-take-position-infantino-tabith-4243706</guid>
-            <pubDate>Sun, 09 Aug 2026 15:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sports minister orders removal of shops  from Kamalapur stadium, suspends administrator]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/sports-minister-orders-removal-shops-kamalapur-stadium-suspends-administrator-4243766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/sports-minister-orders-removal-shops-kamalapur-stadium-suspends-administrator-4243766</guid>
-            <pubDate>Sun, 09 Aug 2026 15:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rabada fired up for home World Cup, wants his Wasim moment]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/rabada-fired-home-world-cup-wants-his-wasim-moment-4243666</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/rabada-fired-home-world-cup-wants-his-wasim-moment-4243666</guid>
-            <pubDate>Sun, 09 Aug 2026 14:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BLAST demands justice for tortured sisters in Shariatpur]]></title>
-            <description><![CDATA[Seeks punishment for perpetrators]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/rights/news/blast-demands-justice-tortured-sisters-shariatpur-4243736</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/rights/news/blast-demands-justice-tortured-sisters-shariatpur-4243736</guid>
-            <pubDate>Sun, 09 Aug 2026 14:40:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
