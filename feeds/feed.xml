@@ -4,33 +4,144 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 15:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 16:32:00 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The hidden language we speak through jewellery]]></title>
             <link>https://www.thedailystar.net/life-living/fashion-beauty/news/the-hidden-language-we-speak-through-jewellery-4249036</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/the-hidden-language-we-speak-through-jewellery-4249036</guid>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arts / Chowrasta brings Bangladesh’s hip-hop community together]]></title>
             <link>https://www.thedailystar.net/life-living/news/chowrasta-brings-bangladeshs-hip-hop-community-together-4249041</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/chowrasta-brings-bangladeshs-hip-hop-community-together-4249041</guid>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Claude will watermark AI text. Here’s how it works]]></title>
             <link>https://www.thedailystar.net/news/tech-startup/news/claude-will-watermark-ai-text-heres-how-it-works-4249051</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/tech-startup/news/claude-will-watermark-ai-text-heres-how-it-works-4249051</guid>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Uttoradhikar: Ayub Bachchu’s legacy lives on through a new generation]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/uttoradhikar-ayub-bachchus-legacy-lives-through-new-generation-4249106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/uttoradhikar-ayub-bachchus-legacy-lives-through-new-generation-4249106</guid>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh to take part in U-15 World Cup Festival]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/bangladesh-take-part-u-15-world-cup-festival-4249136</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/bangladesh-take-part-u-15-world-cup-festival-4249136</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BB relaxes rules for fruit imports]]></title>
+            <link>https://www.thedailystar.net/business/news/bb-relaxes-rules-fruit-imports-4249146</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bb-relaxes-rules-fruit-imports-4249146</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A presidential election, or another coronation?]]></title>
+            <description><![CDATA[On August 20, for only the second time in our history, parliamentarians will have the opportunity to elect the president of the republic.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sheikh Mujib’s killing: What the newspapers told and what they omitted]]></title>
+            <description><![CDATA[By Rahat Minhaz]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/sheikh-mujibs-killing-what-the-newspapers-told-and-what-they-omitted-4248181</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/sheikh-mujibs-killing-what-the-newspapers-told-and-what-they-omitted-4248181</guid>
+            <dc:creator><![CDATA[Rahat Minhaz]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh First: Rethinking the relationship with India]]></title>
+            <description><![CDATA[Bangladesh-India ties need a reset grounded in sovereign equality, mutual respect and Bangladesh’s evolving national aspirations.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-first-rethinking-the-relationship-india-4248456</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-first-rethinking-the-relationship-india-4248456</guid>
+            <dc:creator><![CDATA[M Humayun Kabir]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Create conditions for safe return of Rohingya]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/create-conditions-safe-return-rohingya-4249091</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/create-conditions-safe-return-rohingya-4249091</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fire at helmet warehouse in Dhaka’s Bangshal now under control]]></title>
+            <link>https://www.thedailystar.net/news/accidents-and-fires/news/fire-helmet-warehouse-dhakas-bangshal-now-under-control-4249126</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/fire-helmet-warehouse-dhakas-bangshal-now-under-control-4249126</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A teacher must not become a victim of political vengeance, academics' platform says]]></title>
+            <link>https://www.thedailystar.net/news/education/news/teacher-must-not-become-victim-political-vengeance-academics-platform-says-4249141</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/teacher-must-not-become-victim-political-vengeance-academics-platform-says-4249141</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Darwin is Bangladesh’s greatest Test victory]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/why-darwin-bangladeshs-greatest-test-victory-4248991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/why-darwin-bangladeshs-greatest-test-victory-4248991</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt launches Tk 400 crore fund to boost startup investment]]></title>
+            <link>https://www.thedailystar.net/business/news/govt-launches-tk-400-crore-fund-boost-startup-investment-4249081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-launches-tk-400-crore-fund-boost-startup-investment-4249081</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Credit goes 1,000 percent to the team’: Bangladesh celebrates historic Test win in Australia]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/credit-goes-1000-percent-the-team-bangladesh-celebrates-historic-test-win-australia-4249086</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/credit-goes-1000-percent-the-team-bangladesh-celebrates-historic-test-win-australia-4249086</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High-profile Indian business delegation scheduled to visit Bangladesh on Aug 17-18]]></title>
+            <link>https://www.thedailystar.net/business/news/high-profile-indian-business-delegation-scheduled-visit-bangladesh-aug-17-18-4249231</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/high-profile-indian-business-delegation-scheduled-visit-bangladesh-aug-17-18-4249231</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ronaldo hints at retirement, says upcoming year could be his last]]></title>
+            <description><![CDATA[Cristiano Ronaldo has fuelled speculation about his retirement plans after saying the upcoming year will probably be the last of his playing career.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/ronaldo-hints-retirement-says-upcoming-year-could-be-his-last-4249211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/ronaldo-hints-retirement-says-upcoming-year-could-be-his-last-4249211</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When rulers fail to address public suffering, they bring up old political controversies: Porwar]]></title>
+            <description><![CDATA[Jamaat secretary general urges the govt to focus on the energy crisis, implement opposition proposals and convene an emergency parliament session]]></description>
+            <link>https://www.thedailystar.net/news/politics/news/when-rulers-fail-address-public-suffering-they-bring-old-political-controversies-porwar-4249201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/when-rulers-fail-address-public-suffering-they-bring-old-political-controversies-porwar-4249201</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SSC student deaths: Aachol Foundation seeks govt intervention to prevent suicides]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/rights/news/ssc-student-deaths-aachol-foundation-seeks-govt-intervention-prevent-suicides-4249241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/rights/news/ssc-student-deaths-aachol-foundation-seeks-govt-intervention-prevent-suicides-4249241</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We inherited a completely destroyed economy: Khosru]]></title>
+            <description><![CDATA[Finance minister vows to democratise economy]]></description>
+            <link>https://www.thedailystar.net/business/economy/news/we-inherited-completely-destroyed-economy-khosru-4249186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/we-inherited-completely-destroyed-economy-khosru-4249186</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal rout Man City in Community Shield masterclass]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/arsenal-rout-man-city-community-shield-masterclass-4249236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/arsenal-rout-man-city-community-shield-masterclass-4249236</guid>
+            <pubDate>Sun, 16 Aug 2026 16:32:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shanto credits whole Bangladesh team for ‘biggest victory’]]></title>
@@ -45,76 +156,9 @@
             <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A presidential election, or another coronation?]]></title>
-            <description><![CDATA[On August 20, for only the second time in our history, parliamentarians will have the opportunity to elect the president of the republic.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sheikh Mujib’s killing: What the newspapers told and what they omitted]]></title>
-            <description><![CDATA[By Rahat Minhaz]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/sheikh-mujibs-killing-what-the-newspapers-told-and-what-they-omitted-4248181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/sheikh-mujibs-killing-what-the-newspapers-told-and-what-they-omitted-4248181</guid>
-            <dc:creator><![CDATA[Rahat Minhaz]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh First: Rethinking the relationship with India]]></title>
-            <description><![CDATA[Bangladesh-India ties need a reset grounded in sovereign equality, mutual respect and Bangladesh’s evolving national aspirations.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-first-rethinking-the-relationship-india-4248456</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-first-rethinking-the-relationship-india-4248456</guid>
-            <dc:creator><![CDATA[M Humayun Kabir]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create conditions for safe return of Rohingya]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/create-conditions-safe-return-rohingya-4249091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/create-conditions-safe-return-rohingya-4249091</guid>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BRTC to roll out pink buses, operated by women for women]]></title>
             <link>https://www.thedailystar.net/news/transport/news/brtc-roll-out-pink-buses-operated-women-women-4249151</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/brtc-roll-out-pink-buses-operated-women-women-4249151</guid>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BB relaxes rules for fruit imports]]></title>
-            <link>https://www.thedailystar.net/business/news/bb-relaxes-rules-fruit-imports-4249146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bb-relaxes-rules-fruit-imports-4249146</guid>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fire at helmet warehouse in Dhaka’s Bangshal now under control]]></title>
-            <link>https://www.thedailystar.net/news/accidents-and-fires/news/fire-helmet-warehouse-dhakas-bangshal-now-under-control-4249126</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/fire-helmet-warehouse-dhakas-bangshal-now-under-control-4249126</guid>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Darwin is Bangladesh’s greatest Test victory]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/why-darwin-bangladeshs-greatest-test-victory-4248991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/why-darwin-bangladeshs-greatest-test-victory-4248991</guid>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A teacher must not become a victim of political vengeance, academics' platform says]]></title>
-            <link>https://www.thedailystar.net/news/education/news/teacher-must-not-become-victim-political-vengeance-academics-platform-says-4249141</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/teacher-must-not-become-victim-political-vengeance-academics-platform-says-4249141</guid>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Credit goes 1,000 percent to the team’: Bangladesh celebrates historic Test win in Australia]]></title>
-            <description><![CDATA[Former spinner and national selector Abdur Razzak said the victory strengthened Bangladesh's case for more Test opportunities against Australia.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/credit-goes-1000-percent-the-team-bangladesh-celebrates-historic-test-win-australia-4249086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/credit-goes-1000-percent-the-team-bangladesh-celebrates-historic-test-win-australia-4249086</guid>
-            <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt launches Tk 400 crore fund to boost startup investment]]></title>
-            <link>https://www.thedailystar.net/business/news/govt-launches-tk-400-crore-fund-boost-startup-investment-4249081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-launches-tk-400-crore-fund-boost-startup-investment-4249081</guid>
             <pubDate>Sun, 16 Aug 2026 15:27:25 GMT</pubDate>
         </item>
         <item>
@@ -167,12 +211,6 @@
             <description><![CDATA[Department of Environment, Rab and police assisted the upazila administration during the operation]]></description>
             <link>https://www.thedailystar.net/news/environment/news/3-rolling-mills-fined-tk-14-lakh-over-air-pollution-narayanganjs-fatullah-4249101</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/environment/news/3-rolling-mills-fined-tk-14-lakh-over-air-pollution-narayanganjs-fatullah-4249101</guid>
-            <pubDate>Sun, 16 Aug 2026 14:29:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh to take part in U-15 World Cup Festival]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/bangladesh-take-part-u-15-world-cup-festival-4249136</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/bangladesh-take-part-u-15-world-cup-festival-4249136</guid>
             <pubDate>Sun, 16 Aug 2026 14:29:06 GMT</pubDate>
         </item>
         <item>
@@ -3132,44 +3170,6 @@
             <link>https://www.thedailystar.net/culture/tv-film/news/why-sheepstealer-house-the-dragon-season-3s-best-character-4244556</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/why-sheepstealer-house-the-dragon-season-3s-best-character-4244556</guid>
             <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BB removes two-year cap on bank administrators]]></title>
-            <link>https://www.thedailystar.net/business/news/bb-removes-two-year-cap-bank-administrators-4244636</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bb-removes-two-year-cap-bank-administrators-4244636</guid>
-            <pubDate>Mon, 10 Aug 2026 15:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The hole story behind Jacy’s leap of faith]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/the-hole-story-behind-jacys-leap-faith-4244471</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/the-hole-story-behind-jacys-leap-faith-4244471</guid>
-            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BSA hosts three-day film festival ‘Ekal-Sekal’]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/bsa-hosts-three-day-film-festival-ekal-sekal-4244336</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/bsa-hosts-three-day-film-festival-ekal-sekal-4244336</guid>
-            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt forms steering panel on creative economy]]></title>
-            <link>https://www.thedailystar.net/business/news/govt-forms-steering-panel-creative-economy-4244406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-forms-steering-panel-creative-economy-4244406</guid>
-            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protection or control? The politics of women’s residence halls]]></title>
-            <description><![CDATA[By Nuzia Hasin Rasha]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/protection-or-control-the-politics-womens-residence-halls-4243916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/protection-or-control-the-politics-womens-residence-halls-4243916</guid>
-            <dc:creator><![CDATA[Nuzia Hasin Rasha]]></dc:creator>
-            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dengue hospitalisations hit record high with 726 cases in 24 hours]]></title>
-            <link>https://www.thedailystar.net/health/disease/news/dengue-hospitalisations-hit-record-high-726-cases-24-hours-4244541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/health/disease/news/dengue-hospitalisations-hit-record-high-726-cases-24-hours-4244541</guid>
-            <pubDate>Mon, 10 Aug 2026 13:22:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
