@@ -4,15 +4,134 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 04:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 05:33:16 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.08.16)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260816-4248751</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260816-4248751</guid>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Spider-Man: Brand New Day’ eyes $67m third weekend as box-office reign continues]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/spider-man-brand-new-day-eyes-67m-third-weekend-box-office-reign-continues-4248836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/spider-man-brand-new-day-eyes-67m-third-weekend-box-office-reign-continues-4248836</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Phantom exports worth Tk 24cr surface]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/phantom-exports-worth-tk-24cr-surface-4248481</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/phantom-exports-worth-tk-24cr-surface-4248481</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alaves, Sevilla triumph as new LaLiga season begins]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/alaves-sevilla-triumph-new-laliga-season-begins-4248766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/alaves-sevilla-triumph-new-laliga-season-begins-4248766</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[If shipbreaking is regulated, why are workers still dying?]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The unfinished histories of Partition]]></title>
+            <description><![CDATA[Partition remains an unfinished history, shaped by competing narratives, memories, political interests, and the enduring question of who gets to narrate.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/the-unfinished-histories-partition-4248366</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-unfinished-histories-partition-4248366</guid>
+            <dc:creator><![CDATA[Faridul Alam]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sheikh Mujib’s killing: What the newspapers told and what they omitted]]></title>
+            <description><![CDATA[By Rahat Minhaz]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/sheikh-mujibs-killing-what-the-newspapers-told-and-what-they-omitted-4248181</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/sheikh-mujibs-killing-what-the-newspapers-told-and-what-they-omitted-4248181</guid>
+            <dc:creator><![CDATA[Rahat Minhaz]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh First: Rethinking the relationship with India]]></title>
+            <description><![CDATA[Bangladesh-India ties need a reset grounded in sovereign equality, mutual respect and Bangladesh’s evolving national aspirations.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-first-rethinking-the-relationship-india-4248456</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-first-rethinking-the-relationship-india-4248456</guid>
+            <dc:creator><![CDATA[M Humayun Kabir]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A presidential election, or another coronation?]]></title>
+            <description><![CDATA[By Kamal Ahmed]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / Bangladesh could change cricket forever, again]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/bangladesh-could-change-cricket-forever-again-4248621</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/bangladesh-could-change-cricket-forever-again-4248621</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM leaves Dhaka for Kishoreganj on daylong tour]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/pm-leaves-dhaka-kishoreganj-daylong-tour-4248816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-leaves-dhaka-kishoreganj-daylong-tour-4248816</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shipbreaking yards: ‘Green’ on paper, deadly on ground]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/shipbreaking-yards-green-paper-deadly-ground-4248676</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/shipbreaking-yards-green-paper-deadly-ground-4248676</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Patuakhali pins hopes on EPZ for jobs, industrialisation]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/patuakhali-pins-hopes-epz-jobs-industrialisation-4248496</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/patuakhali-pins-hopes-epz-jobs-industrialisation-4248496</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Friend arrested after case filed over model-actress Ridhi's death]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/friend-arrested-after-case-filed-over-model-actress-ridhis-death-4248841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/friend-arrested-after-case-filed-over-model-actress-ridhis-death-4248841</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four killed as pickup van overturns in Rangamati]]></title>
+            <link>https://www.thedailystar.net/news/accidents-fires/news/four-killed-pickup-van-overturns-rangamati-4248826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-fires/news/four-killed-pickup-van-overturns-rangamati-4248826</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking / Bangladesh clinch monumental Test victory over Australia in Darwin]]></title>
+            <description><![CDATA[Mahmud, Miraz help Tigers win first Test by nine wickets]]></description>
+            <link>https://www.thedailystar.net/node/4248761</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/node/4248761</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Immunotherapy  / When a cancer breakthrough comes with a price tag]]></title>
+            <description><![CDATA[Cancer treatment has changed in the past two decades. One of the biggest shifts has been immunotherapy, a treatment that helps the body’s own defences recognise and fight cancer.]]></description>
+            <link>https://www.thedailystar.net/health/news/when-cancer-breakthrough-comes-price-tag-4248616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/news/when-cancer-breakthrough-comes-price-tag-4248616</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Messi misses penalty again as Miami suffer third straight defeat]]></title>
+            <description><![CDATA[Lionel Messi missed a penalty for the third consecutive time as Inter Miami suffered a 4-1 defeat to Eastern Conference leaders Nashville SC, extending their losing run to three matches.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/messi-misses-penalty-again-miami-suffer-third-straight-defeat-4248831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/messi-misses-penalty-again-miami-suffer-third-straight-defeat-4248831</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Over three lakh Rohingyas verified for repatriation]]></title>
+            <link>https://www.thedailystar.net/news/asia/news/over-three-lakh-rohingyas-verified-repatriation-4248686</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/asia/news/over-three-lakh-rohingyas-verified-repatriation-4248686</guid>
+            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Emmy-winning Turkish drama ‘Kara Sevda’ comes to Deepto TV in Bengali]]></title>
@@ -27,86 +146,6 @@
             <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Phantom exports worth Tk 24cr surface]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/phantom-exports-worth-tk-24cr-surface-4248481</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/phantom-exports-worth-tk-24cr-surface-4248481</guid>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If shipbreaking is regulated, why are workers still dying?]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/if-shipbreaking-regulated-why-are-workers-still-dying-4248441</guid>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The unfinished histories of Partition]]></title>
-            <description><![CDATA[Partition remains an unfinished history, shaped by competing narratives, memories, political interests, and the enduring question of who gets to narrate.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/the-unfinished-histories-partition-4248366</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-unfinished-histories-partition-4248366</guid>
-            <dc:creator><![CDATA[Faridul Alam]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sheikh Mujib’s killing: What the newspapers told and what they omitted]]></title>
-            <description><![CDATA[By Rahat Minhaz]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/sheikh-mujibs-killing-what-the-newspapers-told-and-what-they-omitted-4248181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/sheikh-mujibs-killing-what-the-newspapers-told-and-what-they-omitted-4248181</guid>
-            <dc:creator><![CDATA[Rahat Minhaz]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh First: Rethinking the relationship with India]]></title>
-            <description><![CDATA[Bangladesh-India ties need a reset grounded in sovereign equality, mutual respect and Bangladesh’s evolving national aspirations.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-first-rethinking-the-relationship-india-4248456</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-first-rethinking-the-relationship-india-4248456</guid>
-            <dc:creator><![CDATA[M Humayun Kabir]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI cameras to detect traffic violations on Dhaka-Ctg highway starting Aug 18]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/transport/news/ai-cameras-detect-traffic-violations-dhaka-ctg-highway-starting-aug-18-4248406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/transport/news/ai-cameras-detect-traffic-violations-dhaka-ctg-highway-starting-aug-18-4248406</guid>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Over three lakh Rohingyas verified for repatriation]]></title>
-            <link>https://www.thedailystar.net/news/asia/news/over-three-lakh-rohingyas-verified-repatriation-4248686</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/asia/news/over-three-lakh-rohingyas-verified-repatriation-4248686</guid>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A presidential election, or another coronation?]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/presidential-election-or-another-coronation-4248451</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shipbreaking yards: ‘Green’ on paper, deadly on ground]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/shipbreaking-yards-green-paper-deadly-ground-4248676</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/shipbreaking-yards-green-paper-deadly-ground-4248676</guid>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis / Bangladesh could change cricket forever, again]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/bangladesh-could-change-cricket-forever-again-4248621</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/bangladesh-could-change-cricket-forever-again-4248621</guid>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Patuakhali pins hopes on EPZ for jobs, industrialisation]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/patuakhali-pins-hopes-epz-jobs-industrialisation-4248496</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/patuakhali-pins-hopes-epz-jobs-industrialisation-4248496</guid>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM leaves Dhaka for Kishoreganj on daylong tour]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/pm-leaves-dhaka-kishoreganj-daylong-tour-4248816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-leaves-dhaka-kishoreganj-daylong-tour-4248816</guid>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sirajganj-3 MP Aynul Haque’s motorcade comes under attack]]></title>
             <description><![CDATA[Lawmaker escapes unhurt, but car vandalised]]></description>
             <link>https://www.thedailystar.net/news/crime-justice/news/sirajganj-3-mp-aynul-haques-motorcade-comes-under-attack-4248421</link>
@@ -114,23 +153,10 @@
             <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Aus vs Ban, 1st Test, Day 4 / Miraz bags fifer as Tigers need 57 for historic win]]></title>
-            <description><![CDATA[Mehidy Hasan Miraz completed a five-wicket haul as Bangladesh bowled Australia out for 284 in their second innings on Day 4 of the first Test, leaving the Tigers needing just 57 runs for a historic first-ever Test victory in Australia at Marrara Stadium in Darwin today.]]></description>
-            <link>https://www.thedailystar.net/node/4248761</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/node/4248761</guid>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Colombia leader asks Trump to suspend tariffs over quake]]></title>
             <description><![CDATA[Colombia's new President Abelardo de la Espriella on Saturday called on his US counterpart Donald Trump to suspend tariffs currently targeting the South American nation, which is reeling after a deadly earthquake]]></description>
             <link>https://www.thedailystar.net/news/world/news/colombia-leader-asks-trump-suspend-tariffs-over-quake-4248781</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/colombia-leader-asks-trump-suspend-tariffs-over-quake-4248781</guid>
-            <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Immunotherapy  / When a cancer breakthrough comes with a price tag]]></title>
-            <link>https://www.thedailystar.net/health/news/when-cancer-breakthrough-comes-price-tag-4248616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/health/news/when-cancer-breakthrough-comes-price-tag-4248616</guid>
             <pubDate>Sun, 16 Aug 2026 04:41:24 GMT</pubDate>
         </item>
         <item>
@@ -152,13 +178,6 @@
             <description><![CDATA[North Korean leader Kim Jong Un told Russian President Vladimir Putin he was "proud" of their countries' strong ties, state media reported Sunday, after providing military support for Moscow's war against Ukraine]]></description>
             <link>https://www.thedailystar.net/news/world/news/north-koreas-kim-tells-putin-he-proud-strong-ties-state-media-4248771</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/north-koreas-kim-tells-putin-he-proud-strong-ties-state-media-4248771</guid>
-            <pubDate>Sun, 16 Aug 2026 03:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alaves, Sevilla triumph as new LaLiga season begins]]></title>
-            <description><![CDATA[Alaves beat 10-man visitors Getafe 3-0 on Saturday and Sevilla snatched a late 2-1 win against Rayo Vallecano as LaLiga's 2026/27 season kicked off.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/alaves-sevilla-triumph-new-laliga-season-begins-4248766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/alaves-sevilla-triumph-new-laliga-season-begins-4248766</guid>
             <pubDate>Sun, 16 Aug 2026 03:05:50 GMT</pubDate>
         </item>
         <item>
@@ -582,6 +601,12 @@
             <link>https://www.thedailystar.net/news/crime-justice/news/52-awami-league-leaders-activists-sent-jail-over-aug-15-gathering-4247711</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/52-awami-league-leaders-activists-sent-jail-over-aug-15-gathering-4247711</guid>
             <pubDate>Sat, 15 Aug 2026 01:38:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI cameras to detect traffic violations on Dhaka-Ctg highway starting Aug 18]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/transport/news/ai-cameras-detect-traffic-violations-dhaka-ctg-highway-starting-aug-18-4248406</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/transport/news/ai-cameras-detect-traffic-violations-dhaka-ctg-highway-starting-aug-18-4248406</guid>
+            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[At this stall, you brew your own cuppa]]></title>
@@ -3141,33 +3166,6 @@
             <title><![CDATA[Once he played the villain opposite Salman Shah. Now he is accused in his murder case]]></title>
             <link>https://www.thedailystar.net/news/crime-justice/news/once-he-played-the-villain-opposite-salman-shah-now-he-accused-his-murder-case-4243831</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/once-he-played-the-villain-opposite-salman-shah-now-he-accused-his-murder-case-4243831</guid>
-            <pubDate>Mon, 10 Aug 2026 02:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One killed as covered van rear ends 2 bikes, three-wheeler in Moghbazar]]></title>
-            <link>https://www.thedailystar.net/news/accidents-fires/news/one-killed-covered-van-rear-ends-2-bikes-three-wheeler-moghbazar-4244091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-fires/news/one-killed-covered-van-rear-ends-2-bikes-three-wheeler-moghbazar-4244091</guid>
-            <pubDate>Mon, 10 Aug 2026 02:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mirza Fakhrul likely to be BNP’s presidential nominee, party sources say]]></title>
-            <description><![CDATA[His possible move to Bangabhaban could trigger cabinet reshuffle and BNP leadership changes]]></description>
-            <link>https://www.thedailystar.net/news/politics/news/mirza-fakhrul-likely-be-bnps-presidential-nominee-party-sources-say-4244081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/mirza-fakhrul-likely-be-bnps-presidential-nominee-party-sources-say-4244081</guid>
-            <pubDate>Mon, 10 Aug 2026 02:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jet fuel price hiked by over 21%]]></title>
-            <description><![CDATA[From midnight tonight, Jet A-1 price will be Tk 159.52 a litre, $1.0358 for international flights]]></description>
-            <link>https://www.thedailystar.net/business/news/jet-fuel-price-hiked-over-21-4243721</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/jet-fuel-price-hiked-over-21-4243721</guid>
-            <pubDate>Mon, 10 Aug 2026 02:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explainer / What to do if rats or termites destroy your money? Here’s what Bangladesh Bank says]]></title>
-            <description><![CDATA[Claims for torn, damp or pest-damaged notes can be filed directly with the central bank or through a scheduled bank]]></description>
-            <link>https://www.thedailystar.net/business/banking/news/what-do-if-rats-or-termites-destroy-your-money-heres-what-bangladesh-bank-says-4243856</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/banking/news/what-do-if-rats-or-termites-destroy-your-money-heres-what-bangladesh-bank-says-4243856</guid>
             <pubDate>Mon, 10 Aug 2026 02:19:04 GMT</pubDate>
         </item>
     </channel>
