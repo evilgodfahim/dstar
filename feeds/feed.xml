@@ -4,33 +4,33 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 01:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 03:05:33 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.08.17)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260817-4249501</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260817-4249501</guid>
-            <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Uttoradhikar: Ayub Bachchu’s legacy lives on through a new generation]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/uttoradhikar-ayub-bachchus-legacy-lives-through-new-generation-4249106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/uttoradhikar-ayub-bachchus-legacy-lives-through-new-generation-4249106</guid>
-            <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal rout Man City in Community Shield masterclass]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/arsenal-rout-man-city-community-shield-masterclass-4249236</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/arsenal-rout-man-city-community-shield-masterclass-4249236</guid>
-            <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
+            <title><![CDATA[A dream Test 23 years in the making]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/dream-test-23-years-the-making-4249216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/dream-test-23-years-the-making-4249216</guid>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Foreign investment in stocks keeps falling]]></title>
             <link>https://www.thedailystar.net/business/economy/news/foreign-investment-stocks-keeps-falling-4249376</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/foreign-investment-stocks-keeps-falling-4249376</guid>
-            <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh needs a medicine policy that serves both patients and producers]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-needs-medicine-policy-serves-both-patients-and-producers-4249251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-needs-medicine-policy-serves-both-patients-and-producers-4249251</guid>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sheikh Mujib’s killing: What the newspapers told and what they omitted]]></title>
@@ -38,7 +38,7 @@
             <link>https://www.thedailystar.net/slow-reads/focus/news/sheikh-mujibs-killing-what-the-newspapers-told-and-what-they-omitted-4248181</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/sheikh-mujibs-killing-what-the-newspapers-told-and-what-they-omitted-4248181</guid>
             <dc:creator><![CDATA[Rahat Minhaz]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Remembering Sumit Sarkar, a historian who questioned orthodoxy]]></title>
@@ -46,7 +46,7 @@
             <link>https://www.thedailystar.net/slow-reads/focus/news/remembering-sumit-sarkar-historian-who-questioned-orthodoxy-4249161</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/remembering-sumit-sarkar-historian-who-questioned-orthodoxy-4249161</guid>
             <dc:creator><![CDATA[Raziuddin Aquil]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh First: Rethinking the relationship with India]]></title>
@@ -54,7 +54,7 @@
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-first-rethinking-the-relationship-india-4248456</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-first-rethinking-the-relationship-india-4248456</guid>
             <dc:creator><![CDATA[M Humayun Kabir]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can India and Bangladesh build a more equal economic partnership?]]></title>
@@ -62,37 +62,81 @@
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/can-india-and-bangladesh-build-more-equal-economic-partnership-4249181</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/can-india-and-bangladesh-build-more-equal-economic-partnership-4249181</guid>
             <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
-            <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A dream Test 23 years in the making]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/dream-test-23-years-the-making-4249216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/dream-test-23-years-the-making-4249216</guid>
-            <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
+            <title><![CDATA[‘You will rarely find a team like this’]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/you-will-rarely-find-team-4249476</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/you-will-rarely-find-team-4249476</guid>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miraz rises when the stakes are high]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/miraz-rises-when-the-stakes-are-high-4249486</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/miraz-rises-when-the-stakes-are-high-4249486</guid>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Regulate battery rickshaws, free Dhaka footpaths]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/regulate-battery-rickshaws-free-dhaka-footpaths-4249436</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/regulate-battery-rickshaws-free-dhaka-footpaths-4249436</guid>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minimum two years needed to fix power, gas crisis: Khosru]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/minimum-two-years-needed-fix-power-gas-crisis-khosru-4249366</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/minimum-two-years-needed-fix-power-gas-crisis-khosru-4249366</guid>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A conducive climate needed for Tarique’s India visit]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/conducive-climate-needed-tariques-india-visit-4248931</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/conducive-climate-needed-tariques-india-visit-4248931</guid>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[They drifted to their deaths over 11 days]]></title>
+            <description><![CDATA[At least 11 passengers, including nine Bangladeshis, died after a Greece-bound boat carrying 42 people drifted for days in the Mediterranean Sea without food or water, according to a Bangladeshi survivor now receiving treatment in Egypt.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/they-drifted-their-deaths-over-11-days-4249516</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/they-drifted-their-deaths-over-11-days-4249516</guid>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tk 567cr project on cards to tackle Dhaka waterlogging]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/tk-567cr-project-cards-tackle-dhaka-waterlogging-4249441</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tk-567cr-project-cards-tackle-dhaka-waterlogging-4249441</guid>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[High-profile Indian business delegation scheduled to visit Bangladesh on Aug 17-18]]></title>
+            <description><![CDATA[18-member Confederation of Indian Industry delegation to hold talks with ministers, FBCCI and BIDA on trade and investment]]></description>
             <link>https://www.thedailystar.net/business/news/high-profile-indian-business-delegation-scheduled-visit-bangladesh-aug-17-18-4249231</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/high-profile-indian-business-delegation-scheduled-visit-bangladesh-aug-17-18-4249231</guid>
-            <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s big statement amid the consistency question]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/bangladeshs-big-statement-amid-the-consistency-question-4249206</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/bangladeshs-big-statement-amid-the-consistency-question-4249206</guid>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Police say suspected associate of ‘Bomaru Mamun’ held with bombs in Dhaka]]></title>
+            <description><![CDATA[Juel Bhuiyan detained in Demra with another man; two handmade bombs recovered and defused, according to police]]></description>
             <link>https://www.thedailystar.net/news/crime-justice/news/police-say-suspected-associate-bomaru-mamun-held-bombs-dhaka-4249331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/police-say-suspected-associate-bomaru-mamun-held-bombs-dhaka-4249331</guid>
-            <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When rulers fail to address public suffering, they bring up old political controversies: Porwar]]></title>
             <link>https://www.thedailystar.net/news/politics/news/when-rulers-fail-address-public-suffering-they-bring-old-political-controversies-porwar-4249201</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/when-rulers-fail-address-public-suffering-they-bring-old-political-controversies-porwar-4249201</guid>
-            <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
+            <pubDate>Mon, 17 Aug 2026 03:05:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘You will rarely find a team like this’]]></title>
-            <description><![CDATA[Following Bangladesh’s dominant nine-wicket victory over Australia inside four days in the Darwin Test, Ashraful spoke to The Daily Star’s Samsul Arefin Khan about the team’s performance, how belief was instilled in the players after a difficult build-up, and other aspects of the historic victory.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/you-will-rarely-find-team-4249476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/you-will-rarely-find-team-4249476</guid>
+            <title><![CDATA[Arsenal rout Man City in Community Shield masterclass]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/arsenal-rout-man-city-community-shield-masterclass-4249236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/arsenal-rout-man-city-community-shield-masterclass-4249236</guid>
             <pubDate>Mon, 17 Aug 2026 01:42:44 GMT</pubDate>
         </item>
         <item>
@@ -475,14 +519,6 @@
             <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The unfinished histories of Partition]]></title>
-            <description><![CDATA[Partition remains an unfinished history, shaped by competing narratives, memories, political interests, and the enduring question of who gets to narrate.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/the-unfinished-histories-partition-4248366</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-unfinished-histories-partition-4248366</guid>
-            <dc:creator><![CDATA[Faridul Alam]]></dc:creator>
-            <pubDate>Sun, 16 Aug 2026 05:33:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[PM leaves Dhaka for Kishoreganj on daylong tour]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/pm-leaves-dhaka-kishoreganj-daylong-tour-4248816</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-leaves-dhaka-kishoreganj-daylong-tour-4248816</guid>
@@ -581,6 +617,18 @@
             <link>https://www.thedailystar.net/news/education/campus/news/ru-jcd-leader-who-sued-journalists-arrested-drugs-4248416</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/education/campus/news/ru-jcd-leader-who-sued-journalists-arrested-drugs-4248416</guid>
             <pubDate>Sun, 16 Aug 2026 01:44:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uttoradhikar: Ayub Bachchu’s legacy lives on through a new generation]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/uttoradhikar-ayub-bachchus-legacy-lives-through-new-generation-4249106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/uttoradhikar-ayub-bachchus-legacy-lives-through-new-generation-4249106</guid>
+            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The unfinished histories of Partition]]></title>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/the-unfinished-histories-partition-4248366</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-unfinished-histories-partition-4248366</guid>
+            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The hidden language we speak through jewellery]]></title>
@@ -3126,54 +3174,6 @@
             <link>https://www.thedailystar.net/news/world/news/bnp-courts-hefazat-playbook-all-too-familiar-4244991</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/bnp-courts-hefazat-playbook-all-too-familiar-4244991</guid>
             <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Door closes for errant ex-owners to reclaim banks]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/door-closes-errant-ex-owners-reclaim-banks-4244951</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/door-closes-errant-ex-owners-reclaim-banks-4244951</guid>
-            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Profit streak to cash crisis: BPC seeks Tk 18,699cr lifeline]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/profit-streak-cash-crisis-bpc-seeks-tk-18699cr-lifeline-4244811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/profit-streak-cash-crisis-bpc-seeks-tk-18699cr-lifeline-4244811</guid>
-            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspective / How the gas crisis is disrupting everyday life]]></title>
-            <link>https://www.thedailystar.net/life-living/news/how-the-gas-crisis-disrupting-everyday-life-4245256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/how-the-gas-crisis-disrupting-everyday-life-4245256</guid>
-            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TV Series / The Wonderfools: Messy at first, but surprisingly worth the ride]]></title>
-            <link>https://www.thedailystar.net/rising-stars/news/the-wonderfools-messy-first-surprisingly-worth-the-ride-4245206</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/news/the-wonderfools-messy-first-surprisingly-worth-the-ride-4245206</guid>
-            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liverpool bolster injury-hit defence with loan signing of Barca's Araujo]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/liverpool-bolster-injury-hit-defence-loan-signing-barcas-araujo-4244956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/liverpool-bolster-injury-hit-defence-loan-signing-barcas-araujo-4244956</guid>
-            <pubDate>Mon, 10 Aug 2026 23:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Falling SSC pass rate tells only half the story]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/falling-ssc-pass-rate-tells-only-half-the-story-4244521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/falling-ssc-pass-rate-tells-only-half-the-story-4244521</guid>
-            <pubDate>Mon, 10 Aug 2026 23:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AFP, Barcelona]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/barcelonas-araujo-heads-liverpool-loan-4244956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/barcelonas-araujo-heads-liverpool-loan-4244956</guid>
-            <pubDate>Mon, 10 Aug 2026 20:50:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forest owner Marinakis sues Crystal Palace after provocative fan banner]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/forest-owner-marinakis-sues-crystal-palace-after-provocative-fan-banner-4244706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/forest-owner-marinakis-sues-crystal-palace-after-provocative-fan-banner-4244706</guid>
-            <pubDate>Mon, 10 Aug 2026 19:08:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
