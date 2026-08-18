@@ -4,32 +4,125 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 09:39:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 10:34:54 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 10:34:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[David Warner convicted, fined for drink-driving]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/david-warner-convicted-fined-drink-driving-4250571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/david-warner-convicted-fined-drink-driving-4250571</guid>
-            <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[‘I am still unmarried’ : Puja Chery dismisses marriage reports]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/i-am-still-unmarried-puja-chery-dismisses-marriage-reports-4250626</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/i-am-still-unmarried-puja-chery-dismisses-marriage-reports-4250626</guid>
-            <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2026 10:34:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rift deepens as Asia football chief hits back at Qatar in Infantino saga]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/rift-deepens-asia-football-chief-hits-back-qatar-infantino-saga-4250591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/rift-deepens-asia-football-chief-hits-back-qatar-infantino-saga-4250591</guid>
+            <pubDate>Tue, 18 Aug 2026 10:34:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The elderly deserve a chance to remain productive]]></title>
             <link>https://www.thedailystar.net/opinion/news/the-elderly-deserve-chance-remain-productive-4250166</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-elderly-deserve-chance-remain-productive-4250166</guid>
-            <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
+            <pubDate>Tue, 18 Aug 2026 10:34:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Japan’s changing Indo-Pacific strategy means for Bangladesh]]></title>
+            <description><![CDATA[​Japan’s evolving Indo-Pacific strategy offers Bangladesh a blueprint to strengthen technological and economic resilience while maintaining strategic autonomy.]]></description>
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-japans-changing-indo-pacific-strategy-means-bangladesh-4250346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-japans-changing-indo-pacific-strategy-means-bangladesh-4250346</guid>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six months of BNP rule: Has the economy turned a corner?]]></title>
+            <description><![CDATA[It’s been six months since the BNP-led government took office after winning the national election on February 12, right in the middle of high inflation, weak revenue mobilisation, banking sector weaknesses, stagnant private investment, an employment crisis, and a vulnerable energy sector.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/six-months-bnp-rule-has-the-economy-turned-corner-4250131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/six-months-bnp-rule-has-the-economy-turned-corner-4250131</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Darwin victory should change how Test cricket sees Bangladesh]]></title>
+            <description><![CDATA[By Atique Anam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/darwin-victory-should-change-how-test-cricket-sees-bangladesh-4250196</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/darwin-victory-should-change-how-test-cricket-sees-bangladesh-4250196</guid>
+            <dc:creator><![CDATA[Atique Anam]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why power corrupts, and how to keep it in check]]></title>
+            <description><![CDATA[By Hussain A Samad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-power-corrupts-and-how-keep-it-check-4250656</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-power-corrupts-and-how-keep-it-check-4250656</guid>
+            <dc:creator><![CDATA[Hussain A Samad]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women only ‘Pink Bus’ service launched]]></title>
+            <link>https://www.thedailystar.net/news/transport/news/women-only-pink-bus-service-launched-4250561</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/women-only-pink-bus-service-launched-4250561</guid>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI-powered fine system will help curb highway extortion: Home minister]]></title>
+            <link>https://www.thedailystar.net/news/transport/news/ai-powered-fine-system-will-help-curb-highway-extortion-home-minister-4250596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/ai-powered-fine-system-will-help-curb-highway-extortion-home-minister-4250596</guid>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICT seeks Interpol red notice against ex-army chief Aziz]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/ict-seeks-interpol-red-notice-against-ex-army-chief-aziz-4250606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/ict-seeks-interpol-red-notice-against-ex-army-chief-aziz-4250606</guid>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM for simple, friendly revenue system to encourage voluntary tax payment]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/pm-simple-friendly-revenue-system-encourage-voluntary-tax-payment-4250666</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/pm-simple-friendly-revenue-system-encourage-voluntary-tax-payment-4250666</guid>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HC rejects Article 70 challenge, clears way for Aug 20 presidential election]]></title>
+            <link>https://www.thedailystar.net/news/news/hc-rejects-article-70-challenge-clears-way-aug-20-presidential-election-4250661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/hc-rejects-article-70-challenge-clears-way-aug-20-presidential-election-4250661</guid>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New ACC chairman, commissioners join Cabinet Division]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/new-acc-chairman-commissioners-join-cabinet-division-4250671</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/new-acc-chairman-commissioners-join-cabinet-division-4250671</guid>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh forward suspended for 15 matches over Maldives fight]]></title>
+            <description><![CDATA[Bangladesh forwards Al Amin and Mirajul Islam have been handed 15-match and two-match suspensions respectively by the FIFA Disciplinary Committee over incidents during the Maldives-Bangladesh match in the Diamond Jubilee International Football Tournament on June 7.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/bangladesh-forward-suspended-15-matches-over-maldives-fight-4250651</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/bangladesh-forward-suspended-15-matches-over-maldives-fight-4250651</guid>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[690 inmates escaped after July Uprising still at large, 166 unidentified: IG prisons]]></title>
+            <description><![CDATA[Most of the 2,240 inmates who escaped from jails during the uprising have since been arrested]]></description>
+            <link>https://www.thedailystar.net/news/crime-justice/news/690-inmates-escaped-after-july-uprising-still-large-166-unidentified-ig-prisons-4250631</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/690-inmates-escaped-after-july-uprising-still-large-166-unidentified-ig-prisons-4250631</guid>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five local government elections planned within current fiscal year: Shahe Alam]]></title>
+            <link>https://www.thedailystar.net/news/politics/election/news/five-local-government-elections-planned-within-current-fiscal-year-shahe-alam-4250616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/election/news/five-local-government-elections-planned-within-current-fiscal-year-shahe-alam-4250616</guid>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IGP meets CEC over law enforcement preparations for local polls]]></title>
+            <link>https://www.thedailystar.net/news/politics/election/news/igp-meets-cec-over-law-enforcement-preparations-local-polls-4250641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/election/news/igp-meets-cec-over-law-enforcement-preparations-local-polls-4250641</guid>
+            <pubDate>Tue, 18 Aug 2026 10:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Warner convicted, fined for drink-driving]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/david-warner-convicted-fined-drink-driving-4250571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/david-warner-convicted-fined-drink-driving-4250571</guid>
             <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
         </item>
         <item>
@@ -41,55 +134,9 @@
             <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Six months of BNP rule: Has the economy turned a corner?]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/six-months-bnp-rule-has-the-economy-turned-corner-4250131</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/six-months-bnp-rule-has-the-economy-turned-corner-4250131</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Darwin victory should change how Test cricket sees Bangladesh]]></title>
-            <description><![CDATA[Bangladesh did it in Darwin on Sunday, in the capital of Australia’s Northern Territory, far from the country’s traditional cricketing centres.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/darwin-victory-should-change-how-test-cricket-sees-bangladesh-4250196</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/darwin-victory-should-change-how-test-cricket-sees-bangladesh-4250196</guid>
-            <dc:creator><![CDATA[Atique Anam]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[690 inmates escaped after July Uprising still at large, 166 unidentified: IG prisons]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/690-inmates-escaped-after-july-uprising-still-large-166-unidentified-ig-prisons-4250631</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/690-inmates-escaped-after-july-uprising-still-large-166-unidentified-ig-prisons-4250631</guid>
-            <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five local government elections planned within current fiscal year: Shahe Alam]]></title>
-            <link>https://www.thedailystar.net/news/politics/election/news/five-local-government-elections-planned-within-current-fiscal-year-shahe-alam-4250616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/election/news/five-local-government-elections-planned-within-current-fiscal-year-shahe-alam-4250616</guid>
-            <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pakistan Supreme Court orders ex-PM Imran Khan moved from jail to hospital]]></title>
             <link>https://www.thedailystar.net/news/world/news/pakistan-supreme-court-orders-ex-pm-khan-moved-jail-hospital-4250611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/pakistan-supreme-court-orders-ex-pm-khan-moved-jail-hospital-4250611</guid>
-            <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women only ‘Pink Bus’ service launched]]></title>
-            <link>https://www.thedailystar.net/news/transport/news/women-only-pink-bus-service-launched-4250561</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/women-only-pink-bus-service-launched-4250561</guid>
-            <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI-powered fine system will help curb highway extortion: Home minister]]></title>
-            <link>https://www.thedailystar.net/news/transport/news/ai-powered-fine-system-will-help-curb-highway-extortion-home-minister-4250596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/ai-powered-fine-system-will-help-curb-highway-extortion-home-minister-4250596</guid>
-            <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICT seeks Interpol red notice against ex-army chief Aziz]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/ict-seeks-interpol-red-notice-against-ex-army-chief-aziz-4250606</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/ict-seeks-interpol-red-notice-against-ex-army-chief-aziz-4250606</guid>
             <pubDate>Tue, 18 Aug 2026 09:39:18 GMT</pubDate>
         </item>
         <item>
@@ -3132,52 +3179,6 @@
             <link>https://www.thedailystar.net/news/news/blast-near-barishal-court-gate-police-suspect-crude-bomb-object-meant-create-panic-4246111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/news/blast-near-barishal-court-gate-police-suspect-crude-bomb-object-meant-create-panic-4246111</guid>
             <pubDate>Wed, 12 Aug 2026 19:09:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BFF extends deadline again for Kings, Abahani]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/bff-extends-deadline-again-kings-abahani-4246486</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/bff-extends-deadline-again-kings-abahani-4246486</guid>
-            <pubDate>Wed, 12 Aug 2026 19:09:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reaction / Be like Doku and kill with kindness]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/be-doku-and-kill-kindness-4246071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/be-doku-and-kill-kindness-4246071</guid>
-            <pubDate>Wed, 12 Aug 2026 13:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HSBC restarts buybacks after rates and wealth boost H1 profit]]></title>
-            <link>https://www.thedailystar.net/business/news/hsbc-restarts-buybacks-after-rates-and-wealth-boost-h1-profit-4246081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/hsbc-restarts-buybacks-after-rates-and-wealth-boost-h1-profit-4246081</guid>
-            <pubDate>Wed, 12 Aug 2026 13:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What a historic ADP low tells us about our development governance]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-historic-adp-low-tells-us-about-our-development-governance-4245616</guid>
-            <pubDate>Wed, 12 Aug 2026 13:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thirst in the Sundarbans: The water crisis facing Munda women]]></title>
-            <description><![CDATA[As freshwater disappears from the Sundarbans, Munda women bear the growing burden of climate-driven water scarcity.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/thirst-the-sundarbans-the-water-crisis-facing-munda-women-4245686</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/thirst-the-sundarbans-the-water-crisis-facing-munda-women-4245686</guid>
-            <dc:creator><![CDATA[Md. Al-Mamun Marufa Alam]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 13:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the UGC research funding debate is missing]]></title>
-            <description><![CDATA[The UGC has decided to centralise research grants that were previously allocated directly to public universities, arguing that a single funding mechanism will reduce duplication, improve accountability, and focus on national priorities.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/what-the-ugc-research-funding-debate-missing-4246076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-ugc-research-funding-debate-missing-4246076</guid>
-            <dc:creator><![CDATA[Md. Bakhtiar Uddin]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 13:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DU hall expels 2 students over homosexuality allegations; students deny claims]]></title>
-            <link>https://www.thedailystar.net/news/education/campus/news/2-du-students-expelled-hall-over-homosexuality-allegations-4246046</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/education/campus/news/2-du-students-expelled-hall-over-homosexuality-allegations-4246046</guid>
-            <pubDate>Wed, 12 Aug 2026 13:23:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
