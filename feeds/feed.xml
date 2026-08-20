@@ -4,27 +4,133 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 03:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 04:43:01 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 03:02:50 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.08.20)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260820-4252166</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260820-4252166</guid>
-            <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘Onneshon’ to take audiences on an inward journey through dance]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/onneshon-take-audiences-inward-journey-through-dance-4251766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/onneshon-take-audiences-inward-journey-through-dance-4251766</guid>
-            <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
+            <title><![CDATA[Darwin Test centurion Green eyes 2023 repeat as Australia face ‘tough 12 months’]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/darwin-test-centurion-green-eyes-2023-repeat-australia-face-tough-12-months-4252261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/darwin-test-centurion-green-eyes-2023-repeat-australia-face-tough-12-months-4252261</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Merchant power risks losing price appeal under proposed charges]]></title>
             <link>https://www.thedailystar.net/business/economy/news/merchant-power-risks-losing-price-appeal-under-proposed-charges-4251941</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/merchant-power-risks-losing-price-appeal-under-proposed-charges-4251941</guid>
-            <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Green certification alone cannot guarantee safe ship recycling]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/green-certification-alone-cannot-guarantee-safe-ship-recycling-4251871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/green-certification-alone-cannot-guarantee-safe-ship-recycling-4251871</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Bangladesh’s garment industry ready for the next shock?]]></title>
+            <description><![CDATA[Bangladesh’s RMG sector remains highly vulnerable to global economic shocks, such as US trade tariffs, demanding diversification.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-garment-industry-ready-the-next-shock-4250891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-garment-industry-ready-the-next-shock-4250891</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Dhaka’s Pink Bus break a four-decade pattern?]]></title>
+            <description><![CDATA[By Farah MahboobDhrubo Alam]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-dhakas-pink-bus-break-four-decade-pattern-4251781</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-dhakas-pink-bus-break-four-decade-pattern-4251781</guid>
+            <dc:creator><![CDATA[Farah MahboobDhrubo Alam]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar’s partial Rohingya repatriation plan: Another attempt to mislead Bangladesh?]]></title>
+            <description><![CDATA[Myanmar’s latest repatriation proposal risks repeating past cycles of partial returns while leaving most Rohingya refugees in Bangladesh behind.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/myanmars-partial-rohingya-repatriation-plan-another-attempt-mislead-bangladesh-4251776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/myanmars-partial-rohingya-repatriation-plan-another-attempt-mislead-bangladesh-4251776</guid>
+            <dc:creator><![CDATA[Md Himel Rahman]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three LNG outages make case for a fixed terminal]]></title>
+            <description><![CDATA[By Fahim Chowdhury]]></description>
+            <link>https://www.thedailystar.net/business/column/news/three-lng-outages-make-case-fixed-terminal-4251896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/column/news/three-lng-outages-make-case-fixed-terminal-4251896</guid>
+            <dc:creator><![CDATA[Fahim Chowdhury]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran goes on offensive as diplomacy with US stalls]]></title>
+            <link>https://www.thedailystar.net/news/world/news/iran-goes-offensive-diplomacy-us-stalls-4252221</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/iran-goes-offensive-diplomacy-us-stalls-4252221</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New faces lined up for council of ministers]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/new-faces-lined-council-ministers-4252176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/new-faces-lined-council-ministers-4252176</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dipu Moni released on parole to attend husband’s funeral]]></title>
+            <link>https://www.thedailystar.net/news/politics/news/dipu-moni-released-parole-attend-husbands-funeral-4252211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/dipu-moni-released-parole-attend-husbands-funeral-4252211</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JS votes today to elect the president]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/js-votes-today-elect-the-president-4252181</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/js-votes-today-elect-the-president-4252181</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How past presidents were elected]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/how-past-presidents-were-elected-4252191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/how-past-presidents-were-elected-4252191</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mobile users complain of high call rates,  poor network]]></title>
+            <link>https://www.thedailystar.net/business/news/mobile-users-complain-high-call-rates-poor-network-4251936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/mobile-users-complain-high-call-rates-poor-network-4251936</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Disillusionment at hand in Mackay]]></title>
+            <description><![CDATA[The last time Bangladesh came close to following up a landmark away victory with a series win in a SENA country was in 2021/22, when they famously beat New Zealand in Mount Maunganui. An innings-and-117-run defeat in Christchurch followed inside three days. For many, it was simply Bangladesh reverting to type after producing something spectacular.]]></description>
+            <link>https://www.thedailystar.net/sports/cricket/news/disillusionment-hand-mackay-4252056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/disillusionment-hand-mackay-4252056</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt sets five-year plan to clean up banking sector]]></title>
+            <description><![CDATA[The government has set out a five-year plan to clean up the banking sector, with a focus on recovering bad loans, tightening supervision, improving governance and restoring depositor confidence.]]></description>
+            <link>https://www.thedailystar.net/business/economy/news/govt-sets-five-year-plan-clean-banking-sector-4251926</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/govt-sets-five-year-plan-clean-banking-sector-4251926</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interview / ‘It is like taking away food from mouth’]]></title>
+            <link>https://www.thedailystar.net/sports/more-sports/athletics/news/it-taking-away-food-mouth-4252226</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/athletics/news/it-taking-away-food-mouth-4252226</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malnutrition fuels measles toll]]></title>
+            <description><![CDATA[About two-thirds of children under five, who got admitted to Bangladesh Shishu Hospital and Institute with measles, were malnourished, according to a study carried out on 354 children.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/malnutrition-fuels-measles-toll-4252151</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/malnutrition-fuels-measles-toll-4252151</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US debt crosses $40 trillion threshold after doubling under Trump and Biden]]></title>
+            <link>https://www.thedailystar.net/business/global-economy/news/us-debt-crosses-40-trillion-threshold-after-doubling-under-trump-and-biden-4252256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/global-economy/news/us-debt-crosses-40-trillion-threshold-after-doubling-under-trump-and-biden-4252256</guid>
+            <pubDate>Thu, 20 Aug 2026 04:43:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Messi scores emotional goal after father’s death; Sullivan, Bright sent off in stalemate]]></title>
@@ -48,29 +154,9 @@
             <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can Dhaka’s Pink Bus break a four-decade pattern?]]></title>
-            <description><![CDATA[Dhaka’s women-only Pink Bus fails to solve public transport safety; upgrading the general bus network remains essential.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-dhakas-pink-bus-break-four-decade-pattern-4251781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-dhakas-pink-bus-break-four-decade-pattern-4251781</guid>
-            <dc:creator><![CDATA[Farah MahboobDhrubo Alam]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Bangladesh’s garment industry ready for the next shock?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-garment-industry-ready-the-next-shock-4250891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-garment-industry-ready-the-next-shock-4250891</guid>
-            <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Excelerate FSRU runs out of LNG]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/excelerate-fsru-runs-out-lng-4252156</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/excelerate-fsru-runs-out-lng-4252156</guid>
-            <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran goes on offensive as diplomacy with US stalls]]></title>
-            <link>https://www.thedailystar.net/news/world/news/iran-goes-offensive-diplomacy-us-stalls-4252221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/iran-goes-offensive-diplomacy-us-stalls-4252221</guid>
             <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
         </item>
         <item>
@@ -80,48 +166,9 @@
             <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JS votes today to elect the president]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/js-votes-today-elect-the-president-4252181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/js-votes-today-elect-the-president-4252181</guid>
-            <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New faces lined up for council of ministers]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/new-faces-lined-council-ministers-4252176</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/new-faces-lined-council-ministers-4252176</guid>
-            <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dipu Moni released on parole to attend husband’s funeral]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/dipu-moni-released-parole-attend-husbands-funeral-4252211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/dipu-moni-released-parole-attend-husbands-funeral-4252211</guid>
-            <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar’s partial Rohingya repatriation plan: Another attempt to mislead Bangladesh?]]></title>
-            <description><![CDATA[Myanmar’s latest repatriation proposal risks repeating past cycles of partial returns while leaving most Rohingya refugees in Bangladesh behind.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/myanmars-partial-rohingya-repatriation-plan-another-attempt-mislead-bangladesh-4251776</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/myanmars-partial-rohingya-repatriation-plan-another-attempt-mislead-bangladesh-4251776</guid>
-            <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How past presidents were elected]]></title>
-            <description><![CDATA[Bangladesh is heading towards its 13th presidential election today, but the country’s history of choosing its head of state tells a story of shrinking political competition.]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/how-past-presidents-were-elected-4252191</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/how-past-presidents-were-elected-4252191</guid>
-            <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Oldest human brain cells grown in lab ‘recorded passage of time’]]></title>
             <link>https://www.thedailystar.net/news/world/news/oldest-human-brain-cells-grown-lab-recorded-passage-time-4251806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/oldest-human-brain-cells-grown-lab-recorded-passage-time-4251806</guid>
-            <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malnutrition fuels measles toll]]></title>
-            <description><![CDATA[About two-thirds of children under five, who got admitted to Bangladesh Shishu Hospital and Institute with measles, were malnourished, according to a study carried out on 354 children.]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/malnutrition-fuels-measles-toll-4252151</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/malnutrition-fuels-measles-toll-4252151</guid>
             <pubDate>Thu, 20 Aug 2026 03:02:49 GMT</pubDate>
         </item>
         <item>
@@ -194,13 +241,6 @@
             <pubDate>Wed, 19 Aug 2026 23:28:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Disillusionment at hand in Mackay]]></title>
-            <description><![CDATA[The last time Bangladesh came close to following up a landmark away victory with a series win in a SENA country was in 2021/22, when they famously beat New Zealand in Mount Maunganui. An innings-and-117-run defeat in Christchurch followed inside three days. For many, it was simply Bangladesh reverting to type after producing something spectacular.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/disillusionment-hand-mackay-4252056</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/disillusionment-hand-mackay-4252056</guid>
-            <pubDate>Wed, 19 Aug 2026 20:34:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Senior FIFA official withdraws support from embattled Infantino]]></title>
             <link>https://www.thedailystar.net/sports/football/news/senior-fifa-official-withdraws-support-embattled-infantino-4251756</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/senior-fifa-official-withdraws-support-embattled-infantino-4251756</guid>
@@ -252,12 +292,6 @@
             <link>https://www.thedailystar.net/news/crime-justice/news/man-beaten-death-over-theft-allegation-rajbari-family-claims-revenge-killing-4251821</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/man-beaten-death-over-theft-allegation-rajbari-family-claims-revenge-killing-4251821</guid>
             <pubDate>Wed, 19 Aug 2026 17:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspective / Home, through the lens of a photographer]]></title>
-            <link>https://www.thedailystar.net/life-living/news/home-through-the-lens-photographer-4251641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/home-through-the-lens-photographer-4251641</guid>
-            <pubDate>Wed, 19 Aug 2026 16:37:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh gets first grid-connected agrivoltaics pilot]]></title>
@@ -320,13 +354,6 @@
             <title><![CDATA[After deadly hotel fire, Kolkata administration orders sweeping safety checks across the city]]></title>
             <link>https://www.thedailystar.net/news/accidents-and-fires/news/after-deadly-hotel-fire-kolkata-administration-orders-sweeping-safety-checks-across-the-city-4251711</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/after-deadly-hotel-fire-kolkata-administration-orders-sweeping-safety-checks-across-the-city-4251711</guid>
-            <pubDate>Wed, 19 Aug 2026 14:39:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A cosmic object at the edge of stardom]]></title>
-            <description><![CDATA[This Bangladeshi astronomer found an object that challenges the definition of a star]]></description>
-            <link>https://www.thedailystar.net/news/technology/news/cosmic-object-the-edge-stardom-4251691</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/cosmic-object-the-edge-stardom-4251691</guid>
             <pubDate>Wed, 19 Aug 2026 14:39:37 GMT</pubDate>
         </item>
         <item>
@@ -592,14 +619,6 @@
             <pubDate>Wed, 19 Aug 2026 04:42:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can pink buses make travels safer for women?]]></title>
-            <description><![CDATA[By Procheta MukherjeeM. A. Shaleh Sadiq]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-pink-buses-make-travels-safer-women-4250696</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-pink-buses-make-travels-safer-women-4250696</guid>
-            <dc:creator><![CDATA[Procheta MukherjeeM. A. Shaleh Sadiq]]></dc:creator>
-            <pubDate>Wed, 19 Aug 2026 04:42:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sundarbans crackdown drives poisoned shrimp from Mongla markets]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/sundarbans-crackdown-drives-poisoned-shrimp-mongla-markets-4251386</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/sundarbans-crackdown-drives-poisoned-shrimp-mongla-markets-4251386</guid>
@@ -711,6 +730,24 @@
             <link>https://www.thedailystar.net/sports/football/news/bayerns-musiala-suffers-second-field-collapse-three-days-4251251</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/bayerns-musiala-suffers-second-field-collapse-three-days-4251251</guid>
             <pubDate>Wed, 19 Aug 2026 01:40:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Onneshon’ to take audiences on an inward journey through dance]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/onneshon-take-audiences-inward-journey-through-dance-4251766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/onneshon-take-audiences-inward-journey-through-dance-4251766</guid>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Perspective / Home, through the lens of a photographer]]></title>
+            <link>https://www.thedailystar.net/life-living/news/home-through-the-lens-photographer-4251641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/home-through-the-lens-photographer-4251641</guid>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A cosmic object at the edge of stardom]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/cosmic-object-the-edge-stardom-4251691</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/cosmic-object-the-edge-stardom-4251691</guid>
+            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How should parents react to their child's O’Level results]]></title>
@@ -1255,6 +1292,12 @@
             <pubDate>Tue, 18 Aug 2026 01:37:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Can pink buses make travels safer for women?]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-pink-buses-make-travels-safer-women-4250696</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-pink-buses-make-travels-safer-women-4250696</guid>
+            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The playwright who made the soil speak]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/the-playwright-who-made-the-soil-speak-4250756</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/the-playwright-who-made-the-soil-speak-4250756</guid>
@@ -1369,6 +1412,12 @@
             <title><![CDATA[Why Bangladesh, a global top producer, still imports fish]]></title>
             <link>https://www.thedailystar.net/business/economy/news/why-bangladesh-global-top-producer-still-imports-fish-4250246</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/why-bangladesh-global-top-producer-still-imports-fish-4250246</guid>
+            <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Startup spotlight / Bangladesh's construction procurement still runs on phone calls and Whatsapp. This startup wants to change that]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/bangladeshs-construction-procurement-still-runs-phone-calls-and-whatsapp-startup-wants-change-4250786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/bangladeshs-construction-procurement-still-runs-phone-calls-and-whatsapp-startup-wants-change-4250786</guid>
             <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3125,57 +3174,6 @@
             <link>https://www.thedailystar.net/sports/football/news/indias-tata-steel-sells-jamshedpur-fc-token-sum-1-4247731</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/indias-tata-steel-sells-jamshedpur-fc-token-sum-1-4247731</guid>
             <pubDate>Fri, 14 Aug 2026 19:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Regulating battery rickshaws necessary]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/regulating-battery-rickshaws-necessary-4247666</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/regulating-battery-rickshaws-necessary-4247666</guid>
-            <pubDate>Fri, 14 Aug 2026 17:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 ‘robbers’ held over looting Tk 1.21cr from filling station official]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/5-robbers-held-over-looting-tk-121cr-filling-station-official-4247706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/5-robbers-held-over-looting-tk-121cr-filling-station-official-4247706</guid>
-            <pubDate>Fri, 14 Aug 2026 17:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prime suspect in Alex Emon murder arrested with four associates: Rab]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/prime-suspect-alex-emon-murder-arrested-four-associates-rab-4247701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/prime-suspect-alex-emon-murder-arrested-four-associates-rab-4247701</guid>
-            <pubDate>Fri, 14 Aug 2026 17:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Luigi Mangione pleads guilty in federal case, admits killing insurance CEO]]></title>
-            <description><![CDATA[Federal murder and weapons charges were previously dismissed on legal grounds]]></description>
-            <link>https://www.thedailystar.net/news/world/news/luigi-mangione-pleads-guilty-federal-case-admits-killing-insurance-ceo-4247696</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/luigi-mangione-pleads-guilty-federal-case-admits-killing-insurance-ceo-4247696</guid>
-            <pubDate>Fri, 14 Aug 2026 17:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Probe body to be formed over Sitakunda gas poisoning incident: Finance minister]]></title>
-            <link>https://www.thedailystar.net/news/news/probe-body-be-formed-over-sitakunda-gas-poisoning-incident-finance-minister-4247616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/probe-body-be-formed-over-sitakunda-gas-poisoning-incident-finance-minister-4247616</guid>
-            <pubDate>Fri, 14 Aug 2026 17:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Kept calm and played to the merit of the ball’: How Tanzid made history in Darwin]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/kept-calm-and-played-the-merit-the-ball-how-tanzid-made-history-darwin-4247601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/kept-calm-and-played-the-merit-the-ball-how-tanzid-made-history-darwin-4247601</guid>
-            <pubDate>Fri, 14 Aug 2026 15:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh accept FIFA ASEAN Cup invitation]]></title>
-            <description><![CDATA[The National Teams Committee (NTC) of the Bangladesh Football Federation (BFF) on Friday agreed to accept an invitation to participate in the FIFA ASEAN Cup in Indonesia.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/bangladesh-accept-fifa-asean-cup-invitation-4247681</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/bangladesh-accept-fifa-asean-cup-invitation-4247681</guid>
-            <pubDate>Fri, 14 Aug 2026 15:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure]]></title>
-            <description><![CDATA[Defense Secretary Pete Hegseth told reporters that the US military has the capability to maintain a naval presence in the region to enforce its blockade of Iran]]></description>
-            <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/us-says-it-can-keep-naval-blockade-iran-indefinitely-vows-more-economic-pressure-4247586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/us-says-it-can-keep-naval-blockade-iran-indefinitely-vows-more-economic-pressure-4247586</guid>
-            <pubDate>Fri, 14 Aug 2026 15:59:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
