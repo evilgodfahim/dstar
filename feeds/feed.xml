@@ -4,26 +4,133 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Aug 2026 03:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Aug 2026 04:45:30 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
+        <pubDate>Fri, 21 Aug 2026 04:45:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.08.21)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260821-4253136</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260821-4253136</guid>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Carrick insists Man Utd will make more signings after quiet transfer window]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/carrick-insists-man-utd-will-make-more-signings-after-quiet-transfer-window-4253101</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/carrick-insists-man-utd-will-make-more-signings-after-quiet-transfer-window-4253101</guid>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
+            <title><![CDATA[England dominate as Brook makes Pakistan pay for costly drop]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/england-dominate-brook-makes-pakistan-pay-costly-drop-4253156</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/england-dominate-brook-makes-pakistan-pay-costly-drop-4253156</guid>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Energy crisis costs industry Tk 2,387cr daily]]></title>
             <link>https://www.thedailystar.net/business/economy/news/energy-crisis-costs-industry-tk-2387cr-daily-4252926</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/energy-crisis-costs-industry-tk-2387cr-daily-4252926</guid>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Dhaka’s Pink Bus break a four-decade pattern?]]></title>
+            <description><![CDATA[Dhaka’s women-only Pink Bus fails to solve public transport safety; upgrading the general bus network remains essential.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-dhakas-pink-bus-break-four-decade-pattern-4251781</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-dhakas-pink-bus-break-four-decade-pattern-4251781</guid>
+            <dc:creator><![CDATA[Farah MahboobDhrubo Alam]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Operation Jackpot: How Bangladesh’s naval commandos struck at Pakistan’s lifeline in 1971]]></title>
+            <description><![CDATA[By Tasnim Odrika]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/operation-jackpot-how-bangladeshs-naval-commandos-struck-pakistans-lifeline-1971-4252981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/operation-jackpot-how-bangladeshs-naval-commandos-struck-pakistans-lifeline-1971-4252981</guid>
+            <dc:creator><![CDATA[Tasnim Odrika]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar’s partial Rohingya repatriation plan: Another attempt to mislead Bangladesh?]]></title>
+            <description><![CDATA[Myanmar’s latest repatriation proposal risks repeating past cycles of partial returns while leaving most Rohingya refugees in Bangladesh behind.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/myanmars-partial-rohingya-repatriation-plan-another-attempt-mislead-bangladesh-4251776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/myanmars-partial-rohingya-repatriation-plan-another-attempt-mislead-bangladesh-4251776</guid>
+            <dc:creator><![CDATA[Md Himel Rahman]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What six South Asian economists taught the world about development]]></title>
+            <description><![CDATA[By Priyam Paul]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/what-six-south-asian-economists-taught-the-world-about-development-4252781</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/what-six-south-asian-economists-taught-the-world-about-development-4252781</guid>
+            <dc:creator><![CDATA[Priyam Paul]]></dc:creator>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gas crunch deepens, factories bear brunt]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/gas-crunch-deepens-factories-bear-brunt-4253151</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/gas-crunch-deepens-factories-bear-brunt-4253151</guid>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scenes from the House]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/scenes-the-house-4253146</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/scenes-the-house-4253146</guid>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Panama Canal to reduce shipping over El Nino-fueled drought]]></title>
+            <link>https://www.thedailystar.net/news/world/news/panama-canal-reduce-shipping-over-el-nino-fueled-drought-4253226</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/panama-canal-reduce-shipping-over-el-nino-fueled-drought-4253226</guid>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former Pakistan PM Imran Khan moved to hospital after court order, his party says]]></title>
+            <link>https://www.thedailystar.net/news/world/south-asia/news/former-pakistan-pm-imran-khan-moved-hospital-after-court-order-his-party-says-4253231</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/south-asia/news/former-pakistan-pm-imran-khan-moved-hospital-after-court-order-his-party-says-4253231</guid>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fakhrul draws warmth from across aisle]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/fakhrul-draws-warmth-across-aisle-4253141</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/fakhrul-draws-warmth-across-aisle-4253141</guid>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A deeper search for gas in Pabna]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/deeper-search-gas-pabna-4253041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/deeper-search-gas-pabna-4253041</guid>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Column by Mahfuz Anam /  Expectations from BNP’s next secretary general]]></title>
+            <description><![CDATA[Congratulations to Mirza Fakhrul Islam Alamgir for being elected president of Bangladesh. We believe he will restore to the post much of the dignity that was eroded by the former one.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/expectations-bnps-next-secretary-general-4252976</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/expectations-bnps-next-secretary-general-4252976</guid>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alcaraz to return for US Open title defence]]></title>
+            <description><![CDATA[Carlos Alcaraz announced on Thursday that he will return at the US Open to defend his title after recovering from a wrist injury that has sidelined him for the past four months.]]></description>
+            <link>https://www.thedailystar.net/sports/more-sports/tennis/news/alcaraz-return-us-open-title-defence-4253106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/tennis/news/alcaraz-return-us-open-title-defence-4253106</guid>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Producers now responsible for plastic waste management]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/producers-now-responsible-plastic-waste-management-4252936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/producers-now-responsible-plastic-waste-management-4252936</guid>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More questions than answers for Europe’s new season]]></title>
+            <description><![CDATA[So many clubs have changed ahead of the season, while others have changed just enough to become something different. The blueprints are ready, the ambitions are enormous, but reality will have the final say.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/more-questions-answers-europes-new-season-4253111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/more-questions-answers-europes-new-season-4253111</guid>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Garment factories can generate 1,768MWp from rooftop solar: CPD]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/garment-factories-can-generate-1768mwp-rooftop-solar-cpd-4252931</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/garment-factories-can-generate-1768mwp-rooftop-solar-cpd-4252931</guid>
+            <pubDate>Fri, 21 Aug 2026 04:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carrick insists Man Utd will make more signings after quiet transfer window]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/carrick-insists-man-utd-will-make-more-signings-after-quiet-transfer-window-4253101</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/carrick-insists-man-utd-will-make-more-signings-after-quiet-transfer-window-4253101</guid>
             <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
         </item>
         <item>
@@ -34,96 +141,10 @@
             <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can Dhaka’s Pink Bus break a four-decade pattern?]]></title>
-            <description><![CDATA[By Farah MahboobDhrubo Alam]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-dhakas-pink-bus-break-four-decade-pattern-4251781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-dhakas-pink-bus-break-four-decade-pattern-4251781</guid>
-            <dc:creator><![CDATA[Farah MahboobDhrubo Alam]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar’s partial Rohingya repatriation plan: Another attempt to mislead Bangladesh?]]></title>
-            <description><![CDATA[Myanmar’s latest repatriation proposal risks repeating past cycles of partial returns while leaving most Rohingya refugees in Bangladesh behind.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/myanmars-partial-rohingya-repatriation-plan-another-attempt-mislead-bangladesh-4251776</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/myanmars-partial-rohingya-repatriation-plan-another-attempt-mislead-bangladesh-4251776</guid>
-            <dc:creator><![CDATA[Md Himel Rahman]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Operation Jackpot: How Bangladesh’s naval commandos struck at Pakistan’s lifeline in 1971]]></title>
-            <description><![CDATA[By Tasnim Odrika]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/operation-jackpot-how-bangladeshs-naval-commandos-struck-pakistans-lifeline-1971-4252981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/operation-jackpot-how-bangladeshs-naval-commandos-struck-pakistans-lifeline-1971-4252981</guid>
-            <dc:creator><![CDATA[Tasnim Odrika]]></dc:creator>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scenes from the House]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/scenes-the-house-4253146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/scenes-the-house-4253146</guid>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gas crunch deepens, factories bear brunt]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/gas-crunch-deepens-factories-bear-brunt-4253151</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/gas-crunch-deepens-factories-bear-brunt-4253151</guid>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Garment factories can generate 1,768MWp from rooftop solar: CPD]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/garment-factories-can-generate-1768mwp-rooftop-solar-cpd-4252931</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/garment-factories-can-generate-1768mwp-rooftop-solar-cpd-4252931</guid>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fakhrul draws warmth from across aisle]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/fakhrul-draws-warmth-across-aisle-4253141</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/fakhrul-draws-warmth-across-aisle-4253141</guid>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A deeper search for gas in Pabna]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/deeper-search-gas-pabna-4253041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/deeper-search-gas-pabna-4253041</guid>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Panama Canal to reduce shipping over El Nino-fueled drought]]></title>
-            <link>https://www.thedailystar.net/news/world/news/panama-canal-reduce-shipping-over-el-nino-fueled-drought-4253226</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/panama-canal-reduce-shipping-over-el-nino-fueled-drought-4253226</guid>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA['Bangladesh people are emotional, I am not': Simmons urges Tigers to stay grounded]]></title>
             <description><![CDATA[Bangladesh head coach Phil Simmons has urged his players to keep their emotions in check as the Tigers prepare for the second Test against Australia in Mackay on Sunday.]]></description>
             <link>https://www.thedailystar.net/sports/cricket/news/bangladesh-people-are-emotional-i-am-not-simmons-urges-tigers-stay-grounded-4252776</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/bangladesh-people-are-emotional-i-am-not-simmons-urges-tigers-stay-grounded-4252776</guid>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam /  Expectations from BNP’s next secretary general]]></title>
-            <description><![CDATA[Congratulations to Mirza Fakhrul Islam Alamgir for being elected president of Bangladesh. We believe he will restore to the post much of the dignity that was eroded by the former one.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/expectations-bnps-next-secretary-general-4252976</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/expectations-bnps-next-secretary-general-4252976</guid>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More questions than answers for Europe’s new season]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/more-questions-answers-europes-new-season-4253111</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/more-questions-answers-europes-new-season-4253111</guid>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alcaraz to return for US Open title defence]]></title>
-            <description><![CDATA[Carlos Alcaraz announced on Thursday that he will return at the US Open to defend his title after recovering from a wrist injury that has sidelined him for the past four months.]]></description>
-            <link>https://www.thedailystar.net/sports/more-sports/tennis/news/alcaraz-return-us-open-title-defence-4253106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/tennis/news/alcaraz-return-us-open-title-defence-4253106</guid>
-            <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Producers now responsible for plastic waste management]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/producers-now-responsible-plastic-waste-management-4252936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/producers-now-responsible-plastic-waste-management-4252936</guid>
             <pubDate>Fri, 21 Aug 2026 03:09:08 GMT</pubDate>
         </item>
         <item>
@@ -136,12 +157,6 @@
             <title><![CDATA[Rumeen Farhana explains why she skipped presidential vote]]></title>
             <link>https://www.thedailystar.net/news/politics/news/rumeen-farhana-explains-why-she-skipped-presidential-vote-4252786</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/rumeen-farhana-explains-why-she-skipped-presidential-vote-4252786</guid>
-            <pubDate>Fri, 21 Aug 2026 01:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England dominate as Brook makes Pakistan pay for costly drop]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/england-dominate-brook-makes-pakistan-pay-costly-drop-4253156</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/england-dominate-brook-makes-pakistan-pay-costly-drop-4253156</guid>
             <pubDate>Fri, 21 Aug 2026 01:43:55 GMT</pubDate>
         </item>
         <item>
@@ -3161,18 +3176,6 @@
             <title><![CDATA[Arts / Chowrasta brings Bangladesh’s hip-hop community together]]></title>
             <link>https://www.thedailystar.net/life-living/news/chowrasta-brings-bangladeshs-hip-hop-community-together-4249041</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/chowrasta-brings-bangladeshs-hip-hop-community-together-4249041</guid>
-            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claude will watermark AI text. Here’s how it works]]></title>
-            <link>https://www.thedailystar.net/news/tech-startup/news/claude-will-watermark-ai-text-heres-how-it-works-4249051</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/tech-startup/news/claude-will-watermark-ai-text-heres-how-it-works-4249051</guid>
-            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Create conditions for safe return of Rohingya]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/create-conditions-safe-return-rohingya-4249091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/create-conditions-safe-return-rohingya-4249091</guid>
             <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
