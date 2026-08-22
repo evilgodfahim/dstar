@@ -4,21 +4,113 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 06:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 07:36:39 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.08.22)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260822-4253746</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260822-4253746</guid>
-            <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Ekshathe Choli, Ekshathe Bachi’ challenges barriers and calls for inclusion in theatre]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/ekshathe-choli-ekshathe-bachi-challenges-barriers-and-calls-inclusion-theatre-4253846</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/ekshathe-choli-ekshathe-bachi-challenges-barriers-and-calls-inclusion-theatre-4253846</guid>
-            <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Messi fined, Sullivan gets reprieve]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/messi-fined-sullivan-gets-reprieve-4253786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/messi-fined-sullivan-gets-reprieve-4253786</guid>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US hits Canadian goods with 50% tariffs after trade talks fail]]></title>
+            <link>https://www.thedailystar.net/business/news/us-hits-canadian-goods-50-tariffs-after-trade-talks-fail-4253851</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/us-hits-canadian-goods-50-tariffs-after-trade-talks-fail-4253851</guid>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Personal preferences should not become public restrictions]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/personal-preferences-should-not-become-public-restrictions-4253571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/personal-preferences-should-not-become-public-restrictions-4253571</guid>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Staying the course is not an option in resolving the Rohingya crisis’]]></title>
+            <description><![CDATA[The overall number of refugees has increased, while funding, which used to be relatively healthy before, has declined.]]></description>
+            <link>https://www.thedailystar.net/opinion/interviews/news/staying-the-course-not-option-resolving-the-rohingya-crisis-4253581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/staying-the-course-not-option-resolving-the-rohingya-crisis-4253581</guid>
+            <dc:creator><![CDATA[Porimol Palma]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deadly crimes a nationwide issue]]></title>
+            <description><![CDATA[We are alarmed by the rate at which serious crimes, many involving the use of firearms, are occurring nationwide. The situation is especially worse in certain areas, such as in Khulna’s Labanchara thana.]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/deadly-crimes-nationwide-issue-4253561</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/deadly-crimes-nationwide-issue-4253561</guid>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Upskilling workers can expand Bangladesh's remittance dividend]]></title>
+            <description><![CDATA[By Md. Bakhtiar Uddin]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/upskilling-workers-can-expand-bangladeshs-remittance-dividend-4253586</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/upskilling-workers-can-expand-bangladeshs-remittance-dividend-4253586</guid>
+            <dc:creator><![CDATA[Md. Bakhtiar Uddin]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US judge strikes down policy suspending immigrant visa processing for 75 nations, including Bangladesh]]></title>
+            <link>https://www.thedailystar.net/news/world/news/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-75-nations-including-bangladesh-4253836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-75-nations-including-bangladesh-4253836</guid>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The reality of vocational training for Bangladeshi women]]></title>
+            <description><![CDATA[By Musrat Hossain Mithila]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/the-reality-vocational-training-bangladeshi-women-4253546</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/the-reality-vocational-training-bangladeshi-women-4253546</guid>
+            <dc:creator><![CDATA[Musrat Hossain Mithila]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malaysia lists 25 Bangladeshi agencies, but recruitment process remains unclear]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/malaysia-lists-25-bangladeshi-agencies-recruitment-process-remains-unclear-4253861</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/malaysia-lists-25-bangladeshi-agencies-recruitment-process-remains-unclear-4253861</guid>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aus vs Ban, 2nd Test, Day 1 / Shoriful six-for keeps Tigers alive]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/australia-opt-bowl-first-mackay-tigers-eye-more-history-4253671</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/australia-opt-bowl-first-mackay-tigers-eye-more-history-4253671</guid>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[President pays tribute to Liberation War martyrs at national memorial in Savar]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/president-pays-tribute-liberation-war-martyrs-national-memorial-savar-4253871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/president-pays-tribute-liberation-war-martyrs-national-memorial-savar-4253871</guid>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US, Canada fail to reach trade pact to avert Trump tariffs]]></title>
+            <link>https://www.thedailystar.net/news/world/news/us-canada-fail-reach-trade-pact-avert-trump-tariffs-4253876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/us-canada-fail-reach-trade-pact-avert-trump-tariffs-4253876</guid>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heavy rain floods low-lying areas in Khagrachhari, cuts road links]]></title>
+            <description><![CDATA[103mm of rain recorded in six hours; authorities work to restore connectivity after landslides]]></description>
+            <link>https://www.thedailystar.net/news/environment/natural-disaster/news/heavy-rain-floods-low-lying-areas-khagrachhari-cuts-road-links-4253866</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/natural-disaster/news/heavy-rain-floods-low-lying-areas-khagrachhari-cuts-road-links-4253866</guid>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cabinet Division gazette assigns portfolios to 4 ministers, 2 state ministers]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/cabinet-division-gazette-assigns-portfolios-4-ministers-2-state-ministers-4253621</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/cabinet-division-gazette-assigns-portfolios-4-ministers-2-state-ministers-4253621</guid>
+            <pubDate>Sat, 22 Aug 2026 07:36:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arsenal sweep Coventry aside to start title defence with 3-0 win]]></title>
@@ -27,78 +119,10 @@
             <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[US hits Canadian goods with 50% tariffs after trade talks fail]]></title>
-            <link>https://www.thedailystar.net/business/news/us-hits-canadian-goods-50-tariffs-after-trade-talks-fail-4253851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/us-hits-canadian-goods-50-tariffs-after-trade-talks-fail-4253851</guid>
-            <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Personal preferences should not become public restrictions]]></title>
-            <description><![CDATA[By Shamsad Mortuza]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/personal-preferences-should-not-become-public-restrictions-4253571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/personal-preferences-should-not-become-public-restrictions-4253571</guid>
-            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Staying the course is not an option in resolving the Rohingya crisis’]]></title>
-            <description><![CDATA[The overall number of refugees has increased, while funding, which used to be relatively healthy before, has declined.]]></description>
-            <link>https://www.thedailystar.net/opinion/interviews/news/staying-the-course-not-option-resolving-the-rohingya-crisis-4253581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/staying-the-course-not-option-resolving-the-rohingya-crisis-4253581</guid>
-            <dc:creator><![CDATA[Porimol Palma]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deadly crimes a nationwide issue]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/deadly-crimes-nationwide-issue-4253561</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/deadly-crimes-nationwide-issue-4253561</guid>
-            <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upskilling workers can expand Bangladesh's remittance dividend]]></title>
-            <description><![CDATA[In its demographic transition, Bangladesh has reached a stage where its working-age population exceeds its dependent population in size—a phenomenon known as the demographic dividend.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/upskilling-workers-can-expand-bangladeshs-remittance-dividend-4253586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/upskilling-workers-can-expand-bangladeshs-remittance-dividend-4253586</guid>
-            <dc:creator><![CDATA[Md. Bakhtiar Uddin]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cabinet Division gazette assigns portfolios to 4 ministers, 2 state ministers]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/cabinet-division-gazette-assigns-portfolios-4-ministers-2-state-ministers-4253621</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/cabinet-division-gazette-assigns-portfolios-4-ministers-2-state-ministers-4253621</guid>
-            <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US judge strikes down policy suspending immigrant visa processing for 75 nations, including Bangladesh]]></title>
-            <link>https://www.thedailystar.net/news/world/news/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-75-nations-including-bangladesh-4253836</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-75-nations-including-bangladesh-4253836</guid>
-            <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malaysia lists 25 Bangladeshi agencies, but recruitment process remains unclear]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/malaysia-lists-25-bangladeshi-agencies-recruitment-process-remains-unclear-4253861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/malaysia-lists-25-bangladeshi-agencies-recruitment-process-remains-unclear-4253861</guid>
-            <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[US, Iran keep up hostile rhetoric ahead of new sanctions]]></title>
             <link>https://www.thedailystar.net/news/world/news/us-iran-keep-hostile-rhetoric-ahead-new-sanctions-4253761</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/us-iran-keep-hostile-rhetoric-ahead-new-sanctions-4253761</guid>
             <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aus vs Ban, 2nd Test, Day 1 / Shoriful, Taskin give Bangladesh hope]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/australia-opt-bowl-first-mackay-tigers-eye-more-history-4253671</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/australia-opt-bowl-first-mackay-tigers-eye-more-history-4253671</guid>
-            <pubDate>Sat, 22 Aug 2026 06:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What death teaches us about life]]></title>
-            <description><![CDATA[Death is not merely where life ends; it is the hidden architecture through which existence takes form, meaning, and motion.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/what-death-teaches-us-about-life-4252771</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/what-death-teaches-us-about-life-4252771</guid>
-            <dc:creator><![CDATA[Faridul Alam]]></dc:creator>
-            <pubDate>Sat, 22 Aug 2026 05:32:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What six South Asian economists taught the world about development]]></title>
@@ -130,13 +154,6 @@
             <link>https://www.thedailystar.net/news/bangladesh/news/bir-sreshtho-matiur-rahman-memorial-bears-scars-neglect-4253631</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/bir-sreshtho-matiur-rahman-memorial-bears-scars-neglect-4253631</guid>
             <pubDate>Sat, 22 Aug 2026 05:32:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Messi fined, Sullivan gets reprieve]]></title>
-            <description><![CDATA[The MLS Disciplinary Committee fined Inter Miami superstar Lionel Messi an undisclosed amount for violating the league’s policy on hands to the face, head or neck of an opponent, while Philadelphia Union defender Cavan Sullivan -- who has Bangladeshi heritage -- had his one-game suspension and accompanying fine rescinded on Friday.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/messi-fined-sullivan-gets-reprieve-4253786</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/messi-fined-sullivan-gets-reprieve-4253786</guid>
-            <pubDate>Sat, 22 Aug 2026 04:39:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ronaldo scores for 25th straight season as Al-Nassr beat Al-Riyadh]]></title>
@@ -202,19 +219,20 @@
         </item>
         <item>
             <title><![CDATA[How haor women found self-reliance through duck farming]]></title>
-            <description><![CDATA[In the midst of the haor region in Netrokona’s Madan upazila, Kuturikona -- a small village -- is gradually transforming into a hub of duck farming, bringing self-reliance to its residents, especially the women.]]></description>
             <link>https://www.thedailystar.net/weekend-read/news/how-haor-women-found-self-reliance-through-duck-farming-4253541</link>
             <guid isPermaLink="true">https://www.thedailystar.net/weekend-read/news/how-haor-women-found-self-reliance-through-duck-farming-4253541</guid>
             <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fakhrul sworn in as president]]></title>
+            <description><![CDATA[Mirza Fakhrul Islam Alamgir, the longest‑serving second‑in‑command of the BNP, was sworn in as Bangladesh’s new president yesterday, marking the crowning achievement of a five‑decade political career.]]></description>
             <link>https://www.thedailystar.net/news/politics/news/fakhrul-sworn-president-4253666</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/fakhrul-sworn-president-4253666</guid>
             <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Business Plus  / The jute is gone, but Adamjee is busier than ever]]></title>
+            <description><![CDATA[The jute mill was closed after years of losses; the EPZ is now exporting over a billion dollars every year]]></description>
             <link>https://www.thedailystar.net/business/news/the-jute-gone-adamjee-busier-ever-4253531</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/the-jute-gone-adamjee-busier-ever-4253531</guid>
             <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
@@ -619,6 +637,12 @@
             <link>https://www.thedailystar.net/news/bangladesh/news/yunus-congratulates-fakhrul-hails-his-experience-and-leadership-4252746</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/yunus-congratulates-fakhrul-hails-his-experience-and-leadership-4252746</guid>
             <pubDate>Fri, 21 Aug 2026 01:43:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What death teaches us about life]]></title>
+            <link>https://www.thedailystar.net/slow-reads/wisdom/news/what-death-teaches-us-about-life-4252771</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/what-death-teaches-us-about-life-4252771</guid>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Raghu Rai’s artistic journey takes centre-stage at Drik Gallery]]></title>
@@ -3154,31 +3178,6 @@
             <title><![CDATA[Today's Gallery (2026.08.17)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260817-4249501</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260817-4249501</guid>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New panel formed to address tea industry woes]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/new-panel-formed-address-tea-industry-woes-4249361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/new-panel-formed-address-tea-industry-woes-4249361</guid>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shipbreaking tragedy: Yard ‘forgot’ to renew DoE clearance]]></title>
-            <link>https://www.thedailystar.net/news/accidents-and-fires/news/shipbreaking-tragedy-yard-forgot-renew-doe-clearance-4249536</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/shipbreaking-tragedy-yard-forgot-renew-doe-clearance-4249536</guid>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tk 567cr project on cards to tackle Dhaka waterlogging]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/tk-567cr-project-cards-tackle-dhaka-waterlogging-4249441</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tk-567cr-project-cards-tackle-dhaka-waterlogging-4249441</guid>
-            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Update / They drifted to their deaths over 11 days]]></title>
-            <description><![CDATA[9 Bangladeshis, one Sudanese confirmed dead after Greece-bound boat drifts in Mediterranean for 11 days]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/they-drifted-their-deaths-over-11-days-4249516</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/they-drifted-their-deaths-over-11-days-4249516</guid>
             <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
