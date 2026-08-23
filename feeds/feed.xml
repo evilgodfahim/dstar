@@ -4,35 +4,130 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 17:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 18:38:00 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Prisons beyond capacity: Where is the solution?]]></title>
-            <description><![CDATA[Watch Star Discourse on The Daily Star's Facebook, YouTube, Instagram, TikTok and website]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/news/prisons-beyond-capacity-where-the-solution-4254611</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/prisons-beyond-capacity-where-the-solution-4254611</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is India planning over Tarique Rahman's visit?]]></title>
-            <description><![CDATA[What is really happening with Tarique Rahman's proposed visit? Why did Rashtrapati Bhavan issue such a statement, and why was it later withdrawn? Could this be part of a broader Indian strategy?]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/news/what-india-planning-over-tarique-rahmans-visit-4254596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/what-india-planning-over-tarique-rahmans-visit-4254596</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Social Issues / Behind Choko Poko & Family: A home built around rescue]]></title>
             <link>https://www.thedailystar.net/life-living/news/behind-choko-poko-family-home-built-around-rescue-4254761</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/behind-choko-poko-family-home-built-around-rescue-4254761</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Classical music enthrals Barishal audience]]></title>
             <link>https://www.thedailystar.net/culture/music/news/classical-music-enthrals-barishal-audience-4254796</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/music/news/classical-music-enthrals-barishal-audience-4254796</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gvardiol’s late strike gives Maresca winning start at Man City]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/gvardiols-late-strike-gives-maresca-winning-start-man-city-4254981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/gvardiols-late-strike-gives-maresca-winning-start-man-city-4254981</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fake online loans lead borrowers into costly traps]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/fake-online-loans-lead-borrowers-costly-traps-4255161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/fake-online-loans-lead-borrowers-costly-traps-4255161</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nine years on, Rohingya refugees need more than shelter]]></title>
+            <description><![CDATA[Nine years on, Rohingya refugees need more than shelter: secure housing, fair protection systems and durable solutions.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/nine-years-rohingya-refugees-need-more-shelter-4254136</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/nine-years-rohingya-refugees-need-more-shelter-4254136</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Documenting Rohingya history / Rohingya repatriation needs more than diplomacy]]></title>
+            <description><![CDATA[Sustainable Rohingya repatriation requires documented history and diplomatic leverage to establish the community's enduring roots in Rakhine.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/rohingya-repatriation-needs-more-diplomacy-4254161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/rohingya-repatriation-needs-more-diplomacy-4254161</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The many worlds of Ghulam Murshid]]></title>
+            <description><![CDATA[By Amiya P. Sen]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/the-many-worlds-ghulam-murshid-4254706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-many-worlds-ghulam-murshid-4254706</guid>
+            <dc:creator><![CDATA[Amiya P. Sen]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let police do their job without fear]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/let-police-do-their-job-without-fear-4254936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-police-do-their-job-without-fear-4254936</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangla QR transactions exceed Tk 110 crore after mandatory rollout]]></title>
+            <link>https://www.thedailystar.net/business/news/bangla-qr-transactions-exceed-tk-110-crore-after-mandatory-rollout-4254976</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangla-qr-transactions-exceed-tk-110-crore-after-mandatory-rollout-4254976</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wartime election would ‘destroy’ Ukraine, Zelenskiy says]]></title>
+            <link>https://www.thedailystar.net/news/world/news/wartime-election-would-destroy-ukraine-zelenskiy-says-4254891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/wartime-election-would-destroy-ukraine-zelenskiy-says-4254891</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uttara robbery suspect Jalil Molla owns assets worth crores, police say]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/uttara-robbery-suspect-jalil-molla-owns-assets-worth-crores-police-say-4255011</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/uttara-robbery-suspect-jalil-molla-owns-assets-worth-crores-police-say-4255011</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt plans directorate for victims of enforced disappearances, extrajudicial killings]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/govt-plans-directorate-victims-enforced-disappearances-extrajudicial-killings-4255001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/govt-plans-directorate-victims-enforced-disappearances-extrajudicial-killings-4255001</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hackers claim 6 million Bangladeshi CVs for sale on dark web]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/hackers-claim-6-million-bangladeshi-cvs-sale-dark-web-4254996</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/hackers-claim-6-million-bangladeshi-cvs-sale-dark-web-4254996</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Humaiun Kobir designated State Minister for Foreign Affairs-1, Shama Obaed State Minister-2]]></title>
+            <link>https://www.thedailystar.net/news/news/humaiun-kobir-designated-state-minister-foreign-affairs-1-shama-obaed-state-minister-2-4255021</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/humaiun-kobir-designated-state-minister-foreign-affairs-1-shama-obaed-state-minister-2-4255021</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Their faces had been burned’: Relatives say after receiving Rangpur victims’ bodies]]></title>
+            <description><![CDATA[CID official says a flammable substance appears to have been poured on the victims’ faces]]></description>
+            <link>https://www.thedailystar.net/news/crime-justice/news/their-faces-had-been-burned-relatives-say-after-receiving-rangpur-victims-bodies-4255016</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/their-faces-had-been-burned-relatives-say-after-receiving-rangpur-victims-bodies-4255016</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Call Watkins’: Emery washes hands of striker saga]]></title>
+            <description><![CDATA[Aston Villa manager Unai Emery insisted it was Ollie Watkins's responsibility to explain his absence from a thumping 4-0 Premier League loss away to Brighton on Sunday.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/call-watkins-emery-washes-hands-striker-saga-4255231</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/call-watkins-emery-washes-hands-striker-saga-4255231</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farmers break into Kurigram fertiliser warehouse, take 197 urea sacks]]></title>
+            <link>https://www.thedailystar.net/business/agriculture/news/farmers-break-kurigram-fertiliser-warehouse-take-197-urea-sacks-4254966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/agriculture/news/farmers-break-kurigram-fertiliser-warehouse-take-197-urea-sacks-4254966</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England pacer Carse under investigation after 'nightclub incident']]></title>
+            <description><![CDATA[Brydon Carse is under investigation after he reportedly became the latest England cricketer to be involved in a nightclub incident, the England and Wales Cricket Board (ECB) confirmed on Sunday.]]></description>
+            <link>https://www.thedailystar.net/sports/cricket/news/england-pacer-carse-under-investigation-after-nightclub-incident-4255081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/england-pacer-carse-under-investigation-after-nightclub-incident-4255081</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Szoboszlai's last-gasp leveller rescues Liverpool in Newcastle draw]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/szoboszlais-last-gasp-leveller-rescues-liverpool-newcastle-draw-4255131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/szoboszlais-last-gasp-leveller-rescues-liverpool-newcastle-draw-4255131</guid>
+            <pubDate>Sun, 23 Aug 2026 18:38:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brazil bound for Bangladesh?]]></title>
@@ -44,77 +139,6 @@
             <title><![CDATA[Govt moves to cut vessel registration fees]]></title>
             <link>https://www.thedailystar.net/business/economy/news/govt-moves-cut-vessel-registration-fees-4255036</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/govt-moves-cut-vessel-registration-fees-4255036</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nine years on, Rohingya refugees need more than shelter]]></title>
-            <description><![CDATA[Nine years on, Rohingya refugees need more than shelter: secure housing, fair protection systems and durable solutions.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/nine-years-rohingya-refugees-need-more-shelter-4254136</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/nine-years-rohingya-refugees-need-more-shelter-4254136</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Documenting Rohingya history / Rohingya repatriation needs more than diplomacy]]></title>
-            <description><![CDATA[Sustainable Rohingya repatriation requires documented history and diplomatic leverage to establish the community's enduring roots in Rakhine.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/rohingya-repatriation-needs-more-diplomacy-4254161</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/rohingya-repatriation-needs-more-diplomacy-4254161</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The many worlds of Ghulam Murshid]]></title>
-            <description><![CDATA[By Amiya P. Sen]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/the-many-worlds-ghulam-murshid-4254706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-many-worlds-ghulam-murshid-4254706</guid>
-            <dc:creator><![CDATA[Amiya P. Sen]]></dc:creator>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let police do their job without fear]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/let-police-do-their-job-without-fear-4254936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-police-do-their-job-without-fear-4254936</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangla QR transactions exceed Tk 110 crore after mandatory rollout]]></title>
-            <link>https://www.thedailystar.net/business/news/bangla-qr-transactions-exceed-tk-110-crore-after-mandatory-rollout-4254976</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangla-qr-transactions-exceed-tk-110-crore-after-mandatory-rollout-4254976</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wartime election would ‘destroy’ Ukraine, Zelenskiy says]]></title>
-            <link>https://www.thedailystar.net/news/world/news/wartime-election-would-destroy-ukraine-zelenskiy-says-4254891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/wartime-election-would-destroy-ukraine-zelenskiy-says-4254891</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uttara robbery suspect Jalil Molla owns assets worth crores, police say]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/uttara-robbery-suspect-jalil-molla-owns-assets-worth-crores-police-say-4255011</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/uttara-robbery-suspect-jalil-molla-owns-assets-worth-crores-police-say-4255011</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt plans directorate for victims of enforced disappearances, extrajudicial killings]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/govt-plans-directorate-victims-enforced-disappearances-extrajudicial-killings-4255001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/govt-plans-directorate-victims-enforced-disappearances-extrajudicial-killings-4255001</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hackers claim 6 million Bangladeshi CVs for sale on dark web]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/hackers-claim-6-million-bangladeshi-cvs-sale-dark-web-4254996</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/hackers-claim-6-million-bangladeshi-cvs-sale-dark-web-4254996</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Humaiun Kobir designated State Minister for Foreign Affairs-1, Shama Obaed State Minister-2]]></title>
-            <link>https://www.thedailystar.net/news/news/humaiun-kobir-designated-state-minister-foreign-affairs-1-shama-obaed-state-minister-2-4255021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/humaiun-kobir-designated-state-minister-foreign-affairs-1-shama-obaed-state-minister-2-4255021</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Their faces had been burned’: Relatives say after receiving Rangpur victims’ bodies]]></title>
-            <description><![CDATA[CID official says a flammable substance appears to have been poured on the victims’ faces]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/their-faces-had-been-burned-relatives-say-after-receiving-rangpur-victims-bodies-4255016</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/their-faces-had-been-burned-relatives-say-after-receiving-rangpur-victims-bodies-4255016</guid>
             <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
         </item>
         <item>
@@ -135,12 +159,6 @@
             <description><![CDATA[Nahid Islam Bristy of Furry Friends Foundation advocates for CNVR to manage stray dog populations in Dhaka, highlighting how relocation fails while humane sterilization prevents disease, curbs cruelty, and builds safer, healthier urban communities.]]></description>
             <link>https://www.thedailystar.net/life-living/news/why-we-owe-street-animals-better-solution-culling-4254766</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/why-we-owe-street-animals-better-solution-culling-4254766</guid>
-            <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farmers break into Kurigram fertiliser warehouse, take 197 urea sacks]]></title>
-            <link>https://www.thedailystar.net/business/agriculture/news/farmers-break-kurigram-fertiliser-warehouse-take-197-urea-sacks-4254966</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/agriculture/news/farmers-break-kurigram-fertiliser-warehouse-take-197-urea-sacks-4254966</guid>
             <pubDate>Sun, 23 Aug 2026 17:25:21 GMT</pubDate>
         </item>
         <item>
@@ -193,13 +211,6 @@
             <title><![CDATA[Pakistan's army chief to visit Iran with war mediation stalled]]></title>
             <link>https://www.thedailystar.net/news/world/news/pakistans-army-chief-visit-iran-war-mediation-stalled-4254886</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/pakistans-army-chief-visit-iran-war-mediation-stalled-4254886</guid>
-            <pubDate>Sun, 23 Aug 2026 15:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gvardiol’s late strike gives Maresca winning start at Man City]]></title>
-            <description><![CDATA[Manchester City made a winning start to life without Pep Guardiola as late goals from Marc Guehi and Josko Gvardiol snatched a dramatic 2-1 victory against Bournemouth on Sunday in Enzo Maresca's first Premier League game as the Spaniard's replacement.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/gvardiols-late-strike-gives-maresca-winning-start-man-city-4254981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/gvardiols-late-strike-gives-maresca-winning-start-man-city-4254981</guid>
             <pubDate>Sun, 23 Aug 2026 15:28:27 GMT</pubDate>
         </item>
         <item>
@@ -616,6 +627,20 @@
             <link>https://www.thedailystar.net/sports/cricket/news/shoriful-keeps-tigers-the-hunt-4254156</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/shoriful-keeps-tigers-the-hunt-4254156</guid>
             <pubDate>Sun, 23 Aug 2026 01:47:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prisons beyond capacity: Where is the solution?]]></title>
+            <description><![CDATA[Watch Star Discourse on The Daily Star's Facebook, YouTube, Instagram, TikTok and website]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news/prisons-beyond-capacity-where-the-solution-4254611</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/prisons-beyond-capacity-where-the-solution-4254611</guid>
+            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is India planning over Tarique Rahman's visit?]]></title>
+            <description><![CDATA[What is really happening with Tarique Rahman's proposed visit? Why did Rashtrapati Bhavan issue such a statement, and why was it later withdrawn? Could this be part of a broader Indian strategy?]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news/what-india-planning-over-tarique-rahmans-visit-4254596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/what-india-planning-over-tarique-rahmans-visit-4254596</guid>
+            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why our ports need a sustainability scorecard]]></title>
@@ -3155,30 +3180,6 @@
             <link>https://www.thedailystar.net/news/bangladesh/news/pm-launches-programme-give-20000-raincoats-sylhet-tea-workers-4250746</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-launches-programme-give-20000-raincoats-sylhet-tea-workers-4250746</guid>
             <pubDate>Tue, 18 Aug 2026 12:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former JCD leader taken into custody after armed march in Pabna’s Ishwardi]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/former-jcd-leader-taken-custody-after-armed-march-pabnas-ishwardi-4250751</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/former-jcd-leader-taken-custody-after-armed-march-pabnas-ishwardi-4250751</guid>
-            <pubDate>Tue, 18 Aug 2026 12:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘I am still unmarried’ : Puja Chery dismisses marriage reports]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/i-am-still-unmarried-puja-chery-dismisses-marriage-reports-4250626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/i-am-still-unmarried-puja-chery-dismisses-marriage-reports-4250626</guid>
-            <pubDate>Tue, 18 Aug 2026 11:30:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rift deepens as Asia football chief hits back at Qatar in Infantino saga]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/rift-deepens-asia-football-chief-hits-back-qatar-infantino-saga-4250591</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/rift-deepens-asia-football-chief-hits-back-qatar-infantino-saga-4250591</guid>
-            <pubDate>Tue, 18 Aug 2026 11:30:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM for simple, friendly revenue system to encourage voluntary tax payment]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/pm-simple-friendly-revenue-system-encourage-voluntary-tax-payment-4250666</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/pm-simple-friendly-revenue-system-encourage-voluntary-tax-payment-4250666</guid>
-            <pubDate>Tue, 18 Aug 2026 11:30:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
