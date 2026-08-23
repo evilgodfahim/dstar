@@ -4,53 +4,53 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 12:52:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 13:36:53 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[What is India planning over Tarique Rahman's visit?]]></title>
-            <description><![CDATA[What is really happening with Tarique Rahman's proposed visit? Why did Rashtrapati Bhavan issue such a statement, and why was it later withdrawn? Could this be part of a broader Indian strategy?]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/news/what-india-planning-over-tarique-rahmans-visit-4254596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/what-india-planning-over-tarique-rahmans-visit-4254596</guid>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Prisons beyond capacity: Where is the solution?]]></title>
             <description><![CDATA[Watch Star Discourse on The Daily Star's Facebook, YouTube, Instagram, TikTok and website]]></description>
             <link>https://www.thedailystar.net/star-multimedia/news/prisons-beyond-capacity-where-the-solution-4254611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/prisons-beyond-capacity-where-the-solution-4254611</guid>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is India planning over Tarique Rahman's visit?]]></title>
+            <description><![CDATA[What is really happening with Tarique Rahman's proposed visit? Why did Rashtrapati Bhavan issue such a statement, and why was it later withdrawn? Could this be part of a broader Indian strategy?]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news/what-india-planning-over-tarique-rahmans-visit-4254596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/what-india-planning-over-tarique-rahmans-visit-4254596</guid>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Social Issues / Behind Choko Poko & Family: A home built around rescue]]></title>
             <link>https://www.thedailystar.net/life-living/news/behind-choko-poko-family-home-built-around-rescue-4254761</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/behind-choko-poko-family-home-built-around-rescue-4254761</guid>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Classical music enthrals Barishal audience]]></title>
             <link>https://www.thedailystar.net/culture/music/news/classical-music-enthrals-barishal-audience-4254796</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/music/news/classical-music-enthrals-barishal-audience-4254796</guid>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cummins hails 'sharp' Australia after innings victory against Bangladesh]]></title>
             <link>https://www.thedailystar.net/sports/cricket/news/cummins-hails-sharp-australia-after-innings-victory-against-bangladesh-4254801</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/cummins-hails-sharp-australia-after-innings-victory-against-bangladesh-4254801</guid>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Invest Bangladesh begins operations, merging three investment bodies]]></title>
             <link>https://www.thedailystar.net/business/news/invest-bangladesh-begins-operations-merging-three-investment-bodies-4254651</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/invest-bangladesh-begins-operations-merging-three-investment-bodies-4254651</guid>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why our ports need a sustainability scorecard]]></title>
             <link>https://www.thedailystar.net/opinion/views/news/why-our-ports-need-sustainability-scorecard-4254361</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-our-ports-need-sustainability-scorecard-4254361</guid>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The many worlds of Ghulam Murshid]]></title>
@@ -58,7 +58,13 @@
             <link>https://www.thedailystar.net/slow-reads/focus/news/the-many-worlds-ghulam-murshid-4254706</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-many-worlds-ghulam-murshid-4254706</guid>
             <dc:creator><![CDATA[Amiya P. Sen]]></dc:creator>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Literary Curtains / Patriarchy inversed: Reimagining Rokeya’s Ladyland in 2026]]></title>
+            <link>https://www.thedailystar.net/culture/books-literature/news/patriarchy-inversed-reimagining-rokeyas-ladyland-2026-4254866</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/books-literature/news/patriarchy-inversed-reimagining-rokeyas-ladyland-2026-4254866</guid>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Opinion  / El Niño and its effects on Bangladesh’s agriculture]]></title>
@@ -66,14 +72,14 @@
             <link>https://www.thedailystar.net/business/news/el-nino-and-its-effects-bangladeshs-agriculture-4254586</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/el-nino-and-its-effects-bangladeshs-agriculture-4254586</guid>
             <dc:creator><![CDATA[M Jamal Uddin]]></dc:creator>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Let there be no impunity for sexual harassment]]></title>
             <description><![CDATA[Harassment allegations made against the former superintendent of the government’s Child Development Centre for girls is concerning.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/let-there-be-no-impunity-sexual-harassment-4254356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-there-be-no-impunity-sexual-harassment-4254356</guid>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The case for recognising women’s matrimonial property rights]]></title>
@@ -81,7 +87,76 @@
             <link>https://www.thedailystar.net/opinion/views/news/the-case-recognising-womens-matrimonial-property-rights-4254371</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-case-recognising-womens-matrimonial-property-rights-4254371</guid>
             <dc:creator><![CDATA[Jeba Mobashwira]]></dc:creator>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside a Bangladeshi woman's ordeal in China]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/inside-bangladeshi-womans-ordeal-china-4254646</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/inside-bangladeshi-womans-ordeal-china-4254646</guid>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan's army chief to visit Iran with war mediation stalled]]></title>
+            <link>https://www.thedailystar.net/news/world/news/pakistans-army-chief-visit-iran-war-mediation-stalled-4254886</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/pakistans-army-chief-visit-iran-war-mediation-stalled-4254886</guid>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Bangladesh Bank governor Rouf gets bail in case over alleged $185m loan pressure]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/corruption/news/ex-bangladesh-bank-governor-rouf-gets-bail-case-over-alleged-185m-loan-pressure-4254901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/corruption/news/ex-bangladesh-bank-governor-rouf-gets-bail-case-over-alleged-185m-loan-pressure-4254901</guid>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘2024 was a rehearsal for the final battle’: Jamaat ameer]]></title>
+            <link>https://www.thedailystar.net/news/politics/news/2024-was-rehearsal-the-final-battle-jamaat-ameer-4254791</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/2024-was-rehearsal-the-final-battle-jamaat-ameer-4254791</guid>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fu-wang Foods lays off factory for six months amid gas crisis]]></title>
+            <link>https://www.thedailystar.net/business/news/fu-wang-foods-lays-factory-six-months-amid-gas-crisis-4254841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/fu-wang-foods-lays-factory-six-months-amid-gas-crisis-4254841</guid>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social Issues / Why we owe street animals a better solution than culling]]></title>
+            <link>https://www.thedailystar.net/life-living/news/why-we-owe-street-animals-better-solution-culling-4254766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/why-we-owe-street-animals-better-solution-culling-4254766</guid>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3 more die with measles-like symptoms; combined toll reaches 933]]></title>
+            <description><![CDATA[DGHS reports 1,097 new suspected measles and 131 new confirmed cases in 24 hours]]></description>
+            <link>https://www.thedailystar.net/news/healthcare/disease/news/3-more-die-measles-symptoms-combined-toll-reaches-933-4254876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/disease/news/3-more-die-measles-symptoms-combined-toll-reaches-933-4254876</guid>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wartime election would ‘destroy’ Ukraine, Zelenskiy says]]></title>
+            <description><![CDATA[Poll shows 57% of Ukrainians favour holding elections only after the fighting ends]]></description>
+            <link>https://www.thedailystar.net/news/world/news/wartime-election-would-destroy-ukraine-zelenskiy-says-4254891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/wartime-election-would-destroy-ukraine-zelenskiy-says-4254891</guid>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ilias Ali disappearance: ICT sends air force officer to jail]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/ilias-ali-disappearance-ict-sends-air-force-officer-jail-4254736</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/ilias-ali-disappearance-ict-sends-air-force-officer-jail-4254736</guid>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man City agree £86m deal for Lille star Bouaddi]]></title>
+            <description><![CDATA[Manchester City have agreed to sign Morocco midfielder Ayyoub Bouaddi from Lille in a deal worth £86 million ($117 million), according to reports on Sunday.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/man-city-agree-deal-lille-star-bouaddi-4254896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/man-city-agree-deal-lille-star-bouaddi-4254896</guid>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ACC seeks wealth statements from Shakil Ahmed, Farzana Rupa]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/acc-seeks-wealth-statements-shakil-ahmed-farzana-rupa-4254846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/acc-seeks-wealth-statements-shakil-ahmed-farzana-rupa-4254846</guid>
+            <pubDate>Sun, 23 Aug 2026 13:36:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New ACC commission’s first case targets alleged Tk 2cr Padma Bank fraud]]></title>
@@ -90,40 +165,9 @@
             <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ilias Ali disappearance: ICT sends air force officer to jail]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/ilias-ali-disappearance-ict-sends-air-force-officer-jail-4254736</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/ilias-ali-disappearance-ict-sends-air-force-officer-jail-4254736</guid>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dengue kills 5 more, 839 hospitalised in 24 hours]]></title>
             <link>https://www.thedailystar.net/news/healthcare/disease/news/dengue-kills-5-more-839-hospitalised-24-hours-4254836</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/disease/news/dengue-kills-5-more-839-hospitalised-24-hours-4254836</guid>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside a Bangladeshi woman's ordeal in China]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/inside-bangladeshi-womans-ordeal-china-4254646</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/inside-bangladeshi-womans-ordeal-china-4254646</guid>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ACC seeks wealth statements from Shakil Ahmed, Farzana Rupa]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/acc-seeks-wealth-statements-shakil-ahmed-farzana-rupa-4254846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/acc-seeks-wealth-statements-shakil-ahmed-farzana-rupa-4254846</guid>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘2024 was a rehearsal for the final battle’: Jamaat ameer]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/2024-was-rehearsal-the-final-battle-jamaat-ameer-4254791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/2024-was-rehearsal-the-final-battle-jamaat-ameer-4254791</guid>
-            <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fu-wang Foods lays off factory for six months amid gas crisis]]></title>
-            <description><![CDATA[This is the first time that any listed firm has announced a lay-off amid the recent gas crisis]]></description>
-            <link>https://www.thedailystar.net/business/news/fu-wang-foods-lays-factory-six-months-amid-gas-crisis-4254841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/fu-wang-foods-lays-factory-six-months-amid-gas-crisis-4254841</guid>
             <pubDate>Sun, 23 Aug 2026 12:52:07 GMT</pubDate>
         </item>
         <item>
@@ -1485,6 +1529,12 @@
             <title><![CDATA[Dave Bautista cast as Kratos in Amazon’s God of War series]]></title>
             <link>https://www.thedailystar.net/news/technology/news/dave-bautista-cast-kratos-amazons-god-war-series-4253411</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/dave-bautista-cast-kratos-amazons-god-war-series-4253411</guid>
+            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GOLDEN MOMENT FEST / Afternoon of friendship and new beginnings]]></title>
+            <link>https://www.thedailystar.net/ds/my-dhaka/news/afternoon-friendship-and-new-beginnings-4253126</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/ds/my-dhaka/news/afternoon-friendship-and-new-beginnings-4253126</guid>
             <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3128,58 +3178,6 @@
             <link>https://www.thedailystar.net/news/governance/news/psc-chairman-mobasser-monem-set-resign-health-grounds-4250576</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/psc-chairman-mobasser-monem-set-resign-health-grounds-4250576</guid>
             <pubDate>Tue, 18 Aug 2026 08:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two killed in truck-pickup collision in Sirajganj; locals block road]]></title>
-            <description><![CDATA[Bogura-Nagarbari highway blocked for two hours]]></description>
-            <link>https://www.thedailystar.net/news/accidents-and-fires/news/two-killed-truck-pickup-collision-sirajganj-locals-block-road-4250546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/two-killed-truck-pickup-collision-sirajganj-locals-block-road-4250546</guid>
-            <pubDate>Tue, 18 Aug 2026 08:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / Powering economic stability]]></title>
-            <link>https://www.thedailystar.net/business/news/powering-economic-stability-4250506</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/powering-economic-stability-4250506</guid>
-            <pubDate>Tue, 18 Aug 2026 07:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The old way of fighting dengue isn't working. We need a smarter strategy]]></title>
-            <description><![CDATA[In Bangladesh’s public health sector, what was once a seasonal concern confined largely to Dhaka has mutated into a year-round, nationwide crisis.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-old-way-fighting-dengue-isnt-working-we-need-smarter-strategy-4250176</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-old-way-fighting-dengue-isnt-working-we-need-smarter-strategy-4250176</guid>
-            <dc:creator><![CDATA[Sayem Mohammad]]></dc:creator>
-            <pubDate>Tue, 18 Aug 2026 07:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New ACC chairman, two commissioners to assume office today]]></title>
-            <description><![CDATA[Commission resumes work after 166-day vacancy, faces backlog of complaints, inquiries and investigations]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/new-acc-chairman-two-commissioners-assume-office-today-4250481</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/new-acc-chairman-two-commissioners-assume-office-today-4250481</guid>
-            <pubDate>Tue, 18 Aug 2026 07:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As Dharla erodes, riverbank families fear losing everything]]></title>
-            <link>https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/dharla-erodes-riverbank-families-fear-losing-everything-4250521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/dharla-erodes-riverbank-families-fear-losing-everything-4250521</guid>
-            <pubDate>Tue, 18 Aug 2026 07:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liverpool's new-look defence will take time to gel, says Van Dijk]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/liverpools-new-look-defence-will-take-time-gel-says-van-dijk-4250491</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/liverpools-new-look-defence-will-take-time-gel-says-van-dijk-4250491</guid>
-            <pubDate>Tue, 18 Aug 2026 06:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The elderly deserve a chance to remain productive]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/the-elderly-deserve-chance-remain-productive-4250166</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-elderly-deserve-chance-remain-productive-4250166</guid>
-            <pubDate>Tue, 18 Aug 2026 06:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two dead in rare school shooting in Philippines]]></title>
-            <link>https://www.thedailystar.net/news/world/news/two-dead-rare-school-shooting-philippines-4250486</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/two-dead-rare-school-shooting-philippines-4250486</guid>
-            <pubDate>Tue, 18 Aug 2026 06:53:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
