@@ -4,15 +4,109 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 05:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 07:09:45 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.08.24)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260824-4255441</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260824-4255441</guid>
-            <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Presenter Samia Afreen reveals second cancer diagnosis]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/presenter-samia-afreen-reveals-second-cancer-diagnosis-4255506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/presenter-samia-afreen-reveals-second-cancer-diagnosis-4255506</guid>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cummins eyes ODI return ahead of ‘big’ South Africa Test series]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/cummins-eyes-odi-return-ahead-big-south-africa-test-series-4255476</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/cummins-eyes-odi-return-ahead-big-south-africa-test-series-4255476</guid>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How AI is changing the pharmaceuticals landscape]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/how-ai-changing-the-pharmaceuticals-landscape-4255066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-ai-changing-the-pharmaceuticals-landscape-4255066</guid>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Chittagong never became a maritime city]]></title>
+            <description><![CDATA[Why did Chittagong, despite its vast trading reach and strategic location, never become Bengal’s maritime city proper?]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/why-chittagong-never-became-maritime-city-4254986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/why-chittagong-never-became-maritime-city-4254986</guid>
+            <dc:creator><![CDATA[Rila Mukherjee]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should Bangladesh join the Mecca Pact?]]></title>
+            <description><![CDATA[By Kollol Kibria]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</guid>
+            <dc:creator><![CDATA[Kollol Kibria]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extremism grows when faith, knowledge, and humanity fall out of balance]]></title>
+            <description><![CDATA[In Bangladesh, whenever militancy is discussed, attention usually turns to the details of specific incidents: where an attack occurred, who was arrested, which organisation was involved, or how many young people were drawn into extremist networks.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/extremism-grows-when-faith-knowledge-and-humanity-fall-out-balance-4255106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/extremism-grows-when-faith-knowledge-and-humanity-fall-out-balance-4255106</guid>
+            <dc:creator><![CDATA[AKM Ahsan Ullah]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rohingya settlement: A ‘town’ we still call a camp]]></title>
+            <description><![CDATA[By Kazi Maruful Islam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/rohingya-settlement-town-we-still-call-camp-4255056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rohingya-settlement-town-we-still-call-camp-4255056</guid>
+            <dc:creator><![CDATA[Kazi Maruful Islam]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fresh flooding hits 22 villages as Khowai embankment collapses again amid delayed repairs]]></title>
+            <link>https://www.thedailystar.net/news/environment/natural-disaster/news/fresh-flooding-hits-22-villages-khowai-embankment-collapses-again-amid-delayed-repairs-4255536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/natural-disaster/news/fresh-flooding-hits-22-villages-khowai-embankment-collapses-again-amid-delayed-repairs-4255536</guid>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HRW calls for end to indefinite pretrial detention of political opponents in Bangladesh]]></title>
+            <link>https://www.thedailystar.net/news/news/hrw-calls-end-indefinite-pretrial-detention-political-opponents-bangladesh-4255481</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/hrw-calls-end-indefinite-pretrial-detention-political-opponents-bangladesh-4255481</guid>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mackay pitch set for 'very good' rating despite two-day Test]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/mackay-pitch-set-very-good-rating-despite-two-day-test-4255551</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/mackay-pitch-set-very-good-rating-despite-two-day-test-4255551</guid>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt plans comprehensive road safety law by Dec 2027]]></title>
+            <description><![CDATA[Rabiul says law will be part of a broader effort to cut road deaths, with better driver training, vehicle scrapping and faster emergency response]]></description>
+            <link>https://www.thedailystar.net/news/transport/news/govt-plans-comprehensive-road-safety-law-dec-2027-4255541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/govt-plans-comprehensive-road-safety-law-dec-2027-4255541</guid>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shoriful and the pace attack that changed the conversation]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/shoriful-and-the-pace-attack-changed-the-conversation-4255511</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/shoriful-and-the-pace-attack-changed-the-conversation-4255511</guid>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the US seeing a turning point in obesity rates?]]></title>
+            <description><![CDATA[Obesity rates climbed in the US for years, but now there are signs this could be changing. Use of weight-loss drugs such as Ozempic and Wegovy has increased rapidly — are they helping?]]></description>
+            <link>https://www.thedailystar.net/news/world/news/the-us-seeing-turning-point-obesity-rates-4255531</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/the-us-seeing-turning-point-obesity-rates-4255531</guid>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maritime ports asked to keep cautionary signal 3 hoisted]]></title>
+            <link>https://www.thedailystar.net/news/environment/weather/news/maritime-ports-asked-keep-cautionary-signal-3-hoisted-4255521</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/weather/news/maritime-ports-asked-keep-cautionary-signal-3-hoisted-4255521</guid>
+            <pubDate>Mon, 24 Aug 2026 07:09:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Artcell evolves]]></title>
@@ -24,18 +118,6 @@
             <title><![CDATA[UEFA chief Ceferin rules out bid to replace Infantino as FIFA president]]></title>
             <link>https://www.thedailystar.net/sports/football/news/uefa-chief-ceferin-rules-out-bid-replace-infantino-fifa-president-4255466</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/uefa-chief-ceferin-rules-out-bid-replace-infantino-fifa-president-4255466</guid>
-            <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sugar prices surge amid gas crisis,  India’s return to imports]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/sugar-prices-surge-amid-gas-crisis-indias-return-imports-4255146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/sugar-prices-surge-amid-gas-crisis-indias-return-imports-4255146</guid>
-            <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rohingya settlement: A ‘town’ we still call a camp]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/rohingya-settlement-town-we-still-call-camp-4255056</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rohingya-settlement-town-we-still-call-camp-4255056</guid>
             <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
         </item>
         <item>
@@ -53,22 +135,6 @@
             <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Chittagong never became a maritime city]]></title>
-            <description><![CDATA[Why did Chittagong, despite its vast trading reach and strategic location, never become Bengal’s maritime city proper?]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/why-chittagong-never-became-maritime-city-4254986</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/why-chittagong-never-became-maritime-city-4254986</guid>
-            <dc:creator><![CDATA[Rila Mukherjee]]></dc:creator>
-            <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should Bangladesh join the Mecca Pact?]]></title>
-            <description><![CDATA[By Kollol Kibria]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</guid>
-            <dc:creator><![CDATA[Kollol Kibria]]></dc:creator>
-            <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Narsingdi’s textile factories gasp for gas as fabric rots]]></title>
             <link>https://www.thedailystar.net/business/economy/news/narsingdis-textile-factories-gasp-gas-fabric-rots-4255156</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/narsingdis-textile-factories-gasp-gas-fabric-rots-4255156</guid>
@@ -78,37 +144,6 @@
             <title><![CDATA[Jubo League leader hacked to death in Kishoreganj]]></title>
             <link>https://www.thedailystar.net/news/crime-justice/news/jubo-league-leader-hacked-death-kishoreganj-4255496</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/jubo-league-leader-hacked-death-kishoreganj-4255496</guid>
-            <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Star Interview / 6 months too short to ease public woes: Khosru]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/6-months-too-short-ease-public-woes-khosru-4255391</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/6-months-too-short-ease-public-woes-khosru-4255391</guid>
-            <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CMP grapples with manpower crisis]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/cmp-grapples-manpower-crisis-4255216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/cmp-grapples-manpower-crisis-4255216</guid>
-            <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fake online loans lead borrowers into costly traps]]></title>
-            <description><![CDATA[Scammers reach people in many ways, including phone calls, text messages and social media advertisements.]]></description>
-            <link>https://www.thedailystar.net/business/economy/news/fake-online-loans-lead-borrowers-costly-traps-4255161</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/fake-online-loans-lead-borrowers-costly-traps-4255161</guid>
-            <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trapped in the dark]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/trapped-the-dark-4255381</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/trapped-the-dark-4255381</guid>
-            <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HRW calls for end to indefinite pretrial detention of political opponents in Bangladesh]]></title>
-            <link>https://www.thedailystar.net/news/news/hrw-calls-end-indefinite-pretrial-detention-political-opponents-bangladesh-4255481</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/hrw-calls-end-indefinite-pretrial-detention-political-opponents-bangladesh-4255481</guid>
             <pubDate>Mon, 24 Aug 2026 05:43:17 GMT</pubDate>
         </item>
         <item>
@@ -154,12 +189,6 @@
             <title><![CDATA[Humaiun Kobir designated State Minister for Foreign Affairs-1, Shama Obaed State Minister-2]]></title>
             <link>https://www.thedailystar.net/news/news/humaiun-kobir-designated-state-minister-foreign-affairs-1-shama-obaed-state-minister-2-4255021</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/news/humaiun-kobir-designated-state-minister-foreign-affairs-1-shama-obaed-state-minister-2-4255021</guid>
-            <pubDate>Mon, 24 Aug 2026 03:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hackers claim 6 million Bangladeshi CVs for sale on dark web]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/hackers-claim-6-million-bangladeshi-cvs-sale-dark-web-4254996</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/hackers-claim-6-million-bangladeshi-cvs-sale-dark-web-4254996</guid>
             <pubDate>Mon, 24 Aug 2026 03:09:28 GMT</pubDate>
         </item>
         <item>
@@ -236,6 +265,37 @@
             <link>https://www.thedailystar.net/sports/football/news/torres-double-rescues-point-psg-rennes-ligue-1-opener-4255436</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/torres-double-rescues-point-psg-rennes-ligue-1-opener-4255436</guid>
             <pubDate>Mon, 24 Aug 2026 01:44:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sugar prices surge amid gas crisis,  India’s return to imports]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/sugar-prices-surge-amid-gas-crisis-indias-return-imports-4255146</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/sugar-prices-surge-amid-gas-crisis-indias-return-imports-4255146</guid>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Star Interview / 6 months too short to ease public woes: Khosru]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/6-months-too-short-ease-public-woes-khosru-4255391</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/6-months-too-short-ease-public-woes-khosru-4255391</guid>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CMP grapples with manpower crisis]]></title>
+            <description><![CDATA[The Chattogram Metropolitan Police (CMP) has been grappling with a prolonged manpower shortage and inadequate logistical support, putting increasing pressure on law enforcement activities in the port city.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/cmp-grapples-manpower-crisis-4255216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/cmp-grapples-manpower-crisis-4255216</guid>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fake online loans lead borrowers into costly traps]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/fake-online-loans-lead-borrowers-costly-traps-4255161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/fake-online-loans-lead-borrowers-costly-traps-4255161</guid>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trapped in the dark]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/trapped-the-dark-4255381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/trapped-the-dark-4255381</guid>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gvardiol’s late strike gives Maresca winning start at Man City]]></title>
@@ -385,13 +445,6 @@
             <description><![CDATA[Harassment allegations made against the former superintendent of the government’s Child Development Centre for girls is concerning.]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/let-there-be-no-impunity-sexual-harassment-4254356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/let-there-be-no-impunity-sexual-harassment-4254356</guid>
-            <pubDate>Sun, 23 Aug 2026 14:29:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside a Bangladeshi woman's ordeal in China]]></title>
-            <description><![CDATA[A blow-by-blow account of a 19-year-old’s alleged journey from domestic work to drug dependency, forced marriage and trafficking to China]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/inside-bangladeshi-womans-ordeal-china-4254646</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/inside-bangladeshi-womans-ordeal-china-4254646</guid>
             <pubDate>Sun, 23 Aug 2026 14:29:05 GMT</pubDate>
         </item>
         <item>
@@ -768,6 +821,18 @@
             <link>https://www.thedailystar.net/sports/cricket/news/shoriful-keeps-tigers-the-hunt-4254156</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/shoriful-keeps-tigers-the-hunt-4254156</guid>
             <pubDate>Sun, 23 Aug 2026 01:47:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hackers claim 6 million Bangladeshi CVs for sale on dark web]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/hackers-claim-6-million-bangladeshi-cvs-sale-dark-web-4254996</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/hackers-claim-6-million-bangladeshi-cvs-sale-dark-web-4254996</guid>
+            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside a Bangladeshi woman's ordeal in China]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/inside-bangladeshi-womans-ordeal-china-4254646</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/inside-bangladeshi-womans-ordeal-china-4254646</guid>
+            <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wartime election would ‘destroy’ Ukraine, Zelenskiy says]]></title>
@@ -3120,67 +3185,6 @@
             <link>https://www.thedailystar.net/news/accidents-and-fires/news/9-bangladeshis-killed-kolkata-hotel-fire-4251361</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/9-bangladeshis-killed-kolkata-hotel-fire-4251361</guid>
             <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SATIRE / The National Human Rights Commission and other decorative objects]]></title>
-            <link>https://www.thedailystar.net/opinion/views/the-sound-and-the-fury/news/the-national-human-rights-commission-and-other-decorative-objects-4251041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-sound-and-the-fury/news/the-national-human-rights-commission-and-other-decorative-objects-4251041</guid>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2028.08.19)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20280819-4251321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20280819-4251321</guid>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Economy shows fragile gains]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/economy-shows-fragile-gains-4251186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/economy-shows-fragile-gains-4251186</guid>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Covid-era cargo flights / Biman failed to collect Tk 886cr in revenue]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/biman-failed-collect-tk-886cr-revenue-4251266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/biman-failed-collect-tk-886cr-revenue-4251266</guid>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 months of BNP govt: Health Ministry / Struggling with measles, let alone much else]]></title>
-            <description><![CDATA[The health ministry spent much of its first 180 days grappling with a prolonged measles outbreak, leaving several of its major reform initiatives at an early stage and raising questions about its capacity to fulfil ambitious healthcare promises.]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/struggling-measles-let-alone-much-else-4251261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/struggling-measles-let-alone-much-else-4251261</guid>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Telecoms turn to AI to save energy, other costs]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/telecoms-turn-ai-save-energy-other-costs-4251156</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/telecoms-turn-ai-save-energy-other-costs-4251156</guid>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What inflation data actually tells us]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/what-inflation-data-actually-tells-us-4251181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/what-inflation-data-actually-tells-us-4251181</guid>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prisons bursting at twice their capacities]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/prisons-bursting-twice-their-capacities-4251271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/prisons-bursting-twice-their-capacities-4251271</guid>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Renshaw call-up signals Australia’s desperation]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/renshaw-call-signals-australias-desperation-4250926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/renshaw-call-signals-australias-desperation-4250926</guid>
-            <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why power corrupts, and how to keep it in check]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/why-power-corrupts-and-how-keep-it-check-4250656</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-power-corrupts-and-how-keep-it-check-4250656</guid>
-            <pubDate>Tue, 18 Aug 2026 18:47:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
