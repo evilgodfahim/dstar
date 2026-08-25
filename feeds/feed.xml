@@ -4,29 +4,130 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 07:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 08:50:39 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[How should political parties act in power? Mahfuz Anam shares his views]]></title>
             <description><![CDATA[.]]></description>
             <link>https://www.thedailystar.net/star-multimedia/news/how-should-political-parties-act-power-mahfuz-anam-shares-his-views-4256321</link>
             <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/how-should-political-parties-act-power-mahfuz-anam-shares-his-views-4256321</guid>
-            <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sundarbans climate project to end two years early: Why?]]></title>
             <description><![CDATA[.]]></description>
             <link>https://www.thedailystar.net/star-multimedia/news/sundarbans-climate-project-end-two-years-early-why-4256326</link>
             <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/sundarbans-climate-project-end-two-years-early-why-4256326</guid>
-            <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kit Harington to play Gilderoy Lockhart in Harry Potter series]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/kit-harington-play-gilderoy-lockhart-harry-potter-series-4256391</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/kit-harington-play-gilderoy-lockhart-harry-potter-series-4256391</guid>
-            <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roger Federer eyes Arthur Ashe return]]></title>
+            <link>https://www.thedailystar.net/sports/more-sports/tennis/news/roger-federer-eyes-arthur-ashe-return-4256331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/tennis/news/roger-federer-eyes-arthur-ashe-return-4256331</guid>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six months into Iran war, almost half of global oil flows from war zones]]></title>
+            <link>https://www.thedailystar.net/business/news/six-months-iran-war-almost-half-global-oil-flows-war-zones-4256346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/six-months-iran-war-almost-half-global-oil-flows-war-zones-4256346</guid>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Men must do more to curb violence against women]]></title>
+            <link>https://www.thedailystar.net/opinion/news/men-must-do-more-curb-violence-against-women-4255941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/men-must-do-more-curb-violence-against-women-4255941</guid>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Human rights cannot expire in six months]]></title>
+            <description><![CDATA[A law meant to rebuild Bangladesh’s National Human Rights Commission should widen access to accountability, not make it depend on how quickly a victim reaches the commission.
+
+Human rights, accountability, access to justice, Bangladesh]]></description>
+            <link>https://www.thedailystar.net/opinion/news/human-rights-cannot-expire-six-months-4255936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/human-rights-cannot-expire-six-months-4255936</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rohingya genocide: Will the ICJ verdict bring justice?]]></title>
+            <description><![CDATA[By Nasir Uddin]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/rohingya-genocide-will-the-icj-verdict-bring-justice-4255851</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/rohingya-genocide-will-the-icj-verdict-bring-justice-4255851</guid>
+            <dc:creator><![CDATA[Nasir Uddin]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Rohingya cannot be left waiting for history to change]]></title>
+            <description><![CDATA[Nine years ago, Bangladesh opened its doors to the largest influx of Rohingya refugees amid one of the gravest episodes of ethnic persecution in recent history.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</guid>
+            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We need energy security, not just a fix for the current crisis]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adviser Zahed says Humaiun's dual citizenship remarks were 'casual']]></title>
+            <link>https://www.thedailystar.net/news/news/adviser-zahed-says-humaiuns-dual-citizenship-remarks-were-casual-4256381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/adviser-zahed-says-humaiuns-dual-citizenship-remarks-were-casual-4256381</guid>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strong winds of up to 60 kmph may hit six regions: BMD]]></title>
+            <link>https://www.thedailystar.net/news/environment/weather/news/strong-winds-60-kmph-may-hit-six-regions-bmd-4256401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/weather/news/strong-winds-60-kmph-may-hit-six-regions-bmd-4256401</guid>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[15 countries, EU urge sustained support for Rohingya refugees]]></title>
+            <link>https://www.thedailystar.net/rohingya-influx/news/15-countries-eu-urge-sustained-support-rohingya-refugees-4256411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/rohingya-influx/news/15-countries-eu-urge-sustained-support-rohingya-refugees-4256411</guid>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No profit haircut for Sammilito Islami Bank depositors: BB governor]]></title>
+            <link>https://www.thedailystar.net/business/news/no-profit-haircut-sammilito-islami-bank-depositors-bb-governor-4256336</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/no-profit-haircut-sammilito-islami-bank-depositors-bb-governor-4256336</guid>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HC defers verdict in Asiya rape and murder case to August 31]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/hc-defers-verdict-asiya-rape-and-murder-case-august-31-4256341</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/hc-defers-verdict-asiya-rape-and-murder-case-august-31-4256341</guid>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[42 years on, a Jamalpur sub-jail lies abandoned]]></title>
+            <link>https://www.thedailystar.net/news/news/42-years-jamalpur-sub-jail-lies-abandoned-4256356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/42-years-jamalpur-sub-jail-lies-abandoned-4256356</guid>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AB de Villiers backs Bangladesh to 'put up a good fight' in South Africa]]></title>
+            <description><![CDATA[South Africa legend AB de Villiers believes Bangladesh can put up a strong fight on their upcoming Test tour of South Africa despite the demanding conditions they will encounter.]]></description>
+            <link>https://www.thedailystar.net/sports/cricket/news/ab-de-villiers-backs-bangladesh-put-good-fight-south-africa-4256406</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/ab-de-villiers-backs-bangladesh-put-good-fight-south-africa-4256406</guid>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Councillor Ekramul killing: Bodi, 3 others shown arrested, sent to jail]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/councillor-ekramul-killing-bodi-3-others-shown-arrested-sent-jail-4256361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/councillor-ekramul-killing-bodi-3-others-shown-arrested-sent-jail-4256361</guid>
+            <pubDate>Tue, 25 Aug 2026 08:50:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dybala sets up three for Malen as Roma go top of Series A]]></title>
@@ -44,70 +145,6 @@
             <title><![CDATA[Clear the cataract surgery backlog]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/clear-the-cataract-surgery-backlog-4255921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/clear-the-cataract-surgery-backlog-4255921</guid>
-            <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Human rights cannot expire in six months]]></title>
-            <description><![CDATA[A law meant to rebuild Bangladesh’s National Human Rights Commission should widen access to accountability, not make it depend on how quickly a victim reaches the commission.
-
-Human rights, accountability, access to justice, Bangladesh]]></description>
-            <link>https://www.thedailystar.net/opinion/news/human-rights-cannot-expire-six-months-4255936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/human-rights-cannot-expire-six-months-4255936</guid>
-            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Rohingya cannot be left waiting for history to change]]></title>
-            <description><![CDATA[Nine years ago, Bangladesh opened its doors to the largest influx of Rohingya refugees amid one of the gravest episodes of ethnic persecution in recent history.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-rohingya-cannot-be-left-waiting-history-change-4255931</guid>
-            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rohingya genocide: Will the ICJ verdict bring justice?]]></title>
-            <description><![CDATA[By Nasir Uddin]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/rohingya-genocide-will-the-icj-verdict-bring-justice-4255851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/rohingya-genocide-will-the-icj-verdict-bring-justice-4255851</guid>
-            <dc:creator><![CDATA[Nasir Uddin]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need energy security, not just a fix for the current crisis]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/we-need-energy-security-not-just-fix-the-current-crisis-4255926</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[42 years on, a Jamalpur sub-jail lies abandoned]]></title>
-            <link>https://www.thedailystar.net/news/news/42-years-jamalpur-sub-jail-lies-abandoned-4256356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/42-years-jamalpur-sub-jail-lies-abandoned-4256356</guid>
-            <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Councillor Ekramul killing: Bodi, 3 others shown arrested, sent to jail]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/councillor-ekramul-killing-bodi-3-others-shown-arrested-sent-jail-4256361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/councillor-ekramul-killing-bodi-3-others-shown-arrested-sent-jail-4256361</guid>
-            <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No profit haircut for Sammilito Islami Bank depositors: BB governor]]></title>
-            <link>https://www.thedailystar.net/business/news/no-profit-haircut-sammilito-islami-bank-depositors-bb-governor-4256336</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/no-profit-haircut-sammilito-islami-bank-depositors-bb-governor-4256336</guid>
-            <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adviser Zahed says Humaiun's dual citizenship remarks were 'casual']]></title>
-            <link>https://www.thedailystar.net/news/news/adviser-zahed-says-humaiuns-dual-citizenship-remarks-were-casual-4256381</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/adviser-zahed-says-humaiuns-dual-citizenship-remarks-were-casual-4256381</guid>
-            <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HC defers verdict in Asiya rape and murder case to August 31]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/hc-defers-verdict-asiya-rape-and-murder-case-august-31-4256341</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/hc-defers-verdict-asiya-rape-and-murder-case-august-31-4256341</guid>
             <pubDate>Tue, 25 Aug 2026 07:51:24 GMT</pubDate>
         </item>
         <item>
@@ -136,12 +173,6 @@ Human rights, accountability, access to justice, Bangladesh]]></description>
             <pubDate>Tue, 25 Aug 2026 06:57:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Six months into Iran war, almost half of global oil flows from war zones]]></title>
-            <link>https://www.thedailystar.net/business/news/six-months-iran-war-almost-half-global-oil-flows-war-zones-4256346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/six-months-iran-war-almost-half-global-oil-flows-war-zones-4256346</guid>
-            <pubDate>Tue, 25 Aug 2026 06:57:29 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Don't repeat old mistakes in labour migration to Malaysia]]></title>
             <description><![CDATA[Dhaka, Kuala Lumpur must ensure a transparent, competitive recruitment process]]></description>
             <link>https://www.thedailystar.net/opinion/editorial/news/dont-repeat-old-mistakes-labour-migration-malaysia-4255781</link>
@@ -164,14 +195,6 @@ Human rights, accountability, access to justice, Bangladesh]]></description>
             <title><![CDATA[Zen and chaos a pocket of stillness]]></title>
             <link>https://www.thedailystar.net/ds/my-dhaka/news/zen-and-chaos-pocket-stillness-4255996</link>
             <guid isPermaLink="true">https://www.thedailystar.net/ds/my-dhaka/news/zen-and-chaos-pocket-stillness-4255996</guid>
-            <pubDate>Tue, 25 Aug 2026 05:36:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should Bangladesh join the Mecca Pact?]]></title>
-            <description><![CDATA[Joining the Makkah Pact threatens Bangladesh's diplomatic neutrality and risks entangling the nation in foreign military conflicts.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</guid>
-            <dc:creator><![CDATA[Kollol Kibria]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 05:36:51 GMT</pubDate>
         </item>
         <item>
@@ -322,6 +345,7 @@ Human rights, accountability, access to justice, Bangladesh]]></description>
         </item>
         <item>
             <title><![CDATA[9 years of Rohingya influx: Burden now heavier]]></title>
+            <description><![CDATA[With the 12 lakh-strong Rohingya refugee population growing and international funding shrinking, Bangladesh faces a mounting burden of hosting the persecuted minority from Myanmar.]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/9-years-rohingya-influx-burden-now-heavier-4256171</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/9-years-rohingya-influx-burden-now-heavier-4256171</guid>
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
@@ -814,6 +838,12 @@ Human rights, accountability, access to justice, Bangladesh]]></description>
             <pubDate>Mon, 24 Aug 2026 01:44:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Should Bangladesh join the Mecca Pact?]]></title>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</guid>
+            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Chittagong never became a maritime city]]></title>
             <link>https://www.thedailystar.net/slow-reads/focus/news/why-chittagong-never-became-maritime-city-4254986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/why-chittagong-never-became-maritime-city-4254986</guid>
@@ -834,7 +864,6 @@ Human rights, accountability, access to justice, Bangladesh]]></description>
         </item>
         <item>
             <title><![CDATA[Bangladesh’s September LNG purchase to cost two times the pre-war rates]]></title>
-            <description><![CDATA[The government agreed to pay $24 per MMBtu, which was $10-$12 before February this year]]></description>
             <link>https://www.thedailystar.net/business/news/bangladeshs-sept-lng-purchase-cost-two-times-the-pre-war-rates-4255846</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladeshs-sept-lng-purchase-cost-two-times-the-pre-war-rates-4255846</guid>
             <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
@@ -3153,36 +3182,6 @@ Human rights, accountability, access to justice, Bangladesh]]></description>
             <description><![CDATA[.]]></description>
             <link>https://www.thedailystar.net/star-multimedia/news/lng-supply-excelerate-terminal-halted-gas-crisis-intensifies-4252381</link>
             <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/lng-supply-excelerate-terminal-halted-gas-crisis-intensifies-4252381</guid>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interview / ‘It is like taking away food from mouth’]]></title>
-            <link>https://www.thedailystar.net/sports/more-sports/athletics/news/it-taking-away-food-mouth-4252226</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/athletics/news/it-taking-away-food-mouth-4252226</guid>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.08.20)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260820-4252166</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260820-4252166</guid>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malnutrition fuels measles toll]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/malnutrition-fuels-measles-toll-4252151</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/malnutrition-fuels-measles-toll-4252151</guid>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plastic waste clogs Khulna drains]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/plastic-waste-clogs-khulna-drains-4251961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/plastic-waste-clogs-khulna-drains-4251961</guid>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ball split in two: Robinson, Tongue share match ball after taking five wickets each]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/robinson-tongue-star-pakistan-collapse-england-opener-4252071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/robinson-tongue-star-pakistan-collapse-england-opener-4252071</guid>
             <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
