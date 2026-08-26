@@ -4,33 +4,39 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 01:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 03:11:20 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.08.26)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260826-4257136</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260826-4257136</guid>
-            <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nartanam Dance Academy stages debut production ‘Anweshan’]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/nartanam-dance-academy-stages-debut-production-anweshan-4256946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/nartanam-dance-academy-stages-debut-production-anweshan-4256946</guid>
-            <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Over £150m spent as Baleba further bolsters United midfield]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/over-ps150m-spent-baleba-further-bolsters-united-midfield-4257061</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/over-ps150m-spent-baleba-further-bolsters-united-midfield-4257061</guid>
-            <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
+            <title><![CDATA[Fernandes second Portuguese after Cristiano to win PFA Player of the Year]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/fernandes-second-portuguese-after-cristiano-win-pfa-player-the-year-twice-row-4257071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/fernandes-second-portuguese-after-cristiano-win-pfa-player-the-year-twice-row-4257071</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RMG faces stiffer competition, rising cost: BB]]></title>
             <link>https://www.thedailystar.net/business/economy/news/rmg-faces-stiffer-competition-rising-cost-bb-4256921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/rmg-faces-stiffer-competition-rising-cost-bb-4256921</guid>
-            <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our health system is better resourced now. Why can’t it still deliver?]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What kind of doctors does Bangladesh need?]]></title>
@@ -38,7 +44,7 @@
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/what-kind-doctors-does-bangladesh-need-4256481</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/what-kind-doctors-does-bangladesh-need-4256481</guid>
             <dc:creator><![CDATA[Manzur Morshed]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Chittagong never became a maritime city]]></title>
@@ -46,7 +52,7 @@
             <link>https://www.thedailystar.net/slow-reads/focus/news/why-chittagong-never-became-maritime-city-4254986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/why-chittagong-never-became-maritime-city-4254986</guid>
             <dc:creator><![CDATA[Rila Mukherjee]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Should Bangladesh join the Mecca Pact?]]></title>
@@ -54,12 +60,87 @@
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</guid>
             <dc:creator><![CDATA[Kollol Kibria]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Milad-un-Nabi shaped Muslim cultural life in colonial Bengal]]></title>
             <link>https://www.thedailystar.net/slow-reads/focus/news/how-milad-un-nabi-shaped-muslim-cultural-life-colonial-bengal-4256731</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/how-milad-un-nabi-shaped-muslim-cultural-life-colonial-bengal-4256731</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EC eyes Nov for local govt elections]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/ec-eyes-nov-local-govt-elections-4256991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/ec-eyes-nov-local-govt-elections-4256991</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada unveils counter-tariffs of 15-50% on US goods]]></title>
+            <link>https://www.thedailystar.net/news/world/news/canada-unveils-counter-tariffs-15-50-us-goods-4257156</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/canada-unveils-counter-tariffs-15-50-us-goods-4257156</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social media use on the rise among Australian under-16s after ban: data]]></title>
+            <link>https://www.thedailystar.net/news/world/news/social-media-use-the-rise-among-australian-under-16s-after-ban-data-4257151</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/social-media-use-the-rise-among-australian-under-16s-after-ban-data-4257151</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rohingya return in a quagmire]]></title>
+            <description><![CDATA[Internal conflicts and changing power dynamics in Myanmar, along with escalating geopolitical tensions, are making the prospect of Rohingya repatriation more complicated, analysts say.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/rohingya-return-quagmire-4257081</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/rohingya-return-quagmire-4257081</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘We want to go home’]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/we-want-go-home-4257076</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/we-want-go-home-4257076</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sammilito Islami Bank: Principal withdrawal from Sept 1]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/sammilito-islami-bank-principal-withdrawal-sept-1-4256916</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/sammilito-islami-bank-principal-withdrawal-sept-1-4256916</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Late referral raises dengue death risk]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/late-referral-raises-dengue-death-risk-4257011</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/late-referral-raises-dengue-death-risk-4257011</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Journalists will write, and we will beat them again’: Shariatpur BNP leader]]></title>
+            <description><![CDATA[Three reporters, including The Daily Star’s correspondent, say they were assaulted while covering a rally]]></description>
+            <link>https://www.thedailystar.net/news/crime-justice/news/journalists-will-write-and-we-will-beat-them-again-shariatpur-bnp-leader-4256791</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/journalists-will-write-and-we-will-beat-them-again-shariatpur-bnp-leader-4256791</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt set to buy Chinese fighter jets, helicopters]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/govt-set-buy-chinese-fighter-jets-helicopters-4257086</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-set-buy-chinese-fighter-jets-helicopters-4257086</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El Salvador, Panama sound alarm on El Nino-fueled drought]]></title>
+            <description><![CDATA[Meanwhile, El Salvador declared a state of maximum alert on Tuesday to activate monitoring, surveillance and aid efforts for affected communities.]]></description>
+            <link>https://www.thedailystar.net/news/world/news/el-salvador-panama-sound-alarm-el-nino-fueled-drought-4257146</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/el-salvador-panama-sound-alarm-el-nino-fueled-drought-4257146</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arsenal have chance to 'make a dynasty' under Arteta, says Guimaraes]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/arsenal-have-chance-make-dynasty-under-arteta-says-guimaraes-4257161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/arsenal-have-chance-make-dynasty-under-arteta-says-guimaraes-4257161</guid>
+            <pubDate>Wed, 26 Aug 2026 03:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Over £150m spent as Baleba further bolsters United midfield]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/over-ps150m-spent-baleba-further-bolsters-united-midfield-4257061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/over-ps150m-spent-baleba-further-bolsters-united-midfield-4257061</guid>
             <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
         </item>
         <item>
@@ -99,13 +180,6 @@
             <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘Journalists will write, and we will beat them again’: Shariatpur BNP leader]]></title>
-            <description><![CDATA[Three reporters, including The Daily Star’s correspondent, say they were assaulted while covering a rally]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/journalists-will-write-and-we-will-beat-them-again-shariatpur-bnp-leader-4256791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/journalists-will-write-and-we-will-beat-them-again-shariatpur-bnp-leader-4256791</guid>
-            <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Minister orders crackdown on brokers fuelling irregular migration from Sunamganj]]></title>
             <description><![CDATA[Ariful Haque Choudhury urges awareness campaign, pledges training support]]></description>
             <link>https://www.thedailystar.net/news/news/minister-orders-crackdown-brokers-fuelling-irregular-migration-sunamganj-4257056</link>
@@ -123,12 +197,6 @@
             <description><![CDATA[The former Bangladesh fast-bowling talks about the culture among Bangladesh’s fast bowlers and a possible return to the Tigers in the future, and more]]></description>
             <link>https://www.thedailystar.net/sports/cricket/news/some-big-bash-teams-should-definitely-pick-nahid-rana-4256666</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/some-big-bash-teams-should-definitely-pick-nahid-rana-4256666</guid>
-            <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fernandes second Portuguese after Cristiano to win PFA Player of the Year]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/fernandes-second-portuguese-after-cristiano-win-pfa-player-the-year-twice-row-4257071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/fernandes-second-portuguese-after-cristiano-win-pfa-player-the-year-twice-row-4257071</guid>
             <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
         </item>
         <item>
@@ -3112,75 +3180,6 @@ Human rights, accountability, access to justice, Bangladesh]]></description>
             <link>https://www.thedailystar.net/sports/football/news/fortis-fc-drawn-fc-goa-afc-challenge-league-4252421</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/fortis-fc-drawn-fc-goa-afc-challenge-league-4252421</guid>
             <pubDate>Thu, 20 Aug 2026 13:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Air Astra adds second ATR 72-600 to boost capacity]]></title>
-            <link>https://www.thedailystar.net/business/news/air-astra-adds-second-atr-72-600-boost-capacity-4252506</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/air-astra-adds-second-atr-72-600-boost-capacity-4252506</guid>
-            <pubDate>Thu, 20 Aug 2026 13:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modhumita Cinema Hall to celebrate Dhaka’s 416 years with film festival]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/modhumita-cinema-hall-celebrate-dhakas-416-years-film-festival-4252286</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/modhumita-cinema-hall-celebrate-dhakas-416-years-film-festival-4252286</guid>
-            <pubDate>Thu, 20 Aug 2026 13:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our demographic challenges demand a functioning population council]]></title>
-            <description><![CDATA[The population story of Bangladesh has long been regarded as a major development success. Fertility fell considerably, child survival improved, life expectancy increased, and the country entered a favourable period in which working-age people outnumbered dependants.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/our-demographic-challenges-demand-functioning-population-council-4251901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-demographic-challenges-demand-functioning-population-council-4251901</guid>
-            <dc:creator><![CDATA[Md Nuruzzaman Khan]]></dc:creator>
-            <pubDate>Thu, 20 Aug 2026 13:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gas shortage halts production at Narsingdi textile factories]]></title>
-            <link>https://www.thedailystar.net/business/news/gas-shortage-halts-production-narsingdi-textile-factories-4252481</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/gas-shortage-halts-production-narsingdi-textile-factories-4252481</guid>
-            <pubDate>Thu, 20 Aug 2026 13:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three more die with measles-like symptoms]]></title>
-            <link>https://www.thedailystar.net/news/healthcare/disease/news/three-more-die-measles-symptoms-4252611</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/disease/news/three-more-die-measles-symptoms-4252611</guid>
-            <pubDate>Thu, 20 Aug 2026 13:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘As guardian of the state, hope he’ll uphold democracy’: Shafiqur congratulates Fakhrul]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/guardian-the-state-hope-hell-uphold-democracy-shafiqur-congratulates-fakhrul-4252546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/guardian-the-state-hope-hell-uphold-democracy-shafiqur-congratulates-fakhrul-4252546</guid>
-            <pubDate>Thu, 20 Aug 2026 13:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six MPs skipped presidential vote]]></title>
-            <link>https://www.thedailystar.net/news/politics/election/news/six-mps-skipped-presidential-vote-4252606</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/election/news/six-mps-skipped-presidential-vote-4252606</guid>
-            <pubDate>Thu, 20 Aug 2026 13:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mirza Fakhrul elected president with 255 votes]]></title>
-            <link>https://www.thedailystar.net/news/politics/election/news/mirza-fakhrul-elected-president-255-votes-4252526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/election/news/mirza-fakhrul-elected-president-255-votes-4252526</guid>
-            <pubDate>Thu, 20 Aug 2026 13:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dinajpur Medical College Hospital upgraded to 1,000 beds]]></title>
-            <description><![CDATA[Health Services Division approves 500 additional beds]]></description>
-            <link>https://www.thedailystar.net/news/healthcare/news/dinajpur-medical-college-hospital-upgraded-1000-beds-4252566</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/news/dinajpur-medical-college-hospital-upgraded-1000-beds-4252566</guid>
-            <pubDate>Thu, 20 Aug 2026 13:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Railway proposes extending Mahanagar Express to Cox’s Bazar]]></title>
-            <link>https://www.thedailystar.net/news/transport/news/railway-proposes-extending-mahanagar-express-coxs-bazar-4252551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/railway-proposes-extending-mahanagar-express-coxs-bazar-4252551</guid>
-            <pubDate>Thu, 20 Aug 2026 13:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How China’s ‘worst animated film’ became an unlikely rival to 'The Odyssey', 'Spider-Man']]></title>
-            <link>https://www.thedailystar.net/culture/tv-film/news/how-chinas-worst-animated-film-became-unlikely-rival-the-odyssey-spider-man-4252321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/how-chinas-worst-animated-film-became-unlikely-rival-the-odyssey-spider-man-4252321</guid>
-            <pubDate>Thu, 20 Aug 2026 11:32:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
