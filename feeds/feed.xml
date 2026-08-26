@@ -4,21 +4,120 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 08:51:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 09:49:30 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.08.26)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260826-4257136</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260826-4257136</guid>
-            <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Sadia Ayman, Shofin Ahmed star in short film 'Aro Kichukhon']]></title>
             <link>https://www.thedailystar.net/culture/tv-film/news/sadia-ayman-shofin-ahmed-star-short-film-aro-kichukhon-4257256</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/sadia-ayman-shofin-ahmed-star-short-film-aro-kichukhon-4257256</guid>
-            <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lyon’s Australia future spins into doubt after Bangladesh series]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/lyons-australia-future-spins-doubt-4257266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/lyons-australia-future-spins-doubt-4257266</guid>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Invest Bangladesh live up to the expectations?]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/can-invest-bangladesh-live-the-expectations-4256826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-invest-bangladesh-live-the-expectations-4256826</guid>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should Bangladesh join the Mecca Pact?]]></title>
+            <description><![CDATA[Joining the Makkah Pact threatens Bangladesh's diplomatic neutrality and risks entangling the nation in foreign military conflicts.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</guid>
+            <dc:creator><![CDATA[Kollol Kibria]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 years after Phulbari: Don't repeat the mistake in the name of energy security]]></title>
+            <description><![CDATA[By Kallol Mustafa]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</guid>
+            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our health system is better resourced now. Why can’t it still deliver?]]></title>
+            <description><![CDATA[A hospital may own an X-ray machine, but that does not mean patients can get an X-ray.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</guid>
+            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Milad-un-Nabi shaped Muslim cultural life in colonial Bengal]]></title>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/how-milad-un-nabi-shaped-muslim-cultural-life-colonial-bengal-4256731</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/how-milad-un-nabi-shaped-muslim-cultural-life-colonial-bengal-4256731</guid>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eid-e-Miladunnabi being observed]]></title>
+            <link>https://www.thedailystar.net/news/news/eid-e-miladunnabi-being-observed-4257201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/eid-e-miladunnabi-being-observed-4257201</guid>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Update / At least 15 infants killed in Islamabad hospital fire, local TV reports]]></title>
+            <link>https://www.thedailystar.net/news/world/news/least-15-infants-killed-islamabad-hospital-fire-local-tv-reports-4257221</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/least-15-infants-killed-islamabad-hospital-fire-local-tv-reports-4257221</guid>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US pauses visa appointments worldwide]]></title>
+            <link>https://www.thedailystar.net/news/world/news/trump-administration-issues-pause-visa-appointments-applicants-worldwide-4257241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/trump-administration-issues-pause-visa-appointments-applicants-worldwide-4257241</guid>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 children die with measles-like symptoms, death toll rises to 950]]></title>
+            <link>https://www.thedailystar.net/news/healthcare/disease/news/7-children-die-measles-symptoms-death-toll-rises-950-4257311</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/disease/news/7-children-die-measles-symptoms-death-toll-rises-950-4257311</guid>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bidisha Ershad produced before Dhaka court in fraud case]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/bidisha-ershad-produced-dhaka-court-fraud-case-4257291</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/bidisha-ershad-produced-dhaka-court-fraud-case-4257291</guid>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bhutanese king makes brief stopover in Dhaka, meets president at airport]]></title>
+            <description><![CDATA[President says Bangladesh keen to cooperate with Bhutan on regional transformative initiatives]]></description>
+            <link>https://www.thedailystar.net/news/news/bangladesh-keen-cooperate-bhutan-regional-transformative-initiatives-president-4257211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/bangladesh-keen-cooperate-bhutan-regional-transformative-initiatives-president-4257211</guid>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home minister urges public, media support to improve law and order]]></title>
+            <description><![CDATA[Says law enforcers recovering from weak state, but crime control won't change overnight]]></description>
+            <link>https://www.thedailystar.net/news/governance/news/home-minister-urges-public-media-support-improve-law-and-order-4257301</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/home-minister-urges-public-media-support-improve-law-and-order-4257301</guid>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BGB returns two shotguns, walkie-talkie left behind by BSF]]></title>
+            <link>https://www.thedailystar.net/news/news/bgb-returns-two-shotguns-walkie-talkie-left-behind-bsf-4257281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/bgb-returns-two-shotguns-walkie-talkie-left-behind-bsf-4257281</guid>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nepal flash flood kills eight; damages roads, power projects]]></title>
+            <description><![CDATA[Flooding disrupts 430MW of electricity supply and cuts roads, communications near border]]></description>
+            <link>https://www.thedailystar.net/news/world/south-asia/news/nepal-flash-flood-kills-eight-damages-roads-power-projects-4257296</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/south-asia/news/nepal-flash-flood-kills-eight-damages-roads-power-projects-4257296</guid>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Starc dethrones Bumrah to claim No. 1 Test ranking]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/starc-dethrones-bumrah-claim-no-1-test-ranking-4257316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/starc-dethrones-bumrah-claim-no-1-test-ranking-4257316</guid>
+            <pubDate>Wed, 26 Aug 2026 09:49:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ronaldo fumes, snubs victory celebration after being substituted]]></title>
@@ -27,75 +126,9 @@
             <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can Invest Bangladesh live up to the expectations?]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/can-invest-bangladesh-live-the-expectations-4256826</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-invest-bangladesh-live-the-expectations-4256826</guid>
-            <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should Bangladesh join the Mecca Pact?]]></title>
-            <description><![CDATA[Joining the Makkah Pact threatens Bangladesh's diplomatic neutrality and risks entangling the nation in foreign military conflicts.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/should-bangladesh-join-the-mecca-pact-4255006</guid>
-            <dc:creator><![CDATA[Kollol Kibria]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20 years after Phulbari: Don't repeat the mistake in the name of energy security]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/20-years-after-phulbari-dont-repeat-the-mistake-the-name-energy-security-4256831</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our health system is better resourced now. Why can’t it still deliver?]]></title>
-            <description><![CDATA[A hospital may own an X-ray machine, but that does not mean patients can get an X-ray.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-health-system-better-resourced-now-why-cant-it-still-deliver-4256816</guid>
-            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Milad-un-Nabi shaped Muslim cultural life in colonial Bengal]]></title>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/how-milad-un-nabi-shaped-muslim-cultural-life-colonial-bengal-4256731</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/how-milad-un-nabi-shaped-muslim-cultural-life-colonial-bengal-4256731</guid>
-            <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eid-e-Miladunnabi being observed]]></title>
-            <link>https://www.thedailystar.net/news/news/eid-e-miladunnabi-being-observed-4257201</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/eid-e-miladunnabi-being-observed-4257201</guid>
-            <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bhutanese king makes brief stopover in Dhaka, meets president at airport]]></title>
-            <link>https://www.thedailystar.net/news/news/bangladesh-keen-cooperate-bhutan-regional-transformative-initiatives-president-4257211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/bangladesh-keen-cooperate-bhutan-regional-transformative-initiatives-president-4257211</guid>
-            <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BGB returns two shotguns, walkie-talkie left behind by BSF]]></title>
-            <link>https://www.thedailystar.net/news/news/bgb-returns-two-shotguns-walkie-talkie-left-behind-bsf-4257281</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/bgb-returns-two-shotguns-walkie-talkie-left-behind-bsf-4257281</guid>
-            <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Update / At least 15 infants killed in Islamabad hospital fire, local TV reports]]></title>
-            <link>https://www.thedailystar.net/news/world/news/least-15-infants-killed-islamabad-hospital-fire-local-tv-reports-4257221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/least-15-infants-killed-islamabad-hospital-fire-local-tv-reports-4257221</guid>
-            <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Man arrested after ex-wife, her parents hacked in Meherpur]]></title>
             <link>https://www.thedailystar.net/news/crime-justice/news/man-arrested-after-ex-wife-her-parents-hacked-meherpur-4257271</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/man-arrested-after-ex-wife-her-parents-hacked-meherpur-4257271</guid>
-            <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US pauses visa appointments worldwide]]></title>
-            <link>https://www.thedailystar.net/news/world/news/trump-administration-issues-pause-visa-appointments-applicants-worldwide-4257241</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/trump-administration-issues-pause-visa-appointments-applicants-worldwide-4257241</guid>
             <pubDate>Wed, 26 Aug 2026 08:51:50 GMT</pubDate>
         </item>
         <item>
@@ -145,12 +178,6 @@
             <description><![CDATA[Japanese Asian Games organisers said Wednesday they were holding "regular discussions" with Asian Olympic chiefs after a report claimed they had asked for the ballooning number of participants to be scaled back.]]></description>
             <link>https://www.thedailystar.net/sports/more-sports/news/cruise-ship-cabins-and-containers-asian-games-brace-accommodation-crunch-4257261</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/news/cruise-ship-cabins-and-containers-asian-games-brace-accommodation-crunch-4257261</guid>
-            <pubDate>Wed, 26 Aug 2026 07:53:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lyon’s Australia future spins into doubt after Bangladesh series]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/lyons-australia-future-spins-doubt-4257266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/lyons-australia-future-spins-doubt-4257266</guid>
             <pubDate>Wed, 26 Aug 2026 07:53:44 GMT</pubDate>
         </item>
         <item>
@@ -311,6 +338,12 @@
             <pubDate>Wed, 26 Aug 2026 01:44:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.08.26)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260826-4257136</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260826-4257136</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[RMG faces stiffer competition, rising cost: BB]]></title>
             <link>https://www.thedailystar.net/business/economy/news/rmg-faces-stiffer-competition-rising-cost-bb-4256921</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/rmg-faces-stiffer-competition-rising-cost-bb-4256921</guid>
@@ -343,7 +376,6 @@
         </item>
         <item>
             <title><![CDATA[Govt rehabs not built for women, adolescents]]></title>
-            <description><![CDATA[Bangladesh’s drug rehabilitation system is struggling to meet the needs of women and adolescents, with government centres offering limited capacity even as more women and children seek treatment.]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/govt-rehabs-not-built-women-adolescents-4257106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-rehabs-not-built-women-adolescents-4257106</guid>
             <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
@@ -3151,36 +3183,6 @@ Human rights, accountability, access to justice, Bangladesh]]></description>
             <title><![CDATA[More questions than answers for Europe’s new season]]></title>
             <link>https://www.thedailystar.net/sports/football/news/more-questions-answers-europes-new-season-4253111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/more-questions-answers-europes-new-season-4253111</guid>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.08.21)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260821-4253136</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260821-4253136</guid>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fakhrul draws warmth from across aisle]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/fakhrul-draws-warmth-across-aisle-4253141</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/fakhrul-draws-warmth-across-aisle-4253141</guid>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Producers now responsible for plastic waste management]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/producers-now-responsible-plastic-waste-management-4252936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/producers-now-responsible-plastic-waste-management-4252936</guid>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dave Bautista cast as Kratos in Amazon’s God of War series]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/dave-bautista-cast-kratos-amazons-god-war-series-4253411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/dave-bautista-cast-kratos-amazons-god-war-series-4253411</guid>
-            <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GOLDEN MOMENT FEST / Afternoon of friendship and new beginnings]]></title>
-            <link>https://www.thedailystar.net/ds/my-dhaka/news/afternoon-friendship-and-new-beginnings-4253126</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/ds/my-dhaka/news/afternoon-friendship-and-new-beginnings-4253126</guid>
             <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
