@@ -4,26 +4,132 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 18:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 23:52:20 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.09.05)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260905-4265131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260905-4265131</guid>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘Kali O Kalam’ award ceremony to take place tomorrow]]></title>
             <link>https://www.thedailystar.net/culture/news/kali-o-kalam-award-ceremony-take-place-tomorrow-4264841</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/news/kali-o-kalam-award-ceremony-take-place-tomorrow-4264841</guid>
-            <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chelsea use rugby pads to prepare for Arsenal's set-piece threat]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/rugby-pads-goliaths-and-set-piece-chaos-chelseas-arsenal-test-4264871</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/rugby-pads-goliaths-and-set-piece-chaos-chelseas-arsenal-test-4264871</guid>
-            <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
+            <title><![CDATA[Interim head coach Hesson says Pakistan players used to 'chaos' after shake-up]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/interim-head-coach-hesson-says-pakistan-players-used-chaos-after-shake-4264926</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/interim-head-coach-hesson-says-pakistan-players-used-chaos-after-shake-4264926</guid>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Impunity is fuelling violence]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/impunity-fuelling-violence-4264821</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/impunity-fuelling-violence-4264821</guid>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where have Bangladesh’s hilsa gone?]]></title>
+            <description><![CDATA[Bangladesh’s hilsa are still in the Bay, but changing waters, blocked rivers and mounting pressures are reshaping their migration.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/where-have-bangladeshs-hilsa-gone-4264921</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/where-have-bangladeshs-hilsa-gone-4264921</guid>
+            <dc:creator><![CDATA[Ystiaque Ahmed]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bihar wants Delhi to not renew Ganges treaty. What does it mean for Dhaka?]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bihar-wants-delhi-not-renew-ganges-treaty-what-does-it-mean-dhaka-4264161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bihar-wants-delhi-not-renew-ganges-treaty-what-does-it-mean-dhaka-4264161</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Column by Mahfuz Anam / PM continues to build confidence, BNP corrodes it]]></title>
+            <description><![CDATA[By Mahfuz Anam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/pm-continues-build-confidence-bnp-corrodes-it-4264251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/pm-continues-build-confidence-bnp-corrodes-it-4264251</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Bangladesh afford not to invest in Bhola’s gas?]]></title>
+            <description><![CDATA[Bangladesh must urgently prioritise domestic gas exploration over costly, volatile LNG imports to ensure long-term energy security.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-afford-not-invest-bholas-gas-4264936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-afford-not-invest-bholas-gas-4264936</guid>
+            <dc:creator><![CDATA[Moshahida Sultana Ritu]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CCTV footage shows woman taking 7-year-old girl away in Dhaka’s Shewrapara]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/cctv-footage-shows-woman-taking-7-year-old-girl-away-dhakas-shewrapara-4264906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/cctv-footage-shows-woman-taking-7-year-old-girl-away-dhakas-shewrapara-4264906</guid>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Socio-political issues Abul Mansur Ahmad raised still relevant now: Speakers]]></title>
+            <link>https://www.thedailystar.net/news/news/socio-political-issues-he-raised-still-relevant-now-4264911</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/socio-political-issues-he-raised-still-relevant-now-4264911</guid>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sabalenka interrupts US Open match over cannabis smell]]></title>
+            <link>https://www.thedailystar.net/sports/more-sports/tennis/news/sabalenka-interrupts-us-open-match-over-cannabis-smell-4265146</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/tennis/news/sabalenka-interrupts-us-open-match-over-cannabis-smell-4265146</guid>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abusive remarks on PM: Gazipur youth sent to jail in anti-terrorism case]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/abusive-remarks-pm-gazipur-youth-sent-jail-anti-terrorism-case-4264876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/abusive-remarks-pm-gazipur-youth-sent-jail-anti-terrorism-case-4264876</guid>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Give an alternative for resolving the gas and electricity crisis’: Rizvi to opposition]]></title>
+            <link>https://www.thedailystar.net/news/politics/news/give-alternative-resolving-the-gas-and-electricity-crisis-rizvi-opposition-4264966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/give-alternative-resolving-the-gas-and-electricity-crisis-rizvi-opposition-4264966</guid>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Bangladesh first, each of us Bangladeshi first’: Salahuddin]]></title>
+            <link>https://www.thedailystar.net/news/news/bangladesh-first-each-us-bangladeshi-first-salahuddin-4264866</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/bangladesh-first-each-us-bangladeshi-first-salahuddin-4264866</guid>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Isak fires Liverpool to first win under Iraola at Ipswich]]></title>
+            <description><![CDATA[Alexander Isak struck twice in the opening 10 minutes as Liverpool delivered a first win for new manager Andoni Iraola with a 2-0 victory at Ipswich on Friday.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/isak-fires-liverpool-first-win-under-iraola-ipswich-4265116</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/isak-fires-liverpool-first-win-under-iraola-ipswich-4265116</guid>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PSG still winless in Ligue 1 as Monaco go top]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/psg-still-winless-ligue-1-monaco-go-top-4265151</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/psg-still-winless-ligue-1-monaco-go-top-4265151</guid>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DB arrests prime accused in Savar madrasa child rape case]]></title>
+            <description><![CDATA[Suspect arrested from Kaliakair in Gazipur and handed over to Savar Model Police Station]]></description>
+            <link>https://www.thedailystar.net/news/crime-justice/news/db-arrests-prime-accused-savar-madrasa-child-rape-case-4264901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/db-arrests-prime-accused-savar-madrasa-child-rape-case-4264901</guid>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mbappe misses penalty as Real Madrid fall to Real Betis]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/mbappe-misses-penalty-real-madrid-fall-real-betis-4265106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/mbappe-misses-penalty-real-madrid-fall-real-betis-4265106</guid>
+            <pubDate>Fri, 04 Sep 2026 23:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea use rugby pads to prepare for Arsenal's set-piece threat]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/rugby-pads-goliaths-and-set-piece-chaos-chelseas-arsenal-test-4264871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/rugby-pads-goliaths-and-set-piece-chaos-chelseas-arsenal-test-4264871</guid>
             <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
         </item>
         <item>
@@ -43,14 +149,6 @@
             <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bihar wants Delhi to not renew Ganges treaty. What does it mean for Dhaka?]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bihar-wants-delhi-not-renew-ganges-treaty-what-does-it-mean-dhaka-4264161</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bihar-wants-delhi-not-renew-ganges-treaty-what-does-it-mean-dhaka-4264161</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lead poisoning in Bangladesh: A crisis ignored for too long]]></title>
             <description><![CDATA[New data reveals alarming lead exposure levels among children in Bangladesh. Experts discuss the hidden sources and the urgent need for systemic policy change.]]></description>
             <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/lead-poisoning-bangladesh-crisis-ignored-too-long-4264201</link>
@@ -59,47 +157,10 @@
             <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Abusive remarks on PM: Gazipur youth sent to jail in anti-terrorism case]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/abusive-remarks-pm-gazipur-youth-sent-jail-anti-terrorism-case-4264876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/abusive-remarks-pm-gazipur-youth-sent-jail-anti-terrorism-case-4264876</guid>
-            <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CCTV footage shows woman taking 7-year-old girl away in Dhaka’s Shewrapara]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/cctv-footage-shows-woman-taking-7-year-old-girl-away-dhakas-shewrapara-4264906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/cctv-footage-shows-woman-taking-7-year-old-girl-away-dhakas-shewrapara-4264906</guid>
-            <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Socio-political issues Abul Mansur Ahmad raised still relevant now: Speakers]]></title>
-            <link>https://www.thedailystar.net/news/news/socio-political-issues-he-raised-still-relevant-now-4264911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/socio-political-issues-he-raised-still-relevant-now-4264911</guid>
-            <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DB arrests prime accused in Savar madrasa child rape case]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/db-arrests-prime-accused-savar-madrasa-child-rape-case-4264901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/db-arrests-prime-accused-savar-madrasa-child-rape-case-4264901</guid>
-            <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Janmashtami celebrated across Bangladesh with processions, prayers]]></title>
             <description><![CDATA[Religious and cultural organisations arrange programmes commemorating the birth of Lord Sri Krishna]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/janmashtami-celebrated-across-bangladesh-processions-prayers-4264851</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/janmashtami-celebrated-across-bangladesh-processions-prayers-4264851</guid>
-            <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Chinese nationals, 1 Taiwanese arrested over online fraud allegations in Cox’s Bazar]]></title>
-            <description><![CDATA[Police say 1,938 iPhones were seized as investigators probe an alleged cyber fraud network involving up to 300 Chinese and Taiwanese nationals]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/1938-iphones-seized-6-chinese-nationals-arrested-coxs-bazar-over-online-fraud-allegations-4264786</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/1938-iphones-seized-6-chinese-nationals-arrested-coxs-bazar-over-online-fraud-allegations-4264786</guid>
-            <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Bangladesh first, each of us Bangladeshi first’: Salahuddin]]></title>
-            <link>https://www.thedailystar.net/news/news/bangladesh-first-each-us-bangladeshi-first-salahuddin-4264866</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/bangladesh-first-each-us-bangladeshi-first-salahuddin-4264866</guid>
             <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
         </item>
         <item>
@@ -113,12 +174,6 @@
             <title><![CDATA[Faridpur family told to leave town after home vandalised over drug-dealing allegations]]></title>
             <link>https://www.thedailystar.net/news/crime-justice/news/faridpur-family-told-leave-town-after-home-vandalised-over-drug-dealing-allegations-4264896</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/faridpur-family-told-leave-town-after-home-vandalised-over-drug-dealing-allegations-4264896</guid>
-            <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interim head coach Hesson says Pakistan players used to 'chaos' after shake-up]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/interim-head-coach-hesson-says-pakistan-players-used-chaos-after-shake-4264926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/interim-head-coach-hesson-says-pakistan-players-used-chaos-after-shake-4264926</guid>
             <pubDate>Fri, 04 Sep 2026 18:14:01 GMT</pubDate>
         </item>
         <item>
@@ -337,6 +392,13 @@
             <pubDate>Fri, 04 Sep 2026 04:03:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[5 Chinese nationals, 1 Taiwanese arrested over online fraud allegations in Cox’s Bazar]]></title>
+            <description><![CDATA[Police say 1,938 iPhones were seized as investigators probe an alleged cyber fraud network involving up to 300 Chinese and Taiwanese nationals]]></description>
+            <link>https://www.thedailystar.net/news/crime-justice/news/1938-iphones-seized-6-chinese-nationals-arrested-coxs-bazar-over-online-fraud-allegations-4264786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/1938-iphones-seized-6-chinese-nationals-arrested-coxs-bazar-over-online-fraud-allegations-4264786</guid>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[BTV does not need a new look to have a new future]]></title>
             <link>https://www.thedailystar.net/slow-reads/wisdom/news/btv-does-not-need-new-look-have-new-future-4264121</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/btv-does-not-need-new-look-have-new-future-4264121</guid>
@@ -346,12 +408,6 @@
             <title><![CDATA[Today's Gallery (2026.09.04)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260904-4264586</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260904-4264586</guid>
-            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / PM continues to build confidence, BNP corrodes it]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/pm-continues-build-confidence-bnp-corrodes-it-4264251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/pm-continues-build-confidence-bnp-corrodes-it-4264251</guid>
             <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3101,59 +3157,6 @@
             <link>https://www.thedailystar.net/news/governance/news/govt-puts-64-districts-under-oversight-30-ruling-party-mps-ministers-4257981</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/govt-puts-64-districts-under-oversight-30-ruling-party-mps-ministers-4257981</guid>
             <pubDate>Thu, 27 Aug 2026 19:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guendouzi sparks ugly scenes as Fenerbahce seal Champions League return]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/guendouzi-sparks-ugly-scenes-fenerbahce-seal-champions-league-return-4257636</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/guendouzi-sparks-ugly-scenes-fenerbahce-seal-champions-league-return-4257636</guid>
-            <pubDate>Thu, 27 Aug 2026 08:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TV channels, Shilpakala Academy mark Nazrul’s 50th death anniversary]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/tv-channels-shilpakala-academy-mark-nazruls-50th-death-anniversary-4257611</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/tv-channels-shilpakala-academy-mark-nazruls-50th-death-anniversary-4257611</guid>
-            <pubDate>Thu, 27 Aug 2026 08:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mutual Trust Bank to raise Tk 500cr capital]]></title>
-            <link>https://www.thedailystar.net/business/news/mutual-trust-bank-raise-tk-500cr-capital-4257696</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/mutual-trust-bank-raise-tk-500cr-capital-4257696</guid>
-            <pubDate>Thu, 27 Aug 2026 08:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Invest Bangladesh live up to the expectations?]]></title>
-            <description><![CDATA[By Rupayan Sarker]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/can-invest-bangladesh-live-the-expectations-4256826</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-invest-bangladesh-live-the-expectations-4256826</guid>
-            <dc:creator><![CDATA[Rupayan Sarker]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 08:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Nepal’s devastating floods should no longer surprise us]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/why-nepals-devastating-floods-should-no-longer-surprise-us-4257681</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/why-nepals-devastating-floods-should-no-longer-surprise-us-4257681</guid>
-            <pubDate>Thu, 27 Aug 2026 08:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why char children need a different education policy]]></title>
-            <description><![CDATA[A particular silence falls over a char village school after a flood. The benches are empty, the blackboard warped, the floor covered with a thin film of riverbed silt.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-char-children-need-different-education-policy-4256841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-char-children-need-different-education-policy-4256841</guid>
-            <dc:creator><![CDATA[Shahadat Hussein]]></dc:creator>
-            <pubDate>Thu, 27 Aug 2026 08:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protect people from online loan scams]]></title>
-            <description><![CDATA[We are deeply concerned by the growing prevalence of online scams that prey on people facing financial hardship.]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/protect-people-online-loan-scams-4256811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/protect-people-online-loan-scams-4256811</guid>
-            <pubDate>Thu, 27 Aug 2026 08:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[40 Bangladeshis return from Europe over lack of legal documents]]></title>
-            <link>https://www.thedailystar.net/news/news/40-bangladeshis-return-europe-over-lack-legal-documents-4257691</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/40-bangladeshis-return-europe-over-lack-legal-documents-4257691</guid>
-            <pubDate>Thu, 27 Aug 2026 08:46:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
