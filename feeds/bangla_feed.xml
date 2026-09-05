@@ -4,93 +4,441 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://bangla.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Sep 2026 12:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 15:47:04 GMT</lastBuildDate>
         <atom:link href="https://bangla.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+        <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[ছবিতে এক নজরে ডাকসু নির্বাচন]]></title>
             <link>https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%9B%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A7%81-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-698236</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%9B%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A7%81-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-698236</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[করাতকলে জীবিকা]]></title>
             <link>https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%95%E0%A6%B2%E0%A7%87-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BE-699856</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%95%E0%A6%B2%E0%A7%87-%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BE-699856</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[স্বপ্ন বুনতে ভেসে চলা]]></title>
             <link>https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8-%E0%A6%AC%E0%A7%81%E0%A6%A8%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A7%87%E0%A6%B8%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%BE-702001</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8-%E0%A6%AC%E0%A7%81%E0%A6%A8%E0%A6%A4%E0%A7%87-%E0%A6%AD%E0%A7%87%E0%A6%B8%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%BE-702001</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[পাড়ার সেই খেলনাওয়ালা]]></title>
             <link>https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B2%E0%A6%BE-703086</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B2%E0%A6%BE-703086</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[২০২৫ সালের ঘটনাবহুল ১২ ছবি]]></title>
             <link>https://bangla.thedailystar.net/multimedia/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB-%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A6%AC%E0%A6%B9%E0%A7%81%E0%A6%B2-%E0%A7%A7%E0%A7%A8-%E0%A6%9B%E0%A6%AC%E0%A6%BF-727801</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/multimedia/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95/%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB-%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A6%AC%E0%A6%B9%E0%A7%81%E0%A6%B2-%E0%A7%A7%E0%A7%A8-%E0%A6%9B%E0%A6%AC%E0%A6%BF-727801</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[স্বাধীনতা পুরস্কার]]></title>
             <link>https://bangla.thedailystar.net/gallery-3904541</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/gallery-3904541</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[লাল শাপলার সাতলা গ্রাম]]></title>
             <link>https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%B6%E0%A6%BE%E0%A6%AA%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A4%E0%A6%B2%E0%A6%BE-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-702026</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%B6%E0%A6%BE%E0%A6%AA%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A4%E0%A6%B2%E0%A6%BE-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-702026</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[শরতের প্রাণ-প্রকৃতি]]></title>
             <link>https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%B6%E0%A6%B0%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF-702226</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%B6%E0%A6%B0%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF-702226</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[প্রাণ ফিরছে সাদাপাথরে]]></title>
             <link>https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A5%E0%A6%B0%E0%A7%87-702256</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/multimedia/%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A5%E0%A6%B0%E0%A7%87-702256</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[শুধু কি নিন্দার কাঁটাই জুটবে বিপিএলের?]]></title>
             <link>https://bangla.thedailystar.net/star-multimedia/sports-multimedia/news-719831</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/star-multimedia/sports-multimedia/news-719831</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[বিসিবিকে সাহস দেখাতে বললেন আকরাম]]></title>
             <link>https://bangla.thedailystar.net/sports/cricket/news-728676</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/sports/cricket/news-728676</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[বাংলাদেশের বিশ্বকাপ ভবিষ্যৎ: আইসিসির সামনে যেসব পথ]]></title>
             <link>https://bangla.thedailystar.net/star-multimedia/sports-multimedia/news-729541</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/star-multimedia/sports-multimedia/news-729541</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[জুলাই গণঅভ্যুত্থান থেকে নির্বাচিত নতুন সরকার: ১৮ মাস ১২ মিনিটে]]></title>
             <link>https://bangla.thedailystar.net/star-multimedia/news-3899986</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/star-multimedia/news-3899986</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[যেভাবে ইরানকে নেতৃত্বশূন্য করতে সক্রিয় যুক্তরাষ্ট্র ও ইসরায়েল]]></title>
             <link>https://bangla.thedailystar.net/star-multimedia/news-3908976</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/star-multimedia/news-3908976</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[রাঙ্গামাটিতে দুর্লভ প্রজাতির হিমালয়ান গন্ধগোকুল উদ্ধার, বনে অবমুক্ত]]></title>
+            <link>https://bangla.thedailystar.net/environment/news-3957031</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/news-3957031</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[রাজধানীতে ৯ ‘নীরব এলাকা’ শুধু ঘোষণাতেই, আওয়াজে কানে তালা লাগে]]></title>
+            <link>https://bangla.thedailystar.net/environment/pollution/news-3957161</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/pollution/news-3957161</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[সুস্পষ্ট লঘুচাপের প্রভাবে বৃষ্টি আরও দুদিন, সাগরে ৩ নম্বর সংকেত]]></title>
+            <link>https://bangla.thedailystar.net/environment/weather/news-3957551</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/weather/news-3957551</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[আধুনিক নিয়ন্ত্রণ ব্যবস্থায় যুক্ত হলো রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র]]></title>
+            <link>https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3957966</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3957966</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[গোড্ডা বিদ্যুৎকেন্দ্র থেকে সরবরাহ কেন কম, ব্যাখ্যা দিলো আদানি]]></title>
+            <link>https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3957981</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3957981</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[১৫ দিনের মধ্যে বিদ্যুৎ পরিস্থিতির উন্নতি হবে: জ্বালানি প্রতিমন্ত্রী]]></title>
+            <link>https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3958011</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3958011</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[রামপাল বিদ্যুৎকেন্দ্রে অর্থায়ন: যুক্তরাজ্যের বার্কলেস ব্যাংকের বিরুদ্ধে অভিযোগ]]></title>
+            <link>https://bangla.thedailystar.net/news/bangladesh/news-3958201</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3958201</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[দীর্ঘ হচ্ছে মধ্যপ্রাচ্য যুদ্ধ, এলএনজিতে ভর্তুকি বেড়ে হতে পারে ৩ গুণ]]></title>
+            <link>https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3958426</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3958426</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[তৃতীয় এফএসআরইউর জন্য ৩৫-৩৭ শতাংশ বেশি অর্থ দিতে যাচ্ছে বাংলাদেশ]]></title>
+            <link>https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3958751</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3958751</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[কুয়াকাটায় ক্ষতচিহ্নসহ ৬ ফুট লম্বা মৃত ডলফিন উদ্ধার]]></title>
+            <link>https://bangla.thedailystar.net/environment/news-3958826</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/news-3958826</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[স্ক্রিননির্ভরতা ঠেকাতে শ্রীমঙ্গলে বই পড়ার উৎসব]]></title>
+            <link>https://bangla.thedailystar.net/youth/education/news-3954491</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/news-3954491</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[চট্টগ্রাম বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা শুরু ২৯ জানুয়ারি]]></title>
+            <link>https://bangla.thedailystar.net/youth/news-3954866</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/news-3954866</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[২০২৭ সালের এসএসসি পরীক্ষা শুরু ১৪ মার্চ]]></title>
+            <link>https://bangla.thedailystar.net/youth/education/news-3955211</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/news-3955211</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[শিক্ষার্থীদের জন্য বাস চালু করতে যাচ্ছে চট্টগ্রাম বিশ্ববিদ্যালয়]]></title>
+            <link>https://bangla.thedailystar.net/youth/education/campus/news-3955236</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/campus/news-3955236</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[পবিপ্রবিতে র‍্যাগিংয়ের অভিযোগে ১৩ শিক্ষার্থীকে শাস্তি]]></title>
+            <link>https://bangla.thedailystar.net/youth/news-3955251</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/news-3955251</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[৮ বিশ্ববিদ্যালয়ের সূচি প্রকাশ, একই তারিখে রয়েছে একাধিক ভর্তি পরীক্ষা]]></title>
+            <link>https://bangla.thedailystar.net/youth/education/news-3956931</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/news-3956931</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[চাঁদপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়কে সাধারণ বিশ্ববিদ্যালয় করা হবে]]></title>
+            <link>https://bangla.thedailystar.net/youth/education/news-3957586</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/news-3957586</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ঢাবির ছাত্রী হলের গেট বন্ধের সময় এক ঘণ্টা বাড়িয়ে রাত ১১টা]]></title>
+            <link>https://bangla.thedailystar.net/youth/education/campus/news-3957601</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/campus/news-3957601</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ঢাবির ৩ শিক্ষক সাময়িক বরখাস্ত]]></title>
+            <link>https://bangla.thedailystar.net/news/bangladesh/news-3957676</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3957676</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[গুগল আপনার সম্পর্কে আসলে কতটা জানে?]]></title>
+            <link>https://bangla.thedailystar.net/tech-startup/news-3956146</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/tech-startup/news-3956146</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বিএনপির নেতাদের ‘অভিনন্দন বার্তা’ দিলেন ৩ ভিসি, নৈতিকতা নিয়ে প্রশ্ন]]></title>
+            <link>https://bangla.thedailystar.net/news/bangladesh/news-3958626</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3958626</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ঝাল খাবারে আলসার হয় না, প্রমাণ করতে ব্যাকটেরিয়া গিলেছিলেন চিকিৎসক]]></title>
+            <link>https://bangla.thedailystar.net/health/news-3956776</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/health/news-3956776</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ফ্রি ওয়াই-ফাই ব্যবহার করে যেসব ঝুঁকি বাড়াচ্ছেন]]></title>
+            <link>https://bangla.thedailystar.net/tech-startup/news-3957681</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/tech-startup/news-3957681</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ডিসমিসল্যাবের অনুসন্ধান / টাকা দিলেই মিলছে যে কারও কললিস্ট, লোকেশন ও এনআইডির তথ্য]]></title>
+            <link>https://bangla.thedailystar.net/tech-startup/news-3957706</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/tech-startup/news-3957706</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[মামদানির শহরে অষ্টম শ্রেণি পর্যন্ত সরকারি স্কুলে এআই ব্যবহার নিষিদ্ধ]]></title>
+            <link>https://bangla.thedailystar.net/international/news-3957911</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/international/news-3957911</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘ভাষার স্বাধীনতা নিশ্চিত না হলে স্বাধীনতা অপূর্ণ থেকে যায়’]]></title>
+            <link>https://bangla.thedailystar.net/literature/culture/news-3899646</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/literature/culture/news-3899646</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[মোহন রায়হানের পুরস্কার স্থগিতের সিদ্ধান্ত ‘অন্যায়, অপমান ও অপ্রত্যাশিত’]]></title>
+            <link>https://bangla.thedailystar.net/literature/news-3902551</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/literature/news-3902551</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[চৈত্র সংক্রান্তি আজ]]></title>
+            <link>https://bangla.thedailystar.net/news/bangladesh/news-3915966</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3915966</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[পহেলা বৈশাখ যেভাবে বাঙালি সংস্কৃতির অংশ হয়ে উঠল]]></title>
+            <link>https://bangla.thedailystar.net/literature/culture/news-3916046</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/literature/culture/news-3916046</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ভয়শূন্য চিত্তে ছায়ানটের বর্ষবরণ]]></title>
+            <link>https://bangla.thedailystar.net/news/bangladesh/news-3916166</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3916166</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[এমন সমাজ চাই, যেখানে নির্ভয়ে গান গাওয়া যায়: ছায়ানট সভাপতি]]></title>
+            <link>https://bangla.thedailystar.net/literature/culture/news-3916206</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/literature/culture/news-3916206</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[পহেলা বৈশাখে কেন এত লাল-সাদার ছড়াছড়ি?]]></title>
+            <link>https://bangla.thedailystar.net/literature/culture/news-3916256</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/literature/culture/news-3916256</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[শিল্পকলায় ৪ দিনব্যাপী রবীন্দ্র জন্মজয়ন্তী উৎসব শুরু হচ্ছে কাল]]></title>
+            <link>https://bangla.thedailystar.net/news/tribute/news-3922551</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/tribute/news-3922551</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[রাবির হলে শিক্ষার্থীর মশারির ওপর থেকে বিষধর সাপ উদ্ধার]]></title>
+            <link>https://bangla.thedailystar.net/youth/education/campus/news-3958781</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/campus/news-3958781</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[রাজশাহী যেভাবে হয়ে উঠল দেশের সবচেয়ে পরিচ্ছন্ন শহর]]></title>
+            <link>https://bangla.thedailystar.net/news/bangladesh/news-3958736</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3958736</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[জাতিসংঘ অধিবেশনের আগে প্রধানমন্ত্রীর ভারত সফরের সম্ভাবনা নেই: পররাষ্ট্র প্রতিমন্ত্রী]]></title>
+            <link>https://bangla.thedailystar.net/news/bangladesh/politics/news-3958791</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/politics/news-3958791</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[যশোরে অ্যাম্বুলেন্সে সন্তানের জন্ম দিলেন নারী হাজতি]]></title>
+            <link>https://bangla.thedailystar.net/news/bangladesh/news-3958756</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3958756</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বর্জ্যের বিনিময়ে বাজার / লংমার্চ করে গ্যাস-বিদ্যুৎ পাওয়া যাবে না, সরকারকে সময় দিতে হবে: ডিএসসিসি প্রশাসক]]></title>
+            <link>https://bangla.thedailystar.net/news/bangladesh/news-3958776</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3958776</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[আশুলিয়ায় তালাবদ্ধ কক্ষে দম্পতির মরদেহ ও মৃত ভ্রূণ নিয়ে যা জানা গেল]]></title>
+            <link>https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-3958796</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-3958796</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ফুটবল খেলা নিয়ে ছেলের দ্বন্দ্বে বাবাকে পিটিয়ে হত্যার অভিযোগ]]></title>
+            <link>https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-3958846</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-3958846</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘তৌহিদী জনতা’ আসলে কারা?]]></title>
+            <description><![CDATA[ধর্ম থাকবে তার মর্যাদায়, সংস্কৃতি থাকবে তার স্বাধীনতায়, মতপ্রকাশ থাকবে আইনের সীমার মধ্যে। কেউ অপরাধ করলে তার বিচার হবে। কিন্তু বিচার করবে রাষ্ট্র। জনতা নয়।]]></description>
+            <link>https://bangla.thedailystar.net/opinion/views/news-3957641</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/opinion/views/news-3957641</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[মাহফুজ আনামের কলাম / আস্থা গড়ছেন প্রধানমন্ত্রী, ক্ষয় করছে বিএনপি]]></title>
+            <description><![CDATA[‘জবাবদিহিমূলক’ সরকারের প্রাথমিক লক্ষণ কী? মানুষ প্রথম যে ধাক্কাটি খেয়েছে তা হলো, সরকার ও প্রতিষ্ঠানের বিভিন্ন পর্যায়ে দলীয় লোক বসানোর প্রবণতা।]]></description>
+            <link>https://bangla.thedailystar.net/opinion/views/news-3958406</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/opinion/views/news-3958406</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[যেভাবে আইকিউ বাড়ানো যায়, কী বলছে গবেষণা]]></title>
+            <link>https://bangla.thedailystar.net/life-living/news-3958831</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/life-living/news-3958831</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[তিনি ছিলেন ‘সিনেমাপাড়ার ভদ্রমানুষ’]]></title>
+            <link>https://bangla.thedailystar.net/entertainment/news-3958656</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/entertainment/news-3958656</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[সৌদি-যুক্তরাজ্য থেকে রেমিট্যান্স বেড়েছে, কমেছে যুক্তরাষ্ট্র-কানাডা থেকে]]></title>
+            <link>https://bangla.thedailystar.net/economy/news-3958331</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/economy/news-3958331</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[দেশের মাটিতে কি বিদায়ী ম্যাচ খেলবেন মেসি?]]></title>
+            <link>https://bangla.thedailystar.net/sports/football/news-3958771</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/sports/football/news-3958771</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বিএনপি-জামায়াত পাল্টাপাল্টি কর্মসূচি: সিরাজগঞ্জে করতোয়া নদীর নৌকাবাইচ স্থগিত]]></title>
+            <description><![CDATA[করতোয়া নদীতে প্রতিবছর নৌকা বাইচ প্রতিযোগিতার আয়োজন করা হয়।]]></description>
+            <link>https://bangla.thedailystar.net/news/bangladesh/politics/news-3958851</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/politics/news-3958851</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[খারগ দ্বীপের কাছে ইরানি তেলবাহী ট্যাংকারে মার্কিন হামলা]]></title>
+            <description><![CDATA[ইরানের গুরুত্বপূর্ণ তেল রপ্তানি কেন্দ্র খারগ দ্বীপের কাছে একটি ইরানি তেলবাহী ট্যাংকারে মার্কিন বাহিনী হামলা চালিয়েছে বলে জানিয়েছে দেশটির আধা-সরকারি সংবাদ সংস্থা তাসনিম।]]></description>
+            <link>https://bangla.thedailystar.net/international/news-3958841</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/international/news-3958841</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[হাম ও উপসর্গে মৃত্যু বেড়ে ৯৯১]]></title>
+            <description><![CDATA[এর মধ্যে নিশ্চিত হামে ১০০ জন ও হামের উপসর্গ নিয়ে ৮৯১ জনের মৃত্যু হয়েছে।]]></description>
+            <link>https://bangla.thedailystar.net/health/disease/news-3958801</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/health/disease/news-3958801</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[শ্রমিক দিবসের ছুটিতে যুক্তরাষ্ট্রে পেট্রোলের দাম হতে পারে সর্বোচ্চ]]></title>
+            <description><![CDATA[ইরান যুদ্ধের কারণে জ্বালানি খরচ বেড়ে যাওয়ায় যুক্তরাষ্ট্রে আসন্ন শ্রমিক দিবসের (লেবার ডে) ছুটিতে পেট্রোলের দাম গ্যালনপ্রতি ৪ ডলার ছাড়িয়ে যেতে পারে।]]></description>
+            <link>https://bangla.thedailystar.net/international/news-3958856</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/international/news-3958856</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[বাংলাদেশের ইলিশ গেল কোথায়?]]></title>
+            <description><![CDATA[ইলিশ আহরণ কমে যাওয়ার অর্থ এই নয় যে মাছটির সামগ্রিক সংখ্যাও কমে গেছে।]]></description>
+            <link>https://bangla.thedailystar.net/news/bangladesh/news-3958786</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3958786</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[শেওড়াপাড়া থেকে অপহৃত শিশু পদ্মা সেতু এলাকায় উদ্ধার, তরুণী গ্রেপ্তার]]></title>
+            <description><![CDATA[শুক্রবার দিবাগত রাত ১টার দিকে পদ্মা সেতু (দক্ষিণ) থানার আওতাধীন এলাকা থেকে তাকে উদ্ধার করা হয়। এসময় শিশুটিকে অপহরণে অভিযুক্ত তরুণী যুথিকেও (২২) আটক করে পুলিশ।]]></description>
+            <link>https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-3958871</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-3958871</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[কালি ও কলম সাহিত্য পুরস্কার পেলেন ডেইলি স্টারের রবিউল কমলসহ ৪ তরুণ]]></title>
+            <description><![CDATA[‘কালি ও কলম তরুণ কবি ও লেখক পুরস্কার ২০২৫’ পেয়েছেন কবি রনক জামান, প্রাবন্ধিক ও গবেষক রাফাত আলম, কথাসাহিত্যিক হামিম কামাল এবং ডেইলি স্টারের সাংবাদিক ও শিশুসাহিত্যিক রবিউল কমল।]]></description>
+            <link>https://bangla.thedailystar.net/literature/news-3958886</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/literature/news-3958886</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ইরানের ৩ তেলবাহী ট্যাংকার ধ্বংসের দাবি যুক্তরাষ্ট্রের]]></title>
+            <description><![CDATA[ইরানের ইসলামিক রেভল্যুশনারি গার্ড কর্পসের (আইআরজিসি) সঙ্গে সংশ্লিষ্ট তিনটি তেলবাহী ট্যাংকারে হামলা চালিয়ে সেগুলো ধ্বংস করার দাবি করেছে যুক্তরাষ্ট্র।]]></description>
+            <link>https://bangla.thedailystar.net/international/news-3958876</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/international/news-3958876</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[এক্সপ্রেসওয়েতে মুখে টেপ প্যাঁচানো মরদেহ: সঙ্গে থাকা ‘৫ লাখ টাকা’ নিয়ে যা জানাল পরিবার]]></title>
+            <description><![CDATA[মরদেহ শনাক্তের পর তার পরিচয় নিশ্চিত করেছে পুলিশ।]]></description>
+            <link>https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-3958881</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-3958881</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[নেপালে বন্যা: ১০ দিন পর এক নারী ও এক চীনা নাগরিক জীবিত উদ্ধার]]></title>
+            <description><![CDATA[তাদের শারীরিক পরীক্ষা ও চিকিৎসার ব্যবস্থা করা হয়েছে।]]></description>
+            <link>https://bangla.thedailystar.net/international/news-3958816</link>
+            <guid isPermaLink="true">https://bangla.thedailystar.net/international/news-3958816</guid>
+            <pubDate>Sat, 05 Sep 2026 15:47:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ফুলবাড়ীতে উন্মুক্ত কয়লা উত্তোলন করলে আগে স্থানীয়দের পুনর্বাসনের ব্যবস্থা করা হবে: প্রধানমন্ত্রী]]></title>
@@ -102,192 +450,6 @@
             <title><![CDATA[অতিরিক্ত লোডশেডিং: নরসিংদীতে বিদ্যুৎ অফিস ঘেরাও, ঢাকা-সিলেট মহাসড়ক অবরোধ]]></title>
             <link>https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3956916</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3956916</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[রাঙ্গামাটিতে দুর্লভ প্রজাতির হিমালয়ান গন্ধগোকুল উদ্ধার, বনে অবমুক্ত]]></title>
-            <link>https://bangla.thedailystar.net/environment/news-3957031</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/news-3957031</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[রাজধানীতে ৯ ‘নীরব এলাকা’ শুধু ঘোষণাতেই, আওয়াজে কানে তালা লাগে]]></title>
-            <link>https://bangla.thedailystar.net/environment/pollution/news-3957161</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/pollution/news-3957161</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[সুস্পষ্ট লঘুচাপের প্রভাবে বৃষ্টি আরও দুদিন, সাগরে ৩ নম্বর সংকেত]]></title>
-            <link>https://bangla.thedailystar.net/environment/weather/news-3957551</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/weather/news-3957551</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[আধুনিক নিয়ন্ত্রণ ব্যবস্থায় যুক্ত হলো রূপপুর পারমাণবিক বিদ্যুৎকেন্দ্র]]></title>
-            <link>https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3957966</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3957966</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[গোড্ডা বিদ্যুৎকেন্দ্র থেকে সরবরাহ কেন কম, ব্যাখ্যা দিলো আদানি]]></title>
-            <link>https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3957981</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3957981</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[১৫ দিনের মধ্যে বিদ্যুৎ পরিস্থিতির উন্নতি হবে: জ্বালানি প্রতিমন্ত্রী]]></title>
-            <link>https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3958011</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3958011</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[রামপাল বিদ্যুৎকেন্দ্রে অর্থায়ন: যুক্তরাজ্যের বার্কলেস ব্যাংকের বিরুদ্ধে অভিযোগ]]></title>
-            <link>https://bangla.thedailystar.net/news/bangladesh/news-3958201</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3958201</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[দীর্ঘ হচ্ছে মধ্যপ্রাচ্য যুদ্ধ, এলএনজিতে ভর্তুকি বেড়ে হতে পারে ৩ গুণ]]></title>
-            <link>https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3958426</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3958426</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[স্ক্রিননির্ভরতা ঠেকাতে শ্রীমঙ্গলে বই পড়ার উৎসব]]></title>
-            <link>https://bangla.thedailystar.net/youth/education/news-3954491</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/news-3954491</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[চট্টগ্রাম বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা শুরু ২৯ জানুয়ারি]]></title>
-            <link>https://bangla.thedailystar.net/youth/news-3954866</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/news-3954866</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[২০২৭ সালের এসএসসি পরীক্ষা শুরু ১৪ মার্চ]]></title>
-            <link>https://bangla.thedailystar.net/youth/education/news-3955211</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/news-3955211</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[শিক্ষার্থীদের জন্য বাস চালু করতে যাচ্ছে চট্টগ্রাম বিশ্ববিদ্যালয়]]></title>
-            <link>https://bangla.thedailystar.net/youth/education/campus/news-3955236</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/campus/news-3955236</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[পবিপ্রবিতে র‍্যাগিংয়ের অভিযোগে ১৩ শিক্ষার্থীকে শাস্তি]]></title>
-            <link>https://bangla.thedailystar.net/youth/news-3955251</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/news-3955251</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[৮ বিশ্ববিদ্যালয়ের সূচি প্রকাশ, একই তারিখে রয়েছে একাধিক ভর্তি পরীক্ষা]]></title>
-            <link>https://bangla.thedailystar.net/youth/education/news-3956931</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/news-3956931</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[চাঁদপুর বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়কে সাধারণ বিশ্ববিদ্যালয় করা হবে]]></title>
-            <link>https://bangla.thedailystar.net/youth/education/news-3957586</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/news-3957586</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ঢাবির ছাত্রী হলের গেট বন্ধের সময় এক ঘণ্টা বাড়িয়ে রাত ১১টা]]></title>
-            <link>https://bangla.thedailystar.net/youth/education/campus/news-3957601</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/campus/news-3957601</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ঢাবির ৩ শিক্ষক সাময়িক বরখাস্ত]]></title>
-            <link>https://bangla.thedailystar.net/news/bangladesh/news-3957676</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3957676</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[গুগল আপনার সম্পর্কে আসলে কতটা জানে?]]></title>
-            <link>https://bangla.thedailystar.net/tech-startup/news-3956146</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/tech-startup/news-3956146</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ঝাল খাবারে আলসার হয় না, প্রমাণ করতে ব্যাকটেরিয়া গিলেছিলেন চিকিৎসক]]></title>
-            <link>https://bangla.thedailystar.net/health/news-3956776</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/health/news-3956776</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ফ্রি ওয়াই-ফাই ব্যবহার করে যেসব ঝুঁকি বাড়াচ্ছেন]]></title>
-            <link>https://bangla.thedailystar.net/tech-startup/news-3957681</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/tech-startup/news-3957681</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[বিএনপির নেতাদের ‘অভিনন্দন বার্তা’ দিলেন ৩ ভিসি, নৈতিকতা নিয়ে প্রশ্ন]]></title>
-            <link>https://bangla.thedailystar.net/news/bangladesh/news-3958626</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3958626</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ডিসমিসল্যাবের অনুসন্ধান / টাকা দিলেই মিলছে যে কারও কললিস্ট, লোকেশন ও এনআইডির তথ্য]]></title>
-            <link>https://bangla.thedailystar.net/tech-startup/news-3957706</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/tech-startup/news-3957706</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[মামদানির শহরে অষ্টম শ্রেণি পর্যন্ত সরকারি স্কুলে এআই ব্যবহার নিষিদ্ধ]]></title>
-            <link>https://bangla.thedailystar.net/international/news-3957911</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/international/news-3957911</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘ভাষার স্বাধীনতা নিশ্চিত না হলে স্বাধীনতা অপূর্ণ থেকে যায়’]]></title>
-            <link>https://bangla.thedailystar.net/literature/culture/news-3899646</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/literature/culture/news-3899646</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[মোহন রায়হানের পুরস্কার স্থগিতের সিদ্ধান্ত ‘অন্যায়, অপমান ও অপ্রত্যাশিত’]]></title>
-            <link>https://bangla.thedailystar.net/literature/news-3902551</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/literature/news-3902551</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[চৈত্র সংক্রান্তি আজ]]></title>
-            <link>https://bangla.thedailystar.net/news/bangladesh/news-3915966</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3915966</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[পহেলা বৈশাখ যেভাবে বাঙালি সংস্কৃতির অংশ হয়ে উঠল]]></title>
-            <link>https://bangla.thedailystar.net/literature/culture/news-3916046</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/literature/culture/news-3916046</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ভয়শূন্য চিত্তে ছায়ানটের বর্ষবরণ]]></title>
-            <link>https://bangla.thedailystar.net/news/bangladesh/news-3916166</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3916166</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[এমন সমাজ চাই, যেখানে নির্ভয়ে গান গাওয়া যায়: ছায়ানট সভাপতি]]></title>
-            <link>https://bangla.thedailystar.net/literature/culture/news-3916206</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/literature/culture/news-3916206</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[পহেলা বৈশাখে কেন এত লাল-সাদার ছড়াছড়ি?]]></title>
-            <link>https://bangla.thedailystar.net/literature/culture/news-3916256</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/literature/culture/news-3916256</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[শিল্পকলায় ৪ দিনব্যাপী রবীন্দ্র জন্মজয়ন্তী উৎসব শুরু হচ্ছে কাল]]></title>
-            <link>https://bangla.thedailystar.net/news/tribute/news-3922551</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/news/tribute/news-3922551</guid>
             <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
         </item>
         <item>
@@ -315,55 +477,15 @@
             <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[রাবির হলে শিক্ষার্থীর মশারির ওপর থেকে বিষধর সাপ উদ্ধার]]></title>
-            <link>https://bangla.thedailystar.net/youth/education/campus/news-3958781</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/youth/education/campus/news-3958781</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[‘উইপোকার উপদ্রবে’ মধ্যরাতে সার্কিট হাউস ছাড়লেন বিরোধীদলীয় উপনেতা]]></title>
             <link>https://bangla.thedailystar.net/news/bangladesh/news-3958691</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3958691</guid>
             <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘তৌহিদী জনতা’ আসলে কারা?]]></title>
-            <description><![CDATA[ধর্ম থাকবে তার মর্যাদায়, সংস্কৃতি থাকবে তার স্বাধীনতায়, মতপ্রকাশ থাকবে আইনের সীমার মধ্যে। কেউ অপরাধ করলে তার বিচার হবে। কিন্তু বিচার করবে রাষ্ট্র। জনতা নয়।]]></description>
-            <link>https://bangla.thedailystar.net/opinion/views/news-3957641</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/opinion/views/news-3957641</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[রাজশাহী যেভাবে হয়ে উঠল দেশের সবচেয়ে পরিচ্ছন্ন শহর]]></title>
-            <description><![CDATA[By সোহানুর রহমান রাফি]]></description>
-            <link>https://bangla.thedailystar.net/news/bangladesh/news-3958736</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3958736</guid>
-            <dc:creator><![CDATA[সোহানুর রহমান রাফি]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[মাহফুজ আনামের কলাম / আস্থা গড়ছেন প্রধানমন্ত্রী, ক্ষয় করছে বিএনপি]]></title>
-            <description><![CDATA[‘জবাবদিহিমূলক’ সরকারের প্রাথমিক লক্ষণ কী? মানুষ প্রথম যে ধাক্কাটি খেয়েছে তা হলো, সরকার ও প্রতিষ্ঠানের বিভিন্ন পর্যায়ে দলীয় লোক বসানোর প্রবণতা।]]></description>
-            <link>https://bangla.thedailystar.net/opinion/views/news-3958406</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/opinion/views/news-3958406</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ত্বকের সুস্থতা-চিন্তার প্রখরতা বাড়ানোসহ জাফরানের আরও যত পুষ্টিগুণ]]></title>
             <link>https://bangla.thedailystar.net/life-living/food-recipe/news-3958561</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/life-living/food-recipe/news-3958561</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[তিনি ছিলেন ‘সিনেমাপাড়ার ভদ্রমানুষ’]]></title>
-            <link>https://bangla.thedailystar.net/entertainment/news-3958656</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/entertainment/news-3958656</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[সৌদি-যুক্তরাজ্য থেকে রেমিট্যান্স বেড়েছে, কমেছে যুক্তরাষ্ট্র-কানাডা থেকে]]></title>
-            <link>https://bangla.thedailystar.net/economy/news-3958331</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/economy/news-3958331</guid>
             <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
         </item>
         <item>
@@ -380,20 +502,6 @@
             <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[দেশের মাটিতে কি বিদায়ী ম্যাচ খেলবেন মেসি?]]></title>
-            <description><![CDATA[রয়েছে অনেক জটিলতা, আর সেই জটিলতা অবসানের পথ খুঁজছে আর্জেন্টিনা।]]></description>
-            <link>https://bangla.thedailystar.net/sports/football/news-3958771</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/sports/football/news-3958771</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[জাতিসংঘ অধিবেশনের আগে প্রধানমন্ত্রীর ভারত সফরের সম্ভাবনা নেই: পররাষ্ট্র প্রতিমন্ত্রী]]></title>
-            <description><![CDATA[‘মক্কা চুক্তি নিয়েও আলাপ-আলোচনা চলছে৷ এই চুক্তিতে যুক্ত হওয়া বাংলাদেশের জন্য অস্বাভাবিক নয়।’]]></description>
-            <link>https://bangla.thedailystar.net/news/bangladesh/politics/news-3958791</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/politics/news-3958791</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ফ্রেডি মার্কারির কণ্ঠে লুকিয়ে ছিল যে রহস্য]]></title>
             <description><![CDATA[ফ্রেডি নিজেও কি জানতেন কোনটা তার আসল গলা?]]></description>
             <link>https://bangla.thedailystar.net/life-living/spotlight/news-3958811</link>
@@ -405,41 +513,6 @@
             <description><![CDATA[চলতি বছর দেশে ডেঙ্গুতে এ পর্যন্ত মোট ১১৩ জন মারা গেছেন।]]></description>
             <link>https://bangla.thedailystar.net/health/disease/news-3958806</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/health/disease/news-3958806</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[আশুলিয়ায় তালাবদ্ধ কক্ষে দম্পতির মরদেহ ও মৃত ভ্রূণ নিয়ে যা জানা গেল]]></title>
-            <description><![CDATA[গতকাল সন্ধ্যা থেকেই তীব্র দুর্গন্ধ পান প্রতিবেশীরা।]]></description>
-            <link>https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-3958796</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-3958796</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[তৃতীয় এফএসআরইউর জন্য ৩৫-৩৭ শতাংশ বেশি অর্থ দিতে যাচ্ছে বাংলাদেশ]]></title>
-            <description><![CDATA[সিএনইইর ওয়েবসাইটে দেখা যায়, এফএসআরইউ নির্মাণে প্রতিষ্ঠানটির কোনো পূর্ব অভিজ্ঞতা নেই।]]></description>
-            <link>https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3958751</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/natural-resources/electricity-fuel/news-3958751</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[যেভাবে বাড়ানো যায় মানুষের আইকিউ, কী বলছে গবেষণা]]></title>
-            <description><![CDATA[আপনার আইকিউ কি ১০ বছর আগেও যা ছিল, এখনো ঠিক ততটাই? নাকি নিয়মিত পড়াশোনা, নতুন কিছু শেখা, কঠিন সমস্যার সমাধান কিংবা বদলে যাওয়া পরিবেশের কারণে তা পরিবর্তিত হতে পারে?]]></description>
-            <link>https://bangla.thedailystar.net/life-living/news-3958831</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/life-living/news-3958831</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[কুয়াকাটায় ক্ষতচিহ্নসহ ৬ ফুট লম্বা মৃত ডলফিন উদ্ধার]]></title>
-            <description><![CDATA[শনিবার সকাল ১০টার দিকে স্থানীয় পরিবেশবাদী সংগঠন উপকূল পরিবেশ রক্ষা আন্দোলনের সদস্য আব্দুল জলিল ডলফিনটির মরদেহ দেখতে পান। পরে তিনি ডলফিন রক্ষা কমিটি, বাংলাদেশ জীববৈচিত্র্য সংরক্ষণ ফেডারেশন (বিবিসিএফ) ও বন বিভাগের সদস্যদের বিষয়টি জানান।]]></description>
-            <link>https://bangla.thedailystar.net/environment/news-3958826</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/news-3958826</guid>
-            <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[নেপালে বন্যা: ১০ দিন পর এক নারী ও এক চীনা নাগরিক জীবিত উদ্ধার]]></title>
-            <description><![CDATA[তাদের শারীরিক পরীক্ষা ও চিকিৎসার ব্যবস্থা করা হয়েছে।]]></description>
-            <link>https://bangla.thedailystar.net/international/news-3958816</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/international/news-3958816</guid>
             <pubDate>Sat, 05 Sep 2026 12:23:07 GMT</pubDate>
         </item>
         <item>
@@ -509,12 +582,6 @@
             <description><![CDATA[জিয়ান্নি ইনফান্তিনোকে ঘিরে বিতর্ক যতই বাড়ুক, আফ্রিকান ফুটবল কর্মকর্তাদের কাছে আপাতত সেটি সবচেয়ে বড় বিষয় নয়]]></description>
             <link>https://bangla.thedailystar.net/sports/football/news-3958746</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/sports/football/news-3958746</guid>
-            <pubDate>Sat, 05 Sep 2026 08:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[যশোরে অ্যাম্বুলেন্সে সন্তানের জন্ম দিলেন নারী হাজতি]]></title>
-            <link>https://bangla.thedailystar.net/news/bangladesh/news-3958756</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3958756</guid>
             <pubDate>Sat, 05 Sep 2026 08:03:41 GMT</pubDate>
         </item>
         <item>
@@ -3128,76 +3195,6 @@
             <link>https://bangla.thedailystar.net/news/bangladesh/news-3956011</link>
             <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3956011</guid>
             <pubDate>Thu, 27 Aug 2026 13:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[রংপুরে ৪ খুন / ছাদেই হত্যা করা হয় ৩ জনকে, একজনকে ঘরে: পুলিশ]]></title>
-            <link>https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-3956026</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-3956026</guid>
-            <pubDate>Thu, 27 Aug 2026 13:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ফ্ল্যাট-বাড়ির বারান্দায় বাগান মানসিক স্বাস্থ্যে কী প্রভাব ফেলে?]]></title>
-            <link>https://bangla.thedailystar.net/life-living/wellness/news-3955836</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/life-living/wellness/news-3955836</guid>
-            <pubDate>Thu, 27 Aug 2026 13:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[অনূর্ধ্ব-১৭ এশিয়ান কাপের বাছাইয়ে কঠিন গ্রুপে বাংলাদেশ]]></title>
-            <link>https://bangla.thedailystar.net/sports/football/news-3956061</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/sports/football/news-3956061</guid>
-            <pubDate>Thu, 27 Aug 2026 13:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[কোচ-অধিনায়কহীন সংবাদ সম্মেলন: বাংলাদেশ শিবিরে অস্বস্তি]]></title>
-            <description><![CDATA[বাংলাদেশ ফুটবল ফেডারেশনের (বাফুফে) কার্যালয়ে আয়োজিত সংবাদ সম্মেলনে হাজির ছিলেন কেবল দলীয় ম্যানেজার সামিদ কাসেম ও বাফুফের টেকনিক্যাল ডিরেক্টর সাইফুল বারী টিটু]]></description>
-            <link>https://bangla.thedailystar.net/sports/football/news-3956081</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/sports/football/news-3956081</guid>
-            <pubDate>Thu, 27 Aug 2026 13:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[নেপালের বন্যার পানি কতদূর নেমে আসতে পারে?]]></title>
-            <description><![CDATA[নেপাল ও তিব্বত সীমান্তে ভয়াবহ বন্যা আর ভূমিধসে দেড় শতাধিক প্রাণহানির সঙ্গে এখনো প্রায় দেড় হাজার মানুষ নিখোঁজ রয়েছেন।]]></description>
-            <link>https://bangla.thedailystar.net/international/news-3956021</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/international/news-3956021</guid>
-            <pubDate>Thu, 27 Aug 2026 13:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[হামের উপসর্গে আরও ৫ জনের মৃত্যু, মোট ৯৫৫]]></title>
-            <description><![CDATA[একই সময়ে আরও ৭৫ জনের হাম শনাক্ত হয়েছে।]]></description>
-            <link>https://bangla.thedailystar.net/health/disease/news-3956076</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/health/disease/news-3956076</guid>
-            <pubDate>Thu, 27 Aug 2026 13:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[কাঠমান্ডু পোস্টের প্রতিবেদন / নেপালে হঠাৎ বন্যা: কী ঘটেছিল হিমালয়ে, আসন্ন ঝুঁকি কতটা]]></title>
-            <description><![CDATA[নেপালের রাসুয়া জেলায় ভোতেকোশি নদীতে আকস্মিক বন্যায় অন্তত ৩৫০ জন নিহত ও শত শত মানুষ বাস্তুচ্যুত হয়েছেন। নদীর ওপর থাকা সেতুসহ বিভিন্ন অবকাঠামোও ধ্বংস হয়েছে। এখন পর্যন্ত রাসুয়াসহ নুওয়াকোট, ধাদিং, চিতওয়ান, তানাহুন, গোরখা ও নাওয়ালপারাসি ইস্টে মরদেহ উদ্ধার করা হয়েছে।]]></description>
-            <link>https://bangla.thedailystar.net/international/news-3956106</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/international/news-3956106</guid>
-            <pubDate>Thu, 27 Aug 2026 13:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[মেরামত কাজের মধ্যেই খোয়াই নদীর বাঁধে ফের ভাঙন]]></title>
-            <link>https://bangla.thedailystar.net/environment/news-3954931</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/environment/news-3954931</guid>
-            <pubDate>Thu, 27 Aug 2026 02:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[রেকর্ড সৃষ্টি করে ৪৯২ কোটি টাকায় বিক্রি হলো ফেরারির ইলেকট্রিক গাড়ি ‘লুচে’]]></title>
-            <link>https://bangla.thedailystar.net/tech-startup/automobile/news-3953261</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/tech-startup/automobile/news-3953261</guid>
-            <pubDate>Thu, 27 Aug 2026 02:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[চীনা বুলেট ট্রেনের নতুন রেকর্ড, ৫.৩ সেকেন্ডে গতি ৮০০ কিলোমিটার]]></title>
-            <link>https://bangla.thedailystar.net/tech-startup/news-3953791</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/tech-startup/news-3953791</guid>
-            <pubDate>Thu, 27 Aug 2026 02:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[রংপুরে ৪ খুন: আদালতে জবানবন্দি দিয়েছেন সীমান্ত, আসামিদের সঙ্গে মিলেছে বর্ণনা]]></title>
-            <link>https://bangla.thedailystar.net/news/bangladesh/news-3955741</link>
-            <guid isPermaLink="true">https://bangla.thedailystar.net/news/bangladesh/news-3955741</guid>
-            <pubDate>Thu, 27 Aug 2026 02:56:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
