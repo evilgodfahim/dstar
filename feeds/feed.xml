@@ -4,34 +4,145 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Sep 2026 16:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2026 23:23:29 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
+        <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Can glacier collapses be predicted in advance? Why couldn’t Nepal?]]></title>
-            <description><![CDATA[.]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/news/can-glacier-collapses-be-predicted-advance-why-couldnt-nepal-4266841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/can-glacier-collapses-be-predicted-advance-why-couldnt-nepal-4266841</guid>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
+            <title><![CDATA[Today's Gallery (2026.09.08)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260908-4267541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260908-4267541</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Salman Shah’s final hours: What happened at the Eskaton flat on Sept 6?]]></title>
-            <description><![CDATA[.]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/news/salman-shahs-final-hours-what-happened-the-eskaton-flat-sept-6-4266836</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/salman-shahs-final-hours-what-happened-the-eskaton-flat-sept-6-4266836</guid>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
+            <title><![CDATA[‘The film was never meant to fit the mould’]]></title>
+            <link>https://www.thedailystar.net/culture/tv-film/news/the-film-was-never-meant-fit-the-mould-4267141</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/the-film-was-never-meant-fit-the-mould-4267141</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Big Bash calling for Nahid Rana?]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/big-bash-calling-nahid-rana-4267231</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/big-bash-calling-nahid-rana-4267231</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh makes final push to defer LDC graduation]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/bangladesh-makes-final-push-defer-ldc-graduation-4267416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bangladesh-makes-final-push-defer-ldc-graduation-4267416</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Law and order must be strengthened]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/law-and-order-must-be-strengthened-4267151</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/law-and-order-must-be-strengthened-4267151</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How we are killing Dhaka]]></title>
+            <description><![CDATA[Dhaka's unlivable state stems from centuries of failed urban planning, elite land grabbing, and systemic political corruption.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/how-we-are-killing-dhaka-4266661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/how-we-are-killing-dhaka-4266661</guid>
+            <dc:creator><![CDATA[Lipon Mondal]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dadabhai Naoroji: The man who exposed the economics of British colonialism]]></title>
+            <description><![CDATA[By Priyam Paul]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/dadabhai-naoroji-the-man-who-exposed-the-economics-british-colonialism-4267121</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/dadabhai-naoroji-the-man-who-exposed-the-economics-british-colonialism-4267121</guid>
+            <dc:creator><![CDATA[Priyam Paul]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Bangladesh the next base for Chinese scam networks?]]></title>
+            <description><![CDATA[A major cyber-fraud raid in Cox’s Bazar raises questions about whether Bangladesh could become a new base for transnational scams.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-the-next-base-chinese-scam-networks-4266336</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-the-next-base-chinese-scam-networks-4266336</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Chinese fighter jets to the Mecca Pact: Bangladesh’s strategic future?]]></title>
+            <description><![CDATA[By S M Haseeb Aziz]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/chinese-fighter-jets-the-mecca-pact-bangladeshs-strategic-future-4267286</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/chinese-fighter-jets-the-mecca-pact-bangladeshs-strategic-future-4267286</guid>
+            <dc:creator><![CDATA[S M Haseeb Aziz]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[50-80 lakh battery-powered rickshaws consume 5% of Bangladesh’s daily electricity: Salahuddin]]></title>
+            <link>https://www.thedailystar.net/news/transport/news/50-80-lakh-battery-powered-rickshaws-consume-5-bangladeshs-daily-electricity-salahuddin-4267176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/50-80-lakh-battery-powered-rickshaws-consume-5-bangladeshs-daily-electricity-salahuddin-4267176</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UCL 2026/27: Full fixtures in Bangladesh time and everything you need to know]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/ucl-202627-full-fixtures-bangladesh-time-and-everything-you-need-know-4267261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/ucl-202627-full-fixtures-bangladesh-time-and-everything-you-need-know-4267261</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Raped while returning from father’s grave’: July martyr’s widow tells ICT of daughter’s suicide]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/raped-while-returning-fathers-grave-july-martyrs-widow-tells-ict-daughters-suicide-4267246</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/raped-while-returning-fathers-grave-july-martyrs-widow-tells-ict-daughters-suicide-4267246</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Banks asked to verify certificates of all officers in 7 months]]></title>
+            <link>https://www.thedailystar.net/business/news/banks-asked-verify-certificates-all-officers-7-months-4267281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/banks-asked-verify-certificates-all-officers-7-months-4267281</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt blames Awami League for energy crisis; opposition says mismanagement continues]]></title>
+            <link>https://www.thedailystar.net/news/power-and-energy/news/govt-blames-awami-league-energy-crisis-opposition-says-mismanagement-continues-4267321</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/power-and-energy/news/govt-blames-awami-league-energy-crisis-opposition-says-mismanagement-continues-4267321</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / Unapologetic Hasina names Selim to lead in her absence]]></title>
+            <link>https://www.thedailystar.net/news-analysis/news/unapologetic-hasina-names-selim-lead-her-absence-4267431</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/unapologetic-hasina-names-selim-lead-her-absence-4267431</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women's Asia Cup  / 'We should win this': Tigresses face do-or-die UAE clash for India semifinal]]></title>
+            <description><![CDATA[It is a do-or-die affair for Bangladesh as they take on the UAE in their final Group B fixture of the Women's Asia Cup on Tuesday, with a semifinal berth on the line.]]></description>
+            <link>https://www.thedailystar.net/sports/cricket/news/we-should-win-tigresses-face-do-or-die-uae-clash-india-semifinal-4267531</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/we-should-win-tigresses-face-do-or-die-uae-clash-india-semifinal-4267531</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Behind every cup / The mental toll on women tea workers]]></title>
+            <description><![CDATA[Nearly three in four mothers working in Bangladesh's tea gardens are psychologically vulnerable or unwell, a new study finds, worn down by starvation wages, wage theft and a second unpaid shift at home. The toll does not stop with them. Researchers found the majority of their young children already show signs of emotional and behavioural distress.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/the-mental-toll-women-tea-workers-4267526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/the-mental-toll-women-tea-workers-4267526</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 state law officers resign from Bangladesh Attorney General’s Office]]></title>
+            <link>https://www.thedailystar.net/news/governance/legal-system/news/5-state-law-officers-resign-bangladesh-attorney-generals-office-4267311</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/legal-system/news/5-state-law-officers-resign-bangladesh-attorney-generals-office-4267311</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Madrasa headteacher arrested over alleged rape of 3 students in Jhenaidah]]></title>
+            <description><![CDATA[Father of one of the students filed a case against the teacher]]></description>
+            <link>https://www.thedailystar.net/news/crime-justice/news/madrasa-headteacher-arrested-over-alleged-rape-3-students-jhenaidah-4267481</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/madrasa-headteacher-arrested-over-alleged-rape-3-students-jhenaidah-4267481</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UCL  / Mourinho's Real mission begins with Inter reunion]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/mourinhos-real-mission-begins-inter-reunion-4267536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/mourinhos-real-mission-begins-inter-reunion-4267536</guid>
+            <pubDate>Mon, 07 Sep 2026 23:23:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TikTok adds voice messages and polls to comment sections]]></title>
             <link>https://www.thedailystar.net/news/technology/news/tiktok-adds-voice-messages-and-polls-comment-sections-4266991</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/tiktok-adds-voice-messages-and-polls-comment-sections-4266991</guid>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspective / What your food photos say about you]]></title>
-            <link>https://www.thedailystar.net/life-living/news/what-your-food-photos-say-about-you-4266946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/what-your-food-photos-say-about-you-4266946</guid>
             <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
         </item>
         <item>
@@ -41,27 +152,9 @@
             <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘The film was never meant to fit the mould’]]></title>
-            <link>https://www.thedailystar.net/culture/tv-film/news/the-film-was-never-meant-fit-the-mould-4267141</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/the-film-was-never-meant-fit-the-mould-4267141</guid>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Bash calling for Nahid Rana?]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/big-bash-calling-nahid-rana-4267231</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/big-bash-calling-nahid-rana-4267231</guid>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ensure transparency in infrastructure contracts to attract US investment: US envoy]]></title>
             <link>https://www.thedailystar.net/business/news/ensure-transparency-infrastructure-contracts-attract-us-investment-us-envoy-4267236</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/ensure-transparency-infrastructure-contracts-attract-us-investment-us-envoy-4267236</guid>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tangail taant: A classic saree for every weekday]]></title>
-            <link>https://www.thedailystar.net/life-living/fashion-beauty/news/tangail-taant-classic-saree-every-weekday-4266951</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/tangail-taant-classic-saree-every-weekday-4266951</guid>
             <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
         </item>
         <item>
@@ -73,68 +166,15 @@
             <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How we are killing Dhaka]]></title>
-            <description><![CDATA[By Lipon Mondal]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/how-we-are-killing-dhaka-4266661</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/how-we-are-killing-dhaka-4266661</guid>
-            <dc:creator><![CDATA[Lipon Mondal]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Bangladesh the next base for Chinese scam networks?]]></title>
-            <description><![CDATA[A major cyber-fraud raid in Cox’s Bazar raises questions about whether Bangladesh could become a new base for transnational scams.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-the-next-base-chinese-scam-networks-4266336</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/bangladesh-the-next-base-chinese-scam-networks-4266336</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Water buses set to return to Dhaka’s waterways within 3 months: Shipping minister]]></title>
             <link>https://www.thedailystar.net/news/transport/news/water-buses-set-return-dhakas-waterways-within-3-months-shipping-minister-4267101</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/water-buses-set-return-dhakas-waterways-within-3-months-shipping-minister-4267101</guid>
             <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Law and order must be strengthened]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/law-and-order-must-be-strengthened-4267151</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/law-and-order-must-be-strengthened-4267151</guid>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 state law officers resign from Bangladesh Attorney General’s Office]]></title>
-            <link>https://www.thedailystar.net/news/governance/legal-system/news/5-state-law-officers-resign-bangladesh-attorney-generals-office-4267311</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/legal-system/news/5-state-law-officers-resign-bangladesh-attorney-generals-office-4267311</guid>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[August inflation eases to 8.26%]]></title>
             <link>https://www.thedailystar.net/business/news/august-inflation-eases-826-4267046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/august-inflation-eases-826-4267046</guid>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Raped while returning from father’s grave’: July martyr’s widow tells ICT of daughter’s suicide]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/raped-while-returning-fathers-grave-july-martyrs-widow-tells-ict-daughters-suicide-4267246</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/raped-while-returning-fathers-grave-july-martyrs-widow-tells-ict-daughters-suicide-4267246</guid>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[50-80 lakh battery-powered rickshaws consume 5% of Bangladesh’s daily electricity: Salahuddin]]></title>
-            <link>https://www.thedailystar.net/news/transport/news/50-80-lakh-battery-powered-rickshaws-consume-5-bangladeshs-daily-electricity-salahuddin-4267176</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/50-80-lakh-battery-powered-rickshaws-consume-5-bangladeshs-daily-electricity-salahuddin-4267176</guid>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt blames Awami League for energy crisis; opposition says mismanagement continues]]></title>
-            <description><![CDATA[Opposition proposes a permanent task force as govt targets relief by 2027-28 and a crisis-free energy sector by 2030]]></description>
-            <link>https://www.thedailystar.net/news/power-and-energy/news/govt-blames-awami-league-energy-crisis-opposition-says-mismanagement-continues-4267321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/power-and-energy/news/govt-blames-awami-league-energy-crisis-opposition-says-mismanagement-continues-4267321</guid>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Banks asked to verify certificates of all officers in 7 months]]></title>
-            <link>https://www.thedailystar.net/business/news/banks-asked-verify-certificates-all-officers-7-months-4267281</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/banks-asked-verify-certificates-all-officers-7-months-4267281</guid>
             <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
         </item>
         <item>
@@ -155,12 +195,6 @@
             <description><![CDATA[Ben Shelton's run to the U.S. Open quarter-finals dealt a blow to tennis traditionalists on Sunday after his win over Stefanos Tsitsipas left the men's draw without a one-handed backhand and ended a 149-year Grand Slam streak.]]></description>
             <link>https://www.thedailystar.net/sports/more-sports/tennis/news/the-one-handed-backhands-149-year-reign-ends-tsitsipas-exit-4267316</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/tennis/news/the-one-handed-backhands-149-year-reign-ends-tsitsipas-exit-4267316</guid>
-            <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UCL 2026/27: Full fixtures in Bangladesh time and everything you need to know]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/ucl-202627-full-fixtures-bangladesh-time-and-everything-you-need-know-4267261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/ucl-202627-full-fixtures-bangladesh-time-and-everything-you-need-know-4267261</guid>
             <pubDate>Mon, 07 Sep 2026 16:21:54 GMT</pubDate>
         </item>
         <item>
@@ -278,14 +312,6 @@
             <pubDate>Mon, 07 Sep 2026 04:06:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The extraordinary journey of Atish Dipankar Srigyan]]></title>
-            <description><![CDATA[Explore the life and legacy of Atish Dipankar Srigyan, the legendary Buddhist scholar from Bikrampur who shaped Tibetan Buddhism. A deep dive into history.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/the-extraordinary-journey-atish-dipankar-srigyan-4265421</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-extraordinary-journey-atish-dipankar-srigyan-4265421</guid>
-            <dc:creator><![CDATA[Dipen Bhattacharya]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 04:06:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Laldia can handle bigger ships, but can the inland network keep up?]]></title>
             <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/laldia-can-handle-bigger-ships-can-the-inland-network-keep-4266466</link>
@@ -363,6 +389,32 @@
             <pubDate>Mon, 07 Sep 2026 04:06:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Can glacier collapses be predicted in advance? Why couldn’t Nepal?]]></title>
+            <description><![CDATA[.]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news/can-glacier-collapses-be-predicted-advance-why-couldnt-nepal-4266841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/can-glacier-collapses-be-predicted-advance-why-couldnt-nepal-4266841</guid>
+            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salman Shah’s final hours: What happened at the Eskaton flat on Sept 6?]]></title>
+            <description><![CDATA[.]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news/salman-shahs-final-hours-what-happened-the-eskaton-flat-sept-6-4266836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/salman-shahs-final-hours-what-happened-the-eskaton-flat-sept-6-4266836</guid>
+            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Perspective / What your food photos say about you]]></title>
+            <link>https://www.thedailystar.net/life-living/news/what-your-food-photos-say-about-you-4266946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/what-your-food-photos-say-about-you-4266946</guid>
+            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tangail taant: A classic saree for every weekday]]></title>
+            <link>https://www.thedailystar.net/life-living/fashion-beauty/news/tangail-taant-classic-saree-every-weekday-4266951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/tangail-taant-classic-saree-every-weekday-4266951</guid>
+            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Today's Gallery (2026.09.07)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260907-4266761</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260907-4266761</guid>
@@ -397,6 +449,12 @@
             <title><![CDATA[Novatek proposes $950m seabed-fixed LNG terminal]]></title>
             <link>https://www.thedailystar.net/business/news/novatek-proposes-950m-seabed-fixed-lng-terminal-4266536</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/novatek-proposes-950m-seabed-fixed-lng-terminal-4266536</guid>
+            <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IFA 2026 puts smarter and stranger consumer tech in the spotlight]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/ifa-2026-puts-smarter-and-stranger-consumer-tech-the-spotlight-4267066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/ifa-2026-puts-smarter-and-stranger-consumer-tech-the-spotlight-4267066</guid>
             <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -787,6 +845,12 @@
             <link>https://www.thedailystar.net/sports/football/news/messi-sets-goal-first-game-argentina-retirement-miami-held-4265886</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/messi-sets-goal-first-game-argentina-retirement-miami-held-4265886</guid>
             <pubDate>Sun, 06 Sep 2026 04:07:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The extraordinary journey of Atish Dipankar Srigyan]]></title>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/the-extraordinary-journey-atish-dipankar-srigyan-4265421</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-extraordinary-journey-atish-dipankar-srigyan-4265421</guid>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shanghai Cooperation Organisation at 25: Can China, India and Russia really speak with one voice?]]></title>
@@ -3094,69 +3158,6 @@
             <title><![CDATA[Calhanoglu fires Inter to nervy Cagliari win, Como stun Napoli]]></title>
             <link>https://www.thedailystar.net/sports/football/news/calhanoglu-fires-inter-nervy-cagliari-win-como-stun-napoli-4260961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/calhanoglu-fires-inter-nervy-cagliari-win-como-stun-napoli-4260961</guid>
-            <pubDate>Mon, 31 Aug 2026 05:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venice Film Festival opens fall season with starry lineup]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/venice-film-festival-opens-fall-season-starry-lineup-4261001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/venice-film-festival-opens-fall-season-starry-lineup-4261001</guid>
-            <pubDate>Mon, 31 Aug 2026 05:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Laldia terminal construction begins]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/laldia-terminal-construction-begins-4260631</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/laldia-terminal-construction-begins-4260631</guid>
-            <pubDate>Mon, 31 Aug 2026 05:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fixing our fragmented health data requires institutional leadership]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/fixing-our-fragmented-health-data-requires-institutional-leadership-4260521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fixing-our-fragmented-health-data-requires-institutional-leadership-4260521</guid>
-            <pubDate>Mon, 31 Aug 2026 05:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13 glacial lakes in India’s Uttarakhand flagged as highly sensitive]]></title>
-            <link>https://www.thedailystar.net/news/world/india/news/13-glacial-lakes-indias-uttarakhand-flagged-highly-sensitive-4260971</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/india/news/13-glacial-lakes-indias-uttarakhand-flagged-highly-sensitive-4260971</guid>
-            <pubDate>Mon, 31 Aug 2026 05:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The women’s voices in Nazrul’s Dhumketu]]></title>
-            <description><![CDATA[By Niaz Zaman]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/the-womens-voices-nazruls-dhumketu-4260391</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-womens-voices-nazruls-dhumketu-4260391</guid>
-            <dc:creator><![CDATA[Niaz Zaman]]></dc:creator>
-            <pubDate>Mon, 31 Aug 2026 05:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[113 sued over alleged Awami League rally in Jashore]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/113-sued-over-alleged-awami-league-rally-jashore-4260976</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/113-sued-over-alleged-awami-league-rally-jashore-4260976</guid>
-            <pubDate>Mon, 31 Aug 2026 05:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump says Iran's Kharg is being 'blown to smithereens', but gives no details]]></title>
-            <link>https://www.thedailystar.net/news/world/news/trump-says-irans-kharg-being-blown-smithereens-gives-no-details-4260951</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/trump-says-irans-kharg-being-blown-smithereens-gives-no-details-4260951</guid>
-            <pubDate>Mon, 31 Aug 2026 05:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nepal buries dead as rescuers seek thousands missing]]></title>
-            <link>https://www.thedailystar.net/news/world/asia/news/nepal-buries-dead-rescuers-seek-thousands-missing-4260941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/asia/news/nepal-buries-dead-rescuers-seek-thousands-missing-4260941</guid>
-            <pubDate>Mon, 31 Aug 2026 05:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who are really running the BFF camps?]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/who-are-really-running-the-bff-camps-4260946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/who-are-really-running-the-bff-camps-4260946</guid>
-            <pubDate>Mon, 31 Aug 2026 05:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Friendship's Runa Khan gets Ramon Magsaysay Award]]></title>
-            <description><![CDATA[The Ramon Magsaysay Award Foundation announced the names of the 2026 award recipients in Manila, the capital of the Philippines, today, Monday.]]></description>
-            <link>https://www.thedailystar.net/news/news/friendships-runa-khan-gets-ramon-magsaysay-award-4260981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/friendships-runa-khan-gets-ramon-magsaysay-award-4260981</guid>
             <pubDate>Mon, 31 Aug 2026 05:02:02 GMT</pubDate>
         </item>
     </channel>
