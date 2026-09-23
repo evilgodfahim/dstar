@@ -4,15 +4,140 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Sep 2026 00:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 05:45:41 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
+        <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.09.23)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260923-4280716</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260923-4280716</guid>
-            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rupankar Bagchi, Joy Shahriar release joint album]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/rupankar-bagchi-joy-shahriar-release-joint-album-4280826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/rupankar-bagchi-joy-shahriar-release-joint-album-4280826</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alcaraz quizzes Zverev about US Open championship point]]></title>
+            <link>https://www.thedailystar.net/sports/more-sports/tennis/news/alcaraz-quizzes-zverev-about-us-open-championship-point-4280816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/tennis/news/alcaraz-quizzes-zverev-about-us-open-championship-point-4280816</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fuel price hike to push up inflation, weaken consumption]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/fuel-price-hike-push-inflation-weaken-consumption-4280461</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/fuel-price-hike-push-inflation-weaken-consumption-4280461</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time to put warning labels on unhealthy packaged foods]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/time-put-warning-labels-unhealthy-packaged-foods-4280381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-put-warning-labels-unhealthy-packaged-foods-4280381</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What did we ask about Mariam while she was still alive?]]></title>
+            <description><![CDATA[Before Mariam died, she was mostly known as a powerful MP's second wife. This piece asks what marriage let the country stop asking and whether anyone, independently, ever checked if she was safe.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/what-did-we-ask-about-mariam-while-she-was-still-alive-4279931</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/what-did-we-ask-about-mariam-while-she-was-still-alive-4279931</guid>
+            <dc:creator><![CDATA[Lubna Ferdowsi]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crisis in Bangladesh’s Islamic banks: Liquidity is not capital, and a merger is not a cure]]></title>
+            <description><![CDATA[By M Kabir Hassan]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/crisis-bangladeshs-islamic-banks-liquidity-not-capital-and-merger-not-cure-4280351</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/crisis-bangladeshs-islamic-banks-liquidity-not-capital-and-merger-not-cure-4280351</guid>
+            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amid narrowing choices, we need a credible economic strategy]]></title>
+            <description><![CDATA[By M Kabir Hassan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/amid-narrowing-choices-we-need-credible-economic-strategy-4280366</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/amid-narrowing-choices-we-need-credible-economic-strategy-4280366</guid>
+            <dc:creator><![CDATA[M Kabir Hassan]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Law Opinion / Judicial Independence and the Quest for Institutional Autonomy in Bangladesh]]></title>
+            <description><![CDATA[When we speak of constitutional law, we are accustomed to speaking of texts. But constitutions are not merely texts.]]></description>
+            <link>https://www.thedailystar.net/ds/law-our-rights/news/judicial-independence-and-the-quest-institutional-autonomy-bangladesh-4280706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/ds/law-our-rights/news/judicial-independence-and-the-quest-institutional-autonomy-bangladesh-4280706</guid>
+            <dc:creator><![CDATA[Dr Justice Syed Refaat Ahmed]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New laws weaken human rights safeguards, says HRW]]></title>
+            <link>https://www.thedailystar.net/news/news/new-laws-weaken-human-rights-safeguards-says-hrw-4280796</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/new-laws-weaken-human-rights-safeguards-says-hrw-4280796</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tarique, UN refugee chief discuss sustainable solution to Rohingya crisis]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/tarique-un-refugee-chief-discuss-sustainable-solution-rohingya-crisis-4280791</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/tarique-un-refugee-chief-discuss-sustainable-solution-rohingya-crisis-4280791</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diesel price hike: Farmers dealt another blow]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/diesel-price-hike-farmers-dealt-another-blow-4280651</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/diesel-price-hike-farmers-dealt-another-blow-4280651</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tarique, Erdogan discuss expanding Bangladesh-Türkiye trade, investment ties]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/tarique-erdogan-discuss-expanding-bangladesh-turkiye-trade-investment-ties-4280776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/tarique-erdogan-discuss-expanding-bangladesh-turkiye-trade-investment-ties-4280776</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM, wife attend Trump’s dinner for world leaders]]></title>
+            <link>https://www.thedailystar.net/news/news/pm-wife-attend-trumps-dinner-world-leaders-4280821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/pm-wife-attend-trumps-dinner-world-leaders-4280821</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I didn't try to leave Napoli, says De Bruyne]]></title>
+            <description><![CDATA[Kevin De Bruyne has claimed he did not attempt to push through an exit from Napoli in the summer transfer window.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/i-didnt-try-leave-napoli-says-de-bruyne-4280801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/i-didnt-try-leave-napoli-says-de-bruyne-4280801</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France pushes Airbus as Boeing deal draws near]]></title>
+            <description><![CDATA[Biman is set to sign a deal for 11 more Boeing aircraft in New York early tomorrow, while France steps up its pitch for 10 Airbus planes for the national flag carrier.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/france-pushes-airbus-boeing-deal-draws-near-4280661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/france-pushes-airbus-boeing-deal-draws-near-4280661</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ADB cuts Bangladesh growth forecast to 4% for FY27]]></title>
+            <link>https://www.thedailystar.net/business/news/adb-cuts-bangladesh-growth-forecast-4-fy27-4280746</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/adb-cuts-bangladesh-growth-forecast-4-fy27-4280746</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MLS coach axed for telling female ref 'It's a man's game']]></title>
+            <link>https://www.thedailystar.net/sports/football/news/mls-coach-axed-telling-female-ref-its-mans-game-4280806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/mls-coach-axed-telling-female-ref-its-mans-game-4280806</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ADB approves $200m loan for Dhaka power distribution upgrade]]></title>
+            <description><![CDATA[The project will install 1,150 megavolt-amperes (MVA) of new transformer capacity across 52 substations and raise capacity at 12 existing substations by 115 MVA]]></description>
+            <link>https://www.thedailystar.net/business/news/adb-approves-200m-loan-dhaka-power-distribution-upgrade-4280811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/adb-approves-200m-loan-dhaka-power-distribution-upgrade-4280811</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump threatens Iran with 'hell' but reveals fresh talks]]></title>
+            <link>https://www.thedailystar.net/news/world/news/trump-threatens-iran-hell-reveals-fresh-talks-4280751</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/trump-threatens-iran-hell-reveals-fresh-talks-4280751</guid>
+            <pubDate>Wed, 23 Sep 2026 05:45:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[If the government wants to help, I will not accept it: Rifat Chowdhury]]></title>
@@ -36,30 +161,6 @@
             <title><![CDATA[Share the fuel-cost burden fairly]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/share-the-fuel-cost-burden-fairly-4279911</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/share-the-fuel-cost-burden-fairly-4279911</guid>
-            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An emergency action plan for a 100% renewable Bangladesh]]></title>
-            <description><![CDATA[A rapid transition to 100% renewable energy is the most urgent climate change crisis solution for Bangladesh.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/emergency-action-plan-100-renewable-bangladesh-4279051</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/emergency-action-plan-100-renewable-bangladesh-4279051</guid>
-            <dc:creator><![CDATA[Sajed Kamal]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What did we ask about Mariam while she was still alive?]]></title>
-            <description><![CDATA[By Lubna Ferdowsi]]></description>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/what-did-we-ask-about-mariam-while-she-was-still-alive-4279931</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/what-did-we-ask-about-mariam-while-she-was-still-alive-4279931</guid>
-            <dc:creator><![CDATA[Lubna Ferdowsi]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh must reconsider its trade agreement with the US]]></title>
-            <description><![CDATA[A trade deal meant to protect Bangladesh’s interests may instead be deepening its obligations while Washington’s commitments remain uncertain.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-must-reconsider-its-trade-agreement-the-us-4279241</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-must-reconsider-its-trade-agreement-the-us-4279241</guid>
-            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
@@ -157,12 +258,6 @@
             <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/shafiqur-sends-national-day-greetings-saudi-king-salman-4280321</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/shafiqur-sends-national-day-greetings-saudi-king-salman-4280321</guid>
             <pubDate>Tue, 22 Sep 2026 18:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI and Anthropic press Australia to soften AI copyright ban]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/openai-and-anthropic-press-australia-soften-ai-copyright-ban-4279771</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/openai-and-anthropic-press-australia-soften-ai-copyright-ban-4279771</guid>
-            <pubDate>Tue, 22 Sep 2026 14:36:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jinnat ensures first individual Asian Games medal for Bangladesh in 40 years]]></title>
@@ -416,6 +511,24 @@
             <pubDate>Tue, 22 Sep 2026 04:25:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[An emergency action plan for a 100% renewable Bangladesh]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/emergency-action-plan-100-renewable-bangladesh-4279051</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/emergency-action-plan-100-renewable-bangladesh-4279051</guid>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Bangladesh must reconsider its trade agreement with the US]]></title>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-must-reconsider-its-trade-agreement-the-us-4279241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-must-reconsider-its-trade-agreement-the-us-4279241</guid>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI and Anthropic press Australia to soften AI copyright ban]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/openai-and-anthropic-press-australia-soften-ai-copyright-ban-4279771</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/openai-and-anthropic-press-australia-soften-ai-copyright-ban-4279771</guid>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DUCSU's Tk 40 crore project: Where is the money coming from?]]></title>
             <description><![CDATA[.]]></description>
             <link>https://www.thedailystar.net/star-multimedia/news/ducsus-tk-40-crore-project-where-the-money-coming-4279726</link>
@@ -471,6 +584,12 @@
             <title><![CDATA[36% educated youth jobless]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/36-educated-youth-jobless-4279481</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/36-educated-youth-jobless-4279481</guid>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[19-year-old Bangladeshi researcher wins award at World Water Challenge 2026]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/19-year-old-bangladeshi-researcher-wins-award-world-water-challenge-2026-4279841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/19-year-old-bangladeshi-researcher-wins-award-world-water-challenge-2026-4279841</guid>
             <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3021,126 +3140,6 @@
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-world-map-we-know-distorted-why-does-it-matter-4272821</guid>
             <dc:creator><![CDATA[Derek H. AldermanJack Swab]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 07:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Act now to protect our national fish]]></title>
-            <description><![CDATA[Hilsa, the national fish of Bangladesh, a staple in our culture and a vital part of our rural economy, is increasingly moving beyond the reach of common people.]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/act-now-protect-our-national-fish-4272851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/act-now-protect-our-national-fish-4272851</guid>
-            <pubDate>Tue, 15 Sep 2026 07:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2 army men killed in training: Families meet PM, receive financial aid]]></title>
-            <link>https://www.thedailystar.net/news/news/2-army-men-killed-training-families-meet-pm-receive-financial-aid-4273251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/2-army-men-killed-training-families-meet-pm-receive-financial-aid-4273251</guid>
-            <pubDate>Tue, 15 Sep 2026 07:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans']]></title>
-            <link>https://www.thedailystar.net/news/technology/news/ex-google-deepmind-researcher-adds-warnings-ai-could-kill-all-humans-4273216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/ex-google-deepmind-researcher-adds-warnings-ai-could-kill-all-humans-4273216</guid>
-            <pubDate>Tue, 15 Sep 2026 07:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt not consulted over Nov 12 local polls date: Shahe Alam]]></title>
-            <link>https://www.thedailystar.net/news/politics/election/news/govt-not-consulted-over-nov-12-local-polls-date-shahe-alam-4273291</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/election/news/govt-not-consulted-over-nov-12-local-polls-date-shahe-alam-4273291</guid>
-            <pubDate>Tue, 15 Sep 2026 07:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wiping out measles impossible due to vaccine hesitancy in rich countries, says Gates]]></title>
-            <link>https://www.thedailystar.net/news/world/news/wiping-out-measles-impossible-due-vaccine-hesitancy-rich-countries-says-gates-4273226</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/wiping-out-measles-impossible-due-vaccine-hesitancy-rich-countries-says-gates-4273226</guid>
-            <pubDate>Tue, 15 Sep 2026 07:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dooley sees Bishwanath as a forward option]]></title>
-            <description><![CDATA[Bangladesh national team head coach Thomas Dooley believes defender Bishwanath Ghosh could have been an option as a centre-forward in the absence of a recognised number nine.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/dooley-sees-bishwanath-forward-option-4273261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/dooley-sees-bishwanath-forward-option-4273261</guid>
-            <pubDate>Tue, 15 Sep 2026 07:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking / Quader, six others sentenced to death for July Uprising atrocities]]></title>
-            <description><![CDATA[The International Crimes Tribunal-2 today sentenced Awami League General Secretary Obaidul Quader and six others to death in a crimes against humanity case over atrocities committed during the July Uprising in 2024.]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/quader-six-others-sentenced-death-july-uprising-atrocities-4273266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/quader-six-others-sentenced-death-july-uprising-atrocities-4273266</guid>
-            <pubDate>Tue, 15 Sep 2026 07:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life after Messi: What Argentina can learn from post-Maradona era]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/life-after-messi-what-argentina-can-learn-post-maradona-era-4273271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/life-after-messi-what-argentina-can-learn-post-maradona-era-4273271</guid>
-            <pubDate>Tue, 15 Sep 2026 07:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh Bank resumes dollar sales after 14 months]]></title>
-            <link>https://www.thedailystar.net/business/news/bangladesh-bank-resumes-dollar-sales-after-14-months-4273276</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-bank-resumes-dollar-sales-after-14-months-4273276</guid>
-            <pubDate>Tue, 15 Sep 2026 07:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi football body vows action against Jota chants, Ronaldo urges life ban]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/saudi-football-body-vows-action-against-jota-chants-ronaldo-urges-life-ban-4272766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/saudi-football-body-vows-action-against-jota-chants-ronaldo-urges-life-ban-4272766</guid>
-            <pubDate>Tue, 15 Sep 2026 01:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Selim Uddin, Ducsu VP Shadik Kayem likely Jamaat picks for Dhaka city polls]]></title>
-            <link>https://www.thedailystar.net/news/politics/political-parties/news/selim-uddin-ducsu-vp-shadik-kayem-likely-jamaat-picks-dhaka-city-polls-4272736</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/political-parties/news/selim-uddin-ducsu-vp-shadik-kayem-likely-jamaat-picks-dhaka-city-polls-4272736</guid>
-            <pubDate>Tue, 15 Sep 2026 01:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Thousands of students’ lives were ruined’: DU topper refuses Dean’s Award]]></title>
-            <link>https://www.thedailystar.net/news/education/news/thousands-students-lives-were-ruined-du-topper-refuses-deans-award-4272816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/thousands-students-lives-were-ruined-du-topper-refuses-deans-award-4272816</guid>
-            <pubDate>Tue, 15 Sep 2026 01:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Concert goes ahead in Brahmanbaria after venue changed over Qawmi group’s objection]]></title>
-            <link>https://www.thedailystar.net/culture/news/concert-goes-ahead-brahmanbaria-after-venue-changed-over-qawmi-groups-objection-4272831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/news/concert-goes-ahead-brahmanbaria-after-venue-changed-over-qawmi-groups-objection-4272831</guid>
-            <pubDate>Tue, 15 Sep 2026 01:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mymensingh hospital fire: Reports of 6 stampede deaths incorrect, divisional commissioner says]]></title>
-            <link>https://www.thedailystar.net/news/accidents-and-fires/news/mymensingh-hospital-fire-reports-6-stampede-deaths-incorrect-divisional-commissioner-says-4273076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/mymensingh-hospital-fire-reports-6-stampede-deaths-incorrect-divisional-commissioner-says-4273076</guid>
-            <pubDate>Tue, 15 Sep 2026 01:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Find even Tk 1 abroad, and I’ll quit politics’: Asif rejects allegations]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/find-even-tk-1-abroad-and-ill-quit-politics-asif-rejects-allegations-4272781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/find-even-tk-1-abroad-and-ill-quit-politics-asif-rejects-allegations-4272781</guid>
-            <pubDate>Tue, 15 Sep 2026 01:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh spot LNG nears $30, three times pre-war rates]]></title>
-            <description><![CDATA[Bangladesh is now paying nearly $30 per million British thermal units (MMBtu) for liquefied natural gas from the spot market, almost three times what it typically paid before the war in the Middle East, as the government scrambles to secure supplies amid a prolonged gas crisis]]></description>
-            <link>https://www.thedailystar.net/business/news/bangladesh-spot-lng-nears-30-three-times-pre-war-rates-4272801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-spot-lng-nears-30-three-times-pre-war-rates-4272801</guid>
-            <pubDate>Tue, 15 Sep 2026 01:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chattogram police AC, 2 ASIs withdrawn over alleged Tk 18 lakh cash, crypto extortion]]></title>
-            <description><![CDATA[Businessman claims police threatened to implicate him in a gambling case and forced multiple transfers]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/chattogram-police-ac-2-asis-withdrawn-over-alleged-tk-18-lakh-cash-crypto-extortion-4272756</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/chattogram-police-ac-2-asis-withdrawn-over-alleged-tk-18-lakh-cash-crypto-extortion-4272756</guid>
-            <pubDate>Tue, 15 Sep 2026 01:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manchester derby VAR stood down from Premier League duty]]></title>
-            <description><![CDATA[Matt Donohue, the video assistant referee (VAR) who allowed Erling Haaland's winner in Manchester City's 1-0 victory over Manchester United, has not been selected to officiate at any of next weekend's Premier League fixtures.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/manchester-derby-var-stood-down-premier-league-duty-4272886</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/manchester-derby-var-stood-down-premier-league-duty-4272886</guid>
-            <pubDate>Tue, 15 Sep 2026 01:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt may force life insurers to sell assets to settle claims: Khosru]]></title>
-            <link>https://www.thedailystar.net/business/news/govt-may-force-life-insurers-sell-assets-settle-claims-khosru-4272806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-may-force-life-insurers-sell-assets-settle-claims-khosru-4272806</guid>
-            <pubDate>Tue, 15 Sep 2026 01:19:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
