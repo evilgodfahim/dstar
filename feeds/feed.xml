@@ -4,33 +4,39 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 21:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 00:15:32 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+        <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.09.23)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260923-4280716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260923-4280716</guid>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[If the government wants to help, I will not accept it: Rifat Chowdhury]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/if-the-government-wants-help-i-will-not-accept-it-rifat-chowdhury-4280006</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/if-the-government-wants-help-i-will-not-accept-it-rifat-chowdhury-4280006</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jacks takes five and hits unbeaten 46 as England crush Sri Lanka]]></title>
             <link>https://www.thedailystar.net/sports/cricket/news/jacks-takes-five-and-hits-unbeaten-46-england-crush-sri-lanka-4280666</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/jacks-takes-five-and-hits-unbeaten-46-england-crush-sri-lanka-4280666</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Battery hazard looms over EV dream]]></title>
             <link>https://www.thedailystar.net/business/economy/news/battery-hazard-looms-over-ev-dream-4280456</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/battery-hazard-looms-over-ev-dream-4280456</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Share the fuel-cost burden fairly]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/share-the-fuel-cost-burden-fairly-4279911</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/share-the-fuel-cost-burden-fairly-4279911</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An emergency action plan for a 100% renewable Bangladesh]]></title>
@@ -38,15 +44,7 @@
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/emergency-action-plan-100-renewable-bangladesh-4279051</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/emergency-action-plan-100-renewable-bangladesh-4279051</guid>
             <dc:creator><![CDATA[Sajed Kamal]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh must reconsider its trade agreement with the US]]></title>
-            <description><![CDATA[A trade deal meant to protect Bangladesh’s interests may instead be deepening its obligations while Washington’s commitments remain uncertain.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-must-reconsider-its-trade-agreement-the-us-4279241</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-must-reconsider-its-trade-agreement-the-us-4279241</guid>
-            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What did we ask about Mariam while she was still alive?]]></title>
@@ -54,7 +52,15 @@
             <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/what-did-we-ask-about-mariam-while-she-was-still-alive-4279931</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/what-did-we-ask-about-mariam-while-she-was-still-alive-4279931</guid>
             <dc:creator><![CDATA[Lubna Ferdowsi]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Bangladesh must reconsider its trade agreement with the US]]></title>
+            <description><![CDATA[A trade deal meant to protect Bangladesh’s interests may instead be deepening its obligations while Washington’s commitments remain uncertain.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-must-reconsider-its-trade-agreement-the-us-4279241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-bangladesh-must-reconsider-its-trade-agreement-the-us-4279241</guid>
+            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Everyday secularism and the Bangladesh we rarely talk about]]></title>
@@ -62,69 +68,69 @@
             <link>https://www.thedailystar.net/slow-reads/focus/news/everyday-secularism-and-the-bangladesh-we-rarely-talk-about-4279266</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/everyday-secularism-and-the-bangladesh-we-rarely-talk-about-4279266</guid>
             <dc:creator><![CDATA[Anas Ansar]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Another victim dies after Ashulia gas cylinder explosion, taking death toll to 8]]></title>
             <link>https://www.thedailystar.net/news/accidents-and-fires/news/another-victim-dies-after-ashulia-gas-cylinder-explosion-taking-death-toll-8-4280316</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/another-victim-dies-after-ashulia-gas-cylinder-explosion-taking-death-toll-8-4280316</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Child, woman die as boat carrying Rohingya refugees sinks off Teknaf]]></title>
             <link>https://www.thedailystar.net/news/accidents-and-fires/news/child-woman-die-boat-carrying-rohingya-refugees-sinks-teknaf-4280516</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/child-woman-die-boat-carrying-rohingya-refugees-sinks-teknaf-4280516</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Construction worker killed after car runs over him in Baridhara Diplomatic Zone, teenager detained]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/construction-worker-killed-after-car-runs-over-him-baridhara-diplomatic-zone-teenager-detained-4280326</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/construction-worker-killed-after-car-runs-over-him-baridhara-diplomatic-zone-teenager-detained-4280326</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM Tarique joins world leaders at UN General Assembly in New York]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/pm-tarique-joins-world-leaders-un-general-assembly-new-york-4280121</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-tarique-joins-world-leaders-un-general-assembly-new-york-4280121</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Woman run over by DNCC garbage truck in Dhaka's Korail]]></title>
             <link>https://www.thedailystar.net/news/accidents-and-fires/news/woman-run-over-dncc-garbage-truck-dhakas-korail-4280446</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/woman-run-over-dncc-garbage-truck-dhakas-korail-4280446</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Construction worker killed after car runs over him in Baridhara Diplomatic Zone, teenager detained]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/construction-worker-killed-after-car-runs-over-him-baridhara-diplomatic-zone-teenager-detained-4280326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/construction-worker-killed-after-car-runs-over-him-baridhara-diplomatic-zone-teenager-detained-4280326</guid>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM Tarique joins world leaders at UN General Assembly in New York]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/pm-tarique-joins-world-leaders-un-general-assembly-new-york-4280121</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-tarique-joins-world-leaders-un-general-assembly-new-york-4280121</guid>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DSE to pay Tk 72 crore to 17,332 investors hit by scams]]></title>
             <link>https://www.thedailystar.net/business/news/dse-pay-tk-72-crore-17332-investors-hit-scams-4280056</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/dse-pay-tk-72-crore-17332-investors-hit-scams-4280056</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Here they go again, building the same old narrative': LaLiga president hits out at Real's refereeing claims]]></title>
             <description><![CDATA[LaLiga president Javier Tebas hit out on Tuesday at what he deemed accusations of a refereeing "conspiracy" by Real Madrid following their derby loss to Atletico Madrid.]]></description>
             <link>https://www.thedailystar.net/sports/football/news/here-they-go-again-building-the-same-old-narrative-laliga-president-hits-out-reals-refereeing-claims-4280471</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/here-they-go-again-building-the-same-old-narrative-laliga-president-hits-out-reals-refereeing-claims-4280471</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India renews call for 'forward-looking' relations with Bangladesh]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-renews-call-forward-looking-relations-bangladesh-4280356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-renews-call-forward-looking-relations-bangladesh-4280356</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Tebas discrediting and attacking Real Madrid': Los Blancos call for new LaLiga president]]></title>
             <description><![CDATA[Real Madrid want a new LaLiga president in light of what they called "intolerable" comments from incumbent Javier Tebas, who said earlier on Tuesday that claims of officiating bias against the club belonged to "another galaxy".]]></description>
             <link>https://www.thedailystar.net/sports/football/news/tebas-discrediting-and-attacking-real-madrid-los-blancos-call-new-laliga-president-4280521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/tebas-discrediting-and-attacking-real-madrid-los-blancos-call-new-laliga-president-4280521</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Federations question Infantino reform pledge, demand deeper FIFA overhaul]]></title>
             <link>https://www.thedailystar.net/sports/football/news/federations-question-infantino-reform-pledge-demand-deeper-fifa-overhaul-4280671</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/federations-question-infantino-reform-pledge-demand-deeper-fifa-overhaul-4280671</guid>
-            <pubDate>Tue, 22 Sep 2026 21:56:36 GMT</pubDate>
+            <pubDate>Wed, 23 Sep 2026 00:15:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Olympic hero Marchand’s Japanese headache gets another name at Asiad 2026]]></title>
@@ -3135,12 +3141,6 @@
             <link>https://www.thedailystar.net/business/news/govt-may-force-life-insurers-sell-assets-settle-claims-khosru-4272806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-may-force-life-insurers-sell-assets-settle-claims-khosru-4272806</guid>
             <pubDate>Tue, 15 Sep 2026 01:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are we in such a hurry to live?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/why-are-we-such-hurry-live-4272626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/why-are-we-such-hurry-live-4272626</guid>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
