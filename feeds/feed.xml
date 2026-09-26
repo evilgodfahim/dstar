@@ -4,26 +4,127 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 12:54:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 17:00:53 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 12:54:40 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Opinion / Topu Junior and Sohel Senior: Not good enough?]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/topu-junior-and-sohel-senior-not-good-enough-4283316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/topu-junior-and-sohel-senior-not-good-enough-4283316</guid>
-            <pubDate>Sat, 26 Sep 2026 12:54:40 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Reclaiming the feminine narrative through art: WO|MAN puts on stellar viewing]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/reclaiming-the-feminine-narrative-through-art-woman-puts-stellar-viewing-4283421</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/reclaiming-the-feminine-narrative-through-art-woman-puts-stellar-viewing-4283421</guid>
-            <pubDate>Sat, 26 Sep 2026 12:54:40 GMT</pubDate>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The system is failing our children]]></title>
-            <link>https://www.thedailystar.net/opinion/news/the-system-failing-our-children-4282946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-system-failing-our-children-4282946</guid>
+            <title><![CDATA[Shuki cherishes Bangladesh debut despite defeat]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/shuki-cherishes-bangladesh-debut-despite-defeat-4283506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/shuki-cherishes-bangladesh-debut-despite-defeat-4283506</guid>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka Chamber seeks Malaysian support to boost exports, investment]]></title>
+            <link>https://www.thedailystar.net/business/news/dhaka-chamber-seeks-malaysian-support-boost-exports-investment-4283471</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/dhaka-chamber-seeks-malaysian-support-boost-exports-investment-4283471</guid>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inherited Memories / My grandmother’s world: Partition, Shia traditions and memories of Old Dhaka]]></title>
+            <description><![CDATA[A grandson remembers his Dadi through food, faith, Muharram rituals and the enduring heritage of Shia Dhaka.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/wisdom/news/my-grandmothers-world-partition-shia-traditions-and-memories-old-dhaka-4282211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/my-grandmothers-world-partition-shia-traditions-and-memories-old-dhaka-4282211</guid>
+            <dc:creator><![CDATA[Syed Faizanul Hussaini]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The making of a cup of tea: Plantation, empire and the pursuit of quality]]></title>
+            <description><![CDATA[By Sarah Besky]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-making-cup-tea-plantation-empire-and-the-pursuit-quality-4282841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-making-cup-tea-plantation-empire-and-the-pursuit-quality-4282841</guid>
+            <dc:creator><![CDATA[Sarah Besky]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Column by Mahfuz Anam / The draft cyber law will restrict the media]]></title>
+            <description><![CDATA[By Mahfuz Anam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-draft-cyber-law-will-restrict-the-media-4282196</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-draft-cyber-law-will-restrict-the-media-4282196</guid>
+            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Duli to Baaji: Whose gaze shapes indigenous representation?]]></title>
+            <description><![CDATA[From Satyajit Ray to Coke Studio Bangla, how does mainstream Bengali culture portray indigenous communities? An analysis of agency, fantasy, and the gaze.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/duli-baaji-whose-gaze-shapes-indigenous-representation-4282916</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/duli-baaji-whose-gaze-shapes-indigenous-representation-4282916</guid>
+            <dc:creator><![CDATA[Prottoy Nafak]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No arrests yet over Pretty Group explosion in Ashulia]]></title>
+            <link>https://www.thedailystar.net/news/accidents-and-fires/news/no-arrests-yet-over-pretty-group-explosion-ashulia-4283426</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/no-arrests-yet-over-pretty-group-explosion-ashulia-4283426</guid>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salahuddin warns police of criminal, sedition cases for indiscipline]]></title>
+            <link>https://www.thedailystar.net/news/news/salahuddin-warns-police-criminal-sedition-cases-indiscipline-4283566</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/salahuddin-warns-police-criminal-sedition-cases-indiscipline-4283566</guid>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt to re-examine cases of primary teacher recruits missing appointment letters: Milon]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/education/news/govt-re-examine-cases-primary-teacher-recruits-missing-appointment-letters-milon-4283516</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/education/news/govt-re-examine-cases-primary-teacher-recruits-missing-appointment-letters-milon-4283516</guid>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Anti-Terrorism Unit’ to be renamed ‘Special Response Unit’: Home minister]]></title>
+            <link>https://www.thedailystar.net/news/news/anti-terrorism-unit-be-renamed-special-response-unit-home-minister-4283571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/anti-terrorism-unit-be-renamed-special-response-unit-home-minister-4283571</guid>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / Washington leaves Hasina to Dhaka and Delhi, signals confidence in BNP]]></title>
+            <link>https://www.thedailystar.net/news-analysis/news/washington-leaves-hasina-dhaka-and-delhi-signals-confidence-bnp-4283406</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/washington-leaves-hasina-dhaka-and-delhi-signals-confidence-bnp-4283406</guid>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mirpur health centre attack / 'Where are the administration, law enforcement agencies?': Shafiqur]]></title>
+            <description><![CDATA[Says attack deprived local people of access to healthcare]]></description>
+            <link>https://www.thedailystar.net/news/politics/news/where-are-the-administration-law-enforcement-agencies-shafiqur-4283531</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/where-are-the-administration-law-enforcement-agencies-shafiqur-4283531</guid>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What could Manchester City face if charges are upheld?]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/what-could-manchester-city-face-if-charges-are-upheld-4283556</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/what-could-manchester-city-face-if-charges-are-upheld-4283556</guid>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ireland players vote to play Israel tie despite Gaza unease]]></title>
+            <description><![CDATA[Players from Ireland's football team voted on Saturday to fulfil a UEFA Nations League tie with Israel despite player unease over the war in Gaza.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/ireland-players-vote-play-israel-tie-despite-gaza-unease-4283551</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/ireland-players-vote-play-israel-tie-despite-gaza-unease-4283551</guid>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pedestrian killed after being run over by municipal excavator]]></title>
+            <description><![CDATA[UNO says authorities will take steps to ensure the future of the deceased’s daughter]]></description>
+            <link>https://www.thedailystar.net/news/accidents-and-fires/news/pedestrian-killed-after-being-run-over-municipal-excavator-4283521</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/pedestrian-killed-after-being-run-over-municipal-excavator-4283521</guid>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dengue claims 8 more lives, 1,432 hospitalised in 24 hours]]></title>
+            <link>https://www.thedailystar.net/news/healthcare/disease/news/dengue-claims-8-more-lives-1432-hospitalised-24-hours-4283486</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/disease/news/dengue-claims-8-more-lives-1432-hospitalised-24-hours-4283486</guid>
+            <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / Topu Junior and Sohel Senior: Not good enough?]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/topu-junior-and-sohel-senior-not-good-enough-4283316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/topu-junior-and-sohel-senior-not-good-enough-4283316</guid>
             <pubDate>Sat, 26 Sep 2026 12:54:40 GMT</pubDate>
         </item>
         <item>
@@ -33,39 +134,9 @@
             <pubDate>Sat, 26 Sep 2026 12:54:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Inherited Memories / My grandmother’s world: Partition, Shia traditions and memories of Old Dhaka]]></title>
-            <description><![CDATA[A grandson remembers his Dadi through food, faith, Muharram rituals and the enduring heritage of Shia Dhaka.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/my-grandmothers-world-partition-shia-traditions-and-memories-old-dhaka-4282211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/my-grandmothers-world-partition-shia-traditions-and-memories-old-dhaka-4282211</guid>
-            <dc:creator><![CDATA[Syed Faizanul Hussaini]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 12:54:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / The draft cyber law will restrict the media]]></title>
-            <description><![CDATA[By Mahfuz Anam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/the-draft-cyber-law-will-restrict-the-media-4282196</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/the-draft-cyber-law-will-restrict-the-media-4282196</guid>
-            <dc:creator><![CDATA[Mahfuz Anam]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 12:54:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Duli to Baaji: Whose gaze shapes indigenous representation?]]></title>
-            <description><![CDATA[From Satyajit Ray to Coke Studio Bangla, how does mainstream Bengali culture portray indigenous communities? An analysis of agency, fantasy, and the gaze.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/duli-baaji-whose-gaze-shapes-indigenous-representation-4282916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/duli-baaji-whose-gaze-shapes-indigenous-representation-4282916</guid>
-            <dc:creator><![CDATA[Prottoy Nafak]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 12:54:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[We must break the cyber-scam networks]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/we-must-break-the-cyber-scam-networks-4283436</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/we-must-break-the-cyber-scam-networks-4283436</guid>
-            <pubDate>Sat, 26 Sep 2026 12:54:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No arrests yet over Pretty Group explosion in Ashulia]]></title>
-            <link>https://www.thedailystar.net/news/accidents-and-fires/news/no-arrests-yet-over-pretty-group-explosion-ashulia-4283426</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/no-arrests-yet-over-pretty-group-explosion-ashulia-4283426</guid>
             <pubDate>Sat, 26 Sep 2026 12:54:40 GMT</pubDate>
         </item>
         <item>
@@ -106,13 +177,6 @@
             <pubDate>Sat, 26 Sep 2026 12:54:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Analysis / Washington leaves Hasina to Dhaka and Delhi, signals confidence in BNP]]></title>
-            <description><![CDATA[It will clearly embolden the current government while further frustrating Awami League loyalists]]></description>
-            <link>https://www.thedailystar.net/news-analysis/news/washington-leaves-hasina-dhaka-and-delhi-signals-confidence-bnp-4283406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/washington-leaves-hasina-dhaka-and-delhi-signals-confidence-bnp-4283406</guid>
-            <pubDate>Sat, 26 Sep 2026 12:54:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Donation money, temple items allegedly stolen in Bogura]]></title>
             <link>https://www.thedailystar.net/news/crime-justice/news/donation-money-temple-items-allegedly-stolen-bogura-4283416</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/donation-money-temple-items-allegedly-stolen-bogura-4283416</guid>
@@ -140,14 +204,6 @@
             <title><![CDATA[The system is failing our children]]></title>
             <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-system-failing-our-children-4282946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/the-system-failing-our-children-4282946</guid>
-            <pubDate>Sat, 26 Sep 2026 07:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The making of a cup of tea: Plantation, empire and the pursuit of quality]]></title>
-            <description><![CDATA[By Sarah Besky]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-making-cup-tea-plantation-empire-and-the-pursuit-quality-4282841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-making-cup-tea-plantation-empire-and-the-pursuit-quality-4282841</guid>
-            <dc:creator><![CDATA[Sarah Besky]]></dc:creator>
             <pubDate>Sat, 26 Sep 2026 07:25:00 GMT</pubDate>
         </item>
         <item>
@@ -274,6 +330,12 @@
             <pubDate>Sat, 26 Sep 2026 01:22:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The system is failing our children]]></title>
+            <link>https://www.thedailystar.net/opinion/news/the-system-failing-our-children-4282946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-system-failing-our-children-4282946</guid>
+            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Today's Gallery (2026.09.26)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260926-4283106</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260926-4283106</guid>
@@ -303,6 +365,12 @@
             <title><![CDATA[The everyday resistance of Rohingya women the world rarely sees]]></title>
             <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/the-everyday-resistance-rohingya-women-the-world-rarely-sees-4282891</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/the-everyday-resistance-rohingya-women-the-world-rarely-sees-4282891</guid>
+            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El Nino rewrites the menu in the world's top restaurants]]></title>
+            <link>https://www.thedailystar.net/news/environment/climate-crisis/news/el-nino-rewrites-the-menu-the-worlds-top-restaurants-4283151</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/climate-crisis/news/el-nino-rewrites-the-menu-the-worlds-top-restaurants-4283151</guid>
             <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -722,12 +790,6 @@
             <pubDate>Thu, 24 Sep 2026 14:49:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Career / From pharmacy student to cancer researcher]]></title>
-            <link>https://www.thedailystar.net/campus/news/pharmacy-student-cancer-researcher-4281941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/pharmacy-student-cancer-researcher-4281941</guid>
-            <pubDate>Thu, 24 Sep 2026 14:49:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ankan and Nandita unite for Coke Studio Bangla’s ‘Mothura’]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/ankan-and-nandita-unite-coke-studio-banglas-mothura-4282076</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/ankan-and-nandita-unite-coke-studio-banglas-mothura-4282076</guid>
@@ -943,6 +1005,12 @@
             <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/pm-tarique-proposes-5-urgent-measures-resolve-rohingya-crisis-4281291</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/pm-tarique-proposes-5-urgent-measures-resolve-rohingya-crisis-4281291</guid>
             <pubDate>Thu, 24 Sep 2026 04:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Career / The journey of a Bangladeshi cancer researcher at Harvard]]></title>
+            <link>https://www.thedailystar.net/campus/news/pharmacy-student-cancer-researcher-4281941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/pharmacy-student-cancer-researcher-4281941</guid>
+            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The young radicals who challenged 19th-century Bengal]]></title>
@@ -3077,74 +3145,6 @@
             <link>https://www.thedailystar.net/news/bangladesh/news/too-few-facilities-too-many-people-4276656</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/too-few-facilities-too-many-people-4276656</guid>
             <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Business Plus  / The easy money trap]]></title>
-            <description><![CDATA[Loans are quick, equity is ignored, and banks are left carrying nearly all the risk in the economy]]></description>
-            <link>https://www.thedailystar.net/business/news/the-easy-money-trap-4276436</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/the-easy-money-trap-4276436</guid>
-            <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who really owned Britain’s royal jewels?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/who-really-owned-britains-royal-jewels-4276491</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/who-really-owned-britains-royal-jewels-4276491</guid>
-            <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sundarbans: The forest that protects, feeds and sustains]]></title>
-            <link>https://www.thedailystar.net/weekend-read/news/sundarbans-the-forest-protects-feeds-and-sustains-4276466</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/weekend-read/news/sundarbans-the-forest-protects-feeds-and-sustains-4276466</guid>
-            <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fellowships / Apply to Chevening Oxford Centre for Islamic Studies Fellowship]]></title>
-            <link>https://www.thedailystar.net/campus/news/apply-chevening-oxford-centre-islamic-studies-fellowship-4276976</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/apply-chevening-oxford-centre-islamic-studies-fellowship-4276976</guid>
-            <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Far-right Israelis protest outside ‘NAZA’ director’s home after Venice win]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/far-right-israelis-protest-outside-naza-directors-home-after-venice-win-4276186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/far-right-israelis-protest-outside-naza-directors-home-after-venice-win-4276186</guid>
-            <pubDate>Fri, 18 Sep 2026 18:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NCL’s Second XI to begin on Oct 7]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/ncls-second-xi-begin-oct-7-4276326</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/ncls-second-xi-begin-oct-7-4276326</guid>
-            <pubDate>Fri, 18 Sep 2026 18:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman raped while son held at knifepoint in Mymensingh]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/woman-raped-while-son-held-knifepoint-mymensingh-4276371</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/woman-raped-while-son-held-knifepoint-mymensingh-4276371</guid>
-            <pubDate>Fri, 18 Sep 2026 18:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netrokona Swechchhasebak Dal leader sent to jail in mugging case]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/netrokona-swechchhasebak-dal-leader-sent-jail-mugging-case-4276381</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/netrokona-swechchhasebak-dal-leader-sent-jail-mugging-case-4276381</guid>
-            <pubDate>Fri, 18 Sep 2026 18:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suicide attack kills 16 near mosque in northwest Pakistan police compound]]></title>
-            <link>https://www.thedailystar.net/business/global-economy/south-asia/news/suicide-attack-kills-16-near-mosque-northwest-pakistan-police-compound-4276376</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/global-economy/south-asia/news/suicide-attack-kills-16-near-mosque-northwest-pakistan-police-compound-4276376</guid>
-            <pubDate>Fri, 18 Sep 2026 18:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[23 held from Tejgaon College mosque over holding ‘secret meeting’]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/23-held-tejgaon-college-mosque-over-holding-secret-meeting-4276266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/23-held-tejgaon-college-mosque-over-holding-secret-meeting-4276266</guid>
-            <pubDate>Fri, 18 Sep 2026 18:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man stabbed to death in Kurigram; suspect detained]]></title>
-            <description><![CDATA[The victim was standing on the roadside after having tea; suspect gives incoherent statements, say police]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/man-stabbed-death-kurigram-suspect-detained-4276426</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/man-stabbed-death-kurigram-suspect-detained-4276426</guid>
-            <pubDate>Fri, 18 Sep 2026 18:15:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
