@@ -4,27 +4,97 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Sep 2026 01:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 08:31:46 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
+        <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Today's Gallery (2026.09.28)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260928-4284701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260928-4284701</guid>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
+            <title><![CDATA[MTV VMA awards 2026: Madonna dominates with seven wins]]></title>
+            <link>https://www.thedailystar.net/culture/music/news/mtv-vma-awards-2026-madonna-dominates-seven-wins-4284941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/music/news/mtv-vma-awards-2026-madonna-dominates-seven-wins-4284941</guid>
+            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Perspective / Why we fear stray dogs when human behaviour poses greater risk]]></title>
-            <link>https://www.thedailystar.net/life-living/news/why-we-fear-stray-dogs-when-human-behaviour-poses-greater-risk-4284361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/why-we-fear-stray-dogs-when-human-behaviour-poses-greater-risk-4284361</guid>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
+            <title><![CDATA[The answer to children’s online risks is not a social media ban]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/the-answer-childrens-online-risks-not-social-media-ban-4284576</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-answer-childrens-online-risks-not-social-media-ban-4284576</guid>
+            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Marriage should not be a ban on travelling with friends]]></title>
-            <link>https://www.thedailystar.net/life-living/travel/news/marriage-should-not-be-ban-travelling-friends-4284351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/travel/news/marriage-should-not-be-ban-travelling-friends-4284351</guid>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
+            <title><![CDATA[Confessions of a finance professor: The danger of putting profits first]]></title>
+            <description><![CDATA[The growing financialisation of society and relentless profit maximisation threaten global economic stability and increase wealth inequality.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/confessions-finance-professor-the-danger-putting-profits-first-4284291</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/confessions-finance-professor-the-danger-putting-profits-first-4284291</guid>
+            <dc:creator><![CDATA[Manzur-Ur Rahman]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Tarique Rahman’s plan break the Rohingya repatriation deadlock?]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/can-tarique-rahmans-plan-break-the-rohingya-repatriation-deadlock-4284806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/can-tarique-rahmans-plan-break-the-rohingya-repatriation-deadlock-4284806</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[817 primary teacher appointment cases under review: Milon]]></title>
+            <link>https://www.thedailystar.net/news/education/news/817-primary-teacher-appointment-cases-under-review-milon-4284971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/817-primary-teacher-appointment-cases-under-review-milon-4284971</guid>
+            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI’s hidden water cost, and why it matters]]></title>
+            <description><![CDATA[By Fatema Tuz ZuhraHurmetun Nesa Labiba]]></description>
+            <link>https://www.thedailystar.net/opinion/news/ais-hidden-water-cost-and-why-it-matters-4284571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/ais-hidden-water-cost-and-why-it-matters-4284571</guid>
+            <dc:creator><![CDATA[Fatema Tuz ZuhraHurmetun Nesa Labiba]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Media reform and journalism protection law can help counter disinformation]]></title>
+            <description><![CDATA[Terming the government’s latest initiative to amend the Cyber Safety Act “ominous,” Mahfuz Anam, editor of this paper, wrote in his September 25 column that “there is no way that media can be protected under the draft cyber protection law.”]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/media-reform-and-journalism-protection-law-can-help-counter-disinformation-4284551</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/media-reform-and-journalism-protection-law-can-help-counter-disinformation-4284551</guid>
+            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
+            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measles vaccine still unknown in some pockets of Sylhet]]></title>
+            <link>https://www.thedailystar.net/health/news/measles-vaccine-still-unknown-some-pockets-sylhet-4284986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/news/measles-vaccine-still-unknown-some-pockets-sylhet-4284986</guid>
+            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[13 arrested over Adabor building attack, Chand Udyan land grab bid]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/13-arrested-over-adabor-building-attack-chand-udyan-land-grab-bid-4284936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/13-arrested-over-adabor-building-attack-chand-udyan-land-grab-bid-4284936</guid>
+            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Messi, Ronaldo and Alcaraz love it, now padel makes Asian Games debut]]></title>
+            <link>https://www.thedailystar.net/sports/more-sports/news/messi-ronaldo-and-alcaraz-love-it-now-padel-makes-asian-games-debut-4284991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/news/messi-ronaldo-and-alcaraz-love-it-now-padel-makes-asian-games-debut-4284991</guid>
+            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh table tennis, kabaddi teams stranded at Bangkok airport]]></title>
+            <description><![CDATA[Six members of the Bangladesh table tennis team that participated in the Asian Games in Japan have been stranded at Suvarnabhumi Airport in Bangkok for more than 36 hours, waiting to return home.]]></description>
+            <link>https://www.thedailystar.net/sports/more-sports/news/bangladesh-table-tennis-kabaddi-teams-stranded-bangkok-airport-4284906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/news/bangladesh-table-tennis-kabaddi-teams-stranded-bangkok-airport-4284906</guid>
+            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Topu, Sohel out as Dooley makes four changes against Singapore]]></title>
+            <description><![CDATA[Midfielder Sohel Rana and defender Shakil Ahad Topu paid the price for their poor performance against Malaysia as Thomas Dooley rung in the changes against Singapore in the FIFA AEAN Cup on Monday.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/topu-sohel-out-dooley-makes-four-changes-against-singapore-4284981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/topu-sohel-out-dooley-makes-four-changes-against-singapore-4284981</guid>
+            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crimes against humanity: Formal charges filed against Kamal Majumder, Nikhil and 17 others]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/crimes-against-humanity-formal-charges-filed-against-kamal-majumder-nikhil-and-17-others-4284966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/crimes-against-humanity-formal-charges-filed-against-kamal-majumder-nikhil-and-17-others-4284966</guid>
+            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[He used to call me Mrinal: Golam Farida Chhonda on Mustafa Monwar]]></title>
@@ -36,12 +106,6 @@
             <title><![CDATA[BCB launches D3 to revive domestic cricket]]></title>
             <link>https://www.thedailystar.net/sports/cricket/news/bcb-launches-d3-revive-domestic-cricket-4284456</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/bcb-launches-d3-revive-domestic-cricket-4284456</guid>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bond market grows, but trust deficit holds it back]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/bond-market-grows-trust-deficit-holds-it-back-4284606</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bond-market-grows-trust-deficit-holds-it-back-4284606</guid>
             <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
         </item>
         <item>
@@ -58,22 +122,6 @@
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/diplomacy-turbulent-world-how-bangladesh-should-navigate-bilateral-ties-and-regional-platforms-4283396</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/diplomacy-turbulent-world-how-bangladesh-should-navigate-bilateral-ties-and-regional-platforms-4283396</guid>
             <dc:creator><![CDATA[Mohd Amdadul Haque]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Confessions of a finance professor: The danger of putting profits first]]></title>
-            <description><![CDATA[The growing financialisation of society and relentless profit maximisation threaten global economic stability and increase wealth inequality.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/confessions-finance-professor-the-danger-putting-profits-first-4284291</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/confessions-finance-professor-the-danger-putting-profits-first-4284291</guid>
-            <dc:creator><![CDATA[Manzur Rahman]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Tarique Rahman’s plan break the Rohingya repatriation deadlock?]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/can-tarique-rahmans-plan-break-the-rohingya-repatriation-deadlock-4284806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/can-tarique-rahmans-plan-break-the-rohingya-repatriation-deadlock-4284806</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
         </item>
         <item>
@@ -140,10 +188,47 @@
             <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reflections / The allure of live theatre in the age of screens]]></title>
-            <link>https://www.thedailystar.net/star-youth/news/the-allure-live-theatre-the-age-screens-4284221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-youth/news/the-allure-live-theatre-the-age-screens-4284221</guid>
-            <pubDate>Sun, 27 Sep 2026 22:55:37 GMT</pubDate>
+            <title><![CDATA[Today's Gallery (2026.09.28)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20260928-4284701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260928-4284701</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bond market grows, but trust deficit holds it back]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/bond-market-grows-trust-deficit-holds-it-back-4284606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bond-market-grows-trust-deficit-holds-it-back-4284606</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[News  Analysis / RCEP bid moves forward. What now?]]></title>
+            <description><![CDATA[The RCEP ministers approved the establishment of an Ad Hoc Accession Working Group to advance the accession process of Bangladesh, alongside Chile, Hong Kong and Sri Lanka]]></description>
+            <link>https://www.thedailystar.net/business/news/rcep-bid-moves-forward-what-now-4284596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/rcep-bid-moves-forward-what-now-4284596</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measles makes sharp comeback in September]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/measles-makes-sharp-comeback-sept-4284781</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/measles-makes-sharp-comeback-sept-4284781</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pry teacher recruitment: Selected, yet still waiting]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/pry-teacher-recruitment-selected-yet-still-waiting-4284776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pry-teacher-recruitment-selected-yet-still-waiting-4284776</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why businesses hesitate to borrow]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/why-businesses-hesitate-borrow-4284536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/why-businesses-hesitate-borrow-4284536</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Khulna’s shrimp factories fall silent as supply shrinks]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/khulnas-shrimp-factories-fall-silent-supply-shrinks-4284556</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/khulnas-shrimp-factories-fall-silent-supply-shrinks-4284556</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A medical career on the rise, a marriage just begun: Dengue claims Dr Anchal's life at 30]]></title>
@@ -348,13 +433,6 @@
             <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Partition, Bor Porong and the Chakmas’ unfinished struggle for belonging]]></title>
-            <description><![CDATA[Explore the historical trauma of the Chakma people, from the 1947 Partition and the Kaptai Dam displacement to their ongoing struggle for citizenship in India.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/partition-bor-porong-and-the-chakmas-unfinished-struggle-belonging-4283541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/partition-bor-porong-and-the-chakmas-unfinished-struggle-belonging-4283541</guid>
-            <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Five students electrocuted, suffer burns on madrasa rooftop in Narayanganj]]></title>
             <link>https://www.thedailystar.net/news/crime-justice/news/five-students-electrocuted-suffer-burns-madrasa-rooftop-narayanganj-4284021</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/five-students-electrocuted-suffer-burns-madrasa-rooftop-narayanganj-4284021</guid>
@@ -392,12 +470,6 @@
             <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Weighed down by heavy metals]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/weighed-down-heavy-metals-4283841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/weighed-down-heavy-metals-4283841</guid>
-            <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dengue: When fever falls, danger can rise!]]></title>
             <link>https://www.thedailystar.net/health/news/dengue-when-fever-falls-danger-can-rise-4283751</link>
             <guid isPermaLink="true">https://www.thedailystar.net/health/news/dengue-when-fever-falls-danger-can-rise-4283751</guid>
@@ -415,6 +487,36 @@
             <link>https://www.thedailystar.net/news/politics/election/news/govt-favours-polls-january-4283816</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/politics/election/news/govt-favours-polls-january-4283816</guid>
             <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Perspective / Why we fear stray dogs when human behaviour poses greater risk]]></title>
+            <link>https://www.thedailystar.net/life-living/news/why-we-fear-stray-dogs-when-human-behaviour-poses-greater-risk-4284361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/why-we-fear-stray-dogs-when-human-behaviour-poses-greater-risk-4284361</guid>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marriage should not be a ban on travelling with friends]]></title>
+            <link>https://www.thedailystar.net/life-living/travel/news/marriage-should-not-be-ban-travelling-friends-4284351</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/travel/news/marriage-should-not-be-ban-travelling-friends-4284351</guid>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reflections / The allure of live theatre in the age of screens]]></title>
+            <link>https://www.thedailystar.net/star-youth/news/the-allure-live-theatre-the-age-screens-4284221</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-youth/news/the-allure-live-theatre-the-age-screens-4284221</guid>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Partition, Bor Porong and the Chakmas’ unfinished struggle for belonging]]></title>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/partition-bor-porong-and-the-chakmas-unfinished-struggle-belonging-4283541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/partition-bor-porong-and-the-chakmas-unfinished-struggle-belonging-4283541</guid>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weighed down by heavy metals]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/weighed-down-heavy-metals-4283841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/weighed-down-heavy-metals-4283841</guid>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The moral hierarchy of pleasure: Who controls women’s bodies?]]></title>
@@ -564,12 +666,6 @@
             <link>https://www.thedailystar.net/news/healthcare/disease/news/dengue-claims-8-more-lives-1432-hospitalised-24-hours-4283486</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/disease/news/dengue-claims-8-more-lives-1432-hospitalised-24-hours-4283486</guid>
             <pubDate>Sat, 26 Sep 2026 17:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / Topu Junior and Sohel Senior: Not good enough?]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/topu-junior-and-sohel-senior-not-good-enough-4283316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/topu-junior-and-sohel-senior-not-good-enough-4283316</guid>
-            <pubDate>Sat, 26 Sep 2026 12:54:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Govt forms high-level panel to fast-track Matarbari projects]]></title>
@@ -766,6 +862,12 @@
             <link>https://www.thedailystar.net/news/crime-justice/news/health-centre-attacked-midnight-mirpur-4283021</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/health-centre-attacked-midnight-mirpur-4283021</guid>
             <pubDate>Sat, 26 Sep 2026 01:22:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / Topu Junior and Sohel Senior: Not good enough?]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/topu-junior-and-sohel-senior-not-good-enough-4283316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/topu-junior-and-sohel-senior-not-good-enough-4283316</guid>
+            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Duli to Baaji: Whose gaze shapes indigenous representation?]]></title>
@@ -3043,105 +3145,6 @@
             <link>https://www.thedailystar.net/news/crime-justice/news/teen-arrested-over-attempted-rape-four-children-patuakhali-4277566</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/teen-arrested-over-attempted-rape-four-children-patuakhali-4277566</guid>
             <pubDate>Sun, 20 Sep 2026 05:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asian Games / China thrash debutants Bangladesh 13-0 in women's hockey opener]]></title>
-            <description><![CDATA[Bangladesh's women's hockey debut at the Asian Games turned into a harsh reality as they suffered a 13-0 defeat to powerhouse China in their Pool A opener at the Gifu Prefectural Green Stadium in Kakamigahara, Japan, today.]]></description>
-            <link>https://www.thedailystar.net/sports/more-sports/news/china-thrash-debutants-bangladesh-13-0-womens-hockey-opener-4277596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/news/china-thrash-debutants-bangladesh-13-0-womens-hockey-opener-4277596</guid>
-            <pubDate>Sun, 20 Sep 2026 05:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First janaza of Comilla University teacher’s son Opratim held]]></title>
-            <link>https://www.thedailystar.net/news/news/first-janaza-comilla-university-teachers-son-opratim-held-4277591</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/first-janaza-comilla-university-teachers-son-opratim-held-4277591</guid>
-            <pubDate>Sun, 20 Sep 2026 05:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Justice in shifts]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/justice-shifts-4277396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/justice-shifts-4277396</guid>
-            <pubDate>Sun, 20 Sep 2026 05:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four killed as bus, auto-rickshaw collide in Patuakhali]]></title>
-            <link>https://www.thedailystar.net/news/accidents-and-fires/news/four-killed-bus-auto-rickshaw-collide-patuakhali-4277551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/four-killed-bus-auto-rickshaw-collide-patuakhali-4277551</guid>
-            <pubDate>Sun, 20 Sep 2026 05:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Traditional boat race held in Jashore]]></title>
-            <link>https://www.thedailystar.net/news/news/traditional-boat-race-held-jashore-4277581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/traditional-boat-race-held-jashore-4277581</guid>
-            <pubDate>Sun, 20 Sep 2026 05:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Khichuri, mood and the science of comfort food]]></title>
-            <link>https://www.thedailystar.net/health/news/khichuri-mood-and-the-science-comfort-food-4277291</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/health/news/khichuri-mood-and-the-science-comfort-food-4277291</guid>
-            <pubDate>Sun, 20 Sep 2026 05:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rajshahi University hosts Karam Puja, celebrates Oraon heritage]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/rajshahi-university-hosts-karam-puja-celebrates-oraon-heritage-4277036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/rajshahi-university-hosts-karam-puja-celebrates-oraon-heritage-4277036</guid>
-            <pubDate>Sun, 20 Sep 2026 00:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jamal draws on 2018 success ahead of Jakarta return]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/jamal-draws-2018-success-ahead-jakarta-return-4277166</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/jamal-draws-2018-success-ahead-jakarta-return-4277166</guid>
-            <pubDate>Sun, 20 Sep 2026 00:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contractor accused of assaulting journalist in Kushtia]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/contractor-accused-assaulting-journalist-kushtia-4277196</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/contractor-accused-assaulting-journalist-kushtia-4277196</guid>
-            <pubDate>Sun, 20 Sep 2026 00:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sounds of explosions heard in Ctg, police say 'rumour']]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/sounds-explosions-heard-ctg-police-say-rumour-4277376</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/sounds-explosions-heard-ctg-police-say-rumour-4277376</guid>
-            <pubDate>Sun, 20 Sep 2026 00:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home minister should resign for failing to ensure security: Nahid]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/home-minister-should-resign-failing-ensure-security-nahid-4277091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/home-minister-should-resign-failing-ensure-security-nahid-4277091</guid>
-            <pubDate>Sun, 20 Sep 2026 00:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why cheaper money is failing to unlock investment]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/why-cheaper-money-failing-unlock-investment-4277171</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/why-cheaper-money-failing-unlock-investment-4277171</guid>
-            <pubDate>Sun, 20 Sep 2026 00:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death of CoU teacher’s son: Phone recovered from suspect’s house]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/death-cou-teachers-son-phone-recovered-suspects-house-4277366</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/death-cou-teachers-son-phone-recovered-suspects-house-4277366</guid>
-            <pubDate>Sun, 20 Sep 2026 00:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reaction / A life for a smartphone?]]></title>
-            <link>https://www.thedailystar.net/news-analysis/news/life-smartphone-4277051</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/life-smartphone-4277051</guid>
-            <pubDate>Sun, 20 Sep 2026 00:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘What do I live for now?’]]></title>
-            <description><![CDATA[Asks mother after body of her only boy found; 3 suspects held]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/what-do-i-live-now-4277186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/what-do-i-live-now-4277186</guid>
-            <pubDate>Sun, 20 Sep 2026 00:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England return to top of T20 rankings with SL whitewash]]></title>
-            <description><![CDATA[England returned to the summit of the T20 world rankings with another thumping of Sri Lanka to complete a 3-0 series whitewash in Manchester on Saturday.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/england-return-top-t20-rankings-sl-whitewash-4277211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/england-return-top-t20-rankings-sl-whitewash-4277211</guid>
-            <pubDate>Sun, 20 Sep 2026 00:54:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
