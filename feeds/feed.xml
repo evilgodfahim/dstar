@@ -4,33 +4,113 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 22:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 01:56:05 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
+        <pubDate>Wed, 30 Sep 2026 01:56:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.09.30)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260930-4286651</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260930-4286651</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Salahuddin, Ashraful reunite at Fortune in D3]]></title>
             <link>https://www.thedailystar.net/sports/cricket/news/salahuddin-ashraful-reunite-fortune-d3-4286151</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/salahuddin-ashraful-reunite-fortune-d3-4286151</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[India now moves to levy anti-subsidy duty on jute goods]]></title>
             <link>https://www.thedailystar.net/business/economy/news/india-now-moves-levy-anti-subsidy-duty-jute-goods-4286331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/india-now-moves-levy-anti-subsidy-duty-jute-goods-4286331</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Policing teen delinquency needs caution]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/policing-teen-delinquency-needs-caution-4285971</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/policing-teen-delinquency-needs-caution-4285971</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
+            <title><![CDATA[Do great leaders make history, or does history make them?]]></title>
+            <description><![CDATA[Exceptional leaders only change history’s trajectory when favourable contextual, economic, and social conditions enable their decisive impact.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/do-great-leaders-make-history-or-does-history-make-them-4285626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/do-great-leaders-make-history-or-does-history-make-them-4285626</guid>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BRICS is bigger, but can it deliver?]]></title>
+            <description><![CDATA[By Sreeradha Datta]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/brics-bigger-can-it-deliver-4285286</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/brics-bigger-can-it-deliver-4285286</guid>
+            <dc:creator><![CDATA[Sreeradha Datta]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Geopolitical ghosts & the United Nations]]></title>
+            <description><![CDATA[The United Nations faces a world where geopolitical rivalries increasingly challenge multilateralism, cooperation and the pursuit of peace.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/geopolitical-ghosts-the-united-nations-4286161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/geopolitical-ghosts-the-united-nations-4286161</guid>
+            <dc:creator><![CDATA[Imtiaz A Hussain]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BNP campaigned for ‘Yes’ but now rejects referendum verdict, says Akhter]]></title>
+            <link>https://www.thedailystar.net/news/politics/news/bnp-campaigned-yes-now-rejects-referendum-verdict-says-akhter-4286216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/bnp-campaigned-yes-now-rejects-referendum-verdict-says-akhter-4286216</guid>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spotify faces outages as thousands report problems]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/spotify-faces-outages-thousands-report-problems-4286181</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/spotify-faces-outages-thousands-report-problems-4286181</guid>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BNP expels Mofizur Rahman Mamun over allegations of 'immoral and anti-organisational' activities]]></title>
+            <link>https://www.thedailystar.net/news/politics/news/bnp-expels-mofizur-rahman-mamun-over-allegations-immoral-and-anti-organisational-activities-4286201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/bnp-expels-mofizur-rahman-mamun-over-allegations-immoral-and-anti-organisational-activities-4286201</guid>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rights Advocacy / A new start for Bangladesh's National Human Rights Commission: The Real Test Begins Now]]></title>
+            <link>https://www.thedailystar.net/ds/law-our-rights/rights-advocacy/news/new-start-bangladeshs-national-human-rights-commission-the-real-test-begins-now-4285496</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/ds/law-our-rights/rights-advocacy/news/new-start-bangladeshs-national-human-rights-commission-the-real-test-begins-now-4285496</guid>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh Bank bars profit from Islamic credit cards]]></title>
+            <description><![CDATA[Bangladesh Bank (BB) has issued its first full guidelines on Islamic credit cards, barring banks from earning more when customers' debts grow or when they pay late]]></description>
+            <link>https://www.thedailystar.net/business/news/bangladesh-bank-bars-profit-islamic-credit-cards-4286051</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-bank-bars-profit-islamic-credit-cards-4286051</guid>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh cholera vaccination: 82.6% coverage, 8.52 lakh miss first dose]]></title>
+            <link>https://www.thedailystar.net/health/news/bangladesh-cholera-vaccination-826-coverage-852-lakh-miss-first-dose-4286111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/news/bangladesh-cholera-vaccination-826-coverage-852-lakh-miss-first-dose-4286111</guid>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England break down stubborn Czechs to claim first Nations League win]]></title>
+            <description><![CDATA[Anthony Gordon and Harry Kane were on target again as England saw off 10-man Czech Republic 2-0 to get their Nations League campaign up and running on Tuesday.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/england-break-down-stubborn-czechs-claim-first-nations-league-win-4286586</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/england-break-down-stubborn-czechs-claim-first-nations-league-win-4286586</guid>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Premier League’s conspiracy theory’: City CEO hits back]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/premier-leagues-conspiracy-theory-city-ceo-hits-back-4286656</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/premier-leagues-conspiracy-theory-city-ceo-hits-back-4286656</guid>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sanctions, titles stripped or stars leaving: What next for City?]]></title>
+            <description><![CDATA[Manchester City have been plunged into crisis after a damming verdict found the Premier League leaders guilty of widespread financial fraud across a nine-year period between 2009 and 2018.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/sanctions-titles-stripped-or-stars-leaving-what-next-city-4286571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/sanctions-titles-stripped-or-stars-leaving-what-next-city-4286571</guid>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yamal inspires Spain to Croatia romp on World Cup homecoming]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/yamal-inspires-spain-croatia-romp-world-cup-homecoming-4286576</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/yamal-inspires-spain-croatia-romp-world-cup-homecoming-4286576</guid>
+            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is holding back solar in Bangladesh’s garment industry?]]></title>
@@ -38,91 +118,6 @@
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/what-holding-back-solar-bangladeshs-garment-industry-4285301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/what-holding-back-solar-bangladeshs-garment-industry-4285301</guid>
             <dc:creator><![CDATA[Khairul Hassan Jahin]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do great leaders make history, or does history make them?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/do-great-leaders-make-history-or-does-history-make-them-4285626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/do-great-leaders-make-history-or-does-history-make-them-4285626</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BRICS is bigger, but can it deliver?]]></title>
-            <description><![CDATA[BRICS, larger and more diverse than ever, must turn internal differences into sustained cooperation and meaningful outcomes.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/brics-bigger-can-it-deliver-4285286</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/brics-bigger-can-it-deliver-4285286</guid>
-            <dc:creator><![CDATA[Sreeradha Datta]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BNP campaigned for ‘Yes’ but now rejects referendum verdict, says Akhter]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/bnp-campaigned-yes-now-rejects-referendum-verdict-says-akhter-4286216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/bnp-campaigned-yes-now-rejects-referendum-verdict-says-akhter-4286216</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spotify faces outages as thousands report problems]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/spotify-faces-outages-thousands-report-problems-4286181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/spotify-faces-outages-thousands-report-problems-4286181</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Geopolitical ghosts & the United Nations]]></title>
-            <description><![CDATA[By Imtiaz A Hussain]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/geopolitical-ghosts-the-united-nations-4286161</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/geopolitical-ghosts-the-united-nations-4286161</guid>
-            <dc:creator><![CDATA[Imtiaz A Hussain]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt employees may get 5-day Durga Puja break if Oct 22 declared holiday in Bangladesh]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/govt-employees-may-get-5-day-durga-puja-break-if-oct-22-declared-holiday-bangladesh-4286006</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/govt-employees-may-get-5-day-durga-puja-break-if-oct-22-declared-holiday-bangladesh-4286006</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BNP expels Mofizur Rahman Mamun over allegations of 'immoral and anti-organisational' activities]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/bnp-expels-mofizur-rahman-mamun-over-allegations-immoral-and-anti-organisational-activities-4286201</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/bnp-expels-mofizur-rahman-mamun-over-allegations-immoral-and-anti-organisational-activities-4286201</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh Bank bars profit from Islamic credit cards]]></title>
-            <description><![CDATA[Bangladesh Bank (BB) has issued its first full guidelines on Islamic credit cards, barring banks from earning more when customers' debts grow or when they pay late]]></description>
-            <link>https://www.thedailystar.net/business/news/bangladesh-bank-bars-profit-islamic-credit-cards-4286051</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-bank-bars-profit-islamic-credit-cards-4286051</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh cholera vaccination: 82.6% coverage, 8.52 lakh miss first dose]]></title>
-            <link>https://www.thedailystar.net/health/news/bangladesh-cholera-vaccination-826-coverage-852-lakh-miss-first-dose-4286111</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/health/news/bangladesh-cholera-vaccination-826-coverage-852-lakh-miss-first-dose-4286111</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Premier League’s conspiracy theory’: City CEO hits back]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/premier-leagues-conspiracy-theory-city-ceo-hits-back-4286656</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/premier-leagues-conspiracy-theory-city-ceo-hits-back-4286656</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England break down stubborn Czechs to claim first Nations League win]]></title>
-            <description><![CDATA[Anthony Gordon and Harry Kane were on target again as England saw off 10-man Czech Republic 2-0 to get their Nations League campaign up and running on Tuesday.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/england-break-down-stubborn-czechs-claim-first-nations-league-win-4286586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/england-break-down-stubborn-czechs-claim-first-nations-league-win-4286586</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sanctions, titles stripped or stars leaving: What next for City?]]></title>
-            <description><![CDATA[Manchester City have been plunged into crisis after a damming verdict found the Premier League leaders guilty of widespread financial fraud across a nine-year period between 2009 and 2018.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/sanctions-titles-stripped-or-stars-leaving-what-next-city-4286571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/sanctions-titles-stripped-or-stars-leaving-what-next-city-4286571</guid>
-            <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yamal inspires Spain to Croatia romp on World Cup homecoming]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/yamal-inspires-spain-croatia-romp-world-cup-homecoming-4286576</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/yamal-inspires-spain-croatia-romp-world-cup-homecoming-4286576</guid>
             <pubDate>Tue, 29 Sep 2026 22:53:52 GMT</pubDate>
         </item>
         <item>
@@ -325,6 +320,18 @@
             <link>https://www.thedailystar.net/supplements/world-heart-day-2026/news/anyone-too-young-heart-attack-4285531</link>
             <guid isPermaLink="true">https://www.thedailystar.net/supplements/world-heart-day-2026/news/anyone-too-young-heart-attack-4285531</guid>
             <pubDate>Tue, 29 Sep 2026 05:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Policing teen delinquency needs caution]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/policing-teen-delinquency-needs-caution-4285971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/policing-teen-delinquency-needs-caution-4285971</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt employees may get 5-day Durga Puja break if Oct 22 declared holiday in Bangladesh]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/govt-employees-may-get-5-day-durga-puja-break-if-oct-22-declared-holiday-bangladesh-4286006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/govt-employees-may-get-5-day-durga-puja-break-if-oct-22-declared-holiday-bangladesh-4286006</guid>
+            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pop Culture / Why do modern films look artificial?]]></title>
@@ -3130,12 +3137,6 @@
             <title><![CDATA[Spain extend De la Fuente contract until 2032 after World Cup triumph]]></title>
             <link>https://www.thedailystar.net/sports/football/news/spain-extend-de-la-fuente-contract-until-2032-after-world-cup-triumph-4278916</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/spain-extend-de-la-fuente-contract-until-2032-after-world-cup-triumph-4278916</guid>
-            <pubDate>Mon, 21 Sep 2026 13:50:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Payra Port have any business model?]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/does-payra-port-have-any-business-model-4278096</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/does-payra-port-have-any-business-model-4278096</guid>
             <pubDate>Mon, 21 Sep 2026 13:50:50 GMT</pubDate>
         </item>
     </channel>
