@@ -4,15 +4,69 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Oct 2026 04:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 10:18:34 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 10:18:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Today's Gallery (2026.10.03)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261003-4289036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261003-4289036</guid>
-            <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
+            <title><![CDATA[The Cumilla home where Kazi Nazrul Islam and SD Burman sang together]]></title>
+            <description><![CDATA[The childhood home of legendary composer SD Burman, known for songs from Guide and Aradhana, has a little-known connection to poet Kazi Nazrul Islam]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news/the-cumilla-home-where-kazi-nazrul-islam-and-sd-burman-sang-together-4289191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/the-cumilla-home-where-kazi-nazrul-islam-and-sd-burman-sang-together-4289191</guid>
+            <pubDate>Sat, 03 Oct 2026 10:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Income tax returns explained: Who must file and how to correct mistakes]]></title>
+            <description><![CDATA[Here’s what you need to know about filing returns, late submissions and correcting mistakes]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news/income-tax-returns-explained-who-must-file-and-how-correct-mistakes-4289196</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/income-tax-returns-explained-who-must-file-and-how-correct-mistakes-4289196</guid>
+            <pubDate>Sat, 03 Oct 2026 10:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple to show clearer Mac data access prompts amid AI privacy concerns]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/apple-show-clearer-mac-data-access-prompts-amid-ai-privacy-concerns-4289231</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/apple-show-clearer-mac-data-access-prompts-amid-ai-privacy-concerns-4289231</guid>
+            <pubDate>Sat, 03 Oct 2026 10:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India beat Pakistan to complete Asian Games cricket double]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/games-india-beat-pakistan-complete-asian-games-cricket-double-4289271</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/games-india-beat-pakistan-complete-asian-games-cricket-double-4289271</guid>
+            <pubDate>Sat, 03 Oct 2026 10:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rap meets folk as musicians stand against child marriage]]></title>
+            <link>https://www.thedailystar.net/culture/music/news/rap-meets-folk-musicians-stand-against-child-marriage-4289216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/music/news/rap-meets-folk-musicians-stand-against-child-marriage-4289216</guid>
+            <pubDate>Sat, 03 Oct 2026 10:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seeking justice should not become a burden for abuse survivors]]></title>
+            <link>https://www.thedailystar.net/opinion/news/seeking-justice-should-not-become-burden-abuse-survivors-4288886</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/seeking-justice-should-not-become-burden-abuse-survivors-4288886</guid>
+            <pubDate>Sat, 03 Oct 2026 10:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oil settles lower after Europe agrees to tap diesel reserves]]></title>
+            <link>https://www.thedailystar.net/business/news/oil-settles-lower-after-europe-agrees-tap-diesel-reserves-4289166</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/oil-settles-lower-after-europe-agrees-tap-diesel-reserves-4289166</guid>
+            <pubDate>Sat, 03 Oct 2026 10:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What teachers need beyond recognition]]></title>
+            <description><![CDATA[By Shamsad Mortuza]]></description>
+            <link>https://www.thedailystar.net/opinion/news/what-teachers-need-beyond-recognition-4288871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/what-teachers-need-beyond-recognition-4288871</guid>
+            <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 10:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time to prioritise the mental well-being of journalists]]></title>
+            <description><![CDATA[By Md Abbas]]></description>
+            <link>https://www.thedailystar.net/opinion/news/time-prioritise-the-mental-well-being-journalists-4288896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/time-prioritise-the-mental-well-being-journalists-4288896</guid>
+            <dc:creator><![CDATA[Md Abbas]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 10:18:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What to watch on TV today (3 Oct, 2026)]]></title>
@@ -27,33 +81,11 @@
             <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fewer fish, higher costs: The struggle of Bangladesh’s Hilsa fishermen]]></title>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/fewer-fish-higher-costs-the-struggle-bangladeshs-hilsa-fishermen-4288821</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/fewer-fish-higher-costs-the-struggle-bangladeshs-hilsa-fishermen-4288821</guid>
-            <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Between Gabura and India: Work, loss and unequal choices]]></title>
-            <description><![CDATA[By Md. Shahidul Alam]]></description>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/between-gabura-and-india-work-loss-and-unequal-choices-4288831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/between-gabura-and-india-work-loss-and-unequal-choices-4288831</guid>
-            <dc:creator><![CDATA[Md. Shahidul Alam]]></dc:creator>
-            <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Time to prioritise the mental well-being of journalists]]></title>
             <description><![CDATA[By Md Abbas]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/time-prioritise-the-mental-well-being-journalists-4288896</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/time-prioritise-the-mental-well-being-journalists-4288896</guid>
             <dc:creator><![CDATA[Md Abbas]]></dc:creator>
-            <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From more power to better power: Rethinking Bangladesh’s energy future]]></title>
-            <description><![CDATA[By Shahriar Ahmed Chowdhury]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/more-power-better-power-rethinking-bangladeshs-energy-future-4288836</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/more-power-better-power-rethinking-bangladeshs-energy-future-4288836</guid>
-            <dc:creator><![CDATA[Shahriar Ahmed Chowdhury]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
         </item>
         <item>
@@ -65,21 +97,9 @@
             <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dhaka Swagger smoke, salvage and street attitude]]></title>
-            <link>https://www.thedailystar.net/ds/my-dhaka/news/dhaka-swagger-smoke-salvage-and-street-attitude-4288946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/ds/my-dhaka/news/dhaka-swagger-smoke-salvage-and-street-attitude-4288946</guid>
-            <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Childcare a major hurdle for working mothers]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/childcare-major-hurdle-working-mothers-4288996</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/childcare-major-hurdle-working-mothers-4288996</guid>
-            <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A trafficking racket behind ordinary phone numbers]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/trafficking-racket-behind-ordinary-phone-numbers-4288941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/trafficking-racket-behind-ordinary-phone-numbers-4288941</guid>
             <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
         </item>
         <item>
@@ -89,17 +109,76 @@
             <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Business Plus  / Land without utilities: The Sirajganj industrial gridlock]]></title>
-            <link>https://www.thedailystar.net/business/news/land-without-utilities-the-sirajganj-industrial-gridlock-4288861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/land-without-utilities-the-sirajganj-industrial-gridlock-4288861</guid>
-            <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Uranium on its way to Rooppur amid tight security]]></title>
             <description><![CDATA[The first batch of uranium is being transported to the Rooppur project site this morning under special security arrangements by the Bangladesh Army]]></description>
             <link>https://www.thedailystar.net/news/power-and-energy/news/uranium-its-way-rooppur-amid-tight-security-4289156</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/power-and-energy/news/uranium-its-way-rooppur-amid-tight-security-4289156</guid>
             <pubDate>Sat, 03 Oct 2026 04:53:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.10.03)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261003-4289036</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261003-4289036</guid>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fewer fish, higher costs: The struggle of Bangladesh’s Hilsa fishermen]]></title>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/fewer-fish-higher-costs-the-struggle-bangladeshs-hilsa-fishermen-4288821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/fewer-fish-higher-costs-the-struggle-bangladeshs-hilsa-fishermen-4288821</guid>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Between Gabura and India: Work, loss and unequal choices]]></title>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/between-gabura-and-india-work-loss-and-unequal-choices-4288831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/between-gabura-and-india-work-loss-and-unequal-choices-4288831</guid>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From more power to better power: Rethinking Bangladesh’s energy future]]></title>
+            <description><![CDATA[By Shahriar Ahmed Chowdhury]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/more-power-better-power-rethinking-bangladeshs-energy-future-4288836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/more-power-better-power-rethinking-bangladeshs-energy-future-4288836</guid>
+            <dc:creator><![CDATA[Shahriar Ahmed Chowdhury]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka Swagger smoke, salvage and street attitude]]></title>
+            <link>https://www.thedailystar.net/ds/my-dhaka/news/dhaka-swagger-smoke-salvage-and-street-attitude-4288946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/ds/my-dhaka/news/dhaka-swagger-smoke-salvage-and-street-attitude-4288946</guid>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A trafficking racket behind ordinary phone numbers]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/trafficking-racket-behind-ordinary-phone-numbers-4288941</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/trafficking-racket-behind-ordinary-phone-numbers-4288941</guid>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Business Plus  / Land without utilities: The Sirajganj industrial gridlock]]></title>
+            <link>https://www.thedailystar.net/business/news/land-without-utilities-the-sirajganj-industrial-gridlock-4288861</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/land-without-utilities-the-sirajganj-industrial-gridlock-4288861</guid>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BNP now eyes cautious overhaul of Dhaka units]]></title>
+            <description><![CDATA[The BNP leadership is expected to take a more cautious approach to restructuring its two Dhaka city units to strengthen the party’s presence in the capital, enforce organisational discipline, and bring in leaders with clean images.]]></description>
+            <link>https://www.thedailystar.net/news/politics/news/bnp-now-eyes-cautious-overhaul-dhaka-units-4288976</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/bnp-now-eyes-cautious-overhaul-dhaka-units-4288976</guid>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our very own mango revolution]]></title>
+            <link>https://www.thedailystar.net/weekend-read/news/our-very-own-mango-revolution-4288901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/weekend-read/news/our-very-own-mango-revolution-4288901</guid>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When loyalty decides what counts as facts: Welcome to the age of epistemic fragmentation]]></title>
+            <description><![CDATA[By Karim Waheed]]></description>
+            <link>https://www.thedailystar.net/slow-reads/wisdom/news/when-loyalty-decides-what-counts-facts-welcome-the-age-epistemic-fragmentation-4288846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/when-loyalty-decides-what-counts-facts-welcome-the-age-epistemic-fragmentation-4288846</guid>
+            <dc:creator><![CDATA[Karim Waheed]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nine-goal nightmare: Is Indonesia thrashing Bangladesh’s biggest-ever defeat?]]></title>
@@ -882,7 +961,7 @@
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[News/ / Bangladeshi universities in THE World University Rankings 2027]]></title>
+            <title><![CDATA[Bangladeshi universities in THE World University Rankings 2027]]></title>
             <link>https://www.thedailystar.net/campus/news/the-world-university-rankings-2027-where-do-bangladeshi-universities-stand-4286961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/campus/news/the-world-university-rankings-2027-where-do-bangladeshi-universities-stand-4286961</guid>
             <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
@@ -3053,84 +3132,6 @@
             <link>https://www.thedailystar.net/news/governance/news/directive-issued-drop-awami-league-aligned-members-local-committees-4281261</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/directive-issued-drop-awami-league-aligned-members-local-committees-4281261</guid>
             <pubDate>Wed, 23 Sep 2026 23:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Congratulations to Boeing and Biman’: US ambassador on 11-aircraft deal]]></title>
-            <link>https://www.thedailystar.net/life-living/travel/news/congratulations-boeing-and-biman-us-ambassador-11-aircraft-deal-4281281</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/travel/news/congratulations-boeing-and-biman-us-ambassador-11-aircraft-deal-4281281</guid>
-            <pubDate>Wed, 23 Sep 2026 23:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French court confirms rape trial for PSG star Hakimi]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/french-court-confirms-rape-trial-psg-star-hakimi-4281561</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/french-court-confirms-rape-trial-psg-star-hakimi-4281561</guid>
-            <pubDate>Wed, 23 Sep 2026 23:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marsh to stay on as Aussie skipper for opening ODI against South Africa]]></title>
-            <description><![CDATA[Marsh will continue in the role as Cummins shrugs off jet lag and concentrates on preparing for the three-test series against South Africa that starts next month.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/marsh-stay-aussie-skipper-opening-odi-against-south-africa-4281566</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/marsh-stay-aussie-skipper-opening-odi-against-south-africa-4281566</guid>
-            <pubDate>Wed, 23 Sep 2026 23:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Launch fares rise before revised rates take effect]]></title>
-            <link>https://www.thedailystar.net/news/transport/news/launch-fares-rise-revised-rates-take-effect-4281286</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/launch-fares-rise-revised-rates-take-effect-4281286</guid>
-            <pubDate>Wed, 23 Sep 2026 23:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bavuma expects callow fast bowlers to step up in Australia ODI series]]></title>
-            <description><![CDATA[Kagiso Rabada, Lungi Ngidi, Kwena Maphaka and Ottneil Baartman were all ruled out with hamstring injuries, while Nandre Burger has a bad back. It has left an inexperienced seam bowling line-up to take on Australia, with Lizaad Williams, the Jansen twins, Marco and Duan, Gerald Coetzee, Corbin Bosch and Nqobani Mokoena having played only 72 ODIs between them.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/bavuma-expects-callow-fast-bowlers-step-australia-odi-series-4281416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/bavuma-expects-callow-fast-bowlers-step-australia-odi-series-4281416</guid>
-            <pubDate>Wed, 23 Sep 2026 20:06:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saka says England still have 'scar' from World Cup semi-final loss]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/saka-says-england-still-have-scar-world-cup-semi-final-loss-4281246</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/saka-says-england-still-have-scar-world-cup-semi-final-loss-4281246</guid>
-            <pubDate>Wed, 23 Sep 2026 16:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Banks to keep Hajj-related branches open on Sep 25-26]]></title>
-            <link>https://www.thedailystar.net/business/news/banks-keep-hajj-related-branches-open-sep-25-26-4281186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/banks-keep-hajj-related-branches-open-sep-25-26-4281186</guid>
-            <pubDate>Wed, 23 Sep 2026 16:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fuel price hikes can’t mean a free-for-all on transport fares]]></title>
-            <description><![CDATA[Govt needs to give clear, enforceable instructions]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/fuel-price-hikes-cant-mean-free-all-transport-fares-4281081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fuel-price-hikes-cant-mean-free-all-transport-fares-4281081</guid>
-            <pubDate>Wed, 23 Sep 2026 16:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Law Opinion / Judicial Independence and the Quest for Institutional Autonomy in Bangladesh]]></title>
-            <description><![CDATA[By Dr Justice Syed Refaat Ahmed]]></description>
-            <link>https://www.thedailystar.net/ds/law-our-rights/news/judicial-independence-and-the-quest-institutional-autonomy-bangladesh-4280706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/ds/law-our-rights/news/judicial-independence-and-the-quest-institutional-autonomy-bangladesh-4280706</guid>
-            <dc:creator><![CDATA[Dr Justice Syed Refaat Ahmed]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 16:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arrest warrants issued for 5 top Foodpanda officials in Dhaka]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/arrest-warrants-issued-5-top-foodpanda-officials-dhaka-4281271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/arrest-warrants-issued-5-top-foodpanda-officials-dhaka-4281271</guid>
-            <pubDate>Wed, 23 Sep 2026 16:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teen emerges from driver’s side in CCTV footage, left out of case over Baridhara construction worker’s death]]></title>
-            <link>https://www.thedailystar.net/news/accidents-and-fires/news/teen-emerges-drivers-side-cctv-footage-left-out-case-over-baridhara-construction-workers-death-4281126</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/teen-emerges-drivers-side-cctv-footage-left-out-case-over-baridhara-construction-workers-death-4281126</guid>
-            <pubDate>Wed, 23 Sep 2026 16:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No new clinics, private practice within 1km of govt hospitals: DGHS]]></title>
-            <description><![CDATA[DGHS directs divisional directors, civil surgeons, and upazila health and family planning officers to take necessary steps to implement decision]]></description>
-            <link>https://www.thedailystar.net/health/news/no-new-clinics-private-practice-within-1km-govt-hospitals-dghs-4280981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/health/news/no-new-clinics-private-practice-within-1km-govt-hospitals-dghs-4280981</guid>
-            <pubDate>Wed, 23 Sep 2026 16:38:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
