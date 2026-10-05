@@ -4,15 +4,73 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Oct 2026 01:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 08:46:19 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Oct 2026 01:48:20 GMT</pubDate>
+        <pubDate>Mon, 05 Oct 2026 08:46:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.10.05)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20261005-4290751</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261005-4290751</guid>
-            <pubDate>Mon, 05 Oct 2026 01:48:20 GMT</pubDate>
+            <pubDate>Mon, 05 Oct 2026 08:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sam Altman says AI benefits justify some risks]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/sam-altman-says-ai-benefits-justify-some-risks-4290911</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/sam-altman-says-ai-benefits-justify-some-risks-4290911</guid>
+            <pubDate>Mon, 05 Oct 2026 08:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk wants to rename SpaceXAI to SpaceXSI]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/elon-musk-wants-rename-spacexai-spacexsi-4290901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/elon-musk-wants-rename-spacexai-spacexsi-4290901</guid>
+            <pubDate>Mon, 05 Oct 2026 08:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Messi vs Ronaldo: Two GOATs, two very different endings]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/messi-vs-ronaldo-two-goats-two-very-different-endings-4290906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/messi-vs-ronaldo-two-goats-two-very-different-endings-4290906</guid>
+            <pubDate>Mon, 05 Oct 2026 08:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kabir-Lalon festival reaches Rangpur with sixth programme]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/kabir-lalon-festival-reaches-rangpur-sixth-programme-4290921</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/kabir-lalon-festival-reaches-rangpur-sixth-programme-4290921</guid>
+            <pubDate>Mon, 05 Oct 2026 08:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Teachers’ Day / Teachers must be the pivot of change in our education system]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/teachers-must-be-the-pivot-change-our-education-system-4290501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/teachers-must-be-the-pivot-change-our-education-system-4290501</guid>
+            <pubDate>Mon, 05 Oct 2026 08:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I want to keep acting as long as I breathe: Zahid Hasan]]></title>
+            <link>https://www.thedailystar.net/culture/tv-film/news/i-want-keep-acting-long-i-breathe-zahid-hasan-4290856</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/i-want-keep-acting-long-i-breathe-zahid-hasan-4290856</guid>
+            <pubDate>Mon, 05 Oct 2026 08:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Teachers' Day / Teaching is serious business. It takes commitment, not just expertise]]></title>
+            <description><![CDATA[By Shafiq R Bhuiyan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/teaching-serious-business-it-takes-commitment-not-just-expertise-4290506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/teaching-serious-business-it-takes-commitment-not-just-expertise-4290506</guid>
+            <dc:creator><![CDATA[Shafiq R Bhuiyan]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 08:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Feminism isn’t what we consume, it’s what we practise and fight for]]></title>
+            <description><![CDATA[By Adrita Islam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/feminism-isnt-what-we-consume-its-what-we-practise-and-fight-4290516</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/feminism-isnt-what-we-consume-its-what-we-practise-and-fight-4290516</guid>
+            <dc:creator><![CDATA[Adrita Islam]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 08:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Habitat Day / Where do Bangladesh’s venomous snakes live? And why does it matter?]]></title>
+            <link>https://www.thedailystar.net/news/environment/wildlife/news/where-do-bangladeshs-venomous-snakes-live-and-why-does-it-matter-4290811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/wildlife/news/where-do-bangladeshs-venomous-snakes-live-and-why-does-it-matter-4290811</guid>
+            <pubDate>Mon, 05 Oct 2026 08:46:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pritom-Shahtaj announce the end of their marriage]]></title>
@@ -33,28 +91,6 @@
             <pubDate>Mon, 05 Oct 2026 01:48:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why does Tagore still trouble Bangladesh’s idea of ‘us’?]]></title>
-            <description><![CDATA[By Lubna Ferdowsi]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/why-does-tagore-still-trouble-bangladeshs-idea-us-4290436</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/why-does-tagore-still-trouble-bangladeshs-idea-us-4290436</guid>
-            <dc:creator><![CDATA[Lubna Ferdowsi]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 01:48:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Between Bangladesh and Australia: Learning the rules of freedom]]></title>
-            <description><![CDATA[By Tanveer Ahmed]]></description>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/between-bangladesh-and-australia-learning-the-rules-freedom-4290416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/between-bangladesh-and-australia-learning-the-rules-freedom-4290416</guid>
-            <dc:creator><![CDATA[Tanveer Ahmed]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 01:48:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Metro under ground, but chaos is above]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/metro-under-ground-chaos-above-4290716</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/metro-under-ground-chaos-above-4290716</guid>
-            <pubDate>Mon, 05 Oct 2026 01:48:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Unopened ramps limit Ctg expressway use]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/unopened-ramps-limit-ctg-expressway-use-4290746</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/unopened-ramps-limit-ctg-expressway-use-4290746</guid>
@@ -67,12 +103,6 @@
             <pubDate>Mon, 05 Oct 2026 01:48:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Zero-cost Malaysia jobs for 10,000 Workers]]></title>
-            <link>https://www.thedailystar.net/news/work-and-migration/news/zero-cost-malaysia-jobs-10000-workers-4290646</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/work-and-migration/news/zero-cost-malaysia-jobs-10000-workers-4290646</guid>
-            <pubDate>Mon, 05 Oct 2026 01:48:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Govt employees will get hiked pay this month, MPO teachers won’t]]></title>
             <description><![CDATA[Government officers and employees will receive four months’ salary under the new pay scale, including three months’ arrears, in the last week of this month, but teachers and staff under the MPO scheme, along with judges and judicial service employees, will have to wait longer.]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/govt-employees-will-get-hiked-pay-month-mpo-teachers-wont-4290686</link>
@@ -80,10 +110,69 @@
             <pubDate>Mon, 05 Oct 2026 01:48:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why does Tagore still trouble Bangladesh’s idea of ‘us’?]]></title>
+            <description><![CDATA[By Lubna Ferdowsi]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/why-does-tagore-still-trouble-bangladeshs-idea-us-4290436</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/why-does-tagore-still-trouble-bangladeshs-idea-us-4290436</guid>
+            <dc:creator><![CDATA[Lubna Ferdowsi]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Between Bangladesh and Australia: Learning the rules of freedom]]></title>
+            <description><![CDATA[By Tanveer Ahmed]]></description>
+            <link>https://www.thedailystar.net/slow-reads/wisdom/news/between-bangladesh-and-australia-learning-the-rules-freedom-4290416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/between-bangladesh-and-australia-learning-the-rules-freedom-4290416</guid>
+            <dc:creator><![CDATA[Tanveer Ahmed]]></dc:creator>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Metro under ground, but chaos is above]]></title>
+            <description><![CDATA[On a recent Thursday afternoon, Selim Badsha, a chauffeur, found himself in a fix when he got stuck on the road near Jamuna Future Park in the capital’s Bashundhara R/A.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/metro-under-ground-chaos-above-4290716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/metro-under-ground-chaos-above-4290716</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zero-cost Malaysia jobs for 10,000 Workers]]></title>
+            <link>https://www.thedailystar.net/news/work-and-migration/news/zero-cost-malaysia-jobs-10000-workers-4290646</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/work-and-migration/news/zero-cost-malaysia-jobs-10000-workers-4290646</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Homes take another hit]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/homes-take-another-hit-4290681</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/homes-take-another-hit-4290681</guid>
-            <pubDate>Mon, 05 Oct 2026 01:48:20 GMT</pubDate>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dead-end jobs, meagre pay for makers of nation-builders]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/dead-end-jobs-meagre-pay-makers-nation-builders-4290691</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/dead-end-jobs-meagre-pay-makers-nation-builders-4290691</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The staircase between our mothers and care]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-staircase-between-our-mothers-and-care-4290491</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-staircase-between-our-mothers-and-care-4290491</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Investor Week / Why fewer than 1% people in Bangladesh invest in stocks]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/why-fewer-1-people-bangladesh-invest-stocks-4290601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/why-fewer-1-people-bangladesh-invest-stocks-4290601</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pets, companions, kin: Rethinking the human-animal relationships]]></title>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/pets-companions-kin-rethinking-the-human-animal-relationships-4290431</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/pets-companions-kin-rethinking-the-human-animal-relationships-4290431</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Non-banks losing out to unfair rules]]></title>
+            <link>https://www.thedailystar.net/business/news/non-banks-losing-out-unfair-rules-4290621</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/non-banks-losing-out-unfair-rules-4290621</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Battling Djokovic stuns top seed Zverev]]></title>
@@ -249,10 +338,8 @@
         </item>
         <item>
             <title><![CDATA[Is Bangladesh prepared for the next food shock?]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/bangladesh-prepared-the-next-food-shock-4289461</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/bangladesh-prepared-the-next-food-shock-4289461</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
             <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -277,6 +364,12 @@
             <title><![CDATA[Ex-OpenAI safety employee says company culture is "broken"]]></title>
             <link>https://www.thedailystar.net/news/technology/news/ex-openai-safety-employee-says-company-culture-broken-4290116</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/ex-openai-safety-employee-says-company-culture-broken-4290116</guid>
+            <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Profile / Parisa Faiza’s DIY maximalist set designs]]></title>
+            <link>https://www.thedailystar.net/life-living/news/how-parisa-faizas-quarantine-experiment-sparked-maximalist-movement-4290356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/how-parisa-faizas-quarantine-experiment-sparked-maximalist-movement-4290356</guid>
             <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3030,101 +3123,6 @@
             <link>https://www.thedailystar.net/business/news/can-the-us-become-top-import-source-bangladesh-4282321</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/can-the-us-become-top-import-source-bangladesh-4282321</guid>
             <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In a first, govt moves to regulate ambulance services]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/first-govt-moves-regulate-ambulance-services-4282546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/first-govt-moves-regulate-ambulance-services-4282546</guid>
-            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four digital banks get initial approval]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/four-digital-banks-get-initial-approval-4282526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/four-digital-banks-get-initial-approval-4282526</guid>
-            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biman bets big with 11 more Boeing jets]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/biman-bets-big-11-more-boeing-jets-4282511</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/biman-bets-big-11-more-boeing-jets-4282511</guid>
-            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reflections / Exploring the resurgence of analogue media]]></title>
-            <link>https://www.thedailystar.net/youth/campus/news/exploring-the-resurgence-analogue-media-4279861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/youth/campus/news/exploring-the-resurgence-analogue-media-4279861</guid>
-            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lifelong fan Alcaraz ‘suffering’ as Real Madrid struggle]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/lifelong-fan-alcaraz-suffering-real-madrid-struggle-4282141</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/lifelong-fan-alcaraz-suffering-real-madrid-struggle-4282141</guid>
-            <pubDate>Thu, 24 Sep 2026 22:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FIFA boss Infantino commits to ‘doing what is right for game’]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/fifa-boss-infantino-commits-doing-what-right-game-4282476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/fifa-boss-infantino-commits-doing-what-right-game-4282476</guid>
-            <pubDate>Thu, 24 Sep 2026 22:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scaloni says Messi deserves to go out on own terms]]></title>
-            <description><![CDATA[The coach, who led Argentina to a third World Cup title in 2022, said he had played his part in ensuring the former Barcelona and Paris Saint-Germain forward would have one final appearance in front of Argentina's fans.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/scaloni-says-messi-deserves-go-out-own-terms-4282471</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/scaloni-says-messi-deserves-go-out-own-terms-4282471</guid>
-            <pubDate>Thu, 24 Sep 2026 22:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Imranur advances to 100m semifinals in Asian Games]]></title>
-            <link>https://www.thedailystar.net/sports/more-sports/athletics/news/imranur-advances-100m-semifinals-asian-games-4282111</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/athletics/news/imranur-advances-100m-semifinals-asian-games-4282111</guid>
-            <pubDate>Thu, 24 Sep 2026 18:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We need reliable buyers to build more solar power]]></title>
-            <description><![CDATA[By Md. Sajid Hasan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/we-need-reliable-buyers-build-more-solar-power-4281356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-need-reliable-buyers-build-more-solar-power-4281356</guid>
-            <dc:creator><![CDATA[Md. Sajid Hasan]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 18:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Called a war criminal by Mamdani, Netanyahu expected to target him in UN speech]]></title>
-            <link>https://www.thedailystar.net/news/world/news/called-war-criminal-mamdani-netanyahu-expected-target-him-un-speech-4282086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/called-war-criminal-mamdani-netanyahu-expected-target-him-un-speech-4282086</guid>
-            <pubDate>Thu, 24 Sep 2026 18:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five digital banks get initial nod from Bangladesh Bank]]></title>
-            <description><![CDATA[The five entities are DK Digital Bank Ltd, bKash Digital Bank, Nova Digital Bank, Boost Digital Bank, and Kori Digital Bank]]></description>
-            <link>https://www.thedailystar.net/business/news/five-digital-banks-get-initial-nod-bangladesh-bank-4282006</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/five-digital-banks-get-initial-nod-bangladesh-bank-4282006</guid>
-            <pubDate>Thu, 24 Sep 2026 18:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ziaul kept weapons from 10-truck arms haul without records, ex-Rab officer tells ICT]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/ziaul-kept-weapons-10-truck-arms-haul-without-records-ex-rab-officer-tells-ict-4282116</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/ziaul-kept-weapons-10-truck-arms-haul-without-records-ex-rab-officer-tells-ict-4282116</guid>
-            <pubDate>Thu, 24 Sep 2026 18:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh LNG supply drops 300 mmcfd due to bad weather at Moheshkhali]]></title>
-            <description><![CDATA[Petrobangla says adverse weather has disrupted LNG transfers to floating terminals, reducing total gas supply to around 2,300 mmcfd]]></description>
-            <link>https://www.thedailystar.net/news/power-and-energy/news/bangladesh-lng-supply-drops-300-mmcfd-due-bad-weather-moheshkhali-4282081</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/power-and-energy/news/bangladesh-lng-supply-drops-300-mmcfd-due-bad-weather-moheshkhali-4282081</guid>
-            <pubDate>Thu, 24 Sep 2026 18:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zaima Rahman appointed legal officer at UNGA president’s office]]></title>
-            <link>https://www.thedailystar.net/news/news/zaima-rahman-appointed-legal-officer-unga-presidents-office-4282166</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/zaima-rahman-appointed-legal-officer-unga-presidents-office-4282166</guid>
-            <pubDate>Thu, 24 Sep 2026 18:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘50% is mind game’: Mushtaq’s blueprint for next generation of spinners]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/50-mind-game-mushtaqs-blueprint-next-generation-spinners-4282021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/50-mind-game-mushtaqs-blueprint-next-generation-spinners-4282021</guid>
-            <pubDate>Thu, 24 Sep 2026 14:49:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
