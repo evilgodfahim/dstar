@@ -4,27 +4,33 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 00:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 07:03:28 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Oct 2026 00:32:02 GMT</pubDate>
+        <pubDate>Wed, 07 Oct 2026 07:03:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.10.07)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20261007-4292506</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261007-4292506</guid>
-            <pubDate>Wed, 07 Oct 2026 00:32:02 GMT</pubDate>
+            <pubDate>Wed, 07 Oct 2026 07:03:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[‘Realms of Curiosity’: Inside Flavien Martinel’s artistic universe]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/realms-curiosity-inside-flavien-martinels-artistic-universe-4292066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/realms-curiosity-inside-flavien-martinels-artistic-universe-4292066</guid>
-            <pubDate>Wed, 07 Oct 2026 00:32:02 GMT</pubDate>
+            <title><![CDATA[In Pictures: The Last Tango]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/pictures-the-last-tango-4292676</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/pictures-the-last-tango-4292676</guid>
+            <pubDate>Wed, 07 Oct 2026 07:03:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Growth to stay below 4% until FY28 on energy, banking woes]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/growth-stay-below-4-until-fy28-energy-banking-woes-4292321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/growth-stay-below-4-until-fy28-energy-banking-woes-4292321</guid>
-            <pubDate>Wed, 07 Oct 2026 00:32:02 GMT</pubDate>
+            <title><![CDATA[The cost of leaving the LPG market to private control]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/the-cost-leaving-the-lpg-market-private-control-4292281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-cost-leaving-the-lpg-market-private-control-4292281</guid>
+            <pubDate>Wed, 07 Oct 2026 07:03:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Messi retires from international football with goal and assists as Argentina defeat Benin]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/messi-retires-international-football-goal-argentina-defeat-benin-4292606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/messi-retires-international-football-goal-argentina-defeat-benin-4292606</guid>
+            <pubDate>Wed, 07 Oct 2026 07:03:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spain fight back to beat Croatia, Kane adds to record for England]]></title>
@@ -77,11 +83,57 @@
             <pubDate>Wed, 07 Oct 2026 00:32:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[This map has been going viral. But there's more to it]]></title>
-            <description><![CDATA[Unseen Bangladesh went viral for letting users map the districts they have visited, but its most useful feature may be its trip planner.]]></description>
-            <link>https://www.thedailystar.net/news/technology/news/map-has-been-going-viral-theres-more-it-4292301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/map-has-been-going-viral-theres-more-it-4292301</guid>
-            <pubDate>Wed, 07 Oct 2026 00:32:02 GMT</pubDate>
+            <title><![CDATA[Growth to stay below 4% until FY28 on energy, banking woes]]></title>
+            <description><![CDATA[Bangladesh is yet again set to register weak economic growth of 3.4 percent in the current fiscal year, according to the World Bank, marking a fourth straight year of slowing growth amid a deepening energy crisis, financial sector vulnerabilities and global uncertainties.]]></description>
+            <link>https://www.thedailystar.net/business/economy/news/growth-stay-below-4-until-fy28-energy-banking-woes-4292321</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/growth-stay-below-4-until-fy28-energy-banking-woes-4292321</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RU keeps failing to stop campus violence]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/ru-keeps-failing-stop-campus-violence-4292566</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/ru-keeps-failing-stop-campus-violence-4292566</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biman-Airbus deal likely today]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/biman-airbus-deal-likely-today-4292561</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/biman-airbus-deal-likely-today-4292561</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6.2cr people one shock away from poverty: WB]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/62cr-people-one-shock-away-poverty-wb-4292536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/62cr-people-one-shock-away-poverty-wb-4292536</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three years after October 7: When a date became an alibi for genocide]]></title>
+            <description><![CDATA[By Yousef SY Ramadan]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/three-years-after-october-7-when-date-became-alibi-genocide-4292091</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/three-years-after-october-7-when-date-became-alibi-genocide-4292091</guid>
+            <dc:creator><![CDATA[Yousef SY Ramadan]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The missing link in Bangladesh's innovation economy]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-missing-link-bangladeshs-innovation-economy-4292311</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-missing-link-bangladeshs-innovation-economy-4292311</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Law Book Review / The Worker at the End of the Supply Chain]]></title>
+            <description><![CDATA[By Fowzul Azim]]></description>
+            <link>https://www.thedailystar.net/ds/law-our-rights/news/the-worker-the-end-the-supply-chain-4292441</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/ds/law-our-rights/news/the-worker-the-end-the-supply-chain-4292441</guid>
+            <dc:creator><![CDATA[Fowzul Azim]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post-larvae shortage leads to Bagerhat hatchery crackdown]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/post-larvae-shortage-leads-bagerhat-hatchery-crackdown-4292256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/post-larvae-shortage-leads-bagerhat-hatchery-crackdown-4292256</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iyer hits maiden ton as India hammer West Indies in first T20I]]></title>
@@ -222,6 +274,18 @@
             <pubDate>Tue, 06 Oct 2026 00:42:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[‘Realms of Curiosity’: Inside Flavien Martinel’s artistic universe]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/realms-curiosity-inside-flavien-martinels-artistic-universe-4292066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/realms-curiosity-inside-flavien-martinels-artistic-universe-4292066</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This map has been going viral. But there's more to it]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/map-has-been-going-viral-theres-more-it-4292301</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/map-has-been-going-viral-theres-more-it-4292301</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[OpenAI to test visual ads inside ChatGPT]]></title>
             <link>https://www.thedailystar.net/news/technology/news/openai-test-visual-ads-inside-chatgpt-4291901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/openai-test-visual-ads-inside-chatgpt-4291901</guid>
@@ -261,10 +325,8 @@
         </item>
         <item>
             <title><![CDATA[157th Birth Anniversary of Mahatma Gandhi  /  Gandhi’s return to Noakhali]]></title>
-            <description><![CDATA[By Parvez Rahaman]]></description>
             <link>https://www.thedailystar.net/slow-reads/focus/news/gandhis-return-noakhali-4290261</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/gandhis-return-noakhali-4290261</guid>
-            <dc:creator><![CDATA[Parvez Rahaman]]></dc:creator>
             <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -335,6 +397,18 @@
             <title><![CDATA[Wikipedia host says OpenAI agents probed site and flooded servers]]></title>
             <link>https://www.thedailystar.net/news/technology/news/wikipedia-host-says-openai-agents-probed-site-and-flooded-servers-4291861</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/wikipedia-host-says-openai-agents-probed-site-and-flooded-servers-4291861</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion / The cost of our obsession with meritocracy]]></title>
+            <link>https://www.thedailystar.net/campus/news/the-cost-our-obsession-meritocracy-4291981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/the-cost-our-obsession-meritocracy-4291981</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As AI cheating grows, US universities lose faith in detectors]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/ai-cheating-grows-us-universities-lose-faith-detectors-4291946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/ai-cheating-grows-us-universities-lose-faith-detectors-4291946</guid>
             <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3045,80 +3119,6 @@
             <link>https://www.thedailystar.net/ds/business-plus/news/fixed-income-avenue-opens-investors-4282926</link>
             <guid isPermaLink="true">https://www.thedailystar.net/ds/business-plus/news/fixed-income-avenue-opens-investors-4282926</guid>
             <pubDate>Sat, 26 Sep 2026 01:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump-Xi Summit / Lots of fanfare, but no breakthroughs]]></title>
-            <link>https://www.thedailystar.net/news/world/news/lots-fanfare-no-breakthroughs-4283036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/lots-fanfare-no-breakthroughs-4283036</guid>
-            <pubDate>Sat, 26 Sep 2026 01:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anthrax concerns rise in northern districts]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/anthrax-concerns-rise-northern-districts-4283066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/anthrax-concerns-rise-northern-districts-4283066</guid>
-            <pubDate>Sat, 26 Sep 2026 01:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wars, conflicts deepen global economic woes]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/wars-conflicts-deepen-global-economic-woes-4283041</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/wars-conflicts-deepen-global-economic-woes-4283041</guid>
-            <pubDate>Sat, 26 Sep 2026 01:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ShinyHunters hackers say they stole psychiatric and medical records of FBI staff]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/shinyhunters-hackers-say-they-stole-psychiatric-and-medical-records-fbi-staff-4283121</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/shinyhunters-hackers-say-they-stole-psychiatric-and-medical-records-fbi-staff-4283121</guid>
-            <pubDate>Sat, 26 Sep 2026 01:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump rejects Iranian peace proposal]]></title>
-            <link>https://www.thedailystar.net/news/world/news/trump-rejects-iranian-peace-proposal-wsj-reports-4283111</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/trump-rejects-iranian-peace-proposal-wsj-reports-4283111</guid>
-            <pubDate>Sat, 26 Sep 2026 01:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Patwary should be questioned over crude bomb remarks: DMP official]]></title>
-            <description><![CDATA[Joint Commissioner Tofayel Ahmed Miah says the NCP leader should explain his statement]]></description>
-            <link>https://www.thedailystar.net/news/news/patwary-should-be-questioned-over-crude-bomb-remarks-dmp-official-4282806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/patwary-should-be-questioned-over-crude-bomb-remarks-dmp-official-4282806</guid>
-            <pubDate>Sat, 26 Sep 2026 01:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump told Xi that China helping Iran is unacceptable, US ambassador says]]></title>
-            <link>https://www.thedailystar.net/news/world/news/trump-told-xi-china-helping-iran-unacceptable-us-ambassador-says-4282846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/trump-told-xi-china-helping-iran-unacceptable-us-ambassador-says-4282846</guid>
-            <pubDate>Sat, 26 Sep 2026 01:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Health centre attacked at midnight in Mirpur]]></title>
-            <description><![CDATA[A group of attackers forcibly entered the Radda MCH-FP Centre in Mirpur-1 and used an excavator and other machinery to dismantle at least three structures early yesterday.]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/health-centre-attacked-midnight-mirpur-4283021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/health-centre-attacked-midnight-mirpur-4283021</guid>
-            <pubDate>Sat, 26 Sep 2026 01:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion / Topu Junior and Sohel Senior: Not good enough?]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/topu-junior-and-sohel-senior-not-good-enough-4283316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/topu-junior-and-sohel-senior-not-good-enough-4283316</guid>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Duli to Baaji: Whose gaze shapes indigenous representation?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/duli-baaji-whose-gaze-shapes-indigenous-representation-4282916</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/duli-baaji-whose-gaze-shapes-indigenous-representation-4282916</guid>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The making of a cup of tea: Plantation, empire and the pursuit of quality]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-making-cup-tea-plantation-empire-and-the-pursuit-quality-4282841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-making-cup-tea-plantation-empire-and-the-pursuit-quality-4282841</guid>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis / Washington leaves Hasina to Dhaka and Delhi, signals confidence in BNP]]></title>
-            <link>https://www.thedailystar.net/news-analysis/news/washington-leaves-hasina-dhaka-and-delhi-signals-confidence-bnp-4283406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/washington-leaves-hasina-dhaka-and-delhi-signals-confidence-bnp-4283406</guid>
-            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
