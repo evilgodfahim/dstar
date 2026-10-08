@@ -4,32 +4,103 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 16:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 21:56:48 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
+        <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[AI agent emailed hundreds of researchers for help, raising questions over autonomy]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/ai-agent-emailed-hundreds-researchers-help-raising-questions-over-autonomy-4293521</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/ai-agent-emailed-hundreds-researchers-help-raising-questions-over-autonomy-4293521</guid>
-            <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Profile / Why Esha Rushdi prefers raw vulnerability over curated perfection]]></title>
             <link>https://www.thedailystar.net/life-living/news/why-esha-rushdi-prefers-raw-vulnerability-over-curated-perfection-4293616</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/why-esha-rushdi-prefers-raw-vulnerability-over-curated-perfection-4293616</guid>
-            <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tackling Vitamin D deficiency in Bangladesh]]></title>
-            <link>https://www.thedailystar.net/life-living/health-fitness/news/how-get-enough-vitamin-d-without-ruining-your-skin-4293626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/health-fitness/news/how-get-enough-vitamin-d-without-ruining-your-skin-4293626</guid>
-            <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
+            <title><![CDATA[Is depression contagious?]]></title>
+            <link>https://www.thedailystar.net/life-living/health-fitness/news/depression-contagious-what-psychotherapists-want-you-know-4293631</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/health-fitness/news/depression-contagious-what-psychotherapists-want-you-know-4293631</guid>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nana Patekar helped 77 lakh farmers throughout his life]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/nana-patekar-helped-77-lakh-farmers-throughout-his-life-4293761</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/nana-patekar-helped-77-lakh-farmers-throughout-his-life-4293761</guid>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt repurchases Tk 1,716cr T-bonds in first-ever buyback auction]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/govt-repurchases-tk-1716cr-t-bonds-first-ever-buyback-auction-4294061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/govt-repurchases-tk-1716cr-t-bonds-first-ever-buyback-auction-4294061</guid>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh to feature in hockey's Asian Champions Trophy, Olympic qualifiers]]></title>
+            <link>https://www.thedailystar.net/sports/more-sports/news/bangladesh-feature-hockeys-asian-champions-trophy-olympic-qualifiers-4294071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/news/bangladesh-feature-hockeys-asian-champions-trophy-olympic-qualifiers-4294071</guid>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reset priorities to help the poor and vulnerable]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/reset-priorities-help-the-poor-and-vulnerable-4293811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reset-priorities-help-the-poor-and-vulnerable-4293811</guid>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The history of caste is not what we think]]></title>
+            <description><![CDATA[By Priyam Paul]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/the-history-caste-not-what-we-think-4293821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-history-caste-not-what-we-think-4293821</guid>
+            <dc:creator><![CDATA[Priyam Paul]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bengali Muslims and the ghosts of India's citizenship politics]]></title>
+            <description><![CDATA[By Suraj Gogoi]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/bengali-muslims-and-the-ghosts-indias-citizenship-politics-4294026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/bengali-muslims-and-the-ghosts-indias-citizenship-politics-4294026</guid>
+            <dc:creator><![CDATA[Suraj Gogoi]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DP World to operate Ctg port’s New Mooring Container Terminal]]></title>
+            <link>https://www.thedailystar.net/business/news/dp-world-operate-ctg-ports-new-mooring-container-terminal-4293651</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/dp-world-operate-ctg-ports-new-mooring-container-terminal-4293651</guid>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tribute / Nana Patekar: Rage was never the whole story]]></title>
+            <link>https://www.thedailystar.net/culture/tv-film/news/nana-patekar-rage-was-never-the-whole-story-4293771</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/nana-patekar-rage-was-never-the-whole-story-4293771</guid>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jahangirnagar University and its endless ‘Game of Thrones’]]></title>
+            <link>https://www.thedailystar.net/campus/news/jahangirnagar-university-and-its-endless-game-thrones-4293881</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/jahangirnagar-university-and-its-endless-game-thrones-4293881</guid>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka buses: 2 franchise routes in 7 days, full rollout in 6 months]]></title>
+            <link>https://www.thedailystar.net/news/transport/news/dhaka-buses-2-franchise-routes-7-days-full-rollout-6-months-4293801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/dhaka-buses-2-franchise-routes-7-days-full-rollout-6-months-4293801</guid>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pathao says cyber attack exposed users’ names, emails and phone numbers]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/pathao-says-cyber-attack-exposed-users-names-emails-and-phone-numbers-4293936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/pathao-says-cyber-attack-exposed-users-names-emails-and-phone-numbers-4293936</guid>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Column by Mahfuz Anam / Ruling party-opposition relations are key to institutionalising democracy]]></title>
+            <description><![CDATA[The result of the election held in February 1991 surprised both BNP—for winning—and Awami League—for losing—because the latter thought they were all set to come to power.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/ruling-party-opposition-relations-are-key-institutionalising-democracy-4294096</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/ruling-party-opposition-relations-are-key-institutionalising-democracy-4294096</guid>
+            <pubDate>Thu, 08 Oct 2026 21:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tackling Vitamin D deficiency in Bangladesh]]></title>
+            <link>https://www.thedailystar.net/life-living/health-fitness/news/how-get-enough-vitamin-d-without-ruining-your-skin-4293626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/health-fitness/news/how-get-enough-vitamin-d-without-ruining-your-skin-4293626</guid>
             <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
         </item>
         <item>
@@ -51,29 +122,11 @@
             <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is depression contagious?]]></title>
-            <link>https://www.thedailystar.net/life-living/health-fitness/news/depression-contagious-what-psychotherapists-want-you-know-4293631</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/health-fitness/news/depression-contagious-what-psychotherapists-want-you-know-4293631</guid>
-            <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Can Bangladesh turn Wall Street interest into investment?]]></title>
             <description><![CDATA[By Ashfaq Zaman]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/can-bangladesh-turn-wall-street-interest-investment-4293731</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-bangladesh-turn-wall-street-interest-investment-4293731</guid>
             <dc:creator><![CDATA[Ashfaq Zaman]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Satire / Passport, ticket, husband?]]></title>
-            <link>https://www.thedailystar.net/life-living/news/34-my-passport-still-needs-male-permission-travel-4293601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/34-my-passport-still-needs-male-permission-travel-4293601</guid>
-            <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reset priorities to help the poor and vulnerable]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/reset-priorities-help-the-poor-and-vulnerable-4293811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reset-priorities-help-the-poor-and-vulnerable-4293811</guid>
             <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
         </item>
         <item>
@@ -86,31 +139,6 @@
             <title><![CDATA[Canadian writer Anne Carson wins 2026 Nobel Prize in Literature]]></title>
             <link>https://www.thedailystar.net/culture/books-literature/news/news/canadian-writer-anne-carson-wins-2026-nobel-prize-literature-4293716</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/books-literature/news/news/canadian-writer-anne-carson-wins-2026-nobel-prize-literature-4293716</guid>
-            <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DP World to operate Ctg port’s New Mooring Container Terminal]]></title>
-            <link>https://www.thedailystar.net/business/news/dp-world-operate-ctg-ports-new-mooring-container-terminal-4293651</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/dp-world-operate-ctg-ports-new-mooring-container-terminal-4293651</guid>
-            <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tribute / Nana Patekar: Rage was never the whole story]]></title>
-            <link>https://www.thedailystar.net/culture/tv-film/news/nana-patekar-rage-was-never-the-whole-story-4293771</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/nana-patekar-rage-was-never-the-whole-story-4293771</guid>
-            <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jahangirnagar University and its endless ‘Game of Thrones’]]></title>
-            <description><![CDATA[Only four vice-chancellors since 1988 completed full terms amid protests, factionalism and political pressure]]></description>
-            <link>https://www.thedailystar.net/campus/news/jahangirnagar-university-and-its-endless-game-thrones-4293881</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/jahangirnagar-university-and-its-endless-game-thrones-4293881</guid>
-            <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka buses: 2 franchise routes in 7 days, full rollout in 6 months]]></title>
-            <link>https://www.thedailystar.net/news/transport/news/dhaka-buses-2-franchise-routes-7-days-full-rollout-6-months-4293801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/dhaka-buses-2-franchise-routes-7-days-full-rollout-6-months-4293801</guid>
             <pubDate>Thu, 08 Oct 2026 16:18:33 GMT</pubDate>
         </item>
         <item>
@@ -216,6 +244,18 @@
             <pubDate>Thu, 08 Oct 2026 01:42:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[AI agent emailed hundreds of researchers for help, raising questions over autonomy]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/ai-agent-emailed-hundreds-researchers-help-raising-questions-over-autonomy-4293521</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/ai-agent-emailed-hundreds-researchers-help-raising-questions-over-autonomy-4293521</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Satire / Passport, ticket, husband?]]></title>
+            <link>https://www.thedailystar.net/life-living/news/34-my-passport-still-needs-male-permission-travel-4293601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/34-my-passport-still-needs-male-permission-travel-4293601</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Today's Gallery (2026.10.08)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20261008-4293406</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261008-4293406</guid>
@@ -275,6 +315,24 @@
             <title><![CDATA[Joint Working Group meeting today / Dhaka to raise trade barrier issues with New Delhi]]></title>
             <link>https://www.thedailystar.net/business/economy/news/dhaka-raise-trade-barrier-issues-new-delhi-4293206</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/dhaka-raise-trade-barrier-issues-new-delhi-4293206</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SATIRE / Online shopping and other tests of faith]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/online-shopping-and-other-tests-faith-4293586</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/online-shopping-and-other-tests-faith-4293586</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The double burden behind women’s empowerment]]></title>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/the-double-burden-behind-womens-empowerment-4293321</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/the-double-burden-behind-womens-empowerment-4293321</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google launches SynthID Detector for AI-generated media]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/google-launches-synthid-detector-ai-generated-media-4293496</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/google-launches-synthid-detector-ai-generated-media-4293496</guid>
             <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3062,60 +3120,6 @@
             <title><![CDATA[Taylor Swift breaks Spotify record with surprise release ‘Patient Zero’]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/taylor-swift-breaks-spotify-record-surprise-release-patient-zero-4284026</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/taylor-swift-breaks-spotify-record-surprise-release-patient-zero-4284026</guid>
-            <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt forms committee to fast-track Matarbari projects]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/govt-forms-committee-fast-track-matarbari-projects-4283591</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/govt-forms-committee-fast-track-matarbari-projects-4283591</guid>
-            <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tuchel to 'keep pushing' England to reach Spain's level]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/tuchel-keep-pushing-england-reach-spains-level-4284001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/tuchel-keep-pushing-england-reach-spains-level-4284001</guid>
-            <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking how the logistics sector absorbs diesel price hikes]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/rethinking-how-the-logistics-sector-absorbs-diesel-price-hikes-4283706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/rethinking-how-the-logistics-sector-absorbs-diesel-price-hikes-4283706</guid>
-            <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handset industry under pressure on multiple fronts]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/handset-industry-under-pressure-multiple-fronts-4283596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/handset-industry-under-pressure-multiple-fronts-4283596</guid>
-            <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five students electrocuted, suffer burns on madrasa rooftop in Narayanganj]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/five-students-electrocuted-suffer-burns-madrasa-rooftop-narayanganj-4284021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/five-students-electrocuted-suffer-burns-madrasa-rooftop-narayanganj-4284021</guid>
-            <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LDC deferment proposal gaining major support, Titumir says]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/ldc-deferment-proposal-gaining-major-support-titumir-says-4283586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/ldc-deferment-proposal-gaining-major-support-titumir-says-4283586</guid>
-            <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM returns home after five-day US visit]]></title>
-            <link>https://www.thedailystar.net/news/news/pm-returns-home-after-five-day-us-visit-4283976</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/pm-returns-home-after-five-day-us-visit-4283976</guid>
-            <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[254 detained in Cumilla drive against teen gangs]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/254-detained-cumilla-drive-against-teen-gangs-4284016</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/254-detained-cumilla-drive-against-teen-gangs-4284016</guid>
-            <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When resilience beats violence]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/when-resilience-beats-violence-4283876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/when-resilience-beats-violence-4283876</guid>
             <pubDate>Sun, 27 Sep 2026 04:53:49 GMT</pubDate>
         </item>
     </channel>
