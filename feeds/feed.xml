@@ -4,27 +4,98 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 15:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 19:56:53 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Oct 2026 15:10:58 GMT</pubDate>
+        <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Amazon announces fresh job cuts affecting retail operations in the US, UK, and India]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/amazon-announces-fresh-job-cuts-affecting-retail-operations-the-us-uk-and-india-4294891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/amazon-announces-fresh-job-cuts-affecting-retail-operations-the-us-uk-and-india-4294891</guid>
-            <pubDate>Sat, 10 Oct 2026 15:10:58 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Perspective / Dhaka women are modern until Brown Aunty Syndrome kicks in]]></title>
             <link>https://www.thedailystar.net/life-living/news/dhaka-women-are-modern-until-brown-aunty-syndrome-kicks-4295076</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/dhaka-women-are-modern-until-brown-aunty-syndrome-kicks-4295076</guid>
-            <pubDate>Sat, 10 Oct 2026 15:10:58 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spicing up history]]></title>
             <link>https://www.thedailystar.net/life-living/food-recipes/news/how-ancient-spices-built-empires-and-defined-human-history-4295086</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/food-recipes/news/how-ancient-spices-built-empires-and-defined-human-history-4295086</guid>
-            <pubDate>Sat, 10 Oct 2026 15:10:58 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bollywood actor Imran Khan detained during Mumbai protest]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/bollywood-actor-imran-khan-detained-during-mumbai-protest-4295246</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/bollywood-actor-imran-khan-detained-during-mumbai-protest-4295246</guid>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gordon nets first Barca goal as Liga leaders beat Getafe]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/gordon-nets-first-barca-goal-liga-leaders-beat-getafe-4295501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/gordon-nets-first-barca-goal-liga-leaders-beat-getafe-4295501</guid>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Subsidised food distribution falls, raising poverty concerns]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/subsidised-food-distribution-falls-raising-poverty-concerns-4295331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/subsidised-food-distribution-falls-raising-poverty-concerns-4295331</guid>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Mental Health Day  / We must prevent overreliance on AI chatbots for emotional support]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/we-must-prevent-overreliance-ai-chatbots-emotional-support-4295096</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-prevent-overreliance-ai-chatbots-emotional-support-4295096</guid>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can the new strategy achieve Bangladesh’s renewable energy targets?]]></title>
+            <description><![CDATA[By Subail Bin Alam]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-the-new-strategy-achieve-bangladeshs-renewable-energy-targets-4295226</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-the-new-strategy-achieve-bangladeshs-renewable-energy-targets-4295226</guid>
+            <dc:creator><![CDATA[Subail Bin Alam]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Navigating the US-China rivalry: Bangladesh cannot outsource its AI sovereignty]]></title>
+            <description><![CDATA[By Ayesha Tariq]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/navigating-the-us-china-rivalry-bangladesh-cannot-outsource-its-ai-sovereignty-4295266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/navigating-the-us-china-rivalry-bangladesh-cannot-outsource-its-ai-sovereignty-4295266</guid>
+            <dc:creator><![CDATA[Ayesha Tariq]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ten-man Spurs rescue draw at Man Utd]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/ten-man-spurs-rescue-draw-man-utd-4295511</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/ten-man-spurs-rescue-draw-man-utd-4295511</guid>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parliamentary body questions 4,000MW solar power target after just 60MW added in a month]]></title>
+            <link>https://www.thedailystar.net/news/power-and-energy/news/parliamentary-body-questions-4000mw-solar-power-target-after-just-60mw-added-month-4295236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/power-and-energy/news/parliamentary-body-questions-4000mw-solar-power-target-after-just-60mw-added-month-4295236</guid>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explainer / Calls grow for Gyanesh Kumar’s exit. What does Indian law allow?]]></title>
+            <link>https://www.thedailystar.net/news/world/india/news/calls-grow-gyanesh-kumars-exit-what-does-indian-law-allow-4295261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/india/news/calls-grow-gyanesh-kumars-exit-what-does-indian-law-allow-4295261</guid>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biman suspends Dhaka-Riyadh flights until further notice]]></title>
+            <link>https://www.thedailystar.net/business/economy/aviation/news/biman-suspends-dhaka-riyadh-flights-until-further-notice-4295286</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/aviation/news/biman-suspends-dhaka-riyadh-flights-until-further-notice-4295286</guid>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evacuations, injuries at Riyadh airport after alleged Houthi attack]]></title>
+            <link>https://www.thedailystar.net/news/world/news/evacuations-injuries-riyadh-airport-after-alleged-houthi-attack-4295291</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/evacuations-injuries-riyadh-airport-after-alleged-houthi-attack-4295291</guid>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BNP tells activists to stay vigilant, help ensure peaceful Durga Puja nationwide]]></title>
+            <description><![CDATA[Tarique Rahman-led meeting also focuses on essential prices, market syndicates and party discipline]]></description>
+            <link>https://www.thedailystar.net/news/politics/news/bnp-tells-activists-stay-vigilant-help-ensure-peaceful-durga-puja-nationwide-4295506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/bnp-tells-activists-stay-vigilant-help-ensure-peaceful-durga-puja-nationwide-4295506</guid>
+            <pubDate>Sat, 10 Oct 2026 19:56:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gems of Nazrul celebrates a decade with glorious musical evening]]></title>
@@ -42,12 +113,6 @@
             <title><![CDATA[What Bangladesh’s payment surge does and does not tell us]]></title>
             <link>https://www.thedailystar.net/business/news/what-bangladeshs-payment-surge-does-and-does-not-tell-us-4295156</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/what-bangladeshs-payment-surge-does-and-does-not-tell-us-4295156</guid>
-            <pubDate>Sat, 10 Oct 2026 15:10:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Mental Health Day  / We must prevent overreliance on AI chatbots for emotional support]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/we-must-prevent-overreliance-ai-chatbots-emotional-support-4295096</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-prevent-overreliance-ai-chatbots-emotional-support-4295096</guid>
             <pubDate>Sat, 10 Oct 2026 15:10:58 GMT</pubDate>
         </item>
         <item>
@@ -164,6 +229,12 @@
             <link>https://www.thedailystar.net/business/news/bangladesh-seeks-continued-preferential-market-access-india-after-ldc-graduation-4294571</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-seeks-continued-preferential-market-access-india-after-ldc-graduation-4294571</guid>
             <pubDate>Sat, 10 Oct 2026 01:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazon announces fresh job cuts affecting retail operations in the US, UK, and India]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/amazon-announces-fresh-job-cuts-affecting-retail-operations-the-us-uk-and-india-4294891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/amazon-announces-fresh-job-cuts-affecting-retail-operations-the-us-uk-and-india-4294891</guid>
+            <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.10.10)]]></title>
@@ -3049,75 +3120,6 @@
             <link>https://www.thedailystar.net/sports/more-sports/news/bangladesh-table-tennis-kabaddi-teams-stranded-bangkok-airport-4284906</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/news/bangladesh-table-tennis-kabaddi-teams-stranded-bangkok-airport-4284906</guid>
             <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Topu, Sohel out as Dooley makes four changes against Singapore]]></title>
-            <description><![CDATA[Midfielder Sohel Rana and defender Shakil Ahad Topu paid the price for their poor performance against Malaysia as Thomas Dooley rung in the changes against Singapore in the FIFA AEAN Cup on Monday.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/topu-sohel-out-dooley-makes-four-changes-against-singapore-4284981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/topu-sohel-out-dooley-makes-four-changes-against-singapore-4284981</guid>
-            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crimes against humanity: Formal charges filed against Kamal Majumder, Nikhil and 17 others]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/crimes-against-humanity-formal-charges-filed-against-kamal-majumder-nikhil-and-17-others-4284966</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/crimes-against-humanity-formal-charges-filed-against-kamal-majumder-nikhil-and-17-others-4284966</guid>
-            <pubDate>Mon, 28 Sep 2026 08:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[He used to call me Mrinal: Golam Farida Chhonda on Mustafa Monwar]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/he-used-call-me-mrinal-golam-farida-chhonda-mustafa-monwar-4284346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/he-used-call-me-mrinal-golam-farida-chhonda-mustafa-monwar-4284346</guid>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BCB launches D3 to revive domestic cricket]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/bcb-launches-d3-revive-domestic-cricket-4284456</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/bcb-launches-d3-revive-domestic-cricket-4284456</guid>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fifth arrest over attack on Salman Muqtadir’s studio]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/fifth-arrest-over-attack-salman-muqtadirs-studio-4284396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/fifth-arrest-over-attack-salman-muqtadirs-studio-4284396</guid>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Accused escapes while being taken to Kashimpur Jail]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/accused-escapes-while-being-taken-kashimpur-jail-4284716</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/accused-escapes-while-being-taken-kashimpur-jail-4284716</guid>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch / ‘Do something for Bangladesh’: Salman Muqtadir urges home minister]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/do-something-bangladesh-salman-muqtadir-urges-home-minister-4284426</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/do-something-bangladesh-salman-muqtadir-urges-home-minister-4284426</guid>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Armed group tries to seize Adabor building]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/armed-group-tries-seize-adabor-building-4284386</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/armed-group-tries-seize-adabor-building-4284386</guid>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ronaldo benched, Haaland scores, but Ramos has the final say for Portugal]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/ronaldo-benched-haaland-scores-ramos-has-the-final-say-portugal-4284811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/ronaldo-benched-haaland-scores-ramos-has-the-final-say-portugal-4284811</guid>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Obscene shorts': Metro rail official embarrassed after athlete stopped at station]]></title>
-            <description><![CDATA[Triathlete Sajjad Hossain Snigdho alleges police stopped him from entering a Dhaka metro station because he was wearing shorts; authorities say they have taken note of the incident]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/obscene-shorts-metro-rail-official-embarrassed-after-athlete-stopped-station-4284696</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/obscene-shorts-metro-rail-official-embarrassed-after-athlete-stopped-station-4284696</guid>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[50-60 people vandalised and looted Ashulia madrasa, official alleges]]></title>
-            <description><![CDATA[Official accuses local BNP leader and another man of leading the attack; the leader denies the allegations]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/50-60-people-vandalised-and-looted-ashulia-madrasa-official-alleges-4284461</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/50-60-people-vandalised-and-looted-ashulia-madrasa-official-alleges-4284461</guid>
-            <pubDate>Mon, 28 Sep 2026 01:31:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
