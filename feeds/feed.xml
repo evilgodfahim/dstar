@@ -4,16 +4,83 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 12:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 17:57:59 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Oct 2026 12:32:08 GMT</pubDate>
+        <pubDate>Sun, 11 Oct 2026 17:57:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Why is Delhi witnessing a wave of protests?]]></title>
             <description><![CDATA[Watch Star Explains to find out more]]></description>
             <link>https://www.thedailystar.net/star-multimedia/news/why-delhi-witnessing-wave-protests-4295806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/why-delhi-witnessing-wave-protests-4295806</guid>
-            <pubDate>Sun, 11 Oct 2026 12:32:08 GMT</pubDate>
+            <pubDate>Sun, 11 Oct 2026 17:57:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI projects $70 billion annualised revenue by year-end: report]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/openai-projects-70-billion-annualised-revenue-year-end-report-4295911</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/openai-projects-70-billion-annualised-revenue-year-end-report-4295911</guid>
+            <pubDate>Sun, 11 Oct 2026 17:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women In Focus / What Meena taught me about family and relationships]]></title>
+            <link>https://www.thedailystar.net/life-living/news/how-childhood-stories-help-raise-empathetic-sons-4295921</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/how-childhood-stories-help-raise-empathetic-sons-4295921</guid>
+            <pubDate>Sun, 11 Oct 2026 17:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Messi names football’s next 10 superstars, Boca Juniors wonderkid makes the list]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/messi-names-footballs-next-10-superstars-boca-juniors-wonderkid-makes-the-list-4296221</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/messi-names-footballs-next-10-superstars-boca-juniors-wonderkid-makes-the-list-4296221</guid>
+            <pubDate>Sun, 11 Oct 2026 17:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Consumers paying the price for lax LPG monitoring]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/consumers-paying-the-price-lax-lpg-monitoring-4296381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/consumers-paying-the-price-lax-lpg-monitoring-4296381</guid>
+            <pubDate>Sun, 11 Oct 2026 17:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strengthening consumer protection must go beyond mobile court raids]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/strengthening-consumer-protection-must-go-beyond-mobile-court-raids-4296026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/strengthening-consumer-protection-must-go-beyond-mobile-court-raids-4296026</guid>
+            <pubDate>Sun, 11 Oct 2026 17:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why can’t the state keep girls safe?]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/why-cant-the-state-keep-girls-safe-4296036</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-cant-the-state-keep-girls-safe-4296036</guid>
+            <pubDate>Sun, 11 Oct 2026 17:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our top picks for laptops under BDT 100k]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/our-top-picks-laptops-under-bdt-100k-4295946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/our-top-picks-laptops-under-bdt-100k-4295946</guid>
+            <pubDate>Sun, 11 Oct 2026 17:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh's foreign debt rises to $114.98 billion at end of Apr-Jun]]></title>
+            <link>https://www.thedailystar.net/business/news/bangladeshs-foreign-debt-rises-11498-billion-end-apr-jun-4296051</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladeshs-foreign-debt-rises-11498-billion-end-apr-jun-4296051</guid>
+            <pubDate>Sun, 11 Oct 2026 17:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Landed safely’: Shahed’s final call before Riyadh airport attack]]></title>
+            <link>https://www.thedailystar.net/news/world/global-conflicts/news/landed-safely-shaheds-final-call-riyadh-airport-attack-4296146</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/global-conflicts/news/landed-safely-shaheds-final-call-riyadh-airport-attack-4296146</guid>
+            <pubDate>Sun, 11 Oct 2026 17:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High Court says not every demand for money by husband amounts to dowry]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/high-court-says-not-every-demand-money-husband-amounts-dowry-4296186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/high-court-says-not-every-demand-money-husband-amounts-dowry-4296186</guid>
+            <pubDate>Sun, 11 Oct 2026 17:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fresh attack at Riyadh airport, says Saudi coalition]]></title>
+            <description><![CDATA[Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12]]></description>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/fresh-attack-riyadh-airport-says-saudi-coalition-4296246</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/fresh-attack-riyadh-airport-says-saudi-coalition-4296246</guid>
+            <pubDate>Sun, 11 Oct 2026 17:57:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[7 temples worth exploring across Bangladesh]]></title>
@@ -25,12 +92,6 @@
             <title><![CDATA[Can Dhaka’s pet cafés survive on love alone?]]></title>
             <link>https://www.thedailystar.net/life-living/food-recipes/news/can-dhakas-rare-pet-cafes-survive-beyond-the-social-media-trend-4295906</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/food-recipes/news/can-dhakas-rare-pet-cafes-survive-beyond-the-social-media-trend-4295906</guid>
-            <pubDate>Sun, 11 Oct 2026 12:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI projects $70 billion annualised revenue by year-end: report]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/openai-projects-70-billion-annualised-revenue-year-end-report-4295911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/openai-projects-70-billion-annualised-revenue-year-end-report-4295911</guid>
             <pubDate>Sun, 11 Oct 2026 12:32:08 GMT</pubDate>
         </item>
         <item>
@@ -63,20 +124,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/new-nct-deal-must-deliver-measurable-gains-bangladesh-4295476</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-nct-deal-must-deliver-measurable-gains-bangladesh-4295476</guid>
             <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 12:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why can’t the state keep girls safe?]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/why-cant-the-state-keep-girls-safe-4296036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/why-cant-the-state-keep-girls-safe-4296036</guid>
-            <pubDate>Sun, 11 Oct 2026 12:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strengthening consumer protection must go beyond mobile court raids]]></title>
-            <description><![CDATA[By A S M Rafad AsgarRuhul AminSamira Tasnim]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/strengthening-consumer-protection-must-go-beyond-mobile-court-raids-4296026</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/strengthening-consumer-protection-must-go-beyond-mobile-court-raids-4296026</guid>
-            <dc:creator><![CDATA[A S M Rafad AsgarRuhul AminSamira Tasnim]]></dc:creator>
             <pubDate>Sun, 11 Oct 2026 12:32:08 GMT</pubDate>
         </item>
         <item>
@@ -137,12 +184,6 @@
             <pubDate>Sun, 11 Oct 2026 05:18:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can the new strategy achieve Bangladesh’s renewable energy targets?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-the-new-strategy-achieve-bangladeshs-renewable-energy-targets-4295226</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-the-new-strategy-achieve-bangladeshs-renewable-energy-targets-4295226</guid>
-            <pubDate>Sun, 11 Oct 2026 05:18:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The cost of keeping girls in school]]></title>
             <link>https://www.thedailystar.net/supplements/international-day-the-girl-child-2026/news/the-cost-keeping-girls-school-4295316</link>
             <guid isPermaLink="true">https://www.thedailystar.net/supplements/international-day-the-girl-child-2026/news/the-cost-keeping-girls-school-4295316</guid>
@@ -160,6 +201,14 @@
             <link>https://www.thedailystar.net/news/world/news/two-bangladeshis-among-12-killed-riyadh-airport-attack-300-more-injured-4295676</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/two-bangladeshis-among-12-killed-riyadh-airport-attack-300-more-injured-4295676</guid>
             <pubDate>Sun, 11 Oct 2026 05:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can the new strategy achieve Bangladesh’s renewable energy targets?]]></title>
+            <description><![CDATA[By Subail Bin Alam]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-the-new-strategy-achieve-bangladeshs-renewable-energy-targets-4295226</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-the-new-strategy-achieve-bangladeshs-renewable-energy-targets-4295226</guid>
+            <dc:creator><![CDATA[Subail Bin Alam]]></dc:creator>
+            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.10.11)]]></title>
@@ -191,6 +240,12 @@
             <title><![CDATA[The missing daughters of colonial Bengal]]></title>
             <link>https://www.thedailystar.net/slow-reads/focus/news/the-missing-daughters-colonial-bengal-4295221</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-missing-daughters-colonial-bengal-4295221</guid>
+            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rereading Gloria Steinem and second-wave feminism from South Asia]]></title>
+            <link>https://www.thedailystar.net/slow-reads/wisdom/news/rereading-gloria-steinem-and-second-wave-feminism-south-asia-4295441</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/rereading-gloria-steinem-and-second-wave-feminism-south-asia-4295441</guid>
             <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2287,6 +2342,12 @@
             <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sheikh Rabiul Haque celebrates 80 years through art and culture]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/sheikh-rabiul-haque-celebrates-80-years-through-art-and-culture-4296126</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/sheikh-rabiul-haque-celebrates-80-years-through-art-and-culture-4296126</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Quarterly monetary policy: Is caution enough?]]></title>
             <link>https://www.thedailystar.net/business/economy/news/quarterly-monetary-policy-caution-enough-4287331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/quarterly-monetary-policy-caution-enough-4287331</guid>
@@ -3056,66 +3117,6 @@
             <title><![CDATA[Next Step / A first-timer’s guide to filing your income tax return]]></title>
             <link>https://www.thedailystar.net/news/technology/news/first-timers-guide-filing-your-income-tax-return-4285901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/first-timers-guide-filing-your-income-tax-return-4285901</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Policing teen delinquency needs caution]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/policing-teen-delinquency-needs-caution-4285971</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/policing-teen-delinquency-needs-caution-4285971</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt employees may get 5-day Durga Puja break if Oct 22 declared holiday in Bangladesh]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/govt-employees-may-get-5-day-durga-puja-break-if-oct-22-declared-holiday-bangladesh-4286006</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/govt-employees-may-get-5-day-durga-puja-break-if-oct-22-declared-holiday-bangladesh-4286006</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pop Culture / Why do modern films look artificial?]]></title>
-            <link>https://www.thedailystar.net/star-youth/news/why-do-modern-films-look-artificial-4285881</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-youth/news/why-do-modern-films-look-artificial-4285881</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reflections / Is nonchalance the death of emotional intelligence?]]></title>
-            <link>https://www.thedailystar.net/star-youth/news/nonchalance-the-death-emotional-intelligence-4285876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-youth/news/nonchalance-the-death-emotional-intelligence-4285876</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tamalika to take Mamunur Rashid’s ‘Omanush’ to US stage]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/tamalika-take-mamunur-rashids-omanush-us-stage-4285851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/tamalika-take-mamunur-rashids-omanush-us-stage-4285851</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.09.29)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260929-4285711</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260929-4285711</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt takes first step towards monorail]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/govt-takes-first-step-towards-monorail-4285561</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-takes-first-step-towards-monorail-4285561</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rape response workers unpaid since January]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/rape-response-workers-unpaid-january-4285691</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/rape-response-workers-unpaid-january-4285691</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cyber Security Act: Experts to review draft changes amid media concerns]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/cyber-security-act-experts-review-draft-changes-amid-media-concerns-4285646</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/cyber-security-act-experts-review-draft-changes-amid-media-concerns-4285646</guid>
-            <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malaysia starts sending 1,500 Myanmar migrants home amid rights concerns]]></title>
-            <link>https://www.thedailystar.net/news/world/news/malaysia-starts-sending-1500-myanmar-migrants-home-amid-rights-concerns-4285731</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/malaysia-starts-sending-1500-myanmar-migrants-home-amid-rights-concerns-4285731</guid>
             <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
