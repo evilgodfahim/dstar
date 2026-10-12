@@ -4,21 +4,72 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Oct 2026 01:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 08:58:14 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Oct 2026 01:08:06 GMT</pubDate>
+        <pubDate>Mon, 12 Oct 2026 08:58:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.10.12)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20261012-4296556</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261012-4296556</guid>
-            <pubDate>Mon, 12 Oct 2026 01:08:06 GMT</pubDate>
+            <pubDate>Mon, 12 Oct 2026 08:58:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Consumers paying the price for lax LPG monitoring]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/consumers-paying-the-price-lax-lpg-monitoring-4296381</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/consumers-paying-the-price-lax-lpg-monitoring-4296381</guid>
-            <pubDate>Mon, 12 Oct 2026 01:08:06 GMT</pubDate>
+            <title><![CDATA[Mayer Tori revives folk music by introducing children to traditional instruments]]></title>
+            <link>https://www.thedailystar.net/culture/music/news/mayer-tori-revives-folk-music-introducing-children-traditional-instruments-4296661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/music/news/mayer-tori-revives-folk-music-introducing-children-traditional-instruments-4296661</guid>
+            <pubDate>Mon, 12 Oct 2026 08:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia’s old guard remains their biggest strength and concern]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/australias-old-guard-remains-their-biggest-strength-and-concern-4296716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/australias-old-guard-remains-their-biggest-strength-and-concern-4296716</guid>
+            <pubDate>Mon, 12 Oct 2026 08:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Low-income families need more support]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/low-income-families-need-more-support-4296316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/low-income-families-need-more-support-4296316</guid>
+            <pubDate>Mon, 12 Oct 2026 08:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh seeks stronger energy ties with Saudi Arabia, Qatar]]></title>
+            <link>https://www.thedailystar.net/business/news/bangladesh-seeks-stronger-energy-ties-saudi-arabia-qatar-4296671</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-seeks-stronger-energy-ties-saudi-arabia-qatar-4296671</guid>
+            <pubDate>Mon, 12 Oct 2026 08:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Modernise flood damage assessments to protect haor farmers]]></title>
+            <description><![CDATA[By Niaz Md. Farhat Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/modernise-flood-damage-assessments-protect-haor-farmers-4296361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/modernise-flood-damage-assessments-protect-haor-farmers-4296361</guid>
+            <dc:creator><![CDATA[Niaz Md. Farhat Rahman]]></dc:creator>
+            <pubDate>Mon, 12 Oct 2026 08:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh continues talks with IMF for fresh loans]]></title>
+            <link>https://www.thedailystar.net/business/news/bangladesh-continues-talks-imf-fresh-loans-4296706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-continues-talks-imf-fresh-loans-4296706</guid>
+            <pubDate>Mon, 12 Oct 2026 08:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cabinet Division issues new security directives for Bangladesh Secretariat]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/cabinet-division-issues-new-security-directives-bangladesh-secretariat-4296736</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/cabinet-division-issues-new-security-directives-bangladesh-secretariat-4296736</guid>
+            <pubDate>Mon, 12 Oct 2026 08:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia extends suspension of operations at Riyadh airport]]></title>
+            <link>https://www.thedailystar.net/news/world/news/saudi-civil-aviation-extends-suspension-operations-riyadh-airport-4296746</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/saudi-civil-aviation-extends-suspension-operations-riyadh-airport-4296746</guid>
+            <pubDate>Mon, 12 Oct 2026 08:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UP polls to begin Jan 21, end May 29 in 2027]]></title>
+            <description><![CDATA[Polling to take place on five Thursdays, with upazila headquarters and overdue UPs to get priority]]></description>
+            <link>https://www.thedailystar.net/news/politics/election/news/polls-begin-jan-21-end-may-29-2027-4296756</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/election/news/polls-begin-jan-21-end-may-29-2027-4296756</guid>
+            <pubDate>Mon, 12 Oct 2026 08:58:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pakistan smash record home total to seal Sri Lanka T20I series]]></title>
@@ -27,43 +78,9 @@
             <pubDate>Mon, 12 Oct 2026 01:08:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Slave raids in Bengal and the making of Arakan’s power]]></title>
-            <description><![CDATA[By Rila Mukherjee]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/slave-raids-bengal-and-the-making-arakans-power-4296131</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/slave-raids-bengal-and-the-making-arakans-power-4296131</guid>
-            <dc:creator><![CDATA[Rila Mukherjee]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 01:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What should 'Bangladesh First' mean for foreign policy?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-should-bangladesh-first-mean-foreign-policy-4296181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-should-bangladesh-first-mean-foreign-policy-4296181</guid>
-            <pubDate>Mon, 12 Oct 2026 01:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How much longer must we wait for press freedom?]]></title>
-            <description><![CDATA[By Matiur Rahman]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/how-much-longer-must-we-wait-press-freedom-4296346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-much-longer-must-we-wait-press-freedom-4296346</guid>
-            <dc:creator><![CDATA[Matiur Rahman]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 01:08:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Can AI fix what cheap labour cannot in Bangladesh?]]></title>
             <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/can-ai-fix-what-cheap-labour-cannot-bangladesh-4296176</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/can-ai-fix-what-cheap-labour-cannot-bangladesh-4296176</guid>
-            <pubDate>Mon, 12 Oct 2026 01:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Bangladesh bring its hilsa back?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-bring-its-hilsa-back-4296256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-bring-its-hilsa-back-4296256</guid>
-            <pubDate>Mon, 12 Oct 2026 01:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why dengue cases remain low in Sylhet, Rangpur]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/why-dengue-cases-remain-low-sylhet-rangpur-4296416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/why-dengue-cases-remain-low-sylhet-rangpur-4296416</guid>
             <pubDate>Mon, 12 Oct 2026 01:08:06 GMT</pubDate>
         </item>
         <item>
@@ -84,6 +101,52 @@
             <link>https://www.thedailystar.net/news/bangladesh/news/ec-unveil-polls-roadmap-today-4296436</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/ec-unveil-polls-roadmap-today-4296436</guid>
             <pubDate>Mon, 12 Oct 2026 01:08:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Consumers paying the price for lax LPG monitoring]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/consumers-paying-the-price-lax-lpg-monitoring-4296381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/consumers-paying-the-price-lax-lpg-monitoring-4296381</guid>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slave raids in Bengal and the making of Arakan’s power]]></title>
+            <description><![CDATA[By Rila Mukherjee]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/slave-raids-bengal-and-the-making-arakans-power-4296131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/slave-raids-bengal-and-the-making-arakans-power-4296131</guid>
+            <dc:creator><![CDATA[Rila Mukherjee]]></dc:creator>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What should 'Bangladesh First' mean for foreign policy?]]></title>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-should-bangladesh-first-mean-foreign-policy-4296181</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-should-bangladesh-first-mean-foreign-policy-4296181</guid>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How much longer must we wait for press freedom?]]></title>
+            <description><![CDATA[By Matiur Rahman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/how-much-longer-must-we-wait-press-freedom-4296346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-much-longer-must-we-wait-press-freedom-4296346</guid>
+            <dc:creator><![CDATA[Matiur Rahman]]></dc:creator>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Bangladesh bring its hilsa back?]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-bring-its-hilsa-back-4296256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-bring-its-hilsa-back-4296256</guid>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why dengue cases remain low in Sylhet, Rangpur]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/why-dengue-cases-remain-low-sylhet-rangpur-4296416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/why-dengue-cases-remain-low-sylhet-rangpur-4296416</guid>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SPOTLIGHT / Walton to expand in Kenya]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/walton-expand-kenya-4296371</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/walton-expand-kenya-4296371</guid>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Messi names football’s next 10 superstars, Boca Juniors wonderkid makes the list]]></title>
@@ -329,6 +392,19 @@
             <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Should period put a period on childhood?]]></title>
+            <link>https://www.thedailystar.net/supplements/international-day-the-girl-child/news/should-period-put-period-childhood-4295311</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/supplements/international-day-the-girl-child/news/should-period-put-period-childhood-4295311</guid>
+            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Messi and Ronaldo to Bangladesh football’s reality | Fever Pitch]]></title>
+            <description><![CDATA[From Lionel Messi’s international retirement to Cristiano Ronaldo’s dramatic exit from Portugal’s camp and his fallout with Jorge Jesus, the latest FIFA window had no shortage of talking points.]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/sports-multimedia/news/messi-and-ronaldo-bangladesh-footballs-reality-fever-pitch-4296241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/sports-multimedia/news/messi-and-ronaldo-bangladesh-footballs-reality-fever-pitch-4296241</guid>
+            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bollywood actor Imran Khan detained during Mumbai protest]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/bollywood-actor-imran-khan-detained-during-mumbai-protest-4295246</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/bollywood-actor-imran-khan-detained-during-mumbai-protest-4295246</guid>
@@ -542,10 +618,8 @@
         </item>
         <item>
             <title><![CDATA[André Wink speaks / What we get wrong about the Indo-Islamic world]]></title>
-            <description><![CDATA[By Priyam Paul]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/what-we-get-wrong-about-the-indo-islamic-world-4294531</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/what-we-get-wrong-about-the-indo-islamic-world-4294531</guid>
-            <dc:creator><![CDATA[Priyam Paul]]></dc:creator>
             <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -592,6 +666,7 @@
         </item>
         <item>
             <title><![CDATA[The fading echoes of jatra]]></title>
+            <description><![CDATA[“Hoi hoi kando, roi roi byapar… odyo rajaneer bishesh akarshan!” (An exciting, sensational affair… a grand spectacle awaits tonight!)]]></description>
             <link>https://www.thedailystar.net/weekend-read/news/the-fading-echoes-jatra-4294611</link>
             <guid isPermaLink="true">https://www.thedailystar.net/weekend-read/news/the-fading-echoes-jatra-4294611</guid>
             <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
@@ -2362,7 +2437,6 @@
         </item>
         <item>
             <title><![CDATA[Interactive / A city changes. Plastic remains]]></title>
-            <description><![CDATA[Use of single-use plastic started in Bangladesh in the 1980s]]></description>
             <link>https://www.thedailystar.net/news/environment/news/city-changes-plastic-remains-4287946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/environment/news/city-changes-plastic-remains-4287946</guid>
             <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
@@ -3042,80 +3116,6 @@
             <link>https://www.thedailystar.net/sports/football/news/uefa-distribute-eu315-million-clubs-releasing-players-nations-league-4285896</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/uefa-distribute-eu315-million-clubs-releasing-players-nations-league-4285896</guid>
             <pubDate>Tue, 29 Sep 2026 12:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[End the deadlock at the Information Commission]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/end-the-deadlock-the-information-commission-4285401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/end-the-deadlock-the-information-commission-4285401</guid>
-            <pubDate>Tue, 29 Sep 2026 12:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What UPL says about incident over ‘Oshomapto Attojiboni’ sale]]></title>
-            <link>https://www.thedailystar.net/news/news/what-upl-says-about-yesterdays-incident-over-oshomapto-attojiboni-sale-4285846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/what-upl-says-about-yesterdays-incident-over-oshomapto-attojiboni-sale-4285846</guid>
-            <pubDate>Tue, 29 Sep 2026 12:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RU teachers receive death threats, extortion demands from callers claiming ‘Sarbahara’ links]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/ru-teachers-receive-death-threats-extortion-demands-callers-claiming-sarbahara-links-4285926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/ru-teachers-receive-death-threats-extortion-demands-callers-claiming-sarbahara-links-4285926</guid>
-            <pubDate>Tue, 29 Sep 2026 12:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nuclear deal with US won’t affect Rooppur plant: Adviser Zahed]]></title>
-            <link>https://www.thedailystar.net/news/news/nuclear-deal-us-wont-affect-rooppur-plant-adviser-zahed-4285886</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/nuclear-deal-us-wont-affect-rooppur-plant-adviser-zahed-4285886</guid>
-            <pubDate>Tue, 29 Sep 2026 12:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death toll from measles, symptoms crosses 1,100]]></title>
-            <link>https://www.thedailystar.net/news/healthcare/disease/news/death-toll-measles-symptoms-crosses-1100-4285986</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/disease/news/death-toll-measles-symptoms-crosses-1100-4285986</guid>
-            <pubDate>Tue, 29 Sep 2026 12:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt has failed to curb extortion, violence: Charmonai Pir]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/govt-has-failed-curb-extortion-violence-charmonai-pir-4285966</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/govt-has-failed-curb-extortion-violence-charmonai-pir-4285966</guid>
-            <pubDate>Tue, 29 Sep 2026 12:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ADB to give Modern Syntex $50 million for polyester chips project]]></title>
-            <link>https://www.thedailystar.net/business/news/adb-give-modern-syntex-50-million-polyester-chips-project-4285976</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/adb-give-modern-syntex-50-million-polyester-chips-project-4285976</guid>
-            <pubDate>Tue, 29 Sep 2026 12:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HC drops Asif Mahmud’s petition challenging ACC briefings from cause list]]></title>
-            <description><![CDATA[Says detailed hearing needed on Asif Mahmud’s plea against ACC briefings]]></description>
-            <link>https://www.thedailystar.net/news/news/hc-drops-asif-mahmuds-petition-challenging-acc-briefings-cause-list-4285911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/hc-drops-asif-mahmuds-petition-challenging-acc-briefings-cause-list-4285911</guid>
-            <pubDate>Tue, 29 Sep 2026 12:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raphinha, Vinicius strike as Brazil beat Australia 4-2]]></title>
-            <description><![CDATA[Raphinha and Vinicius Junior struck from penalties to help Brazil beat Australia 4-2 in their second international friendly in Brisbane today.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/brazil-2-2-australia-raphinha-strike-keeps-brazil-level-half-time-4285946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/brazil-2-2-australia-raphinha-strike-keeps-brazil-level-half-time-4285946</guid>
-            <pubDate>Tue, 29 Sep 2026 12:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manchester City’s legal storm: What comes next?]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/manchester-citys-legal-storm-what-comes-next-4285726</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/manchester-citys-legal-storm-what-comes-next-4285726</guid>
-            <pubDate>Tue, 29 Sep 2026 05:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keya Payel makes web film debut with Arifin Shuvoo]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/keya-payel-makes-web-film-debut-arifin-shuvoo-4285781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/keya-payel-makes-web-film-debut-arifin-shuvoo-4285781</guid>
-            <pubDate>Tue, 29 Sep 2026 05:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How public schools can protect children from extreme heat]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/how-public-schools-can-protect-children-extreme-heat-4285451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/how-public-schools-can-protect-children-extreme-heat-4285451</guid>
-            <pubDate>Tue, 29 Sep 2026 05:20:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
