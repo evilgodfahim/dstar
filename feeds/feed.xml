@@ -4,21 +4,39 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 01:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 09:12:50 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Oct 2026 01:12:55 GMT</pubDate>
+        <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.10.13)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20261013-4297451</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261013-4297451</guid>
-            <pubDate>Tue, 13 Oct 2026 01:12:55 GMT</pubDate>
+            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Is Bangladesh’s low-cost garment model running out of steam?]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/bangladeshs-low-cost-garment-model-running-out-steam-4297236</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bangladeshs-low-cost-garment-model-running-out-steam-4297236</guid>
-            <pubDate>Tue, 13 Oct 2026 01:12:54 GMT</pubDate>
+            <title><![CDATA['Breaking Bad' actor RJ Mitte found dead at 34]]></title>
+            <link>https://www.thedailystar.net/culture/tv-film/news/breaking-bad-actor-rj-mitte-found-dead-34-4297526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/breaking-bad-actor-rj-mitte-found-dead-34-4297526</guid>
+            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Messi still trying to comprehend his own greatness]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/messi-still-trying-comprehend-his-own-greatness-4297676</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/messi-still-trying-comprehend-his-own-greatness-4297676</guid>
+            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi flight disruptions affect 9,269 passengers]]></title>
+            <link>https://www.thedailystar.net/business/economy/aviation/news/saudi-flight-disruptions-affect-9269-passengers-4297581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/aviation/news/saudi-flight-disruptions-affect-9269-passengers-4297581</guid>
+            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International Day for Disaster Risk Reduction / We must prepare for disasters before they strike]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/we-must-prepare-disasters-they-strike-4297301</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-prepare-disasters-they-strike-4297301</guid>
+            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I never had breast cancer, but experienced its stigma]]></title>
@@ -26,6 +44,59 @@
             <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/i-never-had-breast-cancer-experienced-its-stigma-4297131</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/i-never-had-breast-cancer-experienced-its-stigma-4297131</guid>
             <dc:creator><![CDATA[Lubna Ferdowsi]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does Bangladesh keep starting from scratch in policymaking?]]></title>
+            <description><![CDATA[By Syed Abdul Hamid]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-does-bangladesh-keep-starting-scratch-policymaking-4297271</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-does-bangladesh-keep-starting-scratch-policymaking-4297271</guid>
+            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘ACC must be freed from political and bureaucratic influence’]]></title>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
+            <link>https://www.thedailystar.net/opinion/interviews/news/acc-must-be-freed-political-and-bureaucratic-influence-4297321</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/interviews/news/acc-must-be-freed-political-and-bureaucratic-influence-4297321</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DNCC evicts illegal structures from Panthapath footpaths]]></title>
+            <link>https://www.thedailystar.net/news/news/dncc-evicts-illegal-structures-panthapath-footpaths-4297576</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/dncc-evicts-illegal-structures-panthapath-footpaths-4297576</guid>
+            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt won’t debate growth projections, hopes to meet budget target: Finance minister]]></title>
+            <link>https://www.thedailystar.net/business/news/govt-wont-debate-growth-projections-hopes-meet-budget-target-finance-minister-4297626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-wont-debate-growth-projections-hopes-meet-budget-target-finance-minister-4297626</guid>
+            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Litton's landmark dismissal dents Afghan resistance]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/littons-landmark-dismissal-dents-afghan-resistance-4297656</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/littons-landmark-dismissal-dents-afghan-resistance-4297656</guid>
+            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bryan Cranston pays tribute to ‘Breaking Bad’ son RJ Mitte]]></title>
+            <link>https://www.thedailystar.net/culture/tv-film/news/bryan-cranston-pays-tribute-breaking-bad-son-rj-mitte-4297616</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/bryan-cranston-pays-tribute-breaking-bad-son-rj-mitte-4297616</guid>
+            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harassment of Yunus in US ‘Awami League terror’: Zahed]]></title>
+            <description><![CDATA[Such attempts by Awami League members abroad will not go unchallenged, PM's adviser says]]></description>
+            <link>https://www.thedailystar.net/news/governance/news/harassment-yunus-us-awami-league-terror-zahed-4297666</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/harassment-yunus-us-awami-league-terror-zahed-4297666</guid>
+            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Bangladesh’s low-cost garment model running out of steam?]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/bangladeshs-low-cost-garment-model-running-out-steam-4297236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bangladeshs-low-cost-garment-model-running-out-steam-4297236</guid>
             <pubDate>Tue, 13 Oct 2026 01:12:54 GMT</pubDate>
         </item>
         <item>
@@ -41,17 +112,25 @@
             <pubDate>Tue, 13 Oct 2026 01:12:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The politics behind the Nobel Prize in economics]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-politics-behind-the-nobel-prize-economics-4297241</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-politics-behind-the-nobel-prize-economics-4297241</guid>
-            <pubDate>Tue, 13 Oct 2026 01:12:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bangladesh signs $335.78m Chinese loan for Mongla port modernisation]]></title>
             <description><![CDATA[Under the project, the Mongla Port Authority will construct two container terminals, a container yard, a container delivery yard and a cargo handling yard.]]></description>
             <link>https://www.thedailystar.net/business/news/bangladesh-signs-33578m-chinese-loan-mongla-port-modernisation-4297216</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-signs-33578m-chinese-loan-mongla-port-modernisation-4297216</guid>
             <pubDate>Tue, 13 Oct 2026 01:12:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The politics behind the Nobel Prize in economics]]></title>
+            <description><![CDATA[By Asrar Chowdhury]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-politics-behind-the-nobel-prize-economics-4297241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-politics-behind-the-nobel-prize-economics-4297241</guid>
+            <dc:creator><![CDATA[Asrar Chowdhury]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rice prices rise as fuel costs bite at season’s end]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/rice-prices-rise-fuel-costs-bite-seasons-end-4297231</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/rice-prices-rise-fuel-costs-bite-seasons-end-4297231</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BNP must enforce intra-party discipline]]></title>
@@ -191,10 +270,8 @@
         </item>
         <item>
             <title><![CDATA[Slave raids in Bengal and the making of Arakan’s power]]></title>
-            <description><![CDATA[By Rila Mukherjee]]></description>
             <link>https://www.thedailystar.net/slow-reads/focus/news/slave-raids-bengal-and-the-making-arakans-power-4296131</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/slave-raids-bengal-and-the-making-arakans-power-4296131</guid>
-            <dc:creator><![CDATA[Rila Mukherjee]]></dc:creator>
             <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -233,6 +310,12 @@
             <title><![CDATA[Airlines business and procurement of aircraft]]></title>
             <link>https://www.thedailystar.net/business/economy/news/airlines-business-and-procurement-aircraft-4296336</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/airlines-business-and-procurement-aircraft-4296336</guid>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Views / Bangladesh cannot afford to rent its AI future]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/bangladesh-cannot-afford-rent-its-ai-future-4296961</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/bangladesh-cannot-afford-rent-its-ai-future-4296961</guid>
             <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3035,86 +3118,6 @@
             <link>https://www.thedailystar.net/sports/football/news/sanctions-titles-stripped-or-stars-leaving-what-next-city-4286571</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/sanctions-titles-stripped-or-stars-leaving-what-next-city-4286571</guid>
             <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yamal inspires Spain to Croatia romp on World Cup homecoming]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/yamal-inspires-spain-croatia-romp-world-cup-homecoming-4286576</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/yamal-inspires-spain-croatia-romp-world-cup-homecoming-4286576</guid>
-            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Researchers say AI labs should pause rather than race]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/researchers-say-ai-labs-should-pause-rather-race-4286801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/researchers-say-ai-labs-should-pause-rather-race-4286801</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshi team wins bronze at WRO Asia-Pacific Open Championship 2026]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/bangladeshi-team-wins-bronze-wro-asia-pacific-open-championship-2026-4287001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/bangladeshi-team-wins-bronze-wro-asia-pacific-open-championship-2026-4287001</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Singapore government launches matchmaking app for public officers]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/singapore-government-launches-matchmaking-app-public-officers-4287036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/singapore-government-launches-matchmaking-app-public-officers-4287036</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspective / Stopped at the Gate: Why independent women are still fighting to travel]]></title>
-            <link>https://www.thedailystar.net/life-living/news/stopped-the-gate-why-independent-women-are-still-fighting-travel-4287021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/stopped-the-gate-why-independent-women-are-still-fighting-travel-4287021</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladeshi art showcased at Oxford’s Ashmolean Museum]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/bangladeshi-art-showcased-oxfords-ashmolean-museum-4286921</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/bangladeshi-art-showcased-oxfords-ashmolean-museum-4286921</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why cheaper credit is not enough to spur private investment]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/why-cheaper-credit-not-enough-spur-private-investment-4286266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-cheaper-credit-not-enough-spur-private-investment-4286266</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International Translation Day 2026 / Beyond equivalence: Translation and the politics of being understood]]></title>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/beyond-equivalence-translation-and-the-politics-being-understood-4286116</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/beyond-equivalence-translation-and-the-politics-being-understood-4286116</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Geopolitical ghosts and the United Nations]]></title>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/geopolitical-ghosts-and-the-united-nations-4286161</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/geopolitical-ghosts-and-the-united-nations-4286161</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How long can the world manage without Middle Eastern oil and gas?]]></title>
-            <description><![CDATA[.]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/news/how-long-can-the-world-manage-without-middle-eastern-oil-and-gas-4286831</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/how-long-can-the-world-manage-without-middle-eastern-oil-and-gas-4286831</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can a monorail effectively serve a densely populated city like Dhaka?]]></title>
-            <description><![CDATA[.]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/news/can-monorail-effectively-serve-densely-populated-city-dhaka-4286816</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/can-monorail-effectively-serve-densely-populated-city-dhaka-4286816</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[India now moves to levy anti-subsidy duty on jute goods]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/india-now-moves-levy-anti-subsidy-duty-jute-goods-4286331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/india-now-moves-levy-anti-subsidy-duty-jute-goods-4286331</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.09.30)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20260930-4286651</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260930-4286651</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
