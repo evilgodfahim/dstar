@@ -4,15 +4,84 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 09:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 17:29:00 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
+        <pubDate>Tue, 13 Oct 2026 17:29:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Today's Gallery (2026.10.13)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261013-4297451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261013-4297451</guid>
-            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
+            <title><![CDATA[Weekly Horoscope: What the stars have in store for every sign]]></title>
+            <link>https://www.thedailystar.net/life-living/news/weekly-horoscope-what-the-stars-have-store-every-sign-4297726</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/weekly-horoscope-what-the-stars-have-store-every-sign-4297726</guid>
+            <pubDate>Tue, 13 Oct 2026 17:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Actor Somu Chowdhury injured in attack over waste disposal dispute]]></title>
+            <link>https://www.thedailystar.net/culture/tv-film/news/actor-somu-chowdhury-injured-attack-over-waste-disposal-dispute-4297971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/actor-somu-chowdhury-injured-attack-over-waste-disposal-dispute-4297971</guid>
+            <pubDate>Tue, 13 Oct 2026 17:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sabbir Rahman ends eight-year first-class century  drought]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/sabbir-rahman-ends-eight-year-century-drought-4297966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/sabbir-rahman-ends-eight-year-century-drought-4297966</guid>
+            <pubDate>Tue, 13 Oct 2026 17:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh wants to sign trade deal with Oman]]></title>
+            <link>https://www.thedailystar.net/business/news/bangladesh-wants-sign-trade-deal-oman-4297901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-wants-sign-trade-deal-oman-4297901</guid>
+            <pubDate>Tue, 13 Oct 2026 17:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I never had breast cancer, but experienced its stigma]]></title>
+            <description><![CDATA[By Lubna Ferdowsi]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/i-never-had-breast-cancer-experienced-its-stigma-4297131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/i-never-had-breast-cancer-experienced-its-stigma-4297131</guid>
+            <dc:creator><![CDATA[Lubna Ferdowsi]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 17:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ease the crushing debt burden on rural poor]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/ease-the-crushing-debt-burden-rural-poor-4297811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ease-the-crushing-debt-burden-rural-poor-4297811</guid>
+            <pubDate>Tue, 13 Oct 2026 17:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harassment of Yunus in US ‘Awami League terror’: Zahed]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/harassment-yunus-us-awami-league-terror-zahed-4297666</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/harassment-yunus-us-awami-league-terror-zahed-4297666</guid>
+            <pubDate>Tue, 13 Oct 2026 17:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / Remittance and fuel: Bangladesh's double exposure to the Gulf crisis]]></title>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/remittance-and-fuel-bangladeshs-double-exposure-the-gulf-crisis-4297721</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/remittance-and-fuel-bangladeshs-double-exposure-the-gulf-crisis-4297721</guid>
+            <pubDate>Tue, 13 Oct 2026 17:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt to reassess tourist limits, season for Saint Martin’s: Minister]]></title>
+            <link>https://www.thedailystar.net/business/news/govt-reassess-tourist-limits-season-saint-martins-minister-4297801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-reassess-tourist-limits-season-saint-martins-minister-4297801</guid>
+            <pubDate>Tue, 13 Oct 2026 17:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jamaat did not field women as 70% said they were not ready: Mardia Mumtaz]]></title>
+            <link>https://www.thedailystar.net/news/politics/news/jamaat-did-not-field-women-70-said-they-were-not-ready-mardia-mumtaz-4297866</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/jamaat-did-not-field-women-70-said-they-were-not-ready-mardia-mumtaz-4297866</guid>
+            <pubDate>Tue, 13 Oct 2026 17:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s non-cotton garment exports on the rise]]></title>
+            <link>https://www.thedailystar.net/business/news/bangladeshs-non-cotton-garment-exports-the-rise-4297911</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladeshs-non-cotton-garment-exports-the-rise-4297911</guid>
+            <pubDate>Tue, 13 Oct 2026 17:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interview / Up to half of Bangladesh’s remittance growth may reflect shift from hundi, says Dilip Ratha]]></title>
+            <description><![CDATA[Former World Bank economist says remittances could reach $38 billion this year and urges Bangladesh to mobilise diaspora savings]]></description>
+            <link>https://www.thedailystar.net/news/work-and-migration/news/half-bangladeshs-remittance-growth-may-reflect-shift-hundi-says-dilip-ratha-4297981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/work-and-migration/news/half-bangladeshs-remittance-growth-may-reflect-shift-hundi-says-dilip-ratha-4297981</guid>
+            <pubDate>Tue, 13 Oct 2026 17:29:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['Breaking Bad' actor RJ Mitte found dead at 34]]></title>
@@ -36,22 +105,6 @@
             <title><![CDATA[International Day for Disaster Risk Reduction / We must prepare for disasters before they strike]]></title>
             <link>https://www.thedailystar.net/opinion/views/news/we-must-prepare-disasters-they-strike-4297301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-prepare-disasters-they-strike-4297301</guid>
-            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I never had breast cancer, but experienced its stigma]]></title>
-            <description><![CDATA[By Lubna Ferdowsi]]></description>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/i-never-had-breast-cancer-experienced-its-stigma-4297131</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/i-never-had-breast-cancer-experienced-its-stigma-4297131</guid>
-            <dc:creator><![CDATA[Lubna Ferdowsi]]></dc:creator>
-            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why does Bangladesh keep starting from scratch in policymaking?]]></title>
-            <description><![CDATA[By Syed Abdul Hamid]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/why-does-bangladesh-keep-starting-scratch-policymaking-4297271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-does-bangladesh-keep-starting-scratch-policymaking-4297271</guid>
-            <dc:creator><![CDATA[Syed Abdul Hamid]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
         </item>
         <item>
@@ -87,13 +140,6 @@
             <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Harassment of Yunus in US ‘Awami League terror’: Zahed]]></title>
-            <description><![CDATA[Such attempts by Awami League members abroad will not go unchallenged, PM's adviser says]]></description>
-            <link>https://www.thedailystar.net/news/governance/news/harassment-yunus-us-awami-league-terror-zahed-4297666</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/harassment-yunus-us-awami-league-terror-zahed-4297666</guid>
-            <pubDate>Tue, 13 Oct 2026 09:12:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Is Bangladesh’s low-cost garment model running out of steam?]]></title>
             <link>https://www.thedailystar.net/business/economy/news/bangladeshs-low-cost-garment-model-running-out-steam-4297236</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bangladeshs-low-cost-garment-model-running-out-steam-4297236</guid>
@@ -119,6 +165,18 @@
             <pubDate>Tue, 13 Oct 2026 01:12:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.10.13)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261013-4297451</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261013-4297451</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why does Bangladesh keep starting from scratch in policymaking?]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/why-does-bangladesh-keep-starting-scratch-policymaking-4297271</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-does-bangladesh-keep-starting-scratch-policymaking-4297271</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The politics behind the Nobel Prize in economics]]></title>
             <description><![CDATA[By Asrar Chowdhury]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-politics-behind-the-nobel-prize-economics-4297241</link>
@@ -130,6 +188,14 @@
             <title><![CDATA[Rice prices rise as fuel costs bite at season’s end]]></title>
             <link>https://www.thedailystar.net/business/economy/news/rice-prices-rise-fuel-costs-bite-seasons-end-4297231</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/rice-prices-rise-fuel-costs-bite-seasons-end-4297231</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Youth, protests and pragmatism: What history tells us about the future]]></title>
+            <description><![CDATA[By Imtiaz A Hussain]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/youth-protests-and-pragmatism-what-history-tells-us-about-the-future-4297106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/youth-protests-and-pragmatism-what-history-tells-us-about-the-future-4297106</guid>
+            <dc:creator><![CDATA[Imtiaz A Hussain]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -319,6 +385,18 @@
             <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bangladeshi gamer SI Anik wins Capcom Pro Tour 2026 South Asia Final]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/bangladeshi-gamer-si-anik-wins-capcom-pro-tour-2026-south-asia-final-4296956</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/bangladeshi-gamer-si-anik-wins-capcom-pro-tour-2026-south-asia-final-4296956</guid>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trends / How a guitar school from Bandarban touched hearts]]></title>
+            <link>https://www.thedailystar.net/life-living/news/why-guitar-school-bandarban-winning-hearts-everywhere-4296801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/why-guitar-school-bandarban-winning-hearts-everywhere-4296801</guid>
+            <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Messi names football’s next 10 superstars, Boca Juniors wonderkid makes the list]]></title>
             <link>https://www.thedailystar.net/sports/football/news/messi-names-footballs-next-10-superstars-boca-juniors-wonderkid-makes-the-list-4296221</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/messi-names-footballs-next-10-superstars-boca-juniors-wonderkid-makes-the-list-4296221</guid>
@@ -370,12 +448,6 @@
             <title><![CDATA[7 temples worth exploring across Bangladesh]]></title>
             <link>https://www.thedailystar.net/life-living/travel/news/7-historic-bangladesh-temples-visit-durga-puja-season-4295891</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/travel/news/7-historic-bangladesh-temples-visit-durga-puja-season-4295891</guid>
-            <pubDate>Sun, 11 Oct 2026 12:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Dhaka’s pet cafés survive on love alone?]]></title>
-            <link>https://www.thedailystar.net/life-living/food-recipes/news/can-dhakas-rare-pet-cafes-survive-beyond-the-social-media-trend-4295906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/food-recipes/news/can-dhakas-rare-pet-cafes-survive-beyond-the-social-media-trend-4295906</guid>
             <pubDate>Sun, 11 Oct 2026 12:32:08 GMT</pubDate>
         </item>
         <item>
@@ -485,6 +557,12 @@
             <link>https://www.thedailystar.net/news/world/news/two-bangladeshis-among-12-killed-riyadh-airport-attack-300-more-injured-4295676</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/two-bangladeshis-among-12-killed-riyadh-airport-attack-300-more-injured-4295676</guid>
             <pubDate>Sun, 11 Oct 2026 05:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Dhaka’s pet cafés survive on love alone?]]></title>
+            <link>https://www.thedailystar.net/life-living/food-recipes/news/can-dhakas-rare-pet-cafes-survive-beyond-the-social-media-trend-4295906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/food-recipes/news/can-dhakas-rare-pet-cafes-survive-beyond-the-social-media-trend-4295906</guid>
+            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Strengthening consumer protection must go beyond mobile court raids]]></title>
@@ -1272,6 +1350,12 @@
             <title><![CDATA[Reflections / To Messi, from Bangladesh]]></title>
             <link>https://www.thedailystar.net/campus/news/messi-bangladesh-4293636</link>
             <guid isPermaLink="true">https://www.thedailystar.net/campus/news/messi-bangladesh-4293636</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Student life / Unpacking the abuse inflicted by teachers]]></title>
+            <link>https://www.thedailystar.net/campus/news/unpacking-the-abuse-inflicted-teachers-4292796</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/unpacking-the-abuse-inflicted-teachers-4292796</guid>
             <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3027,97 +3111,6 @@
             <link>https://www.thedailystar.net/sports/football/news/injured-raphinha-will-miss-india-friendly-4286826</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/injured-raphinha-will-miss-india-friendly-4286826</guid>
             <pubDate>Wed, 30 Sep 2026 08:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Habiganj transport owners call strike from tomorrow as row with Moulvibazar owners deepens]]></title>
-            <description><![CDATA[Detained buses and failed talks fuel year-long dispute that repeatedly leaves commuters stranded]]></description>
-            <link>https://www.thedailystar.net/news/transport/news/habiganj-transport-owners-call-strike-tomorrow-row-moulvibazar-owners-deepens-4286756</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/habiganj-transport-owners-call-strike-tomorrow-row-moulvibazar-owners-deepens-4286756</guid>
-            <pubDate>Wed, 30 Sep 2026 08:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reaction / Three women stopped at Dhaka airport: When a social prejudice becomes an immigration decision]]></title>
-            <link>https://www.thedailystar.net/news/news/three-women-stopped-dhaka-airport-when-social-prejudice-becomes-immigration-decision-4286766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/three-women-stopped-dhaka-airport-when-social-prejudice-becomes-immigration-decision-4286766</guid>
-            <pubDate>Wed, 30 Sep 2026 08:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Salahuddin, Ashraful reunite at Fortune in D3]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/salahuddin-ashraful-reunite-fortune-d3-4286151</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/salahuddin-ashraful-reunite-fortune-d3-4286151</guid>
-            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do great leaders make history, or does history make them?]]></title>
-            <description><![CDATA[Exceptional leaders only change history’s trajectory when favourable contextual, economic, and social conditions enable their decisive impact.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/do-great-leaders-make-history-or-does-history-make-them-4285626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/do-great-leaders-make-history-or-does-history-make-them-4285626</guid>
-            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BRICS is bigger, but can it deliver?]]></title>
-            <description><![CDATA[By Sreeradha Datta]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/brics-bigger-can-it-deliver-4285286</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/brics-bigger-can-it-deliver-4285286</guid>
-            <dc:creator><![CDATA[Sreeradha Datta]]></dc:creator>
-            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BNP campaigned for ‘Yes’ but now rejects referendum verdict, says Akhter]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/bnp-campaigned-yes-now-rejects-referendum-verdict-says-akhter-4286216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/bnp-campaigned-yes-now-rejects-referendum-verdict-says-akhter-4286216</guid>
-            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spotify faces outages as thousands report problems]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/spotify-faces-outages-thousands-report-problems-4286181</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/spotify-faces-outages-thousands-report-problems-4286181</guid>
-            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BNP expels Mofizur Rahman Mamun over allegations of 'immoral and anti-organisational' activities]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/bnp-expels-mofizur-rahman-mamun-over-allegations-immoral-and-anti-organisational-activities-4286201</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/bnp-expels-mofizur-rahman-mamun-over-allegations-immoral-and-anti-organisational-activities-4286201</guid>
-            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rights Advocacy / A new start for Bangladesh's National Human Rights Commission: The Real Test Begins Now]]></title>
-            <link>https://www.thedailystar.net/ds/law-our-rights/rights-advocacy/news/new-start-bangladeshs-national-human-rights-commission-the-real-test-begins-now-4285496</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/ds/law-our-rights/rights-advocacy/news/new-start-bangladeshs-national-human-rights-commission-the-real-test-begins-now-4285496</guid>
-            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh Bank bars profit from Islamic credit cards]]></title>
-            <description><![CDATA[Bangladesh Bank (BB) has issued its first full guidelines on Islamic credit cards, barring banks from earning more when customers' debts grow or when they pay late]]></description>
-            <link>https://www.thedailystar.net/business/news/bangladesh-bank-bars-profit-islamic-credit-cards-4286051</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-bank-bars-profit-islamic-credit-cards-4286051</guid>
-            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh cholera vaccination: 82.6% coverage, 8.52 lakh miss first dose]]></title>
-            <link>https://www.thedailystar.net/health/news/bangladesh-cholera-vaccination-826-coverage-852-lakh-miss-first-dose-4286111</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/health/news/bangladesh-cholera-vaccination-826-coverage-852-lakh-miss-first-dose-4286111</guid>
-            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England break down stubborn Czechs to claim first Nations League win]]></title>
-            <description><![CDATA[Anthony Gordon and Harry Kane were on target again as England saw off 10-man Czech Republic 2-0 to get their Nations League campaign up and running on Tuesday.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/england-break-down-stubborn-czechs-claim-first-nations-league-win-4286586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/england-break-down-stubborn-czechs-claim-first-nations-league-win-4286586</guid>
-            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Premier League’s conspiracy theory’: City CEO hits back]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/premier-leagues-conspiracy-theory-city-ceo-hits-back-4286656</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/premier-leagues-conspiracy-theory-city-ceo-hits-back-4286656</guid>
-            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sanctions, titles stripped or stars leaving: What next for City?]]></title>
-            <description><![CDATA[Manchester City have been plunged into crisis after a damming verdict found the Premier League leaders guilty of widespread financial fraud across a nine-year period between 2009 and 2018.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/sanctions-titles-stripped-or-stars-leaving-what-next-city-4286571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/sanctions-titles-stripped-or-stars-leaving-what-next-city-4286571</guid>
-            <pubDate>Wed, 30 Sep 2026 01:56:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
