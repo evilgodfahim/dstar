@@ -4,38 +4,95 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 07:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 13:32:20 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Oct 2026 07:23:49 GMT</pubDate>
+        <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.10.14)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261014-4298281</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261014-4298281</guid>
-            <pubDate>Wed, 14 Oct 2026 07:23:49 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Why self-replicating AI is worrying experts]]></title>
             <link>https://www.thedailystar.net/news/technology/news/why-self-replicating-ai-worrying-experts-4298441</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/why-self-replicating-ai-worrying-experts-4298441</guid>
-            <pubDate>Wed, 14 Oct 2026 07:23:49 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can hackers get into a fridge?]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/how-can-hackers-get-fridge-4298431</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/how-can-hackers-get-fridge-4298431</guid>
+            <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Greta Gerwig secures rare use of Led Zeppelin’s ‘Stairway to Heaven’ for ‘Narnia’ trailer]]></title>
             <link>https://www.thedailystar.net/culture/tv-film/news/greta-gerwig-secures-rare-use-led-zeppelins-stairway-heaven-narnia-trailer-4298456</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/greta-gerwig-secures-rare-use-led-zeppelins-stairway-heaven-narnia-trailer-4298456</guid>
-            <pubDate>Wed, 14 Oct 2026 07:23:49 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Farhan’s 238-run haul breaks Abhishek’s T20I series record]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/farhans-238-run-haul-breaks-abhisheks-t20i-series-record-4298476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/farhans-238-run-haul-breaks-abhisheks-t20i-series-record-4298476</guid>
-            <pubDate>Wed, 14 Oct 2026 07:23:49 GMT</pubDate>
+            <title><![CDATA[Tigresses bow out of Australia tour on a low]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/tigresses-bow-out-australia-tour-low-4298586</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/tigresses-bow-out-australia-tour-low-4298586</guid>
+            <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biman may increase Dhaka-Rome flights after fleet expansion: Aviation minister]]></title>
+            <link>https://www.thedailystar.net/business/economy/aviation/news/biman-may-increase-dhaka-rome-flights-after-fleet-expansion-aviation-minister-4298641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/aviation/news/biman-may-increase-dhaka-rome-flights-after-fleet-expansion-aviation-minister-4298641</guid>
+            <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can government and fishers work together to restore hilsa abundance?]]></title>
             <link>https://www.thedailystar.net/opinion/views/news/can-government-and-fishers-work-together-restore-hilsa-abundance-4298031</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-government-and-fishers-work-together-restore-hilsa-abundance-4298031</guid>
+            <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The case for transparent AI use in journalism]]></title>
+            <description><![CDATA[By Nafew Sajed Joy]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-case-transparent-ai-use-journalism-4298601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-case-transparent-ai-use-journalism-4298601</guid>
+            <dc:creator><![CDATA[Nafew Sajed Joy]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fertiliser subsidies need a rethink]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fertiliser-subsidies-need-rethink-4298666</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fertiliser-subsidies-need-rethink-4298666</guid>
+            <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watch / Fire at Tongi pharmaceutical factory under control]]></title>
+            <link>https://www.thedailystar.net/news/accidents-and-fires/news/fire-breaks-out-tongi-pharmaceutical-factory-4298411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/fire-breaks-out-tongi-pharmaceutical-factory-4298411</guid>
+            <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt approves 9 LNG cargoes, 237,000 tonnes of fertiliser imports]]></title>
+            <link>https://www.thedailystar.net/business/news/govt-approves-9-lng-cargoes-237000-tonnes-fertiliser-imports-4298481</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-approves-9-lng-cargoes-237000-tonnes-fertiliser-imports-4298481</guid>
+            <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Allegations of hurting religious sentiments: Man dies after being beaten twice by mob in Satkhira]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/allegations-hurting-religious-sentiments-man-dies-after-being-beaten-twice-mob-satkhira-4298696</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/allegations-hurting-religious-sentiments-man-dies-after-being-beaten-twice-mob-satkhira-4298696</guid>
+            <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The robbery trap waiting after a bank withdrawal]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/the-robbery-trap-waiting-after-bank-withdrawal-4298571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/the-robbery-trap-waiting-after-bank-withdrawal-4298571</guid>
+            <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 Bangladeshis trafficked to Russia killed in invasion of Ukraine: SRB]]></title>
+            <description><![CDATA[Victims were promised construction jobs but handed over to Russian military, battalion says]]></description>
+            <link>https://www.thedailystar.net/news/news/20-bangladeshis-trafficked-russia-killed-invasion-ukraine-srb-4298676</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/20-bangladeshis-trafficked-russia-killed-invasion-ukraine-srb-4298676</guid>
+            <pubDate>Wed, 14 Oct 2026 13:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farhan’s 238-run haul breaks Abhishek’s T20I series record]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/farhans-238-run-haul-breaks-abhisheks-t20i-series-record-4298476</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/farhans-238-run-haul-breaks-abhisheks-t20i-series-record-4298476</guid>
             <pubDate>Wed, 14 Oct 2026 07:23:49 GMT</pubDate>
         </item>
         <item>
@@ -50,13 +107,6 @@
             <title><![CDATA[Saudi says Houthi attacks sparked Aramco fire, wounded 4 in Riyadh]]></title>
             <link>https://www.thedailystar.net/news/world/news/saudi-says-houthi-attacks-sparked-aramco-fire-wounded-4-riyadh-4298361</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/saudi-says-houthi-attacks-sparked-aramco-fire-wounded-4-riyadh-4298361</guid>
-            <pubDate>Wed, 14 Oct 2026 07:23:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch / 19 fire engines battle blaze at Tongi pharmaceutical factory]]></title>
-            <description><![CDATA[The fire had yet to be brought under control, and no casualties had been reported so far]]></description>
-            <link>https://www.thedailystar.net/news/accidents-and-fires/news/fire-breaks-out-tongi-pharmaceutical-factory-4298411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/fire-breaks-out-tongi-pharmaceutical-factory-4298411</guid>
             <pubDate>Wed, 14 Oct 2026 07:23:49 GMT</pubDate>
         </item>
         <item>
@@ -88,6 +138,12 @@
             <link>https://www.thedailystar.net/news/work-and-migration/news/half-bangladeshs-remittance-growth-may-reflect-shift-hundi-says-dilip-ratha-4297981</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/work-and-migration/news/half-bangladeshs-remittance-growth-may-reflect-shift-hundi-says-dilip-ratha-4297981</guid>
             <pubDate>Wed, 14 Oct 2026 01:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.10.14)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261014-4298281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261014-4298281</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What attacks on Saudi Arabia mean for Bangladesh’s economy]]></title>
@@ -127,6 +183,12 @@
             <title><![CDATA[Bangladeshi workers desperate for Saudi-bound flights]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/bangladeshi-workers-desperate-saudi-bound-flights-4298206</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/bangladeshi-workers-desperate-saudi-bound-flights-4298206</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rediscovering Muzharul Islam, the architect who imagined a nation]]></title>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/rediscovering-muzharul-islam-the-architect-who-imagined-nation-4298116</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/rediscovering-muzharul-islam-the-architect-who-imagined-nation-4298116</guid>
             <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -286,10 +348,8 @@
         </item>
         <item>
             <title><![CDATA[The politics behind the Nobel Prize in economics]]></title>
-            <description><![CDATA[By Asrar Chowdhury]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-politics-behind-the-nobel-prize-economics-4297241</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-politics-behind-the-nobel-prize-economics-4297241</guid>
-            <dc:creator><![CDATA[Asrar Chowdhury]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3048,70 +3108,6 @@
             <link>https://www.thedailystar.net/campus/news/ducsu-leader-calls-new-name-sheikh-mujibur-rahman-hall-4287471</link>
             <guid isPermaLink="true">https://www.thedailystar.net/campus/news/ducsu-leader-calls-new-name-sheikh-mujibur-rahman-hall-4287471</guid>
             <pubDate>Wed, 30 Sep 2026 20:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DU suspends Prof Zeenat Huda over allegations linked to July Uprising]]></title>
-            <link>https://www.thedailystar.net/campus/news/du-suspends-prof-zeenat-huda-over-allegations-linked-july-uprising-4287441</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/du-suspends-prof-zeenat-huda-over-allegations-linked-july-uprising-4287441</guid>
-            <pubDate>Wed, 30 Sep 2026 20:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM Tarique ordered release of Kushtia teacher detained over alleged derogatory remarks about him: Mahdi Amin]]></title>
-            <link>https://www.thedailystar.net/news/news/pm-tarique-ordered-release-kushtia-teacher-detained-over-alleged-derogatory-remarks-about-him-mahdi-4287486</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/pm-tarique-ordered-release-kushtia-teacher-detained-over-alleged-derogatory-remarks-about-him-mahdi-4287486</guid>
-            <pubDate>Wed, 30 Sep 2026 20:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt seeks private investment to expand Pangaon terminal]]></title>
-            <description><![CDATA[Amid increasing container flow at the Pangaon Inland Container Terminal (PICT) in Dhaka, the Chittagong Port Authority (CPA) has taken the initiative to expand facilities at the terminal, which has failed to attract exporters and importers for years.]]></description>
-            <link>https://www.thedailystar.net/business/economy/news/govt-seeks-private-investment-expand-pangaon-terminal-4287301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/govt-seeks-private-investment-expand-pangaon-terminal-4287301</guid>
-            <pubDate>Wed, 30 Sep 2026 20:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BNP, affiliates dissolve 3 Dhaka committees and expel 14 leaders]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/bnp-affiliates-dissolve-3-dhaka-committees-and-expel-14-leaders-4287266</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/bnp-affiliates-dissolve-3-dhaka-committees-and-expel-14-leaders-4287266</guid>
-            <pubDate>Wed, 30 Sep 2026 20:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Roads should remain clear, but hawkers need alternative spaces’: Shafiqur]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/roads-should-remain-clear-hawkers-need-alternative-spaces-shafiqur-4287141</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/roads-should-remain-clear-hawkers-need-alternative-spaces-shafiqur-4287141</guid>
-            <pubDate>Wed, 30 Sep 2026 20:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt to launch Farmers Card pilot tomorrow]]></title>
-            <description><![CDATA[The government will launch the pilot phase of the Farmers Card programme tomorrow, distributing the much-talked-about cards to more than 100,000 landless, marginal and small farmers.]]></description>
-            <link>https://www.thedailystar.net/business/news/govt-launch-farmers-card-pilot-tomorrow-4287211</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-launch-farmers-card-pilot-tomorrow-4287211</guid>
-            <pubDate>Wed, 30 Sep 2026 20:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don’t call me Shibir anymore: Rucsu GS Ammar after losing ‘Sathi’ membership]]></title>
-            <link>https://www.thedailystar.net/campus/news/dont-call-me-shibir-anymore-rucsu-gs-ammar-after-losing-sathi-membership-4287251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/dont-call-me-shibir-anymore-rucsu-gs-ammar-after-losing-sathi-membership-4287251</guid>
-            <pubDate>Wed, 30 Sep 2026 20:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uncapped Disha, Habiba called up amid Bangladesh’s pace concerns for Australia tour]]></title>
-            <link>https://www.thedailystar.net/sports/womens-sports/news/uncapped-disha-habiba-called-amid-bangladeshs-pace-concerns-australia-tour-4287121</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/womens-sports/news/uncapped-disha-habiba-called-amid-bangladeshs-pace-concerns-australia-tour-4287121</guid>
-            <pubDate>Wed, 30 Sep 2026 15:47:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s SR Chemical signs Tk 100 crore investment deal with three global companies]]></title>
-            <link>https://www.thedailystar.net/business/news/bangladeshs-sr-chemical-signs-tk-100-crore-investment-deal-three-global-companies-4287096</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladeshs-sr-chemical-signs-tk-100-crore-investment-deal-three-global-companies-4287096</guid>
-            <pubDate>Wed, 30 Sep 2026 15:47:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[National Girl Child Day / Can we give our daughters the life they deserve?]]></title>
-            <description><![CDATA[I have always wanted to be a mother. In my early teens when I would sneer at the suggestion of getting married someday, I still knew I wanted to parent children even if on my own.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/can-we-give-our-daughters-the-life-they-deserve-4286316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-give-our-daughters-the-life-they-deserve-4286316</guid>
-            <dc:creator><![CDATA[Afia Jahin]]></dc:creator>
-            <pubDate>Wed, 30 Sep 2026 15:47:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
