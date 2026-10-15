@@ -4,27 +4,102 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 07:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 13:16:06 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 07:14:33 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Today's Gallery (2026.10.15)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261015-4299101</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261015-4299101</guid>
-            <pubDate>Thu, 15 Oct 2026 07:14:33 GMT</pubDate>
+            <title><![CDATA[Google Play now lets anyone build and run private AI-generated apps on Android]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/google-play-now-lets-anyone-build-and-run-private-ai-generated-apps-android-4299316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/google-play-now-lets-anyone-build-and-run-private-ai-generated-apps-android-4299316</guid>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meta releases Muse Wonder, its first frontier AI model built to rival GPT and Claude]]></title>
             <link>https://www.thedailystar.net/news/technology/news/meta-releases-muse-wonder-its-first-frontier-ai-model-built-rival-gpt-and-claude-4299301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/meta-releases-muse-wonder-its-first-frontier-ai-model-built-rival-gpt-and-claude-4299301</guid>
-            <pubDate>Thu, 15 Oct 2026 07:14:33 GMT</pubDate>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google Play now lets anyone build and run private AI-generated apps on Android]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/google-play-now-lets-anyone-build-and-run-private-ai-generated-apps-android-4299316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/google-play-now-lets-anyone-build-and-run-private-ai-generated-apps-android-4299316</guid>
-            <pubDate>Thu, 15 Oct 2026 07:14:33 GMT</pubDate>
+            <title><![CDATA[Women In Focus / Joyeeta Trisha refused to let cancer steal her future]]></title>
+            <link>https://www.thedailystar.net/life-living/news/joyeeta-trisha-refused-let-cancer-steal-her-future-4299391</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/joyeeta-trisha-refused-let-cancer-steal-her-future-4299391</guid>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Professional Life / Inside the eating habits of corporate professionals]]></title>
+            <link>https://www.thedailystar.net/campus/news/inside-the-eating-habits-corporate-professionals-4298496</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/inside-the-eating-habits-corporate-professionals-4298496</guid>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Satire / Mental health is important, just not during working hours]]></title>
+            <link>https://www.thedailystar.net/life-living/news/mental-health-matters-everyone-until-your-helper-needs-thursday-4299396</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/mental-health-matters-everyone-until-your-helper-needs-thursday-4299396</guid>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bollywood actor Imran Khan asked to leave India after participating in protest, media says]]></title>
+            <link>https://www.thedailystar.net/news/world/india/news/bollywood-actor-imran-khan-asked-leave-india-after-participating-protest-media-says-4299361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/india/news/bollywood-actor-imran-khan-asked-leave-india-after-participating-protest-media-says-4299361</guid>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SC stays HC order on FBCCI administrator’s appointment]]></title>
+            <link>https://www.thedailystar.net/business/news/sc-stays-hc-order-fbcci-administrators-appointment-4299516</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/sc-stays-hc-order-fbcci-administrators-appointment-4299516</guid>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lautaro Martinez facing month out with thigh injury]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/lautaro-martinez-facing-month-out-thigh-injury-4299506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/lautaro-martinez-facing-month-out-thigh-injury-4299506</guid>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[White Cane Safety Day / Make streets safer for white cane users]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/make-streets-safer-white-cane-users-4299346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/make-streets-safer-white-cane-users-4299346</guid>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Constitutional reform is more than a parliamentary numbers game]]></title>
+            <description><![CDATA[By Khan Khalid Adnan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/constitutional-reform-more-parliamentary-numbers-game-4298851</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/constitutional-reform-more-parliamentary-numbers-game-4298851</guid>
+            <dc:creator><![CDATA[Khan Khalid Adnan]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reverse the decline in secondary school enrolment]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/reverse-the-decline-secondary-school-enrolment-4299526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reverse-the-decline-secondary-school-enrolment-4299526</guid>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Health minister says new automated system will end political influence in doctors’ postings]]></title>
+            <link>https://www.thedailystar.net/health/news/health-minister-says-new-automated-system-will-end-political-influence-doctors-postings-4299421</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/news/health-minister-says-new-automated-system-will-end-political-influence-doctors-postings-4299421</guid>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Since when did disrespecting others become a source of income?’]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/when-did-disrespecting-others-become-source-income-4299426</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/when-did-disrespecting-others-become-source-income-4299426</guid>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BRTC to launch special Durga Puja bus service from October 20]]></title>
+            <link>https://www.thedailystar.net/news/transport/news/brtc-launch-special-durga-puja-bus-service-october-20-4299441</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/brtc-launch-special-durga-puja-bus-service-october-20-4299441</guid>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh ranks 84th in Global Hunger Index 2026 as progress slows]]></title>
+            <description><![CDATA[GHI score improves just 4% since 2018]]></description>
+            <link>https://www.thedailystar.net/health/food/news/bangladesh-ranks-84th-global-hunger-index-2026-progress-slows-4299476</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/food/news/bangladesh-ranks-84th-global-hunger-index-2026-progress-slows-4299476</guid>
+            <pubDate>Thu, 15 Oct 2026 13:16:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wilder frustrated by controversial Hamza sending off in Sheffield defeat]]></title>
@@ -36,12 +111,6 @@
             <title><![CDATA[Quality storytelling matters more than views: Zakia Bari Mamo]]></title>
             <link>https://www.thedailystar.net/culture/tv-film/news/quality-storytelling-matters-more-views-zakia-bari-mamo-4299251</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/quality-storytelling-matters-more-views-zakia-bari-mamo-4299251</guid>
-            <pubDate>Thu, 15 Oct 2026 07:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Constitutional reform is more than a parliamentary numbers game]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/constitutional-reform-more-parliamentary-numbers-game-4298851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/constitutional-reform-more-parliamentary-numbers-game-4298851</guid>
             <pubDate>Thu, 15 Oct 2026 07:14:33 GMT</pubDate>
         </item>
         <item>
@@ -112,11 +181,15 @@
             <pubDate>Thu, 15 Oct 2026 01:21:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.10.15)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261015-4299101</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261015-4299101</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why does Dhaka keep planning for cars when people walk?]]></title>
-            <description><![CDATA[By Dhrubo AlamMd Muntasir Mamun]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/why-does-dhaka-keep-planning-cars-when-people-walk-4298866</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/why-does-dhaka-keep-planning-cars-when-people-walk-4298866</guid>
-            <dc:creator><![CDATA[Dhrubo AlamMd Muntasir Mamun]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -143,6 +216,12 @@
             <title><![CDATA[Take growth forecast downgrades seriously]]></title>
             <link>https://www.thedailystar.net/business/news/take-growth-forecast-downgrades-seriously-4298876</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/take-growth-forecast-downgrades-seriously-4298876</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[$18,000 foreign travel quota, but limited ways to spend it]]></title>
+            <link>https://www.thedailystar.net/business/column/news/18000-foreign-travel-quota-limited-ways-spend-it-4298906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/column/news/18000-foreign-travel-quota-limited-ways-spend-it-4298906</guid>
             <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3034,84 +3113,6 @@
             <link>https://www.thedailystar.net/news/environment/weather/news/bangladesh-monsoon-likely-withdraw-oct-10-12-cyclone-possible-bmd-4288101</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/environment/weather/news/bangladesh-monsoon-likely-withdraw-oct-10-12-cyclone-possible-bmd-4288101</guid>
             <pubDate>Fri, 02 Oct 2026 00:38:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt approves 15-year deal to hand over Chattogram Port’s NCT to foreign operator]]></title>
-            <link>https://www.thedailystar.net/business/news/govt-approves-15-year-deal-hand-over-chattogram-ports-nct-foreign-operator-4288106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-approves-15-year-deal-hand-over-chattogram-ports-nct-foreign-operator-4288106</guid>
-            <pubDate>Fri, 02 Oct 2026 00:38:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kabir-Lalon spiritual music festival held in Rajshahi]]></title>
-            <link>https://www.thedailystar.net/culture/music/news/kabir-lalon-spiritual-music-festival-held-rajshahi-4288791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/music/news/kabir-lalon-spiritual-music-festival-held-rajshahi-4288791</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A child, his mother, grandfather and great-grandmother among 7 killed in Mymensingh crash]]></title>
-            <link>https://www.thedailystar.net/news/accidents-and-fires/news/child-his-mother-grandfather-and-great-grandmother-among-7-killed-mymensingh-crash-4288651</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/child-his-mother-grandfather-and-great-grandmother-among-7-killed-mymensingh-crash-4288651</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.10.02)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261002-4288511</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261002-4288511</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revisiting the origins of Sufism: Competing narratives of authenticity and borrowing]]></title>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/revisiting-the-origins-sufism-competing-narratives-authenticity-and-borrowing-4288316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/revisiting-the-origins-sufism-competing-narratives-authenticity-and-borrowing-4288316</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interactive / A city changes. Plastic remains]]></title>
-            <link>https://www.thedailystar.net/news/environment/news/city-changes-plastic-remains-4287946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/news/city-changes-plastic-remains-4287946</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Between rain and rock: Six days in the Himalayas]]></title>
-            <link>https://www.thedailystar.net/holiday-0/news/between-rain-and-rock-six-days-the-himalayas-4288406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/holiday-0/news/between-rain-and-rock-six-days-the-himalayas-4288406</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Remittance inflow hits 11-month low in September]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/remittance-inflow-hits-11-month-low-september-4288256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/remittance-inflow-hits-11-month-low-september-4288256</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Over half of cholera patients under 5]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/over-half-cholera-patients-under-5-4288486</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/over-half-cholera-patients-under-5-4288486</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A DU hall with no name on its gate]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/du-hall-no-name-its-gate-4288466</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/du-hall-no-name-its-gate-4288466</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Illegal shops keep returning to Patenga sea beach]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/illegal-shops-keep-returning-patenga-sea-beach-4288321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/illegal-shops-keep-returning-patenga-sea-beach-4288321</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How much higher can oil prices go?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/how-much-higher-can-oil-prices-go-4288071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/how-much-higher-can-oil-prices-go-4288071</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BTRC seeks to phase out 2G in three years]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/btrc-seeks-phase-out-2g-three-years-4288261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/btrc-seeks-phase-out-2g-three-years-4288261</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
