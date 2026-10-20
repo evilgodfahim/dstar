@@ -4,15 +4,102 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 07:35:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 11:17:34 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Oct 2026 07:35:30 GMT</pubDate>
+        <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Today's Gallery (2026.10.19)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261019-4302261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261019-4302261</guid>
-            <pubDate>Mon, 19 Oct 2026 07:35:30 GMT</pubDate>
+            <title><![CDATA[Keya Group lays off 739 employees at four factories in Gazipur]]></title>
+            <link>https://www.thedailystar.net/business/news/keya-group-lays-739-employees-four-factories-gazipur-4303281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/keya-group-lays-739-employees-four-factories-gazipur-4303281</guid>
+            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thierry Henry to host Ballon d'Or ceremony in London]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/thierry-henry-host-ballon-dor-ceremony-london-4303286</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/thierry-henry-host-ballon-dor-ceremony-london-4303286</guid>
+            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gazipur’s Ulka cinema hall to close in November]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/gazipurs-ulka-cinema-hall-close-november-4303231</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/gazipurs-ulka-cinema-hall-close-november-4303231</guid>
+            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A lasting safe water system must be the goal, not more projects]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/lasting-safe-water-system-must-be-the-goal-not-more-projects-4302801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/lasting-safe-water-system-must-be-the-goal-not-more-projects-4302801</guid>
+            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I won a peace prize, but I’m still a Rohingya without a country]]></title>
+            <description><![CDATA[By Maung Sawyeddollah]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/i-won-peace-prize-im-still-rohingya-without-country-4303331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/i-won-peace-prize-im-still-rohingya-without-country-4303331</guid>
+            <dc:creator><![CDATA[Maung Sawyeddollah]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF-World Bank meetings: More diagnosis but limited relief for Bangladesh]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/imf-world-bank-meetings-more-diagnosis-limited-relief-bangladesh-4302796</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/imf-world-bank-meetings-more-diagnosis-limited-relief-bangladesh-4302796</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Update-1 / Natore bus-truck collision: Police revise death toll to 12]]></title>
+            <link>https://www.thedailystar.net/news/accidents-and-fires/news/10-killed-natore-bus-truck-collision-4303106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/10-killed-natore-bus-truck-collision-4303106</guid>
+            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘She said she might be released’: Tangail family desperate to know Sweety Akhtar’s fate in Saudi Arabia]]></title>
+            <link>https://www.thedailystar.net/news/work-and-migration/news/she-said-she-might-be-released-tangail-family-desperate-know-sweety-akhtars-fate-saudi-arabia-4303296</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/work-and-migration/news/she-said-she-might-be-released-tangail-family-desperate-know-sweety-akhtars-fate-saudi-arabia-4303296</guid>
+            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[President accepts Ishraque’s resignation, gazette issued]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/president-accepts-ishraques-resignation-gazette-issued-4303221</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/president-accepts-ishraques-resignation-gazette-issued-4303221</guid>
+            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TupTup Resort fire: Website names two owners, case names only one]]></title>
+            <link>https://www.thedailystar.net/news/accidents-and-fires/news/tuptup-resort-fire-website-names-two-owners-case-names-only-one-4303336</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/tuptup-resort-fire-website-names-two-owners-case-names-only-one-4303336</guid>
+            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / An unhappy republic: France's troubles extend beyond the street]]></title>
+            <description><![CDATA[France's unrest is exposing deep political and economic fault lines ahead of next year's presidential election, analysts say]]></description>
+            <link>https://www.thedailystar.net/news/world/news/unhappy-republic-frances-troubles-extend-beyond-the-street-4303346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/unhappy-republic-frances-troubles-extend-beyond-the-street-4303346</guid>
+            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who cares about the private lives of migrant workers?]]></title>
+            <description><![CDATA[By Anas Ansar]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/who-cares-about-the-private-lives-migrant-workers-4302721</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/who-cares-about-the-private-lives-migrant-workers-4302721</guid>
+            <dc:creator><![CDATA[Anas Ansar]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 1962 India-China war and the making of modern South Asian geopolitics]]></title>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-1962-india-china-war-and-the-making-modern-south-asian-geopolitics-4302621</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-1962-india-china-war-and-the-making-modern-south-asian-geopolitics-4302621</guid>
+            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Galley (2026.10.20)]]></title>
+            <link>https://www.thedailystar.net/todays-galley-20261020-4302971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-galley-20261020-4302971</guid>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bishnoi gang issues fresh threat to Salman Khan and cohorts]]></title>
@@ -81,6 +168,12 @@
             <pubDate>Mon, 19 Oct 2026 01:02:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.10.19)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261019-4302261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261019-4302261</guid>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nearly Tk 12,000cr of private sector stimulus disbursed]]></title>
             <link>https://www.thedailystar.net/business/economy/news/nearly-tk-12000cr-private-sector-stimulus-disbursed-4302051</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/nearly-tk-12000cr-private-sector-stimulus-disbursed-4302051</guid>
@@ -129,6 +222,24 @@
             <title><![CDATA[Secretariat moving to Agargaon]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/secretariat-moving-agargaon-4302221</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/secretariat-moving-agargaon-4302221</guid>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LC openings for petroleum imports surge 65% amid war]]></title>
+            <link>https://www.thedailystar.net/business/news/lc-openings-petroleum-imports-surge-65-amid-war-4302761</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/lc-openings-petroleum-imports-surge-65-amid-war-4302761</guid>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rediscovering the quiet comfort of traditional Bengali daal dishes]]></title>
+            <link>https://www.thedailystar.net/life-living/food-recipes/news/why-simple-bowl-daal-total-nutritional-masterclass-4302471</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/food-recipes/news/why-simple-bowl-daal-total-nutritional-masterclass-4302471</guid>
+            <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Perspective / Why do we worship Durga but still judge women?]]></title>
+            <link>https://www.thedailystar.net/life-living/news/the-double-standard-behind-how-we-view-strong-women-today-4302476</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/the-double-standard-behind-how-we-view-strong-women-today-4302476</guid>
             <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -329,10 +440,8 @@
         </item>
         <item>
             <title><![CDATA[Tarique Rahman’s Japan visit: Turning trust into tangible gains]]></title>
-            <description><![CDATA[By Zillur Rahman]]></description>
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/tarique-rahmans-japan-visit-turning-trust-tangible-gains-4300826</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/tarique-rahmans-japan-visit-turning-trust-tangible-gains-4300826</guid>
-            <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
             <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2993,113 +3102,6 @@
             <title><![CDATA[‘Realms of Curiosity’: Inside Flavien Martinel’s artistic universe]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/realms-curiosity-inside-flavien-martinels-artistic-universe-4292066</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/realms-curiosity-inside-flavien-martinels-artistic-universe-4292066</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This map has been going viral. But there's more to it]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/map-has-been-going-viral-theres-more-it-4292301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/map-has-been-going-viral-theres-more-it-4292301</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI to test visual ads inside ChatGPT]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/openai-test-visual-ads-inside-chatgpt-4291901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/openai-test-visual-ads-inside-chatgpt-4291901</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Restore teachers’ status and dignity]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/restore-teachers-status-and-dignity-4292011</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/restore-teachers-status-and-dignity-4292011</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan’s weapons, US intelligence support: Saudi Arabia’s plan against Houthis]]></title>
-            <description><![CDATA[.]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/news/pakistans-weapons-us-intelligence-support-saudi-arabias-plan-against-houthis-4291841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/pakistans-weapons-us-intelligence-support-saudi-arabias-plan-against-houthis-4291841</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Writing with feet: Dukhu Mia builds a school after failing to find a job]]></title>
-            <description><![CDATA[.]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/news/writing-feet-dukhu-mia-builds-school-after-failing-find-job-4291836</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/writing-feet-dukhu-mia-builds-school-after-failing-find-job-4291836</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.10.06)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261006-4291631</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261006-4291631</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apparel exporters are losing Russian buyers]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/apparel-exporters-are-losing-russian-buyers-4291416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/apparel-exporters-are-losing-russian-buyers-4291416</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[157th Birth Anniversary of Mahatma Gandhi  /  Gandhi’s return to Noakhali]]></title>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/gandhis-return-noakhali-4290261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/gandhis-return-noakhali-4290261</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka’s battery rickshaw problem is economic, not just about traffic]]></title>
-            <description><![CDATA[Dhaka’s battery rickshaw crisis demands economic solutions, as traffic bans fail to address the underlying issues in the informal labour market.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/dhakas-battery-rickshaw-problem-economic-not-just-about-traffic-4291396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/dhakas-battery-rickshaw-problem-economic-not-just-about-traffic-4291396</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four domestic airports see big drop in passenger traffic]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/four-domestic-airports-see-big-drop-passenger-traffic-4291401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/four-domestic-airports-see-big-drop-passenger-traffic-4291401</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle class squeezed]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/middle-class-squeezed-4291546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/middle-class-squeezed-4291546</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hospitals told to add beds amid dengue surge]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/hospitals-told-add-beds-amid-dengue-surge-4291526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/hospitals-told-add-beds-amid-dengue-surge-4291526</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[300 days on, BCS recruits still await appointments]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/300-days-bcs-recruits-still-await-appointments-4291541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/300-days-bcs-recruits-still-await-appointments-4291541</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amid fiscal constraints, we must spend better on infrastructure]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/amid-fiscal-constraints-we-must-spend-better-infrastructure-4291271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/amid-fiscal-constraints-we-must-spend-better-infrastructure-4291271</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From chai to shampoo: The extraordinary journeys of ordinary words]]></title>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/chai-shampoo-the-extraordinary-journeys-ordinary-words-4291361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/chai-shampoo-the-extraordinary-journeys-ordinary-words-4291361</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Q-Cash upgrade catches banks, customers off guard]]></title>
-            <link>https://www.thedailystar.net/business/economy/banks/news/q-cash-upgrade-catches-banks-customers-guard-4291566</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/banks/news/q-cash-upgrade-catches-banks-customers-guard-4291566</guid>
-            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why do humans naturally drift to the left?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/why-do-humans-naturally-drift-the-left-4291196</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/why-do-humans-naturally-drift-the-left-4291196</guid>
             <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
