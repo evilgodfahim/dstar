@@ -4,38 +4,103 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 15:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 14:50:32 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Oct 2026 15:04:55 GMT</pubDate>
+        <pubDate>Fri, 23 Oct 2026 14:50:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Who will be the next James Bond?]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/who-will-be-the-next-james-bond-4305686</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/who-will-be-the-next-james-bond-4305686</guid>
+            <pubDate>Fri, 23 Oct 2026 14:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistani striker Ali Raza’s brace downs Abahani]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/pakistani-striker-ali-razas-brace-downs-abahani-4305756</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/pakistani-striker-ali-razas-brace-downs-abahani-4305756</guid>
+            <pubDate>Fri, 23 Oct 2026 14:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cancellation of BRT project needs scrutiny]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/cancellation-brt-project-needs-scrutiny-4305761</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/cancellation-brt-project-needs-scrutiny-4305761</guid>
+            <pubDate>Fri, 23 Oct 2026 14:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / Davos in the Desert cancellation, a sign that all is not well in Saudi Arabia]]></title>
+            <link>https://www.thedailystar.net/analysis-2/news/davos-the-desert-cancellation-sign-all-not-well-saudi-arabia-4305736</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/analysis-2/news/davos-the-desert-cancellation-sign-all-not-well-saudi-arabia-4305736</guid>
+            <pubDate>Fri, 23 Oct 2026 14:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sajek road blockade continues as resort bookings face mass cancellations]]></title>
+            <link>https://www.thedailystar.net/news/news/sajek-road-blockade-continues-resort-bookings-face-mass-cancellations-4305706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/sajek-road-blockade-continues-resort-bookings-face-mass-cancellations-4305706</guid>
+            <pubDate>Fri, 23 Oct 2026 14:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Around 7,500 Bangladeshis held in Saudi prisons: Shama Obaed]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/around-7500-bangladeshis-held-saudi-prisons-shama-obaed-4305636</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/around-7500-bangladeshis-held-saudi-prisons-shama-obaed-4305636</guid>
+            <pubDate>Fri, 23 Oct 2026 14:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nahid, Akhter retain top posts as NCP restructures central committee]]></title>
+            <link>https://www.thedailystar.net/news/politics/political-parties/news/nahid-akhter-retain-top-posts-ncp-restructures-central-committee-4305711</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/political-parties/news/nahid-akhter-retain-top-posts-ncp-restructures-central-committee-4305711</guid>
+            <pubDate>Fri, 23 Oct 2026 14:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are more women dying of dengue despite fewer infections?]]></title>
+            <description><![CDATA[Men account for more infections, DGHS data shows]]></description>
+            <link>https://www.thedailystar.net/news/healthcare/disease/news/why-are-more-women-dying-dengue-despite-fewer-infections-4305786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/disease/news/why-are-more-women-dying-dengue-despite-fewer-infections-4305786</guid>
+            <pubDate>Fri, 23 Oct 2026 14:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh Bank keeps website offline amid global cyber alert]]></title>
+            <link>https://www.thedailystar.net/business/news/bangladesh-bank-keeps-website-offline-amid-global-cyber-alert-4305776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-bank-keeps-website-offline-amid-global-cyber-alert-4305776</guid>
+            <pubDate>Fri, 23 Oct 2026 14:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bengali judge Japan never forgot, and Bangladesh never claimed]]></title>
+            <description><![CDATA[By M Sabbir Hussain]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/the-bengali-judge-japan-never-forgot-and-bangladesh-never-claimed-4305141</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-bengali-judge-japan-never-forgot-and-bangladesh-never-claimed-4305141</guid>
+            <dc:creator><![CDATA[M Sabbir Hussain]]></dc:creator>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The new Gulf security order and what it means for South Asia]]></title>
+            <description><![CDATA[By Kawser Ahmed]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-new-gulf-security-order-and-what-it-means-south-asia-4305066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-new-gulf-security-order-and-what-it-means-south-asia-4305066</guid>
+            <dc:creator><![CDATA[Kawser Ahmed]]></dc:creator>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Razid Season: A filmmaker moving between worlds]]></title>
+            <link>https://www.thedailystar.net/slow-reads/wisdom/news/razid-season-filmmaker-moving-between-worlds-4305341</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/razid-season-filmmaker-moving-between-worlds-4305341</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will foreign firms run all four Chattogram port terminals?]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/will-foreign-firms-run-all-four-chattogram-port-terminals-4305216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/will-foreign-firms-run-all-four-chattogram-port-terminals-4305216</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.10.23)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261023-4305416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261023-4305416</guid>
+            <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Literature / Eternally in search of Banalata Sen: A tribute to Jibanananda Das]]></title>
             <link>https://www.thedailystar.net/life-living/news/eternally-search-banalata-sen-tribute-jibanananda-das-4304886</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/eternally-search-banalata-sen-tribute-jibanananda-das-4304886</guid>
-            <pubDate>Thu, 22 Oct 2026 15:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspective / How actress Sonia Hossain redefined pregnancy and motherhood at 40]]></title>
-            <link>https://www.thedailystar.net/life-living/health-fitness/news/how-actress-sonia-hossain-redefined-pregnancy-and-motherhood-40-4304906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/health-fitness/news/how-actress-sonia-hossain-redefined-pregnancy-and-motherhood-40-4304906</guid>
-            <pubDate>Thu, 22 Oct 2026 15:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why your constant scrolling is quietly destroying your closest personal relationships]]></title>
-            <link>https://www.thedailystar.net/life-living/relationships-family/news/why-your-constant-scrolling-quietly-destroying-your-closest-personal-relationships-4304896</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/relationships-family/news/why-your-constant-scrolling-quietly-destroying-your-closest-personal-relationships-4304896</guid>
-            <pubDate>Thu, 22 Oct 2026 15:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Horoscope: What the stars have in store for every sign]]></title>
-            <link>https://www.thedailystar.net/life-living/news/weekly-horoscope-what-the-stars-have-store-every-sign-4305111</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/weekly-horoscope-what-the-stars-have-store-every-sign-4305111</guid>
-            <pubDate>Thu, 22 Oct 2026 15:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hands-on review /  Xiaomi Redmi Note 17 Pro Max: Exceptional battery life, but not without compromises]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/xiaomi-redmi-note-17-pro-max-exceptional-battery-life-not-without-compromises-4304936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/xiaomi-redmi-note-17-pro-max-exceptional-battery-life-not-without-compromises-4304936</guid>
             <pubDate>Thu, 22 Oct 2026 15:04:55 GMT</pubDate>
         </item>
         <item>
@@ -74,12 +139,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/israeli-settler-terror-thrives-impunity-and-silence-4305016</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/israeli-settler-terror-thrives-impunity-and-silence-4305016</guid>
             <dc:creator><![CDATA[Jamal Kanj]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 15:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explainer / How two PHP flaws brought down websites around the world]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/how-two-php-flaws-brought-down-websites-around-the-world-4304876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/how-two-php-flaws-brought-down-websites-around-the-world-4304876</guid>
             <pubDate>Thu, 22 Oct 2026 15:04:55 GMT</pubDate>
         </item>
         <item>
@@ -147,12 +206,6 @@
             <title><![CDATA[Maradona doctor was made 'scapegoat' for his death, Argentine court told]]></title>
             <link>https://www.thedailystar.net/sports/football/news/maradona-doctor-was-made-scapegoat-his-death-argentine-court-told-4304836</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/maradona-doctor-was-made-scapegoat-his-death-argentine-court-told-4304836</guid>
-            <pubDate>Thu, 22 Oct 2026 09:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The salt of desire: Reading Jibanananda Das's In Camp]]></title>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/the-salt-desire-reading-jibanananda-dass-camp-4304246</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-salt-desire-reading-jibanananda-dass-camp-4304246</guid>
             <pubDate>Thu, 22 Oct 2026 09:58:05 GMT</pubDate>
         </item>
         <item>
@@ -230,6 +283,42 @@
             <pubDate>Thu, 22 Oct 2026 04:16:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Perspective / How actress Sonia Hossain redefined pregnancy and motherhood at 40]]></title>
+            <link>https://www.thedailystar.net/life-living/health-fitness/news/how-actress-sonia-hossain-redefined-pregnancy-and-motherhood-40-4304906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/health-fitness/news/how-actress-sonia-hossain-redefined-pregnancy-and-motherhood-40-4304906</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why your constant scrolling is quietly destroying your closest personal relationships]]></title>
+            <link>https://www.thedailystar.net/life-living/relationships-family/news/why-your-constant-scrolling-quietly-destroying-your-closest-personal-relationships-4304896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/relationships-family/news/why-your-constant-scrolling-quietly-destroying-your-closest-personal-relationships-4304896</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Horoscope: What the stars have in store for every sign]]></title>
+            <link>https://www.thedailystar.net/life-living/news/weekly-horoscope-what-the-stars-have-store-every-sign-4305111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/weekly-horoscope-what-the-stars-have-store-every-sign-4305111</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hands-on review /  Xiaomi Redmi Note 17 Pro Max: Exceptional battery life, but not without compromises]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/xiaomi-redmi-note-17-pro-max-exceptional-battery-life-not-without-compromises-4304936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/xiaomi-redmi-note-17-pro-max-exceptional-battery-life-not-without-compromises-4304936</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explainer / How two PHP flaws brought down websites around the world]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/how-two-php-flaws-brought-down-websites-around-the-world-4304876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/how-two-php-flaws-brought-down-websites-around-the-world-4304876</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The salt of desire: Reading Jibanananda Das's In Camp]]></title>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/the-salt-desire-reading-jibanananda-dass-camp-4304246</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-salt-desire-reading-jibanananda-dass-camp-4304246</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Today's Gallery (2026.10.22)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20261022-4304626</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261022-4304626</guid>
@@ -280,6 +369,26 @@
             <title><![CDATA[Subsidy cut deals blow to theatre troupes]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/subsidy-cut-deals-blow-theatre-troupes-4304556</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/subsidy-cut-deals-blow-theatre-troupes-4304556</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New information commission faces a bigger task than clearing complaints]]></title>
+            <description><![CDATA[By Shamsul BariRuhi Naz]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/new-information-commission-faces-bigger-task-clearing-complaints-4305321</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-information-commission-faces-bigger-task-clearing-complaints-4305321</guid>
+            <dc:creator><![CDATA[Shamsul BariRuhi Naz]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gender-responsive budgets need women decision-makers]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/gender-responsive-budgets-need-women-decision-makers-4305326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/gender-responsive-budgets-need-women-decision-makers-4305326</guid>
+            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BioWare, studio behind Mass Effect, announces shutdown]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/bioware-studio-behind-mass-effect-announces-shutdown-4304901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/bioware-studio-behind-mass-effect-announces-shutdown-4304901</guid>
             <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2982,114 +3091,6 @@
             <link>https://www.thedailystar.net/sports/cricket/news/tiny-french-hamlet-holds-historic-cricket-tournament-4293516</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/tiny-french-hamlet-holds-historic-cricket-tournament-4293516</guid>
             <pubDate>Thu, 08 Oct 2026 08:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Any cyber law reform must uphold digital rights, not undermine them]]></title>
-            <description><![CDATA[By Mohammad Golam Sarwar]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/any-cyber-law-reform-must-uphold-digital-rights-not-undermine-them-4293306</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/any-cyber-law-reform-must-uphold-digital-rights-not-undermine-them-4293306</guid>
-            <dc:creator><![CDATA[Mohammad Golam Sarwar]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 08:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who pays for stability? A climate and feminist question]]></title>
-            <description><![CDATA[By Farah Kabir]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/who-pays-stability-climate-and-feminist-question-4293281</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/who-pays-stability-climate-and-feminist-question-4293281</guid>
-            <dc:creator><![CDATA[Farah Kabir]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 08:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raw, powerful, unmatched: Six unforgettable performances that defined Nana Patekar]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/raw-powerful-unmatched-six-unforgettable-performances-defined-nana-patekar-4293526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/raw-powerful-unmatched-six-unforgettable-performances-defined-nana-patekar-4293526</guid>
-            <pubDate>Thu, 08 Oct 2026 08:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kuakata tourists wary of ‘petrol-coloured’ water]]></title>
-            <link>https://www.thedailystar.net/business/industries/tourism/news/kuakata-tourists-wary-petrol-coloured-water-4293541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/industries/tourism/news/kuakata-tourists-wary-petrol-coloured-water-4293541</guid>
-            <pubDate>Thu, 08 Oct 2026 08:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[22 Dhaka University researchers named among world’s top 2% scientists]]></title>
-            <description><![CDATA[Researchers recognised by Stanford University and Elsevier based on publications, citations and research impact]]></description>
-            <link>https://www.thedailystar.net/news/education/news/22-dhaka-university-researchers-named-among-worlds-top-2-scientists-4293556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/22-dhaka-university-researchers-named-among-worlds-top-2-scientists-4293556</guid>
-            <pubDate>Thu, 08 Oct 2026 08:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Sur Sammilon’ turns classical music into a theatrical experience]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/sur-sammilon-turns-classical-music-theatrical-experience-4293011</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/sur-sammilon-turns-classical-music-theatrical-experience-4293011</guid>
-            <pubDate>Thu, 08 Oct 2026 01:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former Spurs defender Vega to stand for FIFA presidency]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/former-spurs-defender-vega-stand-fifa-presidency-4293381</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/former-spurs-defender-vega-stand-fifa-presidency-4293381</guid>
-            <pubDate>Thu, 08 Oct 2026 01:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GPH Ispat seeks BB help to reschedule part of  its Tk 12,000cr debt]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/gph-ispat-seeks-bb-help-reschedule-part-its-tk-12000cr-debt-4293221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/gph-ispat-seeks-bb-help-reschedule-part-its-tk-12000cr-debt-4293221</guid>
-            <pubDate>Thu, 08 Oct 2026 01:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jet fuel prices climb 10% in a month]]></title>
-            <link>https://www.thedailystar.net/business/news/jet-fuel-prices-climb-10-month-4293056</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/jet-fuel-prices-climb-10-month-4293056</guid>
-            <pubDate>Thu, 08 Oct 2026 01:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uber to buy catering platform led by Bangladeshi-American for $2.3 billion]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/uber-buy-catering-platform-led-bangladeshi-american-23-billion-4293006</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/uber-buy-catering-platform-led-bangladeshi-american-23-billion-4293006</guid>
-            <pubDate>Thu, 08 Oct 2026 01:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joint Working Group Meeting   / Dhaka to raise trade barriers with New Delhi]]></title>
-            <link>https://www.thedailystar.net/business/news/dhaka-raise-trade-barriers-new-delhi-4293071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/dhaka-raise-trade-barriers-new-delhi-4293071</guid>
-            <pubDate>Thu, 08 Oct 2026 01:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Khulshi OC transferred hours after CCC mayor questions his role]]></title>
-            <link>https://www.thedailystar.net/news/news/khulshi-oc-transferred-hours-after-ccc-mayor-questions-his-role-4293126</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/khulshi-oc-transferred-hours-after-ccc-mayor-questions-his-role-4293126</guid>
-            <pubDate>Thu, 08 Oct 2026 01:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biman signs deal with Airbus for 10 aircraft]]></title>
-            <link>https://www.thedailystar.net/business/economy/aviation/news/biman-signs-deal-airbus-10-aircraft-4293086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/aviation/news/biman-signs-deal-airbus-10-aircraft-4293086</guid>
-            <pubDate>Thu, 08 Oct 2026 01:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh satellite saved from space debris by local engineers]]></title>
-            <description><![CDATA[Debris came within 852 metres of BS-1 on August 13]]></description>
-            <link>https://www.thedailystar.net/news/news/bangladesh-satellite-saved-space-debris-local-engineers-4293136</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/bangladesh-satellite-saved-space-debris-local-engineers-4293136</guid>
-            <pubDate>Thu, 08 Oct 2026 01:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tackling Vitamin D deficiency in Bangladesh]]></title>
-            <link>https://www.thedailystar.net/life-living/health-fitness/news/how-get-enough-vitamin-d-without-ruining-your-skin-4293626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/health-fitness/news/how-get-enough-vitamin-d-without-ruining-your-skin-4293626</guid>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Profile / Why Esha Rushdi prefers raw vulnerability over curated perfection]]></title>
-            <link>https://www.thedailystar.net/life-living/news/why-esha-rushdi-prefers-raw-vulnerability-over-curated-perfection-4293616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/why-esha-rushdi-prefers-raw-vulnerability-over-curated-perfection-4293616</guid>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is depression contagious?]]></title>
-            <link>https://www.thedailystar.net/life-living/health-fitness/news/depression-contagious-what-psychotherapists-want-you-know-4293631</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/health-fitness/news/depression-contagious-what-psychotherapists-want-you-know-4293631</guid>
-            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
