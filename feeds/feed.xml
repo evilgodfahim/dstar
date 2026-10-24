@@ -4,15 +4,85 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 07:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 12:34:47 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
+        <pubDate>Sat, 24 Oct 2026 12:34:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.10.24)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20261024-4306046</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261024-4306046</guid>
-            <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
+            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From National Award to indie recognition: Sunerah does it all]]></title>
+            <link>https://www.thedailystar.net/culture/tv-film/news/national-award-indie-recognition-sunerah-does-it-all-4304981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/national-award-indie-recognition-sunerah-does-it-all-4304981</guid>
+            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Millennials and the most sought-after Mexican restaurant in Dhaka]]></title>
+            <link>https://www.thedailystar.net/life-living/food-recipes/news/millennials-and-the-most-sought-after-mexican-restaurant-dhaka-4306331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/food-recipes/news/millennials-and-the-most-sought-after-mexican-restaurant-dhaka-4306331</guid>
+            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PHP runs much of the web on a small budget and one full-time employee]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/php-runs-much-the-web-small-budget-and-one-full-time-employee-4306241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/php-runs-much-the-web-small-budget-and-one-full-time-employee-4306241</guid>
+            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Late India charge seals thrilling second T20 win over New Zealand]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/late-india-charge-seals-thrilling-second-t20-win-over-new-zealand-4306346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/late-india-charge-seals-thrilling-second-t20-win-over-new-zealand-4306346</guid>
+            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eerie silence in Sajek valley]]></title>
+            <link>https://www.thedailystar.net/business/industries/tourism/news/eerie-silence-sajek-valley-4305851</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/industries/tourism/news/eerie-silence-sajek-valley-4305851</guid>
+            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Of public spectacles and hidden crime masters]]></title>
+            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/public-spectacles-and-hidden-crime-masters-4305911</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/public-spectacles-and-hidden-crime-masters-4305911</guid>
+            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Khulna to Antalya / What Bangladesh needs from COP31]]></title>
+            <description><![CDATA[By Asad Islam]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/what-bangladesh-needs-cop31-4305796</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/what-bangladesh-needs-cop31-4305796</guid>
+            <dc:creator><![CDATA[Asad Islam]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From alliance to rivalry, where do BNP and Jamaat go from here?]]></title>
+            <description><![CDATA[By Mohiuddin Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/alliance-rivalry-where-do-bnp-and-jamaat-go-here-4305926</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/alliance-rivalry-where-do-bnp-and-jamaat-go-here-4305926</guid>
+            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK court freezes £15m London apartment of ex-land minister’s brother]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/corruption/news/uk-court-freezes-ps15m-london-apartment-ex-land-ministers-brother-4306216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/corruption/news/uk-court-freezes-ps15m-london-apartment-ex-land-ministers-brother-4306216</guid>
+            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shohoz under railway scrutiny over ticket scams]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/shohoz-under-railway-scrutiny-over-ticket-scams-4306071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/shohoz-under-railway-scrutiny-over-ticket-scams-4306071</guid>
+            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keeping envoy in Dhaka during PM’s Japan visit an internal matter of foreign ministry: Shama Obaed]]></title>
+            <link>https://www.thedailystar.net/news/governance/news/keeping-envoy-dhaka-during-pms-japan-visit-internal-matter-foreign-ministry-shama-obaed-4306301</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/keeping-envoy-dhaka-during-pms-japan-visit-internal-matter-foreign-ministry-shama-obaed-4306301</guid>
+            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Goals, trophies and PR: Ballon d’Or’s evolution]]></title>
@@ -21,63 +91,9 @@
             <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[From National Award to indie recognition: Sunerah does it all]]></title>
-            <link>https://www.thedailystar.net/culture/tv-film/news/national-award-indie-recognition-sunerah-does-it-all-4304981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/national-award-indie-recognition-sunerah-does-it-all-4304981</guid>
-            <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eerie silence in Sajek valley]]></title>
-            <link>https://www.thedailystar.net/business/industries/tourism/news/eerie-silence-sajek-valley-4305851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/industries/tourism/news/eerie-silence-sajek-valley-4305851</guid>
-            <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Of public spectacles and hidden crime masters]]></title>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/public-spectacles-and-hidden-crime-masters-4305911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/public-spectacles-and-hidden-crime-masters-4305911</guid>
-            <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Khulna to Antalya / What Bangladesh needs from COP31]]></title>
-            <description><![CDATA[By Asad Islam]]></description>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/what-bangladesh-needs-cop31-4305796</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/what-bangladesh-needs-cop31-4305796</guid>
-            <dc:creator><![CDATA[Asad Islam]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From alliance to rivalry, where do BNP and Jamaat go from here?]]></title>
-            <description><![CDATA[By Mohiuddin Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/alliance-rivalry-where-do-bnp-and-jamaat-go-here-4305926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/alliance-rivalry-where-do-bnp-and-jamaat-go-here-4305926</guid>
-            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bangladesh needs a new growth model]]></title>
-            <description><![CDATA[By M.G. Quibria]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/why-bangladesh-needs-new-growth-model-4305801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/why-bangladesh-needs-new-growth-model-4305801</guid>
-            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shohoz under railway scrutiny over ticket scams]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/shohoz-under-railway-scrutiny-over-ticket-scams-4306071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/shohoz-under-railway-scrutiny-over-ticket-scams-4306071</guid>
-            <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Seven qawmi-based parties: Jamaat suspects govt hand in Hefazat’s unity bid]]></title>
             <link>https://www.thedailystar.net/news/politics/political-parties/news/seven-qawmi-based-parties-jamaat-suspects-govt-hand-hefazats-unity-bid-4306001</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/politics/political-parties/news/seven-qawmi-based-parties-jamaat-suspects-govt-hand-hefazats-unity-bid-4306001</guid>
-            <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK court freezes £15m London apartment of ex-land minister’s brother]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/corruption/news/uk-court-freezes-ps15m-london-apartment-ex-land-ministers-brother-4306216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/corruption/news/uk-court-freezes-ps15m-london-apartment-ex-land-ministers-brother-4306216</guid>
             <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
         </item>
         <item>
@@ -93,10 +109,36 @@
             <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Why Bangladesh needs a new growth model]]></title>
+            <description><![CDATA[By M.G. Quibria]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/why-bangladesh-needs-new-growth-model-4305801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/why-bangladesh-needs-new-growth-model-4305801</guid>
+            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Government pension spending to double to Tk 51,000 crore in five years]]></title>
-            <description><![CDATA[Pay commission warns of ‘unbearable fiscal burden’]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/govt-pension-spending-double-tk-51000cr-5yrs-4305966</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-pension-spending-double-tk-51000cr-5yrs-4305966</guid>
+            <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Osmani Udyan: A familiar refuge returns with a new face]]></title>
+            <description><![CDATA[For nearly nine years, Osmani Udyan remained hidden behind construction barriers, its gates locked and its future uncertain. Whenever residents asked when the park would reopen, the answer was much the same: development work was underway.]]></description>
+            <link>https://www.thedailystar.net/weekend-read/news/osmani-udyan-familiar-refuge-returns-new-face-4305856</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/weekend-read/news/osmani-udyan-familiar-refuge-returns-new-face-4305856</guid>
+            <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The road to Mirpur’s business boom]]></title>
+            <link>https://www.thedailystar.net/ds/business-plus/news/the-road-mirpurs-business-boom-4305846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/ds/business-plus/news/the-road-mirpurs-business-boom-4305846</guid>
+            <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The quiet bond of mudir dokan]]></title>
+            <link>https://www.thedailystar.net/ds/my-dhaka/news/the-quiet-bond-mudir-dokan-4306041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/ds/my-dhaka/news/the-quiet-bond-mudir-dokan-4306041</guid>
             <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3047,48 +3089,6 @@
             <link>https://www.thedailystar.net/sports/football/news/raphinha-miss-two-barcelona-games-flick-urges-caution-4294456</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/raphinha-miss-two-barcelona-games-flick-urges-caution-4294456</guid>
             <pubDate>Fri, 09 Oct 2026 16:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chattogram opens 2.2km cycle track, billed by CCC as Bangladesh’s first]]></title>
-            <link>https://www.thedailystar.net/news/transport/news/chattogram-opens-22km-cycle-track-billed-ccc-bangladeshs-first-4294396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/transport/news/chattogram-opens-22km-cycle-track-billed-ccc-bangladeshs-first-4294396</guid>
-            <pubDate>Fri, 09 Oct 2026 16:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australia need to handle Test grind better, Cummins says]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/australia-need-handle-test-grind-better-cummins-says-4294196</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/australia-need-handle-test-grind-better-cummins-says-4294196</guid>
-            <pubDate>Fri, 09 Oct 2026 01:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reset priorities to help the poor and vulnerable]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/reset-priorities-help-the-poor-and-vulnerable-4293811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reset-priorities-help-the-poor-and-vulnerable-4293811</guid>
-            <pubDate>Fri, 09 Oct 2026 01:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jahangirnagar University and its endless ‘Game of Thrones’]]></title>
-            <link>https://www.thedailystar.net/campus/news/jahangirnagar-university-and-its-endless-game-thrones-4293881</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/jahangirnagar-university-and-its-endless-game-thrones-4293881</guid>
-            <pubDate>Fri, 09 Oct 2026 01:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pathao says cyber attack exposed users’ names, emails and phone numbers]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/pathao-says-cyber-attack-exposed-users-names-emails-and-phone-numbers-4293936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/pathao-says-cyber-attack-exposed-users-names-emails-and-phone-numbers-4293936</guid>
-            <pubDate>Fri, 09 Oct 2026 01:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ensure speedy trials for women and children]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/ensure-speedy-trials-women-and-children-4294421</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ensure-speedy-trials-women-and-children-4294421</guid>
-            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Curtain rises on the country's biggest OTT Awards]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/curtain-rises-the-countrys-biggest-ott-awards-4294411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/curtain-rises-the-countrys-biggest-ott-awards-4294411</guid>
-            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
