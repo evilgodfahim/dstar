@@ -4,15 +4,83 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 05:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2026 12:01:32 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 Oct 2026 05:04:05 GMT</pubDate>
+        <pubDate>Sat, 31 Oct 2026 12:01:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Today's Gallery (2026.10.31)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261031-4311681</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261031-4311681</guid>
-            <pubDate>Sat, 31 Oct 2026 05:04:05 GMT</pubDate>
+            <title><![CDATA[Shihab Shaheen’s ‘Cafe Umbrella’ premieres on iScreen]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/shihab-shaheens-cafe-umbrella-premieres-iscreen-4311951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/shihab-shaheens-cafe-umbrella-premieres-iscreen-4311951</guid>
+            <pubDate>Sat, 31 Oct 2026 12:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ban vs WI, 1st Test, Day 4  / Bangladesh suffer third straight home defeat to WI, slip to fifth in WTC]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/bangladesh-suffer-third-straight-home-defeat-wi-slip-fifth-wtc-4311776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/bangladesh-suffer-third-straight-home-defeat-wi-slip-fifth-wtc-4311776</guid>
+            <pubDate>Sat, 31 Oct 2026 12:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unilever Consumer Care revenue, profit drop in Jul-Sept]]></title>
+            <link>https://www.thedailystar.net/business/news/unilever-consumer-care-revenue-profit-drop-jul-sept-4311901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/unilever-consumer-care-revenue-profit-drop-jul-sept-4311901</guid>
+            <pubDate>Sat, 31 Oct 2026 12:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh must use the LDC extension for lasting economic gains]]></title>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-must-use-the-ldc-extension-lasting-economic-gains-4311501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-must-use-the-ldc-extension-lasting-economic-gains-4311501</guid>
+            <pubDate>Sat, 31 Oct 2026 12:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka gears up for Halloween with parties, music and art events]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/dhaka-gears-halloween-parties-music-and-art-events-4311811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/dhaka-gears-halloween-parties-music-and-art-events-4311811</guid>
+            <pubDate>Sat, 31 Oct 2026 12:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t turn fruits into a luxury]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/dont-turn-fruits-luxury-4311491</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/dont-turn-fruits-luxury-4311491</guid>
+            <pubDate>Sat, 31 Oct 2026 12:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Bangladesh build a competitive solar manufacturing industry?]]></title>
+            <description><![CDATA[By Khairul Hassan Jahin]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-build-competitive-solar-manufacturing-industry-4311921</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-build-competitive-solar-manufacturing-industry-4311921</guid>
+            <dc:creator><![CDATA[Khairul Hassan Jahin]]></dc:creator>
+            <pubDate>Sat, 31 Oct 2026 12:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pass rates fall across all nine general education boards]]></title>
+            <link>https://www.thedailystar.net/news/education/news/pass-rates-fall-across-all-nine-general-education-boards-4311816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/pass-rates-fall-across-all-nine-general-education-boards-4311816</guid>
+            <pubDate>Sat, 31 Oct 2026 12:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Update / RMG workers block roads in Mirpur demanding higher wages]]></title>
+            <link>https://www.thedailystar.net/news/news/rmg-workers-block-roads-mirpur-demanding-higher-wages-4311881</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/rmg-workers-block-roads-mirpur-demanding-higher-wages-4311881</guid>
+            <pubDate>Sat, 31 Oct 2026 12:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Special exams planned for students failing up to two subjects in HSC: Milon]]></title>
+            <link>https://www.thedailystar.net/news/education/news/special-exams-planned-students-failing-two-subjects-hsc-milon-4311871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/special-exams-planned-students-failing-two-subjects-hsc-milon-4311871</guid>
+            <pubDate>Sat, 31 Oct 2026 12:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HSC pass rate hits 22-year low, over 5 lakh fail]]></title>
+            <link>https://www.thedailystar.net/news/education/news/hsc-pass-rate-hits-22-year-low-over-5-lakh-fail-4311876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/hsc-pass-rate-hits-22-year-low-over-5-lakh-fail-4311876</guid>
+            <pubDate>Sat, 31 Oct 2026 12:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[30 Ashulia RMG factories suspend today's operation amid labour unrest]]></title>
+            <link>https://www.thedailystar.net/news/news/30-ashulia-rmg-factories-suspend-todays-operation-amid-labour-unrest-4311906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/30-ashulia-rmg-factories-suspend-todays-operation-amid-labour-unrest-4311906</guid>
+            <pubDate>Sat, 31 Oct 2026 12:01:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The women who haunt Bangla cinema]]></title>
@@ -33,33 +101,11 @@
             <pubDate>Sat, 31 Oct 2026 05:04:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Cities Day / A manifesto for Bangladesh’s future cities]]></title>
-            <description><![CDATA[By Kazi Khaleed Ashraf]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/manifesto-bangladeshs-future-cities-4311461</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/manifesto-bangladeshs-future-cities-4311461</guid>
-            <dc:creator><![CDATA[Kazi Khaleed Ashraf]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2026 05:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh must use the LDC extension for lasting economic gains]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-must-use-the-ldc-extension-lasting-economic-gains-4311501</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-must-use-the-ldc-extension-lasting-economic-gains-4311501</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2026 05:04:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The secretariat relocation plan should open up Dhaka]]></title>
             <description><![CDATA[By Shamsad Mortuza]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/the-secretariat-relocation-plan-should-open-dhaka-4311526</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-secretariat-relocation-plan-should-open-dhaka-4311526</guid>
             <dc:creator><![CDATA[Shamsad Mortuza]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2026 05:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis / LDC graduation: Three more years to finish homework]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/ldc-graduation-three-more-years-finish-homework-4311591</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/ldc-graduation-three-more-years-finish-homework-4311591</guid>
             <pubDate>Sat, 31 Oct 2026 05:04:05 GMT</pubDate>
         </item>
         <item>
@@ -124,12 +170,6 @@
             <pubDate>Fri, 30 Oct 2026 23:33:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hackers steal $6.3 bln from crypto giant Binance]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/hackers-steal-63-bln-crypto-giant-binance-4311391</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/hackers-steal-63-bln-crypto-giant-binance-4311391</guid>
-            <pubDate>Fri, 30 Oct 2026 23:33:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[New transmission line offers hope of relief from Mymensingh's power crisis]]></title>
             <link>https://www.thedailystar.net/news/power-and-energy/news/new-transmission-line-offers-hope-relief-mymensinghs-power-crisis-4311411</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/power-and-energy/news/new-transmission-line-offers-hope-relief-mymensinghs-power-crisis-4311411</guid>
@@ -145,12 +185,6 @@
             <title><![CDATA[Fifth yellow, no ban: Curious MLS rule saves Messi]]></title>
             <link>https://www.thedailystar.net/sports/football/news/fifth-yellow-no-ban-curious-mls-rule-saves-messi-4311301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/fifth-yellow-no-ban-curious-mls-rule-saves-messi-4311301</guid>
-            <pubDate>Fri, 30 Oct 2026 13:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion  / Three more years to prepare for graduation from LDC: Is Bangladesh making them count?]]></title>
-            <link>https://www.thedailystar.net/business/news/three-more-years-prepare-graduation-ldc-bangladesh-making-them-count-4311201</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/three-more-years-prepare-graduation-ldc-bangladesh-making-them-count-4311201</guid>
             <pubDate>Fri, 30 Oct 2026 13:58:13 GMT</pubDate>
         </item>
         <item>
@@ -242,6 +276,41 @@
             <pubDate>Fri, 30 Oct 2026 00:43:11 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.10.31)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261031-4311681</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261031-4311681</guid>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Cities Day / A manifesto for Bangladesh’s future cities]]></title>
+            <description><![CDATA[By Kazi Khaleed Ashraf]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/manifesto-bangladeshs-future-cities-4311461</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/manifesto-bangladeshs-future-cities-4311461</guid>
+            <dc:creator><![CDATA[Kazi Khaleed Ashraf]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / LDC graduation: Three more years to finish homework]]></title>
+            <description><![CDATA[Graduation days are supposed to be proud moments. Bangladesh’s graduation was less than four weeks away. Instead, on Thursday afternoon in New York, the country was told it could stay back for three more years, and the whole class agreed.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/ldc-graduation-three-more-years-finish-homework-4311591</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/ldc-graduation-three-more-years-finish-homework-4311591</guid>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hackers steal $6.3 bln from crypto giant Binance]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/hackers-steal-63-bln-crypto-giant-binance-4311391</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/hackers-steal-63-bln-crypto-giant-binance-4311391</guid>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion  / Three more years to prepare for graduation from LDC: Is Bangladesh making them count?]]></title>
+            <description><![CDATA[By Selim Raihan]]></description>
+            <link>https://www.thedailystar.net/business/news/three-more-years-prepare-graduation-ldc-bangladesh-making-them-count-4311201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/three-more-years-prepare-graduation-ldc-bangladesh-making-them-count-4311201</guid>
+            <dc:creator><![CDATA[Selim Raihan]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Vicky Zahed’s 'Khalnayak' unveils star-studded cast featuring Nisho, Chanchal and Tama]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/vicky-zaheds-khalnayak-unveils-star-studded-cast-featuring-nisho-chanchal-and-tama-4311311</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/vicky-zaheds-khalnayak-unveils-star-studded-cast-featuring-nisho-chanchal-and-tama-4311311</guid>
@@ -251,6 +320,12 @@
             <title><![CDATA[Over 1.2 lakh register for Bhutan’s historic 108 chortens event]]></title>
             <link>https://www.thedailystar.net/business/global-economy/south-asia/news/over-12-lakh-register-bhutans-historic-108-chortens-event-4311456</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/global-economy/south-asia/news/over-12-lakh-register-bhutans-historic-108-chortens-event-4311456</guid>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Makkah pact leaders’ meeting with Iran matters]]></title>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-the-makkah-pact-leaders-meeting-iran-matters-4310691</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/why-the-makkah-pact-leaders-meeting-iran-matters-4310691</guid>
             <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -373,10 +448,8 @@
         </item>
         <item>
             <title><![CDATA[Beyond economic partnership: Japan’s strategic long game in Bangladesh]]></title>
-            <description><![CDATA[By Md Himel Rahman]]></description>
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/beyond-economic-partnership-japans-strategic-long-game-bangladesh-4310751</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/beyond-economic-partnership-japans-strategic-long-game-bangladesh-4310751</guid>
-            <dc:creator><![CDATA[Md Himel Rahman]]></dc:creator>
             <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -432,6 +505,12 @@
             <description><![CDATA[Bangladesh has secured a three-year extension of its graduation from the group of Least Developed Countries (LDCs), for a smoother transition amid risks from energy and supply disruptions caused by conflicts.]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/bangladesh-gets-3-more-years-ldc-graduation-4311091</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/bangladesh-gets-3-more-years-ldc-graduation-4311091</guid>
+            <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explained / Why trees are important for a city]]></title>
+            <link>https://www.thedailystar.net/rising-stars/news/why-trees-are-important-city-4309661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/news/why-trees-are-important-city-4309661</guid>
             <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -935,6 +1014,7 @@
         </item>
         <item>
             <title><![CDATA[Tarique Rahman’s Japan visit: Japan’s bet on Bangladesh is really about the Bay of Bengal]]></title>
+            <description><![CDATA[Japan’s Bay of Bengal strategy offers Bangladesh opportunities for maritime security, economic connectivity and greater diplomatic autonomy.]]></description>
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/tarique-rahmans-japan-visit-japans-bet-bangladesh-really-about-the-bay-bengal-4307886</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/tarique-rahmans-japan-visit-japans-bet-bangladesh-really-about-the-bay-bengal-4307886</guid>
             <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
@@ -1417,7 +1497,7 @@
             <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The road to Mirpur’s business boom]]></title>
+            <title><![CDATA[Business Plus  / The road to Mirpur’s business boom]]></title>
             <link>https://www.thedailystar.net/ds/business-plus/news/the-road-mirpurs-business-boom-4305846</link>
             <guid isPermaLink="true">https://www.thedailystar.net/ds/business-plus/news/the-road-mirpurs-business-boom-4305846</guid>
             <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
@@ -3005,85 +3085,6 @@
             <link>https://www.thedailystar.net/news/healthcare/disease/news/dengue-surge-overwhelms-50-bed-ward-cmch-4299236</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/healthcare/disease/news/dengue-surge-overwhelms-50-bed-ward-cmch-4299236</guid>
             <pubDate>Thu, 15 Oct 2026 07:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF urges tight monetary policy, deeper reforms for Bangladesh]]></title>
-            <link>https://www.thedailystar.net/business/news/imf-urges-tight-monetary-policy-deeper-reforms-bangladesh-4299171</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/imf-urges-tight-monetary-policy-deeper-reforms-bangladesh-4299171</guid>
-            <pubDate>Thu, 15 Oct 2026 07:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Update / Police use batons, sound grenades to disperse Uttara garment workers blocking highway]]></title>
-            <description><![CDATA[Workers block highway for fourth straight day, demanding Tk 30,000 basic salary and other benefits]]></description>
-            <link>https://www.thedailystar.net/news/news/uttara-garment-workers-block-dhaka-mymensingh-highway-fourth-day-4299271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/uttara-garment-workers-block-dhaka-mymensingh-highway-fourth-day-4299271</guid>
-            <pubDate>Thu, 15 Oct 2026 07:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Listening to ‘Mon Akash’: Arafat Kirty and the discipline of space]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/listening-mon-akash-arafat-kirty-and-the-discipline-space-4298771</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/listening-mon-akash-arafat-kirty-and-the-discipline-space-4298771</guid>
-            <pubDate>Thu, 15 Oct 2026 01:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Real Madrid’s Vinicius to miss Clasico after four-game suspension]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/real-madrids-vinicius-miss-clasico-after-four-game-suspension-4298971</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/real-madrids-vinicius-miss-clasico-after-four-game-suspension-4298971</guid>
-            <pubDate>Thu, 15 Oct 2026 01:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Take growth forecast downgrades seriously]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/take-growth-forecast-downgrades-seriously-4298876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/take-growth-forecast-downgrades-seriously-4298876</guid>
-            <pubDate>Thu, 15 Oct 2026 01:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt, opposition should jointly protect Hindu community’s rights: Jamaat ameer]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/govt-opposition-should-jointly-protect-hindu-communitys-rights-jamaat-ameer-4298756</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/govt-opposition-should-jointly-protect-hindu-communitys-rights-jamaat-ameer-4298756</guid>
-            <pubDate>Thu, 15 Oct 2026 01:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Identify those not cooperating with govt work: Parliamentary committee]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/identify-those-not-cooperating-govt-work-parliamentary-committee-4298836</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/identify-those-not-cooperating-govt-work-parliamentary-committee-4298836</guid>
-            <pubDate>Thu, 15 Oct 2026 01:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI boom is making computers way more expensive]]></title>
-            <link>https://www.thedailystar.net/business/news/ai-boom-making-computers-way-more-expensive-4299621</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/ai-boom-making-computers-way-more-expensive-4299621</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bengali babu who brought Tibet home]]></title>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/the-bengali-babu-who-brought-tibet-home-4298871</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-bengali-babu-who-brought-tibet-home-4298871</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reverse the decline in secondary school enrolment]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/reverse-the-decline-secondary-school-enrolment-4299526</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/reverse-the-decline-secondary-school-enrolment-4299526</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Play now lets anyone build and run private AI-generated apps on Android]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/google-play-now-lets-anyone-build-and-run-private-ai-generated-apps-android-4299316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/google-play-now-lets-anyone-build-and-run-private-ai-generated-apps-android-4299316</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta releases Muse Wonder, its first frontier AI model built to rival GPT and Claude]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/meta-releases-muse-wonder-its-first-frontier-ai-model-built-rival-gpt-and-claude-4299301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/meta-releases-muse-wonder-its-first-frontier-ai-model-built-rival-gpt-and-claude-4299301</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women In Focus / Joyeeta Trisha refused to let cancer steal her future]]></title>
-            <link>https://www.thedailystar.net/life-living/news/joyeeta-trisha-refused-let-cancer-steal-her-future-4299391</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/joyeeta-trisha-refused-let-cancer-steal-her-future-4299391</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
