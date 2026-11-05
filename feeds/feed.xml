@@ -4,15 +4,64 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 03:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 20:31:54 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2026 03:22:02 GMT</pubDate>
+        <pubDate>Thu, 05 Nov 2026 20:31:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Today's Gallery (2026.11.05)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261105-4316086</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261105-4316086</guid>
-            <pubDate>Thu, 05 Nov 2026 03:22:02 GMT</pubDate>
+            <title><![CDATA[6 food stops to make on a day trip to Narayanganj]]></title>
+            <link>https://www.thedailystar.net/life-living/food-recipes/news/6-food-stops-make-day-trip-narayanganj-4316311</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/food-recipes/news/6-food-stops-make-day-trip-narayanganj-4316311</guid>
+            <pubDate>Thu, 05 Nov 2026 20:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trade deficit widens 31% as fuel import bill doubles]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/trade-deficit-widens-31-fuel-import-bill-doubles-4316656</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/trade-deficit-widens-31-fuel-import-bill-doubles-4316656</guid>
+            <pubDate>Thu, 05 Nov 2026 20:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spin plans flop as Taskin seeks the ‘extraordinary’ on Day 2 of Sylhet Test]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/spin-plans-flop-taskin-seeks-the-extraordinary-day-2-sylhet-test-4316766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/spin-plans-flop-taskin-seeks-the-extraordinary-day-2-sylhet-test-4316766</guid>
+            <pubDate>Thu, 05 Nov 2026 20:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A chance to correct course for the US]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/chance-correct-course-the-us-4316466</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/chance-correct-course-the-us-4316466</guid>
+            <pubDate>Thu, 05 Nov 2026 20:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reserves drop to $34.85 billion after ACU payment]]></title>
+            <link>https://www.thedailystar.net/business/news/reserves-drop-3485-billion-after-acu-payment-4316506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/reserves-drop-3485-billion-after-acu-payment-4316506</guid>
+            <pubDate>Thu, 05 Nov 2026 20:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / US midterm elections: Trump handed Democrats a victory. What will they do with it?]]></title>
+            <link>https://www.thedailystar.net/news-analysis/news/us-midterm-elections-trump-handed-democrats-victory-what-will-they-do-it-4316511</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/us-midterm-elections-trump-handed-democrats-victory-what-will-they-do-it-4316511</guid>
+            <pubDate>Thu, 05 Nov 2026 20:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clothing sales wilt as inflation-weary shoppers shun discounts]]></title>
+            <description><![CDATA[Shoppers are shying away from clothing stores even though retailers are offering discounts of up to 50 percent, as years of near-double-digit annual inflation have stretched people to their limit.]]></description>
+            <link>https://www.thedailystar.net/business/economy/news/clothing-sales-wilt-inflation-weary-shoppers-shun-discounts-4316651</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/clothing-sales-wilt-inflation-weary-shoppers-shun-discounts-4316651</guid>
+            <pubDate>Thu, 05 Nov 2026 20:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can Bangladesh build a thriving creative economy?]]></title>
+            <link>https://www.thedailystar.net/slow-reads/wisdom/news/how-can-bangladesh-build-thriving-creative-economy-4316621</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/how-can-bangladesh-build-thriving-creative-economy-4316621</guid>
+            <pubDate>Thu, 05 Nov 2026 20:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Football is about people’: Ronaldo's emotional goodbye to Portugal]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/football-about-people-ronaldos-emotional-goodbye-portugal-4316436</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/football-about-people-ronaldos-emotional-goodbye-portugal-4316436</guid>
+            <pubDate>Thu, 05 Nov 2026 20:31:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Como hit nine to equal biggest winning margin in Champions League history]]></title>
@@ -24,24 +73,6 @@
             <title><![CDATA[Money changers can now open custodial forex accounts]]></title>
             <link>https://www.thedailystar.net/business/economy/news/money-changers-can-now-open-custodial-forex-accounts-4315816</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/money-changers-can-now-open-custodial-forex-accounts-4315816</guid>
-            <pubDate>Thu, 05 Nov 2026 03:22:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can we establish a uniform minimum wage for all workers?]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/can-we-establish-uniform-minimum-wage-all-workers-4315841</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-establish-uniform-minimum-wage-all-workers-4315841</guid>
-            <pubDate>Thu, 05 Nov 2026 03:22:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Padma Barrage: Why Bangladesh needs it and the challenges ahead]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/padma-barrage-why-bangladesh-needs-it-and-the-challenges-ahead-4315946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/padma-barrage-why-bangladesh-needs-it-and-the-challenges-ahead-4315946</guid>
-            <pubDate>Thu, 05 Nov 2026 03:22:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could Trump's electoral defeat make the world less secure?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/could-trumps-electoral-defeat-make-the-world-less-secure-4315666</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/could-trumps-electoral-defeat-make-the-world-less-secure-4315666</guid>
             <pubDate>Thu, 05 Nov 2026 03:22:02 GMT</pubDate>
         </item>
         <item>
@@ -80,6 +111,42 @@
             <link>https://www.thedailystar.net/news/world/united-states/news/republicans-call-trump-change-course-after-midterm-drubbing-4316111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/united-states/news/republicans-call-trump-change-course-after-midterm-drubbing-4316111</guid>
             <pubDate>Thu, 05 Nov 2026 03:22:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can we establish a uniform minimum wage for all workers?]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/can-we-establish-uniform-minimum-wage-all-workers-4315841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-establish-uniform-minimum-wage-all-workers-4315841</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion  / US midterm results: What it means for Bangladesh’s trade and economic challenges]]></title>
+            <link>https://www.thedailystar.net/business/news/us-midterm-results-what-it-means-bangladeshs-trade-and-economic-challenges-4316206</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/us-midterm-results-what-it-means-bangladeshs-trade-and-economic-challenges-4316206</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What you are too shy to ask your doctor about conception]]></title>
+            <link>https://www.thedailystar.net/life-living/health-fitness/news/what-you-are-too-shy-ask-your-doctor-about-conception-4316281</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/health-fitness/news/what-you-are-too-shy-ask-your-doctor-about-conception-4316281</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Phoebe Waller-Bridge donates London flat to help young writers]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/phoebe-waller-bridge-donates-london-flat-help-young-writers-4316161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/phoebe-waller-bridge-donates-london-flat-help-young-writers-4316161</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Off Campus / The complexities of sibling dynamics]]></title>
+            <link>https://www.thedailystar.net/campus/news/the-complexities-sibling-dynamics-4315381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/the-complexities-sibling-dynamics-4315381</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Profile / From fashion writing to Milan’s runway: Sheemtana Shameem’s journey into styling]]></title>
+            <link>https://www.thedailystar.net/life-living/news/fashion-writing-milans-runway-sheemtana-shameems-journey-styling-4316291</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/fashion-writing-milans-runway-sheemtana-shameems-journey-styling-4316291</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Explainer / Why Nepal are missing from the SAFF Championship 2026]]></title>
@@ -248,6 +315,24 @@
             <pubDate>Wed, 04 Nov 2026 01:09:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.11.05)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261105-4316086</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261105-4316086</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Padma Barrage: Why Bangladesh needs it and the challenges ahead]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/padma-barrage-why-bangladesh-needs-it-and-the-challenges-ahead-4315946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/padma-barrage-why-bangladesh-needs-it-and-the-challenges-ahead-4315946</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could Trump's electoral defeat make the world less secure?]]></title>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/could-trumps-electoral-defeat-make-the-world-less-secure-4315666</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/could-trumps-electoral-defeat-make-the-world-less-secure-4315666</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Perspective / The weight of being Cristiano Ronaldo's son]]></title>
             <link>https://www.thedailystar.net/life-living/news/the-weight-being-cristiano-ronaldos-son-4315466</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/the-weight-being-cristiano-ronaldos-son-4315466</guid>
@@ -263,6 +348,12 @@
             <title><![CDATA[What the LDC deferral means for Bangladesh at COP31]]></title>
             <link>https://www.thedailystar.net/opinion/views/news/what-the-ldc-deferral-means-bangladesh-cop31-4314881</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-the-ldc-deferral-means-bangladesh-cop31-4314881</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Perspective / Finally, a safe haven for the forgotten paws of St Martin’s Island]]></title>
+            <link>https://www.thedailystar.net/life-living/news/finally-safe-haven-the-forgotten-paws-st-martins-island-4315476</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/finally-safe-haven-the-forgotten-paws-st-martins-island-4315476</guid>
             <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -366,10 +457,8 @@
         </item>
         <item>
             <title><![CDATA[Pandua Sharif: The making of a sacred city in medieval Bengal]]></title>
-            <description><![CDATA[By Syed Ali Nadeem Rezavi]]></description>
             <link>https://www.thedailystar.net/slow-reads/focus/news/pandua-sharif-the-making-sacred-city-medieval-bengal-4314656</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/pandua-sharif-the-making-sacred-city-medieval-bengal-4314656</guid>
-            <dc:creator><![CDATA[Syed Ali Nadeem Rezavi]]></dc:creator>
             <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3002,102 +3091,6 @@
             <link>https://www.thedailystar.net/sports/football/news/thierry-henry-host-ballon-dor-ceremony-london-4303286</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/thierry-henry-host-ballon-dor-ceremony-london-4303286</guid>
             <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gazipur’s Ulka cinema hall to close in November]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/gazipurs-ulka-cinema-hall-close-november-4303231</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/gazipurs-ulka-cinema-hall-close-november-4303231</guid>
-            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A lasting safe water system must be the goal, not more projects]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/lasting-safe-water-system-must-be-the-goal-not-more-projects-4302801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/lasting-safe-water-system-must-be-the-goal-not-more-projects-4302801</guid>
-            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF-World Bank meetings: More diagnosis but limited relief for Bangladesh]]></title>
-            <description><![CDATA[By Fahmida Khatun]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/imf-world-bank-meetings-more-diagnosis-limited-relief-bangladesh-4302796</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/imf-world-bank-meetings-more-diagnosis-limited-relief-bangladesh-4302796</guid>
-            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
-            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Update-1 / Natore bus-truck collision: Police revise death toll to 12]]></title>
-            <link>https://www.thedailystar.net/news/accidents-and-fires/news/10-killed-natore-bus-truck-collision-4303106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/10-killed-natore-bus-truck-collision-4303106</guid>
-            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[President accepts Ishraque’s resignation, gazette issued]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/president-accepts-ishraques-resignation-gazette-issued-4303221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/president-accepts-ishraques-resignation-gazette-issued-4303221</guid>
-            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TupTup Resort fire: Website names two owners, case names only one]]></title>
-            <link>https://www.thedailystar.net/news/accidents-and-fires/news/tuptup-resort-fire-website-names-two-owners-case-names-only-one-4303336</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/tuptup-resort-fire-website-names-two-owners-case-names-only-one-4303336</guid>
-            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.10.21)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261021-4303881</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261021-4303881</guid>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who cares about the private lives of migrant workers?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/who-cares-about-the-private-lives-migrant-workers-4302721</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/who-cares-about-the-private-lives-migrant-workers-4302721</guid>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 1962 India-China war and the making of modern South Asian geopolitics]]></title>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-1962-india-china-war-and-the-making-modern-south-asian-geopolitics-4302621</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-1962-india-china-war-and-the-making-modern-south-asian-geopolitics-4302621</guid>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If heaven has food, let it taste like my mother's]]></title>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/if-heaven-has-food-let-it-taste-my-mothers-4302906</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/if-heaven-has-food-let-it-taste-my-mothers-4302906</guid>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bishnoi gang issues fresh threat to Salman Khan and cohorts]]></title>
-            <link>https://www.thedailystar.net/culture/tv-film/news/bishnoi-gang-issues-fresh-threat-salman-khan-and-cohorts-4302356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/bishnoi-gang-issues-fresh-threat-salman-khan-and-cohorts-4302356</guid>
-            <pubDate>Mon, 19 Oct 2026 07:35:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Surprise package' Lazio crush Juve to keep pace with Serie A leaders Inter]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/surprise-package-lazio-crush-juve-keep-pace-serie-leaders-inter-4302341</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/surprise-package-lazio-crush-juve-keep-pace-serie-leaders-inter-4302341</guid>
-            <pubDate>Mon, 19 Oct 2026 07:35:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prepare our children for the world, not just exams]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/prepare-our-children-the-world-not-just-exams-4302026</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/prepare-our-children-the-world-not-just-exams-4302026</guid>
-            <pubDate>Mon, 19 Oct 2026 07:35:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh cannot end child marriage without closing legal loopholes]]></title>
-            <description><![CDATA[By Noshin Nawal]]></description>
-            <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/bangladesh-cannot-end-child-marriage-without-closing-legal-loopholes-4302001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/bangladesh-cannot-end-child-marriage-without-closing-legal-loopholes-4302001</guid>
-            <dc:creator><![CDATA[Noshin Nawal]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 07:35:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The economics of saying no in marriage]]></title>
-            <description><![CDATA[By Tasneem Tayeb]]></description>
-            <link>https://www.thedailystar.net/opinion/views/closer-look/news/the-economics-saying-no-marriage-4302016</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/the-economics-saying-no-marriage-4302016</guid>
-            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 07:35:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
