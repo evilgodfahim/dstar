@@ -4,15 +4,39 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 01:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 09:09:19 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Nov 2026 01:27:02 GMT</pubDate>
+        <pubDate>Fri, 06 Nov 2026 09:09:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.11.06)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20261106-4316886</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261106-4316886</guid>
-            <pubDate>Fri, 06 Nov 2026 01:27:02 GMT</pubDate>
+            <pubDate>Fri, 06 Nov 2026 09:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mukesh Rishi to make Dhallywood debut with ‘Naseeb’]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/mukesh-rishi-make-dhallywood-debut-naseeb-4317001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/mukesh-rishi-make-dhallywood-debut-naseeb-4317001</guid>
+            <pubDate>Fri, 06 Nov 2026 09:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fanfare without fever at SAFF's Dhaka return]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/fanfare-without-fever-saffs-dhaka-return-4317011</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/fanfare-without-fever-saffs-dhaka-return-4317011</guid>
+            <pubDate>Fri, 06 Nov 2026 09:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why are we struggling to attract private investment despite all the effort?]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/why-are-we-struggling-attract-private-investment-despite-all-the-effort-4316626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-are-we-struggling-attract-private-investment-despite-all-the-effort-4316626</guid>
+            <pubDate>Fri, 06 Nov 2026 09:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A farewell measured beyond goals and glory]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/farewell-measured-beyond-goals-and-glory-4316601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/farewell-measured-beyond-goals-and-glory-4316601</guid>
+            <pubDate>Fri, 06 Nov 2026 09:09:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spin plans flop as Taskin seeks the ‘extraordinary’ on Day 2 of Sylhet Test]]></title>
@@ -36,19 +60,6 @@
             <title><![CDATA[Analysis / US midterm elections: Trump handed Democrats a victory. What will they do with it?]]></title>
             <link>https://www.thedailystar.net/news-analysis/news/us-midterm-elections-trump-handed-democrats-victory-what-will-they-do-it-4316511</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news-analysis/news/us-midterm-elections-trump-handed-democrats-victory-what-will-they-do-it-4316511</guid>
-            <pubDate>Fri, 06 Nov 2026 01:27:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can Bangladesh build a thriving creative economy?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/how-can-bangladesh-build-thriving-creative-economy-4316621</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/how-can-bangladesh-build-thriving-creative-economy-4316621</guid>
-            <pubDate>Fri, 06 Nov 2026 01:27:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clothing sales wilt as inflation-weary shoppers shun discounts]]></title>
-            <description><![CDATA[Shoppers are shying away from clothing stores even though retailers are offering discounts of up to 50 percent, as years of near-double-digit annual inflation have stretched people to their limit.]]></description>
-            <link>https://www.thedailystar.net/business/economy/news/clothing-sales-wilt-inflation-weary-shoppers-shun-discounts-4316651</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/clothing-sales-wilt-inflation-weary-shoppers-shun-discounts-4316651</guid>
             <pubDate>Fri, 06 Nov 2026 01:27:02 GMT</pubDate>
         </item>
         <item>
@@ -99,6 +110,20 @@
             <link>https://www.thedailystar.net/news/world/united-states/news/republicans-call-trump-change-course-after-midterm-drubbing-4316111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/united-states/news/republicans-call-trump-change-course-after-midterm-drubbing-4316111</guid>
             <pubDate>Thu, 05 Nov 2026 03:22:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can Bangladesh build a thriving creative economy?]]></title>
+            <description><![CDATA[By Saifur Rashid]]></description>
+            <link>https://www.thedailystar.net/slow-reads/wisdom/news/how-can-bangladesh-build-thriving-creative-economy-4316621</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/how-can-bangladesh-build-thriving-creative-economy-4316621</guid>
+            <dc:creator><![CDATA[Saifur Rashid]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clothing sales wilt as inflation-weary shoppers shun discounts]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/clothing-sales-wilt-inflation-weary-shoppers-shun-discounts-4316651</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/clothing-sales-wilt-inflation-weary-shoppers-shun-discounts-4316651</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[6 food stops to make on a day trip to Narayanganj]]></title>
@@ -152,6 +177,33 @@
             <title><![CDATA[Profile / From fashion writing to Milan’s runway: Sheemtana Shameem’s journey into styling]]></title>
             <link>https://www.thedailystar.net/life-living/news/fashion-writing-milans-runway-sheemtana-shameems-journey-styling-4316291</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/fashion-writing-milans-runway-sheemtana-shameems-journey-styling-4316291</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The poison is in the pot]]></title>
+            <description><![CDATA[Lead from widely used aluminium cooking pots made with recycled scrap metal can contaminate rice and khichuri, potentially exposing families to the toxic metal that can damage children’s developing brains, a new study has found.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/the-poison-the-pot-4316836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/the-poison-the-pot-4316836</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No AI guidelines for universities]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/no-ai-guidelines-universities-4316876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/no-ai-guidelines-universities-4316876</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A mounting trail of deaths on two wheels]]></title>
+            <link>https://www.thedailystar.net/news/accidents-and-fires/news/mounting-trail-deaths-two-wheels-4316896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/mounting-trail-deaths-two-wheels-4316896</guid>
+            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The crown is diminished, not dead; long live democracy]]></title>
+            <description><![CDATA[By Faridul Alam]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-crown-diminished-not-dead-long-live-democracy-4316536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-crown-diminished-not-dead-long-live-democracy-4316536</guid>
+            <dc:creator><![CDATA[Faridul Alam]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -363,6 +415,12 @@
             <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Story of Fazlur Rahman Kamsani / The Bengali connection in Singapore’s multicultural history]]></title>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/the-bengali-connection-singapores-multicultural-history-4315641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-bengali-connection-singapores-multicultural-history-4315641</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[‘Press freedom predators’: Trump, Adani Group, Musk among 33 on RSF list]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/rights/news/press-freedom-predators-trump-adani-group-musk-among-33-rsf-list-4314686</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/rights/news/press-freedom-predators-trump-adani-group-musk-among-33-rsf-list-4314686</guid>
@@ -475,10 +533,8 @@
         </item>
         <item>
             <title><![CDATA[A 93rd birthday tribute / How Amartya Sen changed the way we understand development]]></title>
-            <description><![CDATA[By Selim Jahan]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/how-amartya-sen-changed-the-way-we-understand-development-4314976</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/how-amartya-sen-changed-the-way-we-understand-development-4314976</guid>
-            <dc:creator><![CDATA[Selim Jahan]]></dc:creator>
             <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -511,6 +567,12 @@
             <title><![CDATA[Garment unrest clouds fragile economic recovery]]></title>
             <link>https://www.thedailystar.net/business/news/garment-unrest-clouds-fragile-economic-recovery-4314851</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/garment-unrest-clouds-fragile-economic-recovery-4314851</guid>
+            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tk 822cr profit, unpaid bills Tk 7,000cr]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/tk-822cr-profit-unpaid-bills-tk-7000cr-4315021</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tk-822cr-profit-unpaid-bills-tk-7000cr-4315021</guid>
             <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3031,66 +3093,6 @@
             <link>https://www.thedailystar.net/slow-reads/news/ami-dombo-na-i-am-more-the-cancer-i-survived-4303511</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/news/ami-dombo-na-i-am-more-the-cancer-i-survived-4303511</guid>
             <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspective / What Durga Puja means to different generations]]></title>
-            <link>https://www.thedailystar.net/life-living/news/what-durga-puja-means-different-generations-4304096</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/what-durga-puja-means-different-generations-4304096</guid>
-            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mourinho warns no 'untouchable' stars at Real Madrid]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/mourinho-warns-no-untouchable-stars-real-madrid-4303471</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/mourinho-warns-no-untouchable-stars-real-madrid-4303471</guid>
-            <pubDate>Tue, 20 Oct 2026 16:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I won a peace prize, but I’m still a Rohingya without a country]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/i-won-peace-prize-im-still-rohingya-without-country-4303331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/i-won-peace-prize-im-still-rohingya-without-country-4303331</guid>
-            <pubDate>Tue, 20 Oct 2026 16:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anti-money laundering guidelines issued for insurers]]></title>
-            <link>https://www.thedailystar.net/business/news/anti-money-laundering-guidelines-issued-insurers-4303356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/anti-money-laundering-guidelines-issued-insurers-4303356</guid>
-            <pubDate>Tue, 20 Oct 2026 16:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ishraque’s resignation is a welcome decision]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/ishraques-resignation-welcome-decision-4303391</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/ishraques-resignation-welcome-decision-4303391</guid>
-            <pubDate>Tue, 20 Oct 2026 16:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘She said she might be released’: Tangail family desperate to know Sweety Akhtar’s fate in Saudi Arabia]]></title>
-            <link>https://www.thedailystar.net/news/work-and-migration/news/she-said-she-might-be-released-tangail-family-desperate-know-sweety-akhtars-fate-saudi-arabia-4303296</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/work-and-migration/news/she-said-she-might-be-released-tangail-family-desperate-know-sweety-akhtars-fate-saudi-arabia-4303296</guid>
-            <pubDate>Tue, 20 Oct 2026 16:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis / An unhappy republic: France's troubles extend beyond the street]]></title>
-            <link>https://www.thedailystar.net/news/world/news/unhappy-republic-frances-troubles-extend-beyond-the-street-4303346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/unhappy-republic-frances-troubles-extend-beyond-the-street-4303346</guid>
-            <pubDate>Tue, 20 Oct 2026 16:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What a confidential memo reveals about two Bangladeshis executed in Saudi Arabia]]></title>
-            <link>https://www.thedailystar.net/news/work-and-migration/news/what-confidential-memo-reveals-about-two-bangladeshis-executed-saudi-arabia-4303396</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/work-and-migration/news/what-confidential-memo-reveals-about-two-bangladeshis-executed-saudi-arabia-4303396</guid>
-            <pubDate>Tue, 20 Oct 2026 16:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh, Japan may sign up to 4 deals during PM Tarique’s Tokyo visit]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-japan-may-sign-4-deals-during-pm-tariques-tokyo-visit-4303371</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-japan-may-sign-4-deals-during-pm-tariques-tokyo-visit-4303371</guid>
-            <pubDate>Tue, 20 Oct 2026 16:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keya Group lays off 739 employees at four factories in Gazipur]]></title>
-            <link>https://www.thedailystar.net/business/news/keya-group-lays-739-employees-four-factories-gazipur-4303281</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/keya-group-lays-739-employees-four-factories-gazipur-4303281</guid>
-            <pubDate>Tue, 20 Oct 2026 11:17:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
