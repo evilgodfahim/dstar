@@ -4,21 +4,72 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 16:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 20:44:54 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Nov 2026 16:13:57 GMT</pubDate>
+        <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[‘Rivers and Birds’ documents Bangladesh’s ecological diversity]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/rivers-and-birds-documents-bangladeshs-ecological-diversity-4317671</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/rivers-and-birds-documents-bangladeshs-ecological-diversity-4317671</guid>
-            <pubDate>Sat, 07 Nov 2026 16:13:57 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Women In Focus / When women have to rethink their ambitions]]></title>
             <link>https://www.thedailystar.net/life-living/news/when-women-have-rethink-their-ambitions-4317646</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/when-women-have-rethink-their-ambitions-4317646</guid>
-            <pubDate>Sat, 07 Nov 2026 16:13:57 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Rivers and Birds’ documents Bangladesh’s ecological diversity]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/rivers-and-birds-documents-bangladeshs-ecological-diversity-4317671</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/rivers-and-birds-documents-bangladeshs-ecological-diversity-4317671</guid>
+            <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hridoy's Houdini act: A knock among Bangladesh’s greatest?]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/hridoys-houdini-act-knock-among-bangladeshs-greatest-4317821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/hridoys-houdini-act-knock-among-bangladeshs-greatest-4317821</guid>
+            <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foreign debt nearly triples in a decade]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/foreign-debt-nearly-triples-decade-4317831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/foreign-debt-nearly-triples-decade-4317831</guid>
+            <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Water, work and women: The climate costs COP31 must count]]></title>
+            <description><![CDATA[By Asad Islam]]></description>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/water-work-and-women-the-climate-costs-cop31-must-count-4317766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/water-work-and-women-the-climate-costs-cop31-must-count-4317766</guid>
+            <dc:creator><![CDATA[Asad Islam]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Medical, dental entrance exams likely on Dec 18, shutting out HSC retake candidates]]></title>
+            <link>https://www.thedailystar.net/news/education/news/medical-dental-entrance-exams-likely-dec-18-shutting-out-hsc-retake-candidates-4317776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/medical-dental-entrance-exams-likely-dec-18-shutting-out-hsc-retake-candidates-4317776</guid>
+            <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Bangladesh turn connectivity with Thailand into strategic leverage?]]></title>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/can-bangladesh-turn-connectivity-thailand-strategic-leverage-4317661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/can-bangladesh-turn-connectivity-thailand-strategic-leverage-4317661</guid>
+            <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[America’s midterm reckoning and its implications for Bangladesh]]></title>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/americas-midterm-reckoning-and-its-implications-bangladesh-4317676</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/americas-midterm-reckoning-and-its-implications-bangladesh-4317676</guid>
+            <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form govt]]></title>
+            <link>https://www.thedailystar.net/news/world/news/israeli-president-picks-gadi-eisenkot-netanyahu-rival-try-form-govt-4318016</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/israeli-president-picks-gadi-eisenkot-netanyahu-rival-try-form-govt-4318016</guid>
+            <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New rules set for Ctg port operator appointments]]></title>
+            <description><![CDATA[The government has formulated new rules governing the appointment of berth, terminal and ship-handling operators at Chattogram port, paving the way for a more structured process of engaging private operators.]]></description>
+            <link>https://www.thedailystar.net/business/economy/news/new-rules-set-ctg-port-operator-appointments-4317846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/new-rules-set-ctg-port-operator-appointments-4317846</guid>
+            <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[U-19 Men’s Asia Cup / Bangladesh revive semifinal hopes with 45-run win over Sri Lanka]]></title>
@@ -54,13 +105,6 @@
             <title><![CDATA[Thousands join PM-led BNP procession marking National Revolution and Solidarity Day]]></title>
             <link>https://www.thedailystar.net/news/news/thousands-join-pm-led-bnp-procession-marking-national-revolution-and-solidarity-day-4317626</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/news/thousands-join-pm-led-bnp-procession-marking-national-revolution-and-solidarity-day-4317626</guid>
-            <pubDate>Sat, 07 Nov 2026 16:13:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Medical, dental entrance exams likely on Dec 18, shutting out HSC retake candidates]]></title>
-            <description><![CDATA[4.23 lakh HSC students expected to retake failed subjects from Dec 1]]></description>
-            <link>https://www.thedailystar.net/news/education/news/medical-dental-entrance-exams-likely-dec-18-shutting-out-hsc-retake-candidates-4317776</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/medical-dental-entrance-exams-likely-dec-18-shutting-out-hsc-retake-candidates-4317776</guid>
             <pubDate>Sat, 07 Nov 2026 16:13:57 GMT</pubDate>
         </item>
         <item>
@@ -3053,50 +3097,6 @@
             <title><![CDATA[Why your constant scrolling is quietly destroying your closest personal relationships]]></title>
             <link>https://www.thedailystar.net/life-living/relationships-family/news/why-your-constant-scrolling-quietly-destroying-your-closest-personal-relationships-4304896</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/relationships-family/news/why-your-constant-scrolling-quietly-destroying-your-closest-personal-relationships-4304896</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Horoscope: What the stars have in store for every sign]]></title>
-            <link>https://www.thedailystar.net/life-living/news/weekly-horoscope-what-the-stars-have-store-every-sign-4305111</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/weekly-horoscope-what-the-stars-have-store-every-sign-4305111</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hands-on review /  Xiaomi Redmi Note 17 Pro Max: Exceptional battery life, but not without compromises]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/xiaomi-redmi-note-17-pro-max-exceptional-battery-life-not-without-compromises-4304936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/xiaomi-redmi-note-17-pro-max-exceptional-battery-life-not-without-compromises-4304936</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explainer / How two PHP flaws brought down websites around the world]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/how-two-php-flaws-brought-down-websites-around-the-world-4304876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/how-two-php-flaws-brought-down-websites-around-the-world-4304876</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The salt of desire: Reading Jibanananda Das's In Camp]]></title>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/the-salt-desire-reading-jibanananda-dass-camp-4304246</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-salt-desire-reading-jibanananda-dass-camp-4304246</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jibanananda’s tragic death and the forgotten history of road accidents in Bengal]]></title>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/jibananandas-tragic-death-and-the-forgotten-history-road-accidents-bengal-4304231</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/jibananandas-tragic-death-and-the-forgotten-history-road-accidents-bengal-4304231</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Saudi Arabia to Bangladesh: The far-reaching costs of Middle Eastern instability]]></title>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/saudi-arabia-bangladesh-the-far-reaching-costs-middle-eastern-instability-4304301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/saudi-arabia-bangladesh-the-far-reaching-costs-middle-eastern-instability-4304301</guid>
-            <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beyond the remittance economy: How Gulf migration reshaped power, religion and gender in Bangladesh]]></title>
-            <description><![CDATA[By Lubna Ferdowsi]]></description>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/beyond-the-remittance-economy-how-gulf-migration-reshaped-power-religion-and-gender-bangladesh-4304346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/beyond-the-remittance-economy-how-gulf-migration-reshaped-power-religion-and-gender-bangladesh-4304346</guid>
-            <dc:creator><![CDATA[Lubna Ferdowsi]]></dc:creator>
             <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
