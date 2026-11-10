@@ -4,21 +4,106 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Nov 2026 00:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 08:10:10 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Nov 2026 00:03:43 GMT</pubDate>
+        <pubDate>Tue, 10 Nov 2026 08:10:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.11.10)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20261110-4319776</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261110-4319776</guid>
-            <pubDate>Tue, 10 Nov 2026 00:03:43 GMT</pubDate>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Social Issues / Welcome to Khulna’s animal hotel for dogs and foxes]]></title>
-            <link>https://www.thedailystar.net/life-living/news/welcome-khulnas-animal-hotel-dogs-and-foxes-4319301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/welcome-khulnas-animal-hotel-dogs-and-foxes-4319301</guid>
-            <pubDate>Tue, 10 Nov 2026 00:03:43 GMT</pubDate>
+            <title><![CDATA[Foreign debt triples in a decade: How vulnerable is Bangladesh's economy?]]></title>
+            <description><![CDATA[.]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news/foreign-debt-triples-decade-how-vulnerable-bangladeshs-economy-4319901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/foreign-debt-triples-decade-how-vulnerable-bangladeshs-economy-4319901</guid>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to save from your salary]]></title>
+            <description><![CDATA[.]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news/how-save-your-salary-4319896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/how-save-your-salary-4319896</guid>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Before GTA VI, there was San Andreas]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/gta-vi-there-was-san-andreas-4320006</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/gta-vi-there-was-san-andreas-4320006</guid>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic releases upgraded Fable and Mythos models]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/anthropic-releases-upgraded-fable-and-mythos-models-4319991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/anthropic-releases-upgraded-fable-and-mythos-models-4319991</guid>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland suspends cricket ties with Afghanistan outside ICC events]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/scotland-suspends-cricket-ties-afghanistan-outside-icc-events-4319946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/scotland-suspends-cricket-ties-afghanistan-outside-icc-events-4319946</guid>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Society needs to talk about criminals, not victims’: Prova breaks silence]]></title>
+            <link>https://www.thedailystar.net/culture/tv-film/news/society-needs-talk-about-criminals-not-victims-prova-breaks-silence-4319951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/society-needs-talk-about-criminals-not-victims-prova-breaks-silence-4319951</guid>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The danger of defining young lives by exam results]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/the-danger-defining-young-lives-exam-results-4319601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-danger-defining-young-lives-exam-results-4319601</guid>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh needs a sustainable debt management policy]]></title>
+            <description><![CDATA[By Fahmida Khatun]]></description>
+            <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-sustainable-debt-management-policy-4319606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/bangladesh-needs-sustainable-debt-management-policy-4319606</guid>
+            <dc:creator><![CDATA[Fahmida Khatun]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New e-rickshaw rules were long overdue, but they leave critical safety gaps]]></title>
+            <description><![CDATA[By Dhrubo Alam]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/new-e-rickshaw-rules-were-long-overdue-they-leave-critical-safety-gaps-4319551</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/new-e-rickshaw-rules-were-long-overdue-they-leave-critical-safety-gaps-4319551</guid>
+            <dc:creator><![CDATA[Dhrubo Alam]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carmichael College at 110: A legacy of learning and history in the north]]></title>
+            <link>https://www.thedailystar.net/news/news/carmichael-college-110-legacy-learning-and-history-the-north-4319936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/carmichael-college-110-legacy-learning-and-history-the-north-4319936</guid>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Driver killed as miscreants set parked bus on fire in Faridpur]]></title>
+            <link>https://www.thedailystar.net/news/accidents-and-fires/news/driver-killed-miscreants-set-parked-bus-fire-faridpur-4319881</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/driver-killed-miscreants-set-parked-bus-fire-faridpur-4319881</guid>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[63 students hospitalised as fire breaks out at madrasa in Narayanganj]]></title>
+            <link>https://www.thedailystar.net/news/accidents-and-fires/news/63-students-hospitalised-fire-breaks-out-madrasa-narayanganj-4319856</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/accidents-and-fires/news/63-students-hospitalised-fire-breaks-out-madrasa-narayanganj-4319856</guid>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arson attacks, crude bomb blasts reported across country]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/arson-attacks-crude-bomb-blasts-reported-across-country-4319981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/arson-attacks-crude-bomb-blasts-reported-across-country-4319981</guid>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explainer / Is your aluminium pot safe? How to reduce lead exposure]]></title>
+            <description><![CDATA[Experts call for testing at factories, tighter licensing and awareness to curb lead in cookware]]></description>
+            <link>https://www.thedailystar.net/news/news/your-aluminium-pot-safe-how-reduce-lead-exposure-4320011</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/your-aluminium-pot-safe-how-reduce-lead-exposure-4320011</guid>
+            <pubDate>Tue, 10 Nov 2026 08:10:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Events / Beyond the cage: KHAR’s mission to make MMA accessible across Bangladesh]]></title>
@@ -45,34 +130,9 @@
             <pubDate>Tue, 10 Nov 2026 00:03:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scandalising the supply chain / The troubled history of Bangladesh’s garment industry]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-troubled-history-bangladeshs-garment-industry-4319336</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-troubled-history-bangladeshs-garment-industry-4319336</guid>
-            <pubDate>Tue, 10 Nov 2026 00:03:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inflation edges down, but living costs remain high]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/inflation-edges-down-living-costs-remain-high-4319546</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/inflation-edges-down-living-costs-remain-high-4319546</guid>
-            <pubDate>Tue, 10 Nov 2026 00:03:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Overseas medical payment limit raised to $30,000]]></title>
             <link>https://www.thedailystar.net/business/economy/news/overseas-medical-payment-limit-raised-30000-4319526</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/overseas-medical-payment-limit-raised-30000-4319526</guid>
-            <pubDate>Tue, 10 Nov 2026 00:03:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Banks back away from Standard Chartered Bangladesh retail business sale]]></title>
-            <description><![CDATA[Weak private-sector credit growth and the cost of taking on 1,500 employees deter buyers, with City Bank the only lender to sign an NDA]]></description>
-            <link>https://www.thedailystar.net/business/economy/news/banks-back-away-standard-chartered-bangladesh-retail-business-sale-4319556</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/banks-back-away-standard-chartered-bangladesh-retail-business-sale-4319556</guid>
-            <pubDate>Tue, 10 Nov 2026 00:03:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Bangladesh become the next big global tourism player?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/can-bangladesh-become-the-next-big-global-tourism-player-4319411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/can-bangladesh-become-the-next-big-global-tourism-player-4319411</guid>
             <pubDate>Tue, 10 Nov 2026 00:03:43 GMT</pubDate>
         </item>
         <item>
@@ -146,6 +206,40 @@
             <pubDate>Mon, 09 Nov 2026 05:47:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Social Issues / Welcome to Khulna’s animal hotel for dogs and foxes]]></title>
+            <link>https://www.thedailystar.net/life-living/news/welcome-khulnas-animal-hotel-dogs-and-foxes-4319301</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/welcome-khulnas-animal-hotel-dogs-and-foxes-4319301</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scandalising the supply chain / The troubled history of Bangladesh’s garment industry]]></title>
+            <description><![CDATA[By Dina M. Siddiqi]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-troubled-history-bangladeshs-garment-industry-4319336</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-troubled-history-bangladeshs-garment-industry-4319336</guid>
+            <dc:creator><![CDATA[Dina M. Siddiqi]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inflation edges down, but living costs remain high]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/inflation-edges-down-living-costs-remain-high-4319546</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/inflation-edges-down-living-costs-remain-high-4319546</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Banks back away from Standard Chartered Bangladesh retail business sale]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/banks-back-away-standard-chartered-bangladesh-retail-business-sale-4319556</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/banks-back-away-standard-chartered-bangladesh-retail-business-sale-4319556</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Bangladesh become the next big global tourism player?]]></title>
+            <description><![CDATA[By Se-Woong Koo]]></description>
+            <link>https://www.thedailystar.net/slow-reads/wisdom/news/can-bangladesh-become-the-next-big-global-tourism-player-4319411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/can-bangladesh-become-the-next-big-global-tourism-player-4319411</guid>
+            <dc:creator><![CDATA[Se-Woong Koo]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hasina seeks new passport]]></title>
             <link>https://www.thedailystar.net/news/news/hasina-seeks-new-passport-clearest-sign-bangladesh-return-4318931</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/news/hasina-seeks-new-passport-clearest-sign-bangladesh-return-4318931</guid>
@@ -185,6 +279,36 @@
             <title><![CDATA[AI boom sparks scramble for second-hand gas turbines: report]]></title>
             <link>https://www.thedailystar.net/news/technology/news/ai-boom-sparks-scramble-second-hand-gas-turbines-report-4319061</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/ai-boom-sparks-scramble-second-hand-gas-turbines-report-4319061</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt forms task force to boost leather exports]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/govt-forms-task-force-boost-leather-exports-4319461</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/govt-forms-task-force-boost-leather-exports-4319461</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sonia Gandhi's memoir is making political waves. Can Congress capitalise?]]></title>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/sonia-gandhis-memoir-making-political-waves-can-congress-capitalise-4319416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/sonia-gandhis-memoir-making-political-waves-can-congress-capitalise-4319416</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Third-gender student breaks barriers to become BOU's first master's graduate from the community]]></title>
+            <link>https://www.thedailystar.net/news/news/third-gender-student-breaks-barriers-become-bous-first-masters-graduate-the-community-4318986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/third-gender-student-breaks-barriers-become-bous-first-masters-graduate-the-community-4318986</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sports / Masinu Marma and the fight to make women's wrestling count]]></title>
+            <link>https://www.thedailystar.net/life-living/news/masinu-marma-and-the-fight-make-womens-wrestling-count-4319331</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/masinu-marma-and-the-fight-make-womens-wrestling-count-4319331</guid>
+            <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladeshi developer recreates pen fight as an online game]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/bangladeshi-developer-recreates-pen-fight-online-game-4319066</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/bangladeshi-developer-recreates-pen-fight-online-game-4319066</guid>
             <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2988,123 +3112,6 @@
             <link>https://www.thedailystar.net/business/economy/news/japan-eyes-bangladesh-place-make-cars-4306476</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/japan-eyes-bangladesh-place-make-cars-4306476</guid>
             <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Right tree, right place, right care / The real test of Bangladesh's 25 crore tree pledge]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-real-test-bangladeshs-25-crore-tree-pledge-4306586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-real-test-bangladeshs-25-crore-tree-pledge-4306586</guid>
-            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stranded at home, migrants fear losing Saudi jobs]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/stranded-home-migrants-fear-losing-saudi-jobs-4306746</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/stranded-home-migrants-fear-losing-saudi-jobs-4306746</guid>
-            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspective / The fascinating science behind why we love horror stories]]></title>
-            <link>https://www.thedailystar.net/life-living/news/the-fascinating-science-behind-why-we-love-horror-stories-4307051</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/the-fascinating-science-behind-why-we-love-horror-stories-4307051</guid>
-            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xbox’s first COO leaves after three months: report]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/xboxs-first-coo-leaves-after-three-months-report-4306961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/xboxs-first-coo-leaves-after-three-months-report-4306961</guid>
-            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feedback’s 50: Bangladesh to witness legendary band’s grand celebration]]></title>
-            <link>https://www.thedailystar.net/culture/music/news/feedbacks-50-bangladesh-witness-legendary-bands-grand-celebration-4306366</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/music/news/feedbacks-50-bangladesh-witness-legendary-bands-grand-celebration-4306366</guid>
-            <pubDate>Sat, 24 Oct 2026 22:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arsenal sink Everton to join Man City at Premier League summit]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/arsenal-sink-everton-join-man-city-premier-league-summit-4306471</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/arsenal-sink-everton-join-man-city-premier-league-summit-4306471</guid>
-            <pubDate>Sat, 24 Oct 2026 22:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt must stand by citizens in foreign jails]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/govt-must-stand-citizens-foreign-jails-4306376</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/govt-must-stand-citizens-foreign-jails-4306376</guid>
-            <pubDate>Sat, 24 Oct 2026 22:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From alliance to rivalry, where do BNP and Jamaat go from here?]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/alliance-rivalry-where-do-bnp-and-jamaat-go-here-4305926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/alliance-rivalry-where-do-bnp-and-jamaat-go-here-4305926</guid>
-            <pubDate>Sat, 24 Oct 2026 22:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home minister busy with every ministry but his own: Shafiqur]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/home-minister-busy-every-ministry-his-own-shafiqur-4306416</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/home-minister-busy-every-ministry-his-own-shafiqur-4306416</guid>
-            <pubDate>Sat, 24 Oct 2026 22:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HSC, equivalent results on Oct 29]]></title>
-            <description><![CDATA[Further details about the publication of the results would be announced through a press release on October 26]]></description>
-            <link>https://www.thedailystar.net/news/education/news/hsc-equivalent-results-oct-29-4306566</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/hsc-equivalent-results-oct-29-4306566</guid>
-            <pubDate>Sat, 24 Oct 2026 22:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Of public spectacles and hidden crime masters]]></title>
-            <link>https://www.thedailystar.net/opinion/views/blowin-the-wind/news/public-spectacles-and-hidden-crime-masters-4305911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/blowin-the-wind/news/public-spectacles-and-hidden-crime-masters-4305911</guid>
-            <pubDate>Sat, 24 Oct 2026 16:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK court freezes £15m London apartment of ex-land minister’s brother]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/corruption/news/uk-court-freezes-ps15m-london-apartment-ex-land-ministers-brother-4306216</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/corruption/news/uk-court-freezes-ps15m-london-apartment-ex-land-ministers-brother-4306216</guid>
-            <pubDate>Sat, 24 Oct 2026 16:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gunshots fired at singer Asif Akbar’s car]]></title>
-            <link>https://www.thedailystar.net/news/crime-justice/news/gunshots-fired-singer-asif-akbars-car-4306176</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/gunshots-fired-singer-asif-akbars-car-4306176</guid>
-            <pubDate>Sat, 24 Oct 2026 16:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From National Award to indie recognition: Sunerah does it all]]></title>
-            <link>https://www.thedailystar.net/culture/tv-film/news/national-award-indie-recognition-sunerah-does-it-all-4304981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/tv-film/news/national-award-indie-recognition-sunerah-does-it-all-4304981</guid>
-            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Late India charge seals thrilling second T20 win over New Zealand]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/late-india-charge-seals-thrilling-second-t20-win-over-new-zealand-4306346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/late-india-charge-seals-thrilling-second-t20-win-over-new-zealand-4306346</guid>
-            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Khulna to Antalya / What Bangladesh needs from COP31]]></title>
-            <description><![CDATA[By Asad Islam]]></description>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/what-bangladesh-needs-cop31-4305796</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/what-bangladesh-needs-cop31-4305796</guid>
-            <dc:creator><![CDATA[Asad Islam]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keeping envoy in Dhaka during PM’s Japan visit an internal matter of foreign ministry: Shama Obaed]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/keeping-envoy-dhaka-during-pms-japan-visit-internal-matter-foreign-ministry-shama-obaed-4306301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/keeping-envoy-dhaka-during-pms-japan-visit-internal-matter-foreign-ministry-shama-obaed-4306301</guid>
-            <pubDate>Sat, 24 Oct 2026 12:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Goals, trophies and PR: Ballon d’Or’s evolution]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/goals-trophies-and-pr-ballon-dors-evolution-4305811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/goals-trophies-and-pr-ballon-dors-evolution-4305811</guid>
-            <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seven qawmi-based parties: Jamaat suspects govt hand in Hefazat’s unity bid]]></title>
-            <link>https://www.thedailystar.net/news/politics/political-parties/news/seven-qawmi-based-parties-jamaat-suspects-govt-hand-hefazats-unity-bid-4306001</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/political-parties/news/seven-qawmi-based-parties-jamaat-suspects-govt-hand-hefazats-unity-bid-4306001</guid>
-            <pubDate>Sat, 24 Oct 2026 07:06:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
