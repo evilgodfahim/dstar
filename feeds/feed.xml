@@ -4,21 +4,80 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Nov 2026 01:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 09:35:38 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Nov 2026 01:25:03 GMT</pubDate>
+        <pubDate>Thu, 12 Nov 2026 09:35:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Today's Gallery (2026.11.12)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261112-4321611</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261112-4321611</guid>
-            <pubDate>Thu, 12 Nov 2026 01:25:03 GMT</pubDate>
+            <title><![CDATA[Saad ruled out of SAFF Championship as Bangladesh’s defensive crisis deepens]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/saad-ruled-out-saff-championship-bangladeshs-defensive-crisis-deepens-4321861</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/saad-ruled-out-saff-championship-bangladeshs-defensive-crisis-deepens-4321861</guid>
+            <pubDate>Thu, 12 Nov 2026 09:35:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Asia takes 70% of trained workers sent abroad]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/asia-takes-70-trained-workers-sent-abroad-4321461</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/asia-takes-70-trained-workers-sent-abroad-4321461</guid>
-            <pubDate>Thu, 12 Nov 2026 01:25:03 GMT</pubDate>
+            <title><![CDATA[Jaya Ahsan to star in Arjunn Dutta's new film 'RSVP Murder']]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/jaya-ahsan-star-arjunn-duttas-new-film-rsvp-murder-4321871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/jaya-ahsan-star-arjunn-duttas-new-film-rsvp-murder-4321871</guid>
+            <pubDate>Thu, 12 Nov 2026 09:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Draft cyber law revisions could still be a tool for silencing dissent]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/draft-cyber-law-revisions-could-still-be-tool-silencing-dissent-4321386</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/draft-cyber-law-revisions-could-still-be-tool-silencing-dissent-4321386</guid>
+            <pubDate>Thu, 12 Nov 2026 09:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RMG owners threaten to shut factories under Labour Act]]></title>
+            <link>https://www.thedailystar.net/business/news/rmg-owners-threaten-shut-factories-under-labour-act-4321876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/rmg-owners-threaten-shut-factories-under-labour-act-4321876</guid>
+            <pubDate>Thu, 12 Nov 2026 09:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is holding back the health sector’s development spending?]]></title>
+            <description><![CDATA[By Rumana Huque]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/what-holding-back-the-health-sectors-development-spending-4321416</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-holding-back-the-health-sectors-development-spending-4321416</guid>
+            <dc:creator><![CDATA[Rumana Huque]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 09:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Education / Should you take engineering and IBA preparation at the same time?]]></title>
+            <link>https://www.thedailystar.net/youth/campus-life/news/should-you-take-engineering-and-iba-preparation-the-same-time-4320981</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/youth/campus-life/news/should-you-take-engineering-and-iba-preparation-the-same-time-4320981</guid>
+            <pubDate>Thu, 12 Nov 2026 09:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Dhaka doesn’t want Hasina back]]></title>
+            <description><![CDATA[By David Bergman]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/why-dhaka-doesnt-want-hasina-back-4321406</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/why-dhaka-doesnt-want-hasina-back-4321406</guid>
+            <dc:creator><![CDATA[David Bergman]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 09:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Garment workers to get rice at Tk 30 a kg under special OMS]]></title>
+            <link>https://www.thedailystar.net/business/news/garment-workers-get-rice-tk-30-kg-under-special-oms-4321781</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/garment-workers-get-rice-tk-30-kg-under-special-oms-4321781</guid>
+            <pubDate>Thu, 12 Nov 2026 09:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nvidia board to decide if Jensen Huang stays or goes]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/nvidia-board-decide-if-jensen-huang-stays-or-goes-4321796</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/nvidia-board-decide-if-jensen-huang-stays-or-goes-4321796</guid>
+            <pubDate>Thu, 12 Nov 2026 09:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India simplifies visa rules; 70% less paperwork]]></title>
+            <link>https://www.thedailystar.net/news/world/india/news/india-simplifies-visa-rules-70-less-paperwork-4321886</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/india/news/india-simplifies-visa-rules-70-less-paperwork-4321886</guid>
+            <pubDate>Thu, 12 Nov 2026 09:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM outlines five actions to address needs of climate-vulnerable countries]]></title>
+            <description><![CDATA[Calls for meaningful outcome from COP31; says vulnerable nations need grants, not more loans]]></description>
+            <link>https://www.thedailystar.net/news/news/pm-outlines-five-actions-address-needs-climate-vulnerable-countries-4321931</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/pm-outlines-five-actions-address-needs-climate-vulnerable-countries-4321931</guid>
+            <pubDate>Thu, 12 Nov 2026 09:35:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[South Africa captain Bavuma wary of Bangladesh’s ‘fast bowling resource’]]></title>
@@ -51,25 +110,6 @@
             <pubDate>Thu, 12 Nov 2026 01:25:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can Bangladesh use the three-year window at COP31?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-use-the-three-year-window-cop31-4321251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-use-the-three-year-window-cop31-4321251</guid>
-            <pubDate>Thu, 12 Nov 2026 01:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fact check / Fake AI ‘officers’ promising Sheikh Hasina’s December return rack up 11.8m Facebook views]]></title>
-            <link>https://www.thedailystar.net/fact-check/news/fake-ai-officers-promising-sheikh-hasinas-december-return-rack-118m-facebook-views-4321581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/fact-check/news/fake-ai-officers-promising-sheikh-hasinas-december-return-rack-118m-facebook-views-4321581</guid>
-            <pubDate>Thu, 12 Nov 2026 01:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How identity politics is redrawing the India–Bangladesh borderlands]]></title>
-            <description><![CDATA[Identity politics along the India–Bangladesh border increasingly challenges citizenship, belonging and the shared histories of border communities.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/how-identity-politics-redrawing-the-india-bangladesh-borderlands-4321271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/how-identity-politics-redrawing-the-india-bangladesh-borderlands-4321271</guid>
-            <pubDate>Thu, 12 Nov 2026 01:25:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Madrasa teacher sentenced to death for raping 11-year-old in Netrokona]]></title>
             <link>https://www.thedailystar.net/news/crime-justice/news/madrasa-teacher-sentenced-death-raping-11-year-old-netrokona-4320951</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/madrasa-teacher-sentenced-death-raping-11-year-old-netrokona-4320951</guid>
@@ -80,12 +120,6 @@
             <link>https://www.thedailystar.net/news/crime-justice/news/4-home-ministry-police-officials-visit-netherlands-dog-selection-and-evaluation-4321236</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/4-home-ministry-police-officials-visit-netherlands-dog-selection-and-evaluation-4321236</guid>
             <pubDate>Wed, 11 Nov 2026 18:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[University students use AI to address problems close to home]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/university-students-use-ai-address-problems-close-home-4320971</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/university-students-use-ai-address-problems-close-home-4320971</guid>
-            <pubDate>Wed, 11 Nov 2026 10:36:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BFDC plans film festival honouring Gazi Mazharul Anwar]]></title>
@@ -169,6 +203,46 @@
             <pubDate>Wed, 11 Nov 2026 02:39:43 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.11.12)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261112-4321611</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261112-4321611</guid>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asia takes 70% of trained workers sent abroad]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/asia-takes-70-trained-workers-sent-abroad-4321461</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/asia-takes-70-trained-workers-sent-abroad-4321461</guid>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Bangladesh use the three-year window at COP31?]]></title>
+            <description><![CDATA[By Subail Bin Alam]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-use-the-three-year-window-cop31-4321251</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-use-the-three-year-window-cop31-4321251</guid>
+            <dc:creator><![CDATA[Subail Bin Alam]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fact check / Fake AI ‘officers’ promising Sheikh Hasina’s December return rack up 11.8m Facebook views]]></title>
+            <link>https://www.thedailystar.net/fact-check/news/fake-ai-officers-promising-sheikh-hasinas-december-return-rack-118m-facebook-views-4321581</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/fact-check/news/fake-ai-officers-promising-sheikh-hasinas-december-return-rack-118m-facebook-views-4321581</guid>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How identity politics is redrawing the India–Bangladesh borderlands]]></title>
+            <description><![CDATA[By Anas Ansar]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/how-identity-politics-redrawing-the-india-bangladesh-borderlands-4321271</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/how-identity-politics-redrawing-the-india-bangladesh-borderlands-4321271</guid>
+            <dc:creator><![CDATA[Anas Ansar]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[University students use AI to address problems close to home]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/university-students-use-ai-address-problems-close-home-4320971</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/university-students-use-ai-address-problems-close-home-4320971</guid>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Government plans revival of Jatra, circus traditions]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/government-plans-revival-jatra-circus-traditions-4321141</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/government-plans-revival-jatra-circus-traditions-4321141</guid>
@@ -184,6 +258,12 @@
             <title><![CDATA[Fatullah madrasa fire exposes negligence]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/fatullah-madrasa-fire-exposes-negligence-4321121</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fatullah-madrasa-fire-exposes-negligence-4321121</guid>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Qawmi madrasas: Children exposed to abuse amid lack of safeguards]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/qawmi-madrasas-children-exposed-abuse-amid-lack-safeguards-4321651</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/qawmi-madrasas-children-exposed-abuse-amid-lack-safeguards-4321651</guid>
             <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -305,10 +385,8 @@
         </item>
         <item>
             <title><![CDATA[Bengal’s Age of Reason: What the 19th century can teach us]]></title>
-            <description><![CDATA[By Swaraj Basu]]></description>
             <link>https://www.thedailystar.net/slow-reads/focus/news/bengals-age-reason-what-the-19th-century-can-teach-us-4320246</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/bengals-age-reason-what-the-19th-century-can-teach-us-4320246</guid>
-            <dc:creator><![CDATA[Swaraj Basu]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -325,10 +403,8 @@
         </item>
         <item>
             <title><![CDATA[Can Bangladesh’s minimum wage system enable workers to live with dignity?]]></title>
-            <description><![CDATA[By AKM NasimKhandakar Shafin Habib Shan]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladeshs-minimum-wage-system-enable-workers-live-dignity-4320316</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladeshs-minimum-wage-system-enable-workers-live-dignity-4320316</guid>
-            <dc:creator><![CDATA[AKM NasimKhandakar Shafin Habib Shan]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3036,81 +3112,6 @@
             <link>https://www.thedailystar.net/news/bangladesh/rights/news/no-govt-approval-can-legitimise-extrajudicial-killing-tib-condemns-igps-remarks-4307961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/rights/news/no-govt-approval-can-legitimise-extrajudicial-killing-tib-condemns-igps-remarks-4307961</guid>
             <pubDate>Mon, 26 Oct 2026 23:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lanterns, prayers and tradition illuminate Prabarana Purnima in Bandarban]]></title>
-            <link>https://www.thedailystar.net/culture/news/lanterns-prayers-and-tradition-illuminate-prabarana-purnima-bandarban-4308016</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/news/lanterns-prayers-and-tradition-illuminate-prabarana-purnima-bandarban-4308016</guid>
-            <pubDate>Mon, 26 Oct 2026 23:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tarique, Takaichi bilateral summit today]]></title>
-            <description><![CDATA[PM on 4-day official visit to Japan at the invitation of his Japanese counterpart]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/tarique-takaichi-bilateral-summit-today-4308351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/tarique-takaichi-bilateral-summit-today-4308351</guid>
-            <pubDate>Mon, 26 Oct 2026 23:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka close in on first NCL win as Amite, Rihad, Fazle hit tons]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/dhaka-close-first-ncl-win-amite-rihad-fazle-hit-tons-4307991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/dhaka-close-first-ncl-win-amite-rihad-fazle-hit-tons-4307991</guid>
-            <pubDate>Mon, 26 Oct 2026 19:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt inaction over IGP's ‘crossfire’ remarks would signal approval for extrajudicial killings: Hasnat]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/govt-inaction-over-igps-crossfire-remarks-would-signal-approval-extrajudicial-killings-hasnat-4307941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/govt-inaction-over-igps-crossfire-remarks-would-signal-approval-extrajudicial-killings-hasnat-4307941</guid>
-            <pubDate>Mon, 26 Oct 2026 19:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jamaat slams IGP's 'crossfire' remarks, warns of return to ‘culture of fear’]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/jamaat-slams-igps-crossfire-remarks-warns-return-culture-fear-4307966</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/jamaat-slams-igps-crossfire-remarks-warns-return-culture-fear-4307966</guid>
-            <pubDate>Mon, 26 Oct 2026 19:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lapse of security taints stellar concert: ‘Rock & Rhythm 5.0’ at JFP]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/lapse-security-taints-stellar-concert-rock-rhythm-50-jfp-4307106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/lapse-security-taints-stellar-concert-rock-rhythm-50-jfp-4307106</guid>
-            <pubDate>Mon, 26 Oct 2026 05:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carrick’s tears, United’s turmoil, and a future on the line]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/carricks-tears-uniteds-turmoil-and-future-the-line-4307601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/carricks-tears-uniteds-turmoil-and-future-the-line-4307601</guid>
-            <pubDate>Mon, 26 Oct 2026 05:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japanese firms warming up to Bangladesh]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/japanese-firms-warming-bangladesh-4307316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/japanese-firms-warming-bangladesh-4307316</guid>
-            <pubDate>Mon, 26 Oct 2026 05:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka built flyovers and a metro, but forgot the bus]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/dhaka-built-flyovers-and-metro-forgot-the-bus-4307366</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhaka-built-flyovers-and-metro-forgot-the-bus-4307366</guid>
-            <pubDate>Mon, 26 Oct 2026 05:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A roadmap for closing the skills gap in our logistics sector]]></title>
-            <description><![CDATA[By Ahamedul Karim Chowdhury]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/roadmap-closing-the-skills-gap-our-logistics-sector-4307341</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/roadmap-closing-the-skills-gap-our-logistics-sector-4307341</guid>
-            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
-            <pubDate>Mon, 26 Oct 2026 05:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Country’s only DAP fertiliser plant remains shut for 4 months]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/countrys-only-dap-fertiliser-plant-remains-shut-4-months-4307311</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/countrys-only-dap-fertiliser-plant-remains-shut-4-months-4307311</guid>
-            <pubDate>Mon, 26 Oct 2026 05:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PM reaches Tokyo on four-day official visit]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/pm-reaches-tokyo-four-day-official-visit-4307551</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/pm-reaches-tokyo-four-day-official-visit-4307551</guid>
-            <pubDate>Mon, 26 Oct 2026 05:55:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
