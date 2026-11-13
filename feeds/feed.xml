@@ -4,32 +4,83 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Nov 2026 16:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 22:26:58 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Nov 2026 16:01:46 GMT</pubDate>
+        <pubDate>Fri, 13 Nov 2026 22:26:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA['Cherry on top' as Beardman engineers England's downfall with six scalps on Australia debut]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/cherry-top-beardman-engineers-englands-downfall-six-scalps-australia-debut-4322871</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/cherry-top-beardman-engineers-englands-downfall-six-scalps-australia-debut-4322871</guid>
-            <pubDate>Fri, 13 Nov 2026 16:01:46 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Humayun Ahmed's birth anniversary celebrated in Netrokona, Kendua]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/humayun-ahmeds-birth-anniversary-celebrated-netrokona-kendua-4322941</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/humayun-ahmeds-birth-anniversary-celebrated-netrokona-kendua-4322941</guid>
-            <pubDate>Fri, 13 Nov 2026 16:01:46 GMT</pubDate>
+            <pubDate>Fri, 13 Nov 2026 22:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facing Starc, Hazlewood has prepared us for Proteas pace, says Tigers' batting coach]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/facing-starc-hazlewood-has-prepared-us-proteas-pace-says-tigers-batting-coach-4323026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/facing-starc-hazlewood-has-prepared-us-proteas-pace-says-tigers-batting-coach-4323026</guid>
+            <pubDate>Fri, 13 Nov 2026 22:26:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Union leaders urge RMG workers to return to their workplaces]]></title>
             <link>https://www.thedailystar.net/business/news/union-leaders-urge-rmg-workers-return-their-workplaces-4322901</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/union-leaders-urge-rmg-workers-return-their-workplaces-4322901</guid>
-            <pubDate>Fri, 13 Nov 2026 16:01:46 GMT</pubDate>
+            <pubDate>Fri, 13 Nov 2026 22:26:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Make climate finance fair and accessible]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/make-climate-finance-fair-and-accessible-4322946</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/make-climate-finance-fair-and-accessible-4322946</guid>
+            <pubDate>Fri, 13 Nov 2026 22:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reclaiming religious authority:  What Bangladesh can learn from Indonesia's women ulama movement]]></title>
+            <description><![CDATA[By Adrin Sarwar]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/reclaiming-religious-authority-what-bangladesh-can-learn-indonesias-women-ulama-movement-4323056</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/reclaiming-religious-authority-what-bangladesh-can-learn-indonesias-women-ulama-movement-4323056</guid>
+            <dc:creator><![CDATA[Adrin Sarwar]]></dc:creator>
+            <pubDate>Fri, 13 Nov 2026 22:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Faxes, phones and Bluetooth: Microsoft outage forces businesses to find fixes]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/faxes-phones-and-bluetooth-microsoft-outage-forces-businesses-find-fixes-4322986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/faxes-phones-and-bluetooth-microsoft-outage-forces-businesses-find-fixes-4322986</guid>
+            <pubDate>Fri, 13 Nov 2026 22:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Durbin Bangla attack: Restaurant owner recounts how it all began]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/durbin-bangla-attack-restaurant-owner-recounts-how-it-all-began-4323011</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/durbin-bangla-attack-restaurant-owner-recounts-how-it-all-began-4323011</guid>
+            <pubDate>Fri, 13 Nov 2026 22:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking child rights and parental equality / When a mother has custody but not guardianship]]></title>
+            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/when-mother-has-custody-not-guardianship-4322266</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/when-mother-has-custody-not-guardianship-4322266</guid>
+            <pubDate>Fri, 13 Nov 2026 22:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The COP paradox: Why climate diplomacy is failing to deliver climate justice]]></title>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-cop-paradox-why-climate-diplomacy-failing-deliver-climate-justice-4322326</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-cop-paradox-why-climate-diplomacy-failing-deliver-climate-justice-4322326</guid>
+            <pubDate>Fri, 13 Nov 2026 22:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explainer / The Jensen Huang saga, explained]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/the-jensen-huang-saga-explained-4323051</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/the-jensen-huang-saga-explained-4323051</guid>
+            <pubDate>Fri, 13 Nov 2026 22:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The history of Bengal written in grains of rice]]></title>
+            <description><![CDATA[The history of the Indian subcontinent has largely been told through what its rulers left behind: inscriptions carved in stone, punch-marked coins, royal decrees, and accounts of wars, taxes and temples.]]></description>
+            <link>https://www.thedailystar.net/weekend-read/news/the-history-bengal-written-grains-rice-4323076</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/weekend-read/news/the-history-bengal-written-grains-rice-4323076</guid>
+            <pubDate>Fri, 13 Nov 2026 22:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Cherry on top' as Beardman engineers England's downfall with six scalps on Australia debut]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/cherry-top-beardman-engineers-englands-downfall-six-scalps-australia-debut-4322871</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/cherry-top-beardman-engineers-englands-downfall-six-scalps-australia-debut-4322871</guid>
             <pubDate>Fri, 13 Nov 2026 16:01:46 GMT</pubDate>
         </item>
         <item>
@@ -42,13 +93,6 @@
             <title><![CDATA[Pop Culture / GTA VI is coming. Please abandon all your other plans]]></title>
             <link>https://www.thedailystar.net/culture/news/gta-vi-coming-please-abandon-all-your-other-plans-4322916</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/news/gta-vi-coming-please-abandon-all-your-other-plans-4322916</guid>
-            <pubDate>Fri, 13 Nov 2026 16:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Faxes, phones and Bluetooth: Microsoft outage forces businesses to find fixes]]></title>
-            <description><![CDATA[Analysts warn businesses to invest in backup systems and test their effectiveness]]></description>
-            <link>https://www.thedailystar.net/news/technology/news/faxes-phones-and-bluetooth-microsoft-outage-forces-businesses-find-fixes-4322986</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/faxes-phones-and-bluetooth-microsoft-outage-forces-businesses-find-fixes-4322986</guid>
             <pubDate>Fri, 13 Nov 2026 16:01:46 GMT</pubDate>
         </item>
         <item>
@@ -3070,49 +3114,6 @@
             <link>https://www.thedailystar.net/sports/cricket/news/tigers-spin-dilemma-mirpur-4308966</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/tigers-spin-dilemma-mirpur-4308966</guid>
             <pubDate>Wed, 28 Oct 2026 01:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gas crisis slows machinery imports]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/gas-crisis-slows-machinery-imports-4309151</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/gas-crisis-slows-machinery-imports-4309151</guid>
-            <pubDate>Wed, 28 Oct 2026 01:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UN probe says Bangladeshis among nationals of 29 countries trafficked into Russian army]]></title>
-            <link>https://www.thedailystar.net/news/work-and-migration/news/un-probe-says-bangladeshis-among-nationals-29-countries-trafficked-russian-army-4308896</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/work-and-migration/news/un-probe-says-bangladeshis-among-nationals-29-countries-trafficked-russian-army-4308896</guid>
-            <pubDate>Wed, 28 Oct 2026 01:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indian firm L&T wins up to $1b Dhaka Metro Rail contracts]]></title>
-            <link>https://www.thedailystar.net/business/news/indian-firm-lt-wins-1b-dhaka-metro-rail-contracts-4308926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/indian-firm-lt-wins-1b-dhaka-metro-rail-contracts-4308926</guid>
-            <pubDate>Wed, 28 Oct 2026 01:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Karnaphuli Garden City shuts down as old shopping malls struggle]]></title>
-            <link>https://www.thedailystar.net/business/news/karnaphuli-garden-city-shuts-down-old-shopping-malls-struggle-4308981</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/karnaphuli-garden-city-shuts-down-old-shopping-malls-struggle-4308981</guid>
-            <pubDate>Wed, 28 Oct 2026 01:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israelis shatter turnout records to pass wartime judgment on Netanyahu]]></title>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/israelis-shatter-turnout-records-pass-wartime-judgment-netanyahu-4308986</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/israelis-shatter-turnout-records-pass-wartime-judgment-netanyahu-4308986</guid>
-            <pubDate>Wed, 28 Oct 2026 01:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli exit polls show deadlock in apparent setback for Netanyahu]]></title>
-            <description><![CDATA[Two exit polls give Eisenkot edge, third has blocs tied]]></description>
-            <link>https://www.thedailystar.net/news/world/news/israeli-exit-polls-show-deadlock-apparent-setback-netanyahu-4309451</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/israeli-exit-polls-show-deadlock-apparent-setback-netanyahu-4309451</guid>
-            <pubDate>Wed, 28 Oct 2026 01:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.10.29)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261029-4310341</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261029-4310341</guid>
-            <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
