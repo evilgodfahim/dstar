@@ -4,21 +4,88 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Nov 2026 21:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 03:31:46 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Nov 2026 21:41:52 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 03:31:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Today's Gallery (2026.11.18)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20261118-4326806</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261118-4326806</guid>
-            <pubDate>Tue, 17 Nov 2026 21:41:52 GMT</pubDate>
+            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Revisiting a rare musical partnership between Runa Laila and Sabina Yasmin]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/revisiting-rare-musical-partnership-between-runa-laila-and-sabina-yasmin-4326226</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/revisiting-rare-musical-partnership-between-runa-laila-and-sabina-yasmin-4326226</guid>
-            <pubDate>Tue, 17 Nov 2026 21:41:52 GMT</pubDate>
+            <title><![CDATA[Head, Starc among players released before IPL auction]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/head-starc-among-players-released-ipl-auction-4326901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/head-starc-among-players-released-ipl-auction-4326901</guid>
+            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building a resilient food system is key to our future food security]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/building-resilient-food-system-key-our-future-food-security-4326726</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/building-resilient-food-system-key-our-future-food-security-4326726</guid>
+            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fiscal policy is inconsistent with inflation control]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/fiscal-policy-inconsistent-inflation-control-4326571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/fiscal-policy-inconsistent-inflation-control-4326571</guid>
+            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Shenzhen gambit: Trump, Xi, Putin, and the unsettled global order]]></title>
+            <description><![CDATA[By Faridul Alam]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-shenzhen-gambit-trump-xi-putin-and-the-unsettled-global-order-4326401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-shenzhen-gambit-trump-xi-putin-and-the-unsettled-global-order-4326401</guid>
+            <dc:creator><![CDATA[Faridul Alam]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Curley and Mangalkavya: The historian who found Bengal’s past in its poetry]]></title>
+            <description><![CDATA[By Raziuddin Aquil]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/david-curley-and-mangalkavya-the-historian-who-found-bengals-past-its-poetry-4326311</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/david-curley-and-mangalkavya-the-historian-who-found-bengals-past-its-poetry-4326311</guid>
+            <dc:creator><![CDATA[Raziuddin Aquil]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Bangladesh become a regional pharmaceutical powerhouse?]]></title>
+            <description><![CDATA[By Mukhtar Ahmed]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-become-regional-pharmaceutical-powerhouse-4326381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-become-regional-pharmaceutical-powerhouse-4326381</guid>
+            <dc:creator><![CDATA[Mukhtar Ahmed]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Porwar seeks president’s ‘urgent intervention’ over Gopalganj violence]]></title>
+            <link>https://www.thedailystar.net/news/politics/news/porwar-seeks-presidents-urgent-intervention-over-gopalganj-violence-4326596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/porwar-seeks-presidents-urgent-intervention-over-gopalganj-violence-4326596</guid>
+            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RMG unrest flares]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/rmg-unrest-flares-4326831</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/rmg-unrest-flares-4326831</guid>
+            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chaos in Tungipara once again]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/chaos-tungipara-once-again-4326836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/chaos-tungipara-once-again-4326836</guid>
+            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Atomic power flows into national grid]]></title>
+            <description><![CDATA[Bangladesh took a major step towards joining the league of nuclear power-producing countries yesterday as the first unit of the Rooppur Nuclear Power Plant began feeding electricity into the national grid on a trial basis, nearly nine years after construction began.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/atomic-power-flows-national-grid-4326846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/atomic-power-flows-national-grid-4326846</guid>
+            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ganges treaty Expiring on dec 12: Dhaka still waiting for Delhi to come to the table]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/ganges-treaty-expiring-dec-12-dhaka-still-waiting-delhi-come-the-table-4326771</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/ganges-treaty-expiring-dec-12-dhaka-still-waiting-delhi-come-the-table-4326771</guid>
+            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rooney says he contemplated suicide during playing career]]></title>
@@ -33,20 +100,6 @@
             <pubDate>Tue, 17 Nov 2026 21:41:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[David Curley and Mangalkavya: The historian who found Bengal’s past in its poetry]]></title>
-            <description><![CDATA[By Raziuddin Aquil]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/david-curley-and-mangalkavya-the-historian-who-found-bengals-past-its-poetry-4326311</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/david-curley-and-mangalkavya-the-historian-who-found-bengals-past-its-poetry-4326311</guid>
-            <dc:creator><![CDATA[Raziuddin Aquil]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 21:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Porwar seeks president’s ‘urgent intervention’ over Gopalganj violence]]></title>
-            <link>https://www.thedailystar.net/news/politics/news/porwar-seeks-presidents-urgent-intervention-over-gopalganj-violence-4326596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/porwar-seeks-presidents-urgent-intervention-over-gopalganj-violence-4326596</guid>
-            <pubDate>Tue, 17 Nov 2026 21:41:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jensen Huang says he's open to return as Nvidia CEO]]></title>
             <link>https://www.thedailystar.net/news/technology/news/jensen-huang-says-hes-open-return-nvidia-ceo-4326696</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/jensen-huang-says-hes-open-return-nvidia-ceo-4326696</guid>
@@ -56,25 +109,6 @@
             <title><![CDATA[Shafiqur raises alarm over law and order in Gopalganj]]></title>
             <link>https://www.thedailystar.net/news/politics/news/shafiqur-raises-alarm-over-law-and-order-gopalganj-4326566</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/shafiqur-raises-alarm-over-law-and-order-gopalganj-4326566</guid>
-            <pubDate>Tue, 17 Nov 2026 21:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Shenzhen gambit: Trump, Xi, Putin, and the unsettled global order]]></title>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-shenzhen-gambit-trump-xi-putin-and-the-unsettled-global-order-4326401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-shenzhen-gambit-trump-xi-putin-and-the-unsettled-global-order-4326401</guid>
-            <pubDate>Tue, 17 Nov 2026 21:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Bangladesh become a regional pharmaceutical powerhouse?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-become-regional-pharmaceutical-powerhouse-4326381</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-become-regional-pharmaceutical-powerhouse-4326381</guid>
-            <pubDate>Tue, 17 Nov 2026 21:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gopalganj's Tungipara Police Station set on fire following arrests of Awami League activists]]></title>
-            <description><![CDATA[Party activists allegedly storm station, free detainees; BNP MP’s house set on fire, says UNO]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/gopalganjs-tungipara-police-station-set-fire-following-arrests-awami-league-activists-4326406</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/gopalganjs-tungipara-police-station-set-fire-following-arrests-awami-league-activists-4326406</guid>
             <pubDate>Tue, 17 Nov 2026 21:41:52 GMT</pubDate>
         </item>
         <item>
@@ -175,6 +209,18 @@
             <link>https://www.thedailystar.net/news/bangladesh/news/tractor-carries-piece-history-4325811</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tractor-carries-piece-history-4325811</guid>
             <pubDate>Tue, 17 Nov 2026 03:36:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revisiting a rare musical partnership between Runa Laila and Sabina Yasmin]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/revisiting-rare-musical-partnership-between-runa-laila-and-sabina-yasmin-4326226</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/revisiting-rare-musical-partnership-between-runa-laila-and-sabina-yasmin-4326226</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gopalganj's Tungipara Police Station set on fire following arrests of Awami League activists]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/gopalganjs-tungipara-police-station-set-fire-following-arrests-awami-league-activists-4326406</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/gopalganjs-tungipara-police-station-set-fire-following-arrests-awami-league-activists-4326406</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OpenAI sued by California attorney over AI cyberattacks]]></title>
@@ -3061,51 +3107,6 @@
             <link>https://www.thedailystar.net/opinion/views/news/dhakas-healthcare-infrastructure-healthy-urban-planning-perspective-4312891</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhakas-healthcare-infrastructure-healthy-urban-planning-perspective-4312891</guid>
             <pubDate>Sun, 01 Nov 2026 19:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Garment unrest being instigated from across border, alleges Salahuddin]]></title>
-            <description><![CDATA[PM Tarique Rahman meets ministers over garment unrest, directs steps to protect garment workers’ interests and maintain production and exports]]></description>
-            <link>https://www.thedailystar.net/news/news/garment-unrest-being-instigated-across-border-alleges-salahuddin-4313036</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/garment-unrest-being-instigated-across-border-alleges-salahuddin-4313036</guid>
-            <pubDate>Sun, 01 Nov 2026 19:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sanjoy to perform at SAFF Championship opening ceremony]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/sanjoy-perform-saff-championship-opening-ceremony-4312636</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/sanjoy-perform-saff-championship-opening-ceremony-4312636</guid>
-            <pubDate>Sun, 01 Nov 2026 07:16:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Satire / The Theatre of Daydreams has no exit]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/the-theatre-daydreams-has-no-exit-4312626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/the-theatre-daydreams-has-no-exit-4312626</guid>
-            <pubDate>Sun, 01 Nov 2026 07:16:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to invest in shariah-compliant assets safely]]></title>
-            <link>https://www.thedailystar.net/business/news/how-invest-shariah-compliant-assets-safely-4312581</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/how-invest-shariah-compliant-assets-safely-4312581</guid>
-            <pubDate>Sun, 01 Nov 2026 07:16:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Awami League and Jamaat: Strange turns in the history of political alliances]]></title>
-            <description><![CDATA[By Mohiuddin Ahmad]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/awami-league-and-jamaat-strange-turns-the-history-political-alliances-4312306</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/awami-league-and-jamaat-strange-turns-the-history-political-alliances-4312306</guid>
-            <dc:creator><![CDATA[Mohiuddin Ahmad]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 07:16:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Production halted at three RMG factories in Ashulia over wage demands]]></title>
-            <link>https://www.thedailystar.net/news/news/production-halted-three-rmg-factories-ashulia-over-wage-demands-4312601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/production-halted-three-rmg-factories-ashulia-over-wage-demands-4312601</guid>
-            <pubDate>Sun, 01 Nov 2026 07:16:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt forms new wage board for garment sector]]></title>
-            <link>https://www.thedailystar.net/news/news/govt-forms-new-wage-board-garment-sector-4312611</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/govt-forms-new-wage-board-garment-sector-4312611</guid>
-            <pubDate>Sun, 01 Nov 2026 07:16:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
