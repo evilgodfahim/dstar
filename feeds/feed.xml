@@ -4,15 +4,84 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 03:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 12:53:11 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 03:31:46 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 12:53:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Today's Gallery (2026.11.18)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261118-4326806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261118-4326806</guid>
-            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
+            <title><![CDATA[Nvidia board will not bring back Jensen Huang]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/nvidia-board-will-not-bring-back-jensen-huang-4326986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/nvidia-board-will-not-bring-back-jensen-huang-4326986</guid>
+            <pubDate>Wed, 18 Nov 2026 12:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GTA 6 gets Game of the Year nomination before its release]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/gta-6-gets-game-the-year-nomination-its-release-4327046</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/gta-6-gets-game-the-year-nomination-its-release-4327046</guid>
+            <pubDate>Wed, 18 Nov 2026 12:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Litton sets wicket-keeping world record with eight Test dismissals]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/litton-sets-wicket-keeping-world-record-eight-test-dismissals-4327156</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/litton-sets-wicket-keeping-world-record-eight-test-dismissals-4327156</guid>
+            <pubDate>Wed, 18 Nov 2026 12:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aranyak to celebrate Sukanta’s birth centenary with new play ‘Ekti Moroger Kahini’]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/aranyak-celebrate-sukantas-birth-centenary-new-play-ekti-moroger-kahini-4327231</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/aranyak-celebrate-sukantas-birth-centenary-new-play-ekti-moroger-kahini-4327231</guid>
+            <pubDate>Wed, 18 Nov 2026 12:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In case you have missed]]></title>
+            <link>https://www.thedailystar.net/business/news/case-you-have-missed-4327181</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/case-you-have-missed-4327181</guid>
+            <pubDate>Wed, 18 Nov 2026 12:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bhabadah cannot be dredged dry]]></title>
+            <description><![CDATA[By Ahad Chowdhury]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bhabadah-cannot-be-dredged-dry-4327216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bhabadah-cannot-be-dredged-dry-4327216</guid>
+            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 12:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xi, Putin blast Western 'protectionism', sanctions before meeting Trump at APEC]]></title>
+            <link>https://www.thedailystar.net/news/world/news/xi-putin-blast-western-protectionism-sanctions-meeting-trump-apec-4327021</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/xi-putin-blast-western-protectionism-sanctions-meeting-trump-apec-4327021</guid>
+            <pubDate>Wed, 18 Nov 2026 12:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police vehicle torched as garment workers block Dhaka-Mymensingh highway]]></title>
+            <link>https://www.thedailystar.net/news/news/police-vehicle-torched-garment-workers-block-dhaka-mymensingh-highway-4326951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/police-vehicle-torched-garment-workers-block-dhaka-mymensingh-highway-4326951</guid>
+            <pubDate>Wed, 18 Nov 2026 12:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh Bank decides to put Padma Bank under resolution]]></title>
+            <link>https://www.thedailystar.net/business/news/bangladesh-bank-decides-put-padma-bank-under-resolution-4327191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-bank-decides-put-padma-bank-under-resolution-4327191</guid>
+            <pubDate>Wed, 18 Nov 2026 12:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tungipara at a standstill after night of violence]]></title>
+            <link>https://www.thedailystar.net/news/news/tungipara-standstill-after-night-violence-4327051</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/tungipara-standstill-after-night-violence-4327051</guid>
+            <pubDate>Wed, 18 Nov 2026 12:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Should the state simply remain a mute spectator?’ Jamaat leader Porwar asks]]></title>
+            <description><![CDATA[Accuses govt of facilitating Awami League's rehabilitation amid escalating violence, urges president to intervene to restore law and order]]></description>
+            <link>https://www.thedailystar.net/news/politics/news/should-the-state-simply-remain-mute-spectator-jamaat-leader-porwar-asks-4327256</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/should-the-state-simply-remain-mute-spectator-jamaat-leader-porwar-asks-4327256</guid>
+            <pubDate>Wed, 18 Nov 2026 12:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh’s next growth phase to require deeper financial markets: ADB]]></title>
+            <link>https://www.thedailystar.net/business/news/bangladeshs-next-growth-phase-require-deeper-financial-markets-adb-4327071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladeshs-next-growth-phase-require-deeper-financial-markets-adb-4327071</guid>
+            <pubDate>Wed, 18 Nov 2026 12:53:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Head, Starc among players released before IPL auction]]></title>
@@ -30,14 +99,6 @@
             <title><![CDATA[Fiscal policy is inconsistent with inflation control]]></title>
             <link>https://www.thedailystar.net/business/economy/news/fiscal-policy-inconsistent-inflation-control-4326571</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/fiscal-policy-inconsistent-inflation-control-4326571</guid>
-            <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Shenzhen gambit: Trump, Xi, Putin, and the unsettled global order]]></title>
-            <description><![CDATA[By Faridul Alam]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-shenzhen-gambit-trump-xi-putin-and-the-unsettled-global-order-4326401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-shenzhen-gambit-trump-xi-putin-and-the-unsettled-global-order-4326401</guid>
-            <dc:creator><![CDATA[Faridul Alam]]></dc:creator>
             <pubDate>Wed, 18 Nov 2026 03:31:45 GMT</pubDate>
         </item>
         <item>
@@ -211,6 +272,20 @@
             <pubDate>Tue, 17 Nov 2026 03:36:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.11.18)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261118-4326806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261118-4326806</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Shenzhen gambit: Trump, Xi, Putin, and the unsettled global order]]></title>
+            <description><![CDATA[By Faridul Alam]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-shenzhen-gambit-trump-xi-putin-and-the-unsettled-global-order-4326401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-shenzhen-gambit-trump-xi-putin-and-the-unsettled-global-order-4326401</guid>
+            <dc:creator><![CDATA[Faridul Alam]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Revisiting a rare musical partnership between Runa Laila and Sabina Yasmin]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/revisiting-rare-musical-partnership-between-runa-laila-and-sabina-yasmin-4326226</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/revisiting-rare-musical-partnership-between-runa-laila-and-sabina-yasmin-4326226</guid>
@@ -238,6 +313,28 @@
             <title><![CDATA[Can COP31 restore confidence in global climate cooperation?]]></title>
             <link>https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop31-restore-confidence-global-climate-cooperation-4325661</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/macro-mirror/news/can-cop31-restore-confidence-global-climate-cooperation-4325661</guid>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Bangladesh become a pharmaceutical powerhouse?]]></title>
+            <description><![CDATA[By Mukhtar Ahmed]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-become-pharmaceutical-powerhouse-4326381</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladesh-become-pharmaceutical-powerhouse-4326381</guid>
+            <dc:creator><![CDATA[Mukhtar Ahmed]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When factory machines go quiet, who pays? An investor's perspective]]></title>
+            <description><![CDATA[By Rubana Huq]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/when-factory-machines-go-quiet-who-pays-investors-perspective-4326756</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-factory-machines-go-quiet-who-pays-investors-perspective-4326756</guid>
+            <dc:creator><![CDATA[Rubana Huq]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police resistance to using bodycams is alarming]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/police-resistance-using-bodycams-alarming-4326701</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/police-resistance-using-bodycams-alarming-4326701</guid>
             <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3013,100 +3110,6 @@
             <link>https://www.thedailystar.net/business/economy/news/efficient-fans-could-cut-peak-power-demand-2590mw-4313991</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/efficient-fans-could-cut-peak-power-demand-2590mw-4313991</guid>
             <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Buriganga to the Sundarbans, BNP keeps contradicting its own environmental pledges]]></title>
-            <description><![CDATA[By Kallol Mustafa]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/buriganga-the-sundarbans-bnp-keeps-contradicting-its-own-environmental-pledges-4314021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/buriganga-the-sundarbans-bnp-keeps-contradicting-its-own-environmental-pledges-4314021</guid>
-            <dc:creator><![CDATA[Kallol Mustafa]]></dc:creator>
-            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Money market rates fell in Sept as liquidity eased]]></title>
-            <link>https://www.thedailystar.net/business/news/money-market-rates-fell-sept-liquidity-eased-4313901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/money-market-rates-fell-sept-liquidity-eased-4313901</guid>
-            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Money market rates fell in Sept as liquidity eased]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/money-market-rates-fell-sept-liquidity-eased-4313986</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/money-market-rates-fell-sept-liquidity-eased-4313986</guid>
-            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The battle for American democracy in the 2026 midterms]]></title>
-            <description><![CDATA[By Faridul Alam]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-battle-american-democracy-the-2026-midterms-4313871</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/the-battle-american-democracy-the-2026-midterms-4313871</guid>
-            <dc:creator><![CDATA[Faridul Alam]]></dc:creator>
-            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to effortlessly style shades of blue]]></title>
-            <link>https://www.thedailystar.net/life-living/fashion-beauty/news/how-effortlessly-style-shades-blue-4313786</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/how-effortlessly-style-shades-blue-4313786</guid>
-            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to make an ordinary shirt look extraordinary]]></title>
-            <link>https://www.thedailystar.net/life-living/fashion-beauty/news/how-make-ordinary-shirt-look-extraordinary-4313801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/how-make-ordinary-shirt-look-extraordinary-4313801</guid>
-            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tanvir Mokammel’s ‘Shojon Badiar Ghat’ filming nears completion]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/tanvir-mokammels-shojon-badiar-ghat-filming-nears-completion-4312866</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/tanvir-mokammels-shojon-badiar-ghat-filming-nears-completion-4312866</guid>
-            <pubDate>Sun, 01 Nov 2026 19:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Khulna dominate as Nasum and Meherob shine]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/khulna-dominate-nasum-and-meherob-shine-4313016</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/khulna-dominate-nasum-and-meherob-shine-4313016</guid>
-            <pubDate>Sun, 01 Nov 2026 19:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Oil’s spending caution speaks louder than its profits]]></title>
-            <link>https://www.thedailystar.net/business/global-economy/news/big-oils-spending-caution-speaks-louder-its-profits-4313101</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/global-economy/news/big-oils-spending-caution-speaks-louder-its-profits-4313101</guid>
-            <pubDate>Sun, 01 Nov 2026 19:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poor HSC results are a wake-up call for the education sector]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/poor-hsc-results-are-wake-call-the-education-sector-4312876</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/poor-hsc-results-are-wake-call-the-education-sector-4312876</guid>
-            <pubDate>Sun, 01 Nov 2026 19:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climate change cost Bangladesh $17.5 billion in lost earnings in 2025: Lancet report]]></title>
-            <link>https://www.thedailystar.net/news/environment/climate-crisis/news/climate-change-cost-bangladesh-175-billion-lost-earnings-2025-lancet-report-4312966</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/climate-crisis/news/climate-change-cost-bangladesh-175-billion-lost-earnings-2025-lancet-report-4312966</guid>
-            <pubDate>Sun, 01 Nov 2026 19:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saint Martin’s opens to tourists, but no ships sail on first day]]></title>
-            <link>https://www.thedailystar.net/business/industries/tourism/news/saint-martins-opens-tourists-no-ships-sail-first-day-4312991</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/industries/tourism/news/saint-martins-opens-tourists-no-ships-sail-first-day-4312991</guid>
-            <pubDate>Sun, 01 Nov 2026 19:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gas pressure may drop across Bangladesh from Nov 4 to 7]]></title>
-            <link>https://www.thedailystar.net/news/power-and-energy/news/gas-pressure-may-drop-across-bangladesh-nov-4-7-4312836</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/power-and-energy/news/gas-pressure-may-drop-across-bangladesh-nov-4-7-4312836</guid>
-            <pubDate>Sun, 01 Nov 2026 19:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BGMEA reports disruptions at 529 garment factories amid wage protests]]></title>
-            <link>https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/news/bgmea-reports-disruptions-529-garment-factories-amid-wage-protests-4312936</guid>
-            <pubDate>Sun, 01 Nov 2026 19:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Dhaka’s healthcare infrastructure ‘healthy’? An urban planning perspective]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/dhakas-healthcare-infrastructure-healthy-urban-planning-perspective-4312891</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/dhakas-healthcare-infrastructure-healthy-urban-planning-perspective-4312891</guid>
-            <pubDate>Sun, 01 Nov 2026 19:27:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
