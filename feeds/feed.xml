@@ -4,34 +4,52 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 02:55:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 11:13:52 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Nov 2026 02:55:45 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 11:13:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Today's Gallery (2026.11.20)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261120-4328641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261120-4328641</guid>
-            <pubDate>Fri, 20 Nov 2026 02:55:45 GMT</pubDate>
+            <title><![CDATA[South Africa rest several top stars for Bangladesh white-ball series]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/south-africa-rest-several-top-stars-bangladesh-white-ball-series-4328856</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/south-africa-rest-several-top-stars-bangladesh-white-ball-series-4328856</guid>
+            <pubDate>Fri, 20 Nov 2026 11:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Rupa Biswas’s Bengali disco song found its way to ‘GTA VI’]]></title>
+            <link>https://www.thedailystar.net/culture/music/news/how-rupa-biswass-bengali-disco-song-found-its-way-gta-vi-4328876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/music/news/how-rupa-biswass-bengali-disco-song-found-its-way-gta-vi-4328876</guid>
+            <pubDate>Fri, 20 Nov 2026 11:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI is worsening online child sexual abuse. Are we prepared to respond?]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/ai-worsening-online-child-sexual-abuse-are-we-prepared-respond-4328516</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/ai-worsening-online-child-sexual-abuse-are-we-prepared-respond-4328516</guid>
+            <pubDate>Fri, 20 Nov 2026 11:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Children’s Day / By failing our children, we are failing the future of our society]]></title>
+            <description><![CDATA[By Sifat Afrin Shams]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/failing-our-children-we-are-failing-the-future-our-society-4328506</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/failing-our-children-we-are-failing-the-future-our-society-4328506</guid>
+            <dc:creator><![CDATA[Sifat Afrin Shams]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 11:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No home, no school, no safety net]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/rights/news/no-home-no-school-no-safety-net-4328826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/rights/news/no-home-no-school-no-safety-net-4328826</guid>
+            <pubDate>Fri, 20 Nov 2026 11:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our task is to deliver justice here, UNGA President Khalilur Rahman tells Rohingyas]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/rights/news/our-task-deliver-justice-here-unga-president-khalilur-rahman-tells-rohingyas-4328811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/rights/news/our-task-deliver-justice-here-unga-president-khalilur-rahman-tells-rohingyas-4328811</guid>
+            <pubDate>Fri, 20 Nov 2026 11:13:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[$28.3 million in guaranteed compensation: Messi tops MLS salaries]]></title>
             <link>https://www.thedailystar.net/sports/football/news/283-million-guaranteed-compensation-messi-tops-mls-salaries-4328726</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/283-million-guaranteed-compensation-messi-tops-mls-salaries-4328726</guid>
-            <pubDate>Fri, 20 Nov 2026 02:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh risks low-growth cycle, World Bank warns]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/bangladesh-risks-low-growth-cycle-world-bank-warns-4328511</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bangladesh-risks-low-growth-cycle-world-bank-warns-4328511</guid>
-            <pubDate>Fri, 20 Nov 2026 02:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The forgotten story of how Ekushey inspired language activism in West Pakistan]]></title>
-            <description><![CDATA[By Adrin Sarwar]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/the-forgotten-story-how-ekushey-inspired-language-activism-west-pakistan-4328476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-forgotten-story-how-ekushey-inspired-language-activism-west-pakistan-4328476</guid>
-            <dc:creator><![CDATA[Adrin Sarwar]]></dc:creator>
             <pubDate>Fri, 20 Nov 2026 02:55:45 GMT</pubDate>
         </item>
         <item>
@@ -41,34 +59,9 @@
             <pubDate>Fri, 20 Nov 2026 02:55:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Malaysia job market reopening mired in uncertainty]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/malaysia-job-market-reopening-mired-uncertainty-4328541</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/malaysia-job-market-reopening-mired-uncertainty-4328541</guid>
-            <pubDate>Fri, 20 Nov 2026 02:55:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Normalcy yet to return to RMG hubs]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/normalcy-yet-return-rmg-hubs-4328561</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/normalcy-yet-return-rmg-hubs-4328561</guid>
-            <pubDate>Fri, 20 Nov 2026 02:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Garment maker racks up Tk 169cr debt through LC fraud at Rupali]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/garment-maker-racks-tk-169cr-debt-through-lc-fraud-rupali-4328531</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/garment-maker-racks-tk-169cr-debt-through-lc-fraud-rupali-4328531</guid>
-            <pubDate>Fri, 20 Nov 2026 02:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh Bank allows loan defaulters with court stay orders to access Tk 60,000cr stimulus]]></title>
-            <link>https://www.thedailystar.net/business/news/bangladesh-bank-allows-loan-defaulters-court-stay-orders-access-tk-60000cr-stimulus-4328646</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-bank-allows-loan-defaulters-court-stay-orders-access-tk-60000cr-stimulus-4328646</guid>
-            <pubDate>Fri, 20 Nov 2026 02:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Column by Mahfuz Anam / How we never stop hurting ourselves]]></title>
-            <description><![CDATA[I am quite certain that some understanding about the minimum wage for the garment sector will be reached soon enough.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/how-we-never-stop-hurting-ourselves-4328461</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/how-we-never-stop-hurting-ourselves-4328461</guid>
             <pubDate>Fri, 20 Nov 2026 02:55:45 GMT</pubDate>
         </item>
         <item>
@@ -124,6 +117,51 @@
             <link>https://www.thedailystar.net/news/bangladesh/news/security-stepped-amid-fears-fresh-unrest-4327816</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/security-stepped-amid-fears-fresh-unrest-4327816</guid>
             <pubDate>Thu, 19 Nov 2026 03:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Today's Gallery (2026.11.20)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261120-4328641</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261120-4328641</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh risks low-growth cycle, World Bank warns]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/bangladesh-risks-low-growth-cycle-world-bank-warns-4328511</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bangladesh-risks-low-growth-cycle-world-bank-warns-4328511</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The forgotten story of how Ekushey inspired language activism in West Pakistan]]></title>
+            <description><![CDATA[By Adrin Sarwar]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/the-forgotten-story-how-ekushey-inspired-language-activism-west-pakistan-4328476</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-forgotten-story-how-ekushey-inspired-language-activism-west-pakistan-4328476</guid>
+            <dc:creator><![CDATA[Adrin Sarwar]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malaysia job market reopening mired in uncertainty]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/malaysia-job-market-reopening-mired-uncertainty-4328541</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/malaysia-job-market-reopening-mired-uncertainty-4328541</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Garment maker racks up Tk 169cr debt through LC fraud at Rupali]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/garment-maker-racks-tk-169cr-debt-through-lc-fraud-rupali-4328531</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/garment-maker-racks-tk-169cr-debt-through-lc-fraud-rupali-4328531</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh Bank allows loan defaulters with court stay orders to access Tk 60,000cr stimulus]]></title>
+            <link>https://www.thedailystar.net/business/news/bangladesh-bank-allows-loan-defaulters-court-stay-orders-access-tk-60000cr-stimulus-4328646</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-bank-allows-loan-defaulters-court-stay-orders-access-tk-60000cr-stimulus-4328646</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Column by Mahfuz Anam / How we never stop hurting ourselves]]></title>
+            <description><![CDATA[After decades of being No. 2 in global RMG industry, why do our workers still need to take to the streets?]]></description>
+            <link>https://www.thedailystar.net/opinion/views/the-third-view/news/how-we-never-stop-hurting-ourselves-4328461</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/how-we-never-stop-hurting-ourselves-4328461</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ICJ verdict against Myanmar: What next for the Rohingya and Bangladesh?]]></title>
@@ -3070,42 +3108,6 @@
             <link>https://www.thedailystar.net/slow-reads/focus/news/the-bengali-connection-singapores-multicultural-history-4315641</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/the-bengali-connection-singapores-multicultural-history-4315641</guid>
             <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Press freedom predators’: Trump, Adani Group, Musk among 33 on RSF list]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/rights/news/press-freedom-predators-trump-adani-group-musk-among-33-rsf-list-4314686</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/rights/news/press-freedom-predators-trump-adani-group-musk-among-33-rsf-list-4314686</guid>
-            <pubDate>Tue, 03 Nov 2026 20:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump says US will stop $4 billion in funding to Israel at end of 2026]]></title>
-            <link>https://www.thedailystar.net/news/world/news/trump-says-us-will-stop-4-billion-funding-israel-end-2026-4314706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/trump-says-us-will-stop-4-billion-funding-israel-end-2026-4314706</guid>
-            <pubDate>Tue, 03 Nov 2026 20:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh favourites, but India here to win: Moosa]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/bangladesh-favourites-india-here-win-moosa-4314601</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/bangladesh-favourites-india-here-win-moosa-4314601</guid>
-            <pubDate>Tue, 03 Nov 2026 14:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sponsored Content / Shanta Holdings Commences Development of HELIX – a New Mixed-Use development in North Gulshan]]></title>
-            <link>https://www.thedailystar.net/business/news/shanta-holdings-commences-development-helix-new-mixed-use-development-north-gulshan-4314626</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/shanta-holdings-commences-development-helix-new-mixed-use-development-north-gulshan-4314626</guid>
-            <pubDate>Tue, 03 Nov 2026 14:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Universities must catch up with how AI has changed our classrooms]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/universities-must-catch-how-ai-has-changed-our-classrooms-4314476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/universities-must-catch-how-ai-has-changed-our-classrooms-4314476</guid>
-            <pubDate>Tue, 03 Nov 2026 14:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s demographic window narrowing amid job woes: World Bank]]></title>
-            <link>https://www.thedailystar.net/business/news/bangladeshs-demographic-window-narrowing-amid-job-woes-world-bank-4314271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladeshs-demographic-window-narrowing-amid-job-woes-world-bank-4314271</guid>
-            <pubDate>Tue, 03 Nov 2026 14:57:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
