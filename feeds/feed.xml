@@ -4,26 +4,85 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Nov 2026 02:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 12:27:37 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Nov 2026 02:08:46 GMT</pubDate>
+        <pubDate>Wed, 25 Nov 2026 12:27:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Today's Gallery (2026.11.25)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261125-4332706</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261125-4332706</guid>
-            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
+            <title><![CDATA[BNSS to host two-day Nazrul Utsav 2026 this weekend]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/bnss-host-two-day-nazrul-utsav-2026-weekend-4333011</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/bnss-host-two-day-nazrul-utsav-2026-weekend-4333011</guid>
+            <pubDate>Wed, 25 Nov 2026 12:27:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gyokeres goes from hero to villain as Dortmund hold Arsenal]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/gyokeres-goes-hero-villain-dortmund-hold-arsenal-4332776</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/gyokeres-goes-hero-villain-dortmund-hold-arsenal-4332776</guid>
-            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
+            <title><![CDATA[Olympic Cement to manufacture for Heidelberg Materials]]></title>
+            <link>https://www.thedailystar.net/business/news/olympic-cement-manufacture-heidelberg-materials-4332966</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/olympic-cement-manufacture-heidelberg-materials-4332966</guid>
+            <pubDate>Wed, 25 Nov 2026 12:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Centurion Test, Day 3 / Tigers three down for 109 at lunch]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/robin-tamim-survive-first-hour-4332936</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/robin-tamim-survive-first-hour-4332936</guid>
+            <pubDate>Wed, 25 Nov 2026 12:27:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangladesh must help Rohingya survivors prepare to claim reparations]]></title>
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-help-rohingya-survivors-prepare-claim-reparations-4332486</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-help-rohingya-survivors-prepare-claim-reparations-4332486</guid>
+            <pubDate>Wed, 25 Nov 2026 12:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COP31 failed, but a weak climate deal would have been worse]]></title>
+            <description><![CDATA[By Mizan R Khan]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/cop31-failed-weak-climate-deal-would-have-been-worse-4332536</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/cop31-failed-weak-climate-deal-would-have-been-worse-4332536</guid>
+            <dc:creator><![CDATA[Mizan R Khan]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 12:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As tea union election nears, time to rethink workers' needs and representation]]></title>
+            <description><![CDATA[By Philip GainFahmida Afroze Nadia]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/tea-union-election-nears-time-rethink-workers-needs-and-representation-4332516</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/tea-union-election-nears-time-rethink-workers-needs-and-representation-4332516</guid>
+            <dc:creator><![CDATA[Philip GainFahmida Afroze Nadia]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 12:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Samira Khan Mahi eliminated from Miss Universe 2026 Top 30]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/samira-khan-mahi-eliminated-miss-universe-2026-top-30-4332836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/samira-khan-mahi-eliminated-miss-universe-2026-top-30-4332836</guid>
+            <pubDate>Wed, 25 Nov 2026 12:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / When even public hospitals are beyond the reach of the poor]]></title>
+            <link>https://www.thedailystar.net/health/news/when-even-public-hospitals-are-beyond-the-reach-the-poor-4333001</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/news/when-even-public-hospitals-are-beyond-the-reach-the-poor-4333001</guid>
+            <pubDate>Wed, 25 Nov 2026 12:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say]]></title>
+            <link>https://www.thedailystar.net/business/news/trump-administration-set-unveil-new-tariffs-after-probe-excess-factory-capacity-sources-say-4332901</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/trump-administration-set-unveil-new-tariffs-after-probe-excess-factory-capacity-sources-say-4332901</guid>
+            <pubDate>Wed, 25 Nov 2026 12:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['A stable Rakhine is essential for sound regional trade': PM’s adviser on proposed China-Myanmar-Bangladesh Economic Corridor]]></title>
+            <description><![CDATA[Bangladesh's geographical location offers distinct advantage in Asia's changing economic landscape, he says]]></description>
+            <link>https://www.thedailystar.net/news/world/south-asia/news/stable-rakhine-essential-sound-regional-trade-pms-adviser-proposed-china-myanmar-bangladesh-economic-4333041</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/south-asia/news/stable-rakhine-essential-sound-regional-trade-pms-adviser-proposed-china-myanmar-bangladesh-economic-4333041</guid>
+            <pubDate>Wed, 25 Nov 2026 12:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘What pressure?’: Salahuddin on Hasina’s reported plan to return on December 16]]></title>
+            <link>https://www.thedailystar.net/news/governance/legal-system/news/what-pressure-salahuddin-hasinas-reported-plan-return-december-16-4332976</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/legal-system/news/what-pressure-salahuddin-hasinas-reported-plan-return-december-16-4332976</guid>
+            <pubDate>Wed, 25 Nov 2026 12:27:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gyokeres goes from hero to villain as Dortmund hold Arsenal]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/gyokeres-goes-hero-villain-dortmund-hold-arsenal-4332776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/gyokeres-goes-hero-villain-dortmund-hold-arsenal-4332776</guid>
             <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
         </item>
         <item>
@@ -41,12 +100,6 @@
             <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India, Pakistan and the changing priorities of US foreign policy]]></title>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/india-pakistan-and-the-changing-priorities-us-foreign-policy-4332271</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/india-pakistan-and-the-changing-priorities-us-foreign-policy-4332271</guid>
-            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Analysis / Jensen Huang, Nvidia and the risks that come with ‘boomerang bosses’]]></title>
             <link>https://www.thedailystar.net/news/technology/news/jensen-huang-nvidia-and-the-risks-come-boomerang-bosses-4332321</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/jensen-huang-nvidia-and-the-risks-come-boomerang-bosses-4332321</guid>
@@ -56,12 +109,6 @@
             <title><![CDATA[The poor getting squeezed out of public healthcare facilities]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/the-poor-getting-squeezed-out-public-healthcare-facilities-4332656</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/the-poor-getting-squeezed-out-public-healthcare-facilities-4332656</guid>
-            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Padma Barrage debate: Is Bangladesh repeating India's Farakka mistake?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/padma-barrage-debate-bangladesh-repeating-indias-farakka-mistake-4332261</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/padma-barrage-debate-bangladesh-repeating-indias-farakka-mistake-4332261</guid>
             <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
         </item>
         <item>
@@ -197,6 +244,26 @@
             <pubDate>Tue, 24 Nov 2026 05:50:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.11.25)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261125-4332706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261125-4332706</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India, Pakistan and the changing priorities of US foreign policy]]></title>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/india-pakistan-and-the-changing-priorities-us-foreign-policy-4332271</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/india-pakistan-and-the-changing-priorities-us-foreign-policy-4332271</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Padma Barrage debate: Is Bangladesh repeating India's Farakka mistake?]]></title>
+            <description><![CDATA[By Ahad Chowdhury]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/padma-barrage-debate-bangladesh-repeating-indias-farakka-mistake-4332261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/padma-barrage-debate-bangladesh-repeating-indias-farakka-mistake-4332261</guid>
+            <dc:creator><![CDATA[Ahad Chowdhury]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The man behind countless TV memories: Remembering Sohel Khan]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/the-man-behind-countless-tv-memories-remembering-sohel-khan-4332091</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/the-man-behind-countless-tv-memories-remembering-sohel-khan-4332091</guid>
@@ -220,6 +287,18 @@
             <link>https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-afford-another-cycle-violence-and-repression-4331556</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-cannot-afford-another-cycle-violence-and-repression-4331556</guid>
             <dc:creator><![CDATA[David Bergman]]></dc:creator>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bad loans: Bangladesh’s banking crisis is the  cost of impunity]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/bad-loans-bangladeshs-banking-crisis-the-cost-impunity-4332436</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bad-loans-bangladeshs-banking-crisis-the-cost-impunity-4332436</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zain Eiffel explores the beauty of monochrome at ‘Inkography: A Chromatic Silence’]]></title>
+            <link>https://www.thedailystar.net/culture/theatre-arts/news/zain-eiffel-explores-the-beauty-monochrome-inkography-chromatic-silence-4332111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/theatre-arts/news/zain-eiffel-explores-the-beauty-monochrome-inkography-chromatic-silence-4332111</guid>
             <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -316,18 +395,14 @@
         </item>
         <item>
             <title><![CDATA[Before Plassey: The origins of the East India Company’s land grab in Bengal]]></title>
-            <description><![CDATA[By John Marriott]]></description>
             <link>https://www.thedailystar.net/slow-reads/focus/news/plassey-the-origins-the-east-india-companys-land-grab-bengal-4331351</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/plassey-the-origins-the-east-india-companys-land-grab-bengal-4331351</guid>
-            <dc:creator><![CDATA[John Marriott]]></dc:creator>
             <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China celebrates its scientists. Why doesn't Bangladesh?]]></title>
-            <description><![CDATA[By Subail Bin Alam]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/china-celebrates-its-scientists-why-doesnt-bangladesh-4331361</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/china-celebrates-its-scientists-why-doesnt-bangladesh-4331361</guid>
-            <dc:creator><![CDATA[Subail Bin Alam]]></dc:creator>
             <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -352,6 +427,12 @@
             <title><![CDATA[Science / Potatoes grown in simulated moon soil are safe to eat]]></title>
             <link>https://www.thedailystar.net/news/technology/news/potatoes-grown-simulated-moon-soil-are-safe-eat-4331126</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/potatoes-grown-simulated-moon-soil-are-safe-eat-4331126</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A week in the Land of the Thunder Dragon]]></title>
+            <link>https://www.thedailystar.net/travel-tales/news/week-the-land-the-thunder-dragon-4331676</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/travel-tales/news/week-the-land-the-thunder-dragon-4331676</guid>
             <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3029,91 +3110,6 @@
             <link>https://www.thedailystar.net/news/education/news/universities-must-not-leave-retake-candidates-behind-4318236</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/universities-must-not-leave-retake-candidates-behind-4318236</guid>
             <pubDate>Sun, 08 Nov 2026 14:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samira Khan Mahi crowned Miss Universe Bangladesh 2026]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/samira-khan-mahi-crowned-miss-universe-bangladesh-2026-4318201</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/samira-khan-mahi-crowned-miss-universe-bangladesh-2026-4318201</guid>
-            <pubDate>Sun, 08 Nov 2026 14:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As COP31 Antalya kicks off, can world move beyond big promises?]]></title>
-            <link>https://www.thedailystar.net/news/environment/climate-crisis/news/cop31-antalya-kicks-can-world-move-beyond-big-promises-4318311</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/environment/climate-crisis/news/cop31-antalya-kicks-can-world-move-beyond-big-promises-4318311</guid>
-            <pubDate>Sun, 08 Nov 2026 14:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Students catch 3 men after explosions at Dhaka University]]></title>
-            <description><![CDATA[The suspects were handed over to Shahbagh police]]></description>
-            <link>https://www.thedailystar.net/news/crime-justice/news/students-catch-3-men-after-explosions-dhaka-university-4318446</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/students-catch-3-men-after-explosions-dhaka-university-4318446</guid>
-            <pubDate>Sun, 08 Nov 2026 14:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘ANNiE’ wins award at Geneva International Film Festival]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/annie-wins-award-geneva-international-film-festival-4318256</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/annie-wins-award-geneva-international-film-festival-4318256</guid>
-            <pubDate>Sun, 08 Nov 2026 07:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sylhet Test, Day 4 / Windies building big lead despite losing openers]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/windies-building-big-lead-despite-losing-openers-4318206</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/windies-building-big-lead-despite-losing-openers-4318206</guid>
-            <pubDate>Sun, 08 Nov 2026 07:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Six international trade fairs on construction, energy, water to begin Nov 12]]></title>
-            <link>https://www.thedailystar.net/business/news/six-international-trade-fairs-construction-energy-water-begin-nov-12-4318251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/six-international-trade-fairs-construction-energy-water-begin-nov-12-4318251</guid>
-            <pubDate>Sun, 08 Nov 2026 07:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can we make ship recycling both green and commercially viable?]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/can-we-make-ship-recycling-both-green-and-commercially-viable-4317956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/can-we-make-ship-recycling-both-green-and-commercially-viable-4317956</guid>
-            <pubDate>Sun, 08 Nov 2026 07:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting women into sport is not enough. Keeping them is the real test]]></title>
-            <description><![CDATA[By Shafiq R Bhuiyan]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/getting-women-sport-not-enough-keeping-them-the-real-test-4317946</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/getting-women-sport-not-enough-keeping-them-the-real-test-4317946</guid>
-            <dc:creator><![CDATA[Shafiq R Bhuiyan]]></dc:creator>
-            <pubDate>Sun, 08 Nov 2026 07:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COP31 must put disability inclusion on the climate agenda]]></title>
-            <description><![CDATA[By Vashkar Bhattacharjee]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/cop31-must-put-disability-inclusion-the-climate-agenda-4317951</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/cop31-must-put-disability-inclusion-the-climate-agenda-4317951</guid>
-            <dc:creator><![CDATA[Vashkar Bhattacharjee]]></dc:creator>
-            <pubDate>Sun, 08 Nov 2026 07:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.11.09)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261109-4318856</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261109-4318856</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The political economy of Bangladesh’s energy crisis]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/the-political-economy-bangladeshs-energy-crisis-4318531</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/the-political-economy-bangladeshs-energy-crisis-4318531</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In conversation with David Ludden / Why we need to rethink South Asia’s agrarian history]]></title>
-            <description><![CDATA[By Priyam Paul]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/why-we-need-rethink-south-asias-agrarian-history-4318476</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/why-we-need-rethink-south-asias-agrarian-history-4318476</guid>
-            <dc:creator><![CDATA[Priyam Paul]]></dc:creator>
-            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perspective / How ornaments shape the language of dance]]></title>
-            <link>https://www.thedailystar.net/life-living/news/how-ornaments-shape-the-language-dance-4318331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/how-ornaments-shape-the-language-dance-4318331</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
