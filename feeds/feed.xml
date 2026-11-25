@@ -4,15 +4,78 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Nov 2026 17:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 02:08:46 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Nov 2026 17:23:31 GMT</pubDate>
+        <pubDate>Wed, 25 Nov 2026 02:08:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The man behind countless TV memories: Remembering Sohel Khan]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/the-man-behind-countless-tv-memories-remembering-sohel-khan-4332091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/the-man-behind-countless-tv-memories-remembering-sohel-khan-4332091</guid>
-            <pubDate>Tue, 24 Nov 2026 17:23:31 GMT</pubDate>
+            <title><![CDATA[Today's Gallery (2026.11.25)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261125-4332706</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261125-4332706</guid>
+            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gyokeres goes from hero to villain as Dortmund hold Arsenal]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/gyokeres-goes-hero-villain-dortmund-hold-arsenal-4332776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/gyokeres-goes-hero-villain-dortmund-hold-arsenal-4332776</guid>
+            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh must help Rohingya survivors prepare to claim reparations]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/bangladesh-must-help-rohingya-survivors-prepare-claim-reparations-4332486</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladesh-must-help-rohingya-survivors-prepare-claim-reparations-4332486</guid>
+            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State banks sit on a pile of unlent deposits]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/state-banks-sit-pile-unlent-deposits-4332466</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/state-banks-sit-pile-unlent-deposits-4332466</guid>
+            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crossing Rubicons in Shenzhen / Has the centre of global power shifted to Asia?]]></title>
+            <description><![CDATA[By Imtiaz A Hussain]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/has-the-centre-global-power-shifted-asia-4332291</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/has-the-centre-global-power-shifted-asia-4332291</guid>
+            <dc:creator><![CDATA[Imtiaz A Hussain]]></dc:creator>
+            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India, Pakistan and the changing priorities of US foreign policy]]></title>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/india-pakistan-and-the-changing-priorities-us-foreign-policy-4332271</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/india-pakistan-and-the-changing-priorities-us-foreign-policy-4332271</guid>
+            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis / Jensen Huang, Nvidia and the risks that come with ‘boomerang bosses’]]></title>
+            <link>https://www.thedailystar.net/news/technology/news/jensen-huang-nvidia-and-the-risks-come-boomerang-bosses-4332321</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/jensen-huang-nvidia-and-the-risks-come-boomerang-bosses-4332321</guid>
+            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The poor getting squeezed out of public healthcare facilities]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/the-poor-getting-squeezed-out-public-healthcare-facilities-4332656</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/the-poor-getting-squeezed-out-public-healthcare-facilities-4332656</guid>
+            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Padma Barrage debate: Is Bangladesh repeating India's Farakka mistake?]]></title>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/padma-barrage-debate-bangladesh-repeating-indias-farakka-mistake-4332261</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/padma-barrage-debate-bangladesh-repeating-indias-farakka-mistake-4332261</guid>
+            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The price of being a good woman: Family, sacrifice and power in Bangladesh]]></title>
+            <link>https://www.thedailystar.net/slow-reads/wisdom/news/the-price-being-good-woman-family-sacrifice-and-power-bangladesh-4332236</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/the-price-being-good-woman-family-sacrifice-and-power-bangladesh-4332236</guid>
+            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wage board sets garment workers’ minimum wage at Tk 17,000]]></title>
+            <description><![CDATA[Four members back Tk 17,000 while two vote for workers’ representative’s Tk 18,000 proposal]]></description>
+            <link>https://www.thedailystar.net/business/economy/rmg/news/wage-board-sets-garment-workers-minimum-wage-tk-17000-4332716</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/rmg/news/wage-board-sets-garment-workers-minimum-wage-tk-17000-4332716</guid>
+            <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Senegal regain AFCON title after appeal to sports court]]></title>
@@ -54,19 +117,6 @@
             <title><![CDATA[Incepta launches world's first generic three-month self-injectable contraceptive]]></title>
             <link>https://www.thedailystar.net/business/news/incepta-launches-worlds-first-generic-three-month-self-injectable-contraceptive-4332141</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/incepta-launches-worlds-first-generic-three-month-self-injectable-contraceptive-4332141</guid>
-            <pubDate>Tue, 24 Nov 2026 17:23:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine opens trafficking probe into recruitment of foreigners, including Bangladeshis, into Russian military]]></title>
-            <link>https://www.thedailystar.net/news/work-and-migration/news/ukraine-opens-trafficking-probe-recruitment-foreigners-including-bangladeshis-russian-military-4332241</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/work-and-migration/news/ukraine-opens-trafficking-probe-recruitment-foreigners-including-bangladeshis-russian-military-4332241</guid>
-            <pubDate>Tue, 24 Nov 2026 17:23:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis / Jensen Huang, Nvidia and the risks that come with ‘boomerang bosses’]]></title>
-            <description><![CDATA[Plenty of high-profile business leaders returned to a company after stepping down, with good results. There are also many cases where a returning CEO has actually harmed the performance of the firm.]]></description>
-            <link>https://www.thedailystar.net/news/technology/news/jensen-huang-nvidia-and-the-risks-come-boomerang-bosses-4332321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/jensen-huang-nvidia-and-the-risks-come-boomerang-bosses-4332321</guid>
             <pubDate>Tue, 24 Nov 2026 17:23:31 GMT</pubDate>
         </item>
         <item>
@@ -145,6 +195,18 @@
             <link>https://www.thedailystar.net/news/news/hasina-seeks-return-bangladesh-december-16-state-carrier-reuters-4331841</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/news/hasina-seeks-return-bangladesh-december-16-state-carrier-reuters-4331841</guid>
             <pubDate>Tue, 24 Nov 2026 05:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The man behind countless TV memories: Remembering Sohel Khan]]></title>
+            <link>https://www.thedailystar.net/culture/entertainment/news/the-man-behind-countless-tv-memories-remembering-sohel-khan-4332091</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/the-man-behind-countless-tv-memories-remembering-sohel-khan-4332091</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine opens trafficking probe into recruitment of foreigners, including Bangladeshis, into Russian military]]></title>
+            <link>https://www.thedailystar.net/news/work-and-migration/news/ukraine-opens-trafficking-probe-recruitment-foreigners-including-bangladeshis-russian-military-4332241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/work-and-migration/news/ukraine-opens-trafficking-probe-recruitment-foreigners-including-bangladeshis-russian-military-4332241</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘Light and Shadow’ explores abstract expressions at Gallery Mafa]]></title>
@@ -270,10 +332,8 @@
         </item>
         <item>
             <title><![CDATA[What the Rohingya genocide verdict means for Gaza]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
             <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-the-rohingya-genocide-verdict-means-gaza-4331306</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/what-the-rohingya-genocide-verdict-means-gaza-4331306</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
             <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3054,68 +3114,6 @@
             <link>https://www.thedailystar.net/life-living/news/how-ornaments-shape-the-language-dance-4318331</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/how-ornaments-shape-the-language-dance-4318331</guid>
             <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hobbies / Winter gardening: The best flowers for a colourful garden]]></title>
-            <link>https://www.thedailystar.net/life-living/news/winter-gardening-the-best-flowers-colourful-garden-4318326</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/winter-gardening-the-best-flowers-colourful-garden-4318326</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tesla to wind down Cybertruck production in 2027]]></title>
-            <link>https://www.thedailystar.net/news/technology/news/tesla-wind-down-cybertruck-production-2027-4318296</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/technology/news/tesla-wind-down-cybertruck-production-2027-4318296</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How university life takes a toll on students’ mental health]]></title>
-            <link>https://www.thedailystar.net/life-living/health-fitness/news/how-university-life-takes-toll-students-mental-health-4318356</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/health-fitness/news/how-university-life-takes-toll-students-mental-health-4318356</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[National wage structure: How much will it improve workers’ lives?]]></title>
-            <description><![CDATA[.]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/news/national-wage-structure-how-much-will-it-improve-workers-lives-4318186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/national-wage-structure-how-much-will-it-improve-workers-lives-4318186</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[November 7: Colonel Taher, Ziaur Rahman and the story behind the uprising]]></title>
-            <description><![CDATA[.]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/news/november-7-colonel-taher-ziaur-rahman-and-the-story-behind-the-uprising-4318191</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/november-7-colonel-taher-ziaur-rahman-and-the-story-behind-the-uprising-4318191</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A nation of graduates with few jobs for them]]></title>
-            <link>https://www.thedailystar.net/opinion/views/mind-the-gap/news/nation-graduates-few-jobs-them-4317941</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/mind-the-gap/news/nation-graduates-few-jobs-them-4317941</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh Bank eases LC cash margin for Ramadan essentials]]></title>
-            <link>https://www.thedailystar.net/business/news/bb-eases-lc-cash-margin-ramadan-essentials-4318376</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bb-eases-lc-cash-margin-ramadan-essentials-4318376</guid>
-            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Rivers and Birds’ documents Bangladesh’s ecological diversity]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/rivers-and-birds-documents-bangladeshs-ecological-diversity-4317671</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/rivers-and-birds-documents-bangladeshs-ecological-diversity-4317671</guid>
-            <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hridoy's Houdini act: A knock among Bangladesh’s greatest?]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/hridoys-houdini-act-knock-among-bangladeshs-greatest-4317821</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/hridoys-houdini-act-knock-among-bangladeshs-greatest-4317821</guid>
-            <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Medical, dental entrance exams likely on Dec 18, shutting out HSC retake candidates]]></title>
-            <link>https://www.thedailystar.net/news/education/news/medical-dental-entrance-exams-likely-dec-18-shutting-out-hsc-retake-candidates-4317776</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/education/news/medical-dental-entrance-exams-likely-dec-18-shutting-out-hsc-retake-candidates-4317776</guid>
-            <pubDate>Sat, 07 Nov 2026 20:44:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
