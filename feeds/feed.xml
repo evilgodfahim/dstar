@@ -4,15 +4,52 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Nov 2026 07:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 01:50:07 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Nov 2026 07:51:55 GMT</pubDate>
+        <pubDate>Sat, 28 Nov 2026 01:50:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Today's Gallery (2026.11.27)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261127-4334411</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261127-4334411</guid>
-            <pubDate>Fri, 27 Nov 2026 07:51:55 GMT</pubDate>
+            <title><![CDATA[Today's Gallery (2026.11.28)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261128-4334916</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261128-4334916</guid>
+            <pubDate>Sat, 28 Nov 2026 01:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5th Nazrul Utsav: A festive celebration of the rebel poet’s music and philosophy]]></title>
+            <link>https://www.thedailystar.net/culture/music/news/5th-nazrul-utsav-festive-celebration-the-rebel-poets-music-and-philosophy-4334651</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/music/news/5th-nazrul-utsav-festive-celebration-the-rebel-poets-music-and-philosophy-4334651</guid>
+            <pubDate>Sat, 28 Nov 2026 01:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Musiala out 'until further notice' with hamstring injury]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/musiala-out-until-further-notice-hamstring-injury-4334691</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/musiala-out-until-further-notice-hamstring-injury-4334691</guid>
+            <pubDate>Sat, 28 Nov 2026 01:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RMG work orders shifted from Bangladesh to other countries: BGMEA]]></title>
+            <link>https://www.thedailystar.net/business/economy/rmg/news/rmg-work-orders-shifted-bangladesh-other-countries-bgmea-4334751</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/rmg/news/rmg-work-orders-shifted-bangladesh-other-countries-bgmea-4334751</guid>
+            <pubDate>Sat, 28 Nov 2026 01:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Awami League leaders in Kolkata funding arson, violence: Rizvi]]></title>
+            <link>https://www.thedailystar.net/news/politics/news/awami-league-leaders-kolkata-funding-arson-violence-rizvi-4334606</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/awami-league-leaders-kolkata-funding-arson-violence-rizvi-4334606</guid>
+            <pubDate>Sat, 28 Nov 2026 01:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mistaking him for AL leader, BNP men attack Islamic preacher Nomani’s car in Netrokona]]></title>
+            <link>https://www.thedailystar.net/news/crime-justice/news/mistaking-him-al-leader-bnp-men-attack-islamic-preacher-nomanis-car-netrokona-4334626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/crime-justice/news/mistaking-him-al-leader-bnp-men-attack-islamic-preacher-nomanis-car-netrokona-4334626</guid>
+            <pubDate>Sat, 28 Nov 2026 01:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘We want rehabilitation’: Evicted Mirpur hawkers struggle to make ends meet]]></title>
+            <description><![CDATA[City corporation looking for alternative sites for rehabilitation; human rights activist urges rehabilitation without disrupting pedestrian movement]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/rights/news/we-want-rehabilitation-evicted-mirpur-hawkers-struggle-make-ends-meet-4334661</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/rights/news/we-want-rehabilitation-evicted-mirpur-hawkers-struggle-make-ends-meet-4334661</guid>
+            <pubDate>Sat, 28 Nov 2026 01:50:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Turbulence in the air, chaos in the stands, victory on the pitch for Besiktas]]></title>
@@ -24,12 +61,6 @@
             <title><![CDATA[Sumaiya Shimu returns to cinema after two decades]]></title>
             <link>https://www.thedailystar.net/culture/entertainment/news/sumaiya-shimu-returns-cinema-after-two-decades-4334466</link>
             <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/sumaiya-shimu-returns-cinema-after-two-decades-4334466</guid>
-            <pubDate>Fri, 27 Nov 2026 07:51:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the wage board merely a theatre of negotiation?]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/the-wage-board-merely-theatre-negotiation-4334291</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-wage-board-merely-theatre-negotiation-4334291</guid>
             <pubDate>Fri, 27 Nov 2026 07:51:55 GMT</pubDate>
         </item>
         <item>
@@ -51,6 +82,26 @@
             <link>https://www.thedailystar.net/news/environment/wildlife/news/moulvibazars-islampur-people-and-asian-openbills-have-learned-live-side-side-4334486</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/environment/wildlife/news/moulvibazars-islampur-people-and-asian-openbills-have-learned-live-side-side-4334486</guid>
             <pubDate>Fri, 27 Nov 2026 07:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the wage board merely a theatre of negotiation?]]></title>
+            <description><![CDATA[By Moshahida Sultana Ritu]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-wage-board-merely-theatre-negotiation-4334291</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-wage-board-merely-theatre-negotiation-4334291</guid>
+            <dc:creator><![CDATA[Moshahida Sultana Ritu]]></dc:creator>
+            <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NCP rejects Jamaat's proposal of joint EC dialogue]]></title>
+            <link>https://www.thedailystar.net/news/politics/news/ncp-rejects-jamaats-proposal-joint-ec-dialogue-4334561</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/politics/news/ncp-rejects-jamaats-proposal-joint-ec-dialogue-4334561</guid>
+            <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Target Khulna’s drug kingpins]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/target-khulnas-drug-kingpins-4334571</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/target-khulnas-drug-kingpins-4334571</guid>
+            <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gulshan Club Olympiad opens with call to unite clubs through sport]]></title>
@@ -113,12 +164,6 @@
             <pubDate>Thu, 26 Nov 2026 14:54:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Slow Reads Special / 16 Days of Activism: Against violence, towards equality]]></title>
-            <link>https://www.thedailystar.net/slow-reads/slow-reads-special/news/16-days-activism-against-violence-towards-equality-4333766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/slow-reads-special/news/16-days-activism-against-violence-towards-equality-4333766</guid>
-            <pubDate>Thu, 26 Nov 2026 14:54:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Amid a rebound in megaprojects, the govt must rethink spending and foreign borrowing]]></title>
             <description><![CDATA[By Kallol Mustafa]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/amid-rebound-megaprojects-the-govt-must-rethink-spending-and-foreign-borrowing-4333271</link>
@@ -157,6 +202,18 @@
             <pubDate>Thu, 26 Nov 2026 14:54:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Today's Gallery (2026.11.27)]]></title>
+            <link>https://www.thedailystar.net/todays-gallery-20261127-4334411</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261127-4334411</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slow Reads Special / 16 Days of Activism: Against violence, towards equality]]></title>
+            <link>https://www.thedailystar.net/slow-reads/slow-reads-special/news/16-days-activism-against-violence-towards-equality-4333766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/slow-reads-special/news/16-days-activism-against-violence-towards-equality-4333766</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US tariff clouds Bangladesh garment outlook]]></title>
             <link>https://www.thedailystar.net/business/global-economy/news/us-tariff-clouds-bangladesh-garment-outlook-4334176</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/global-economy/news/us-tariff-clouds-bangladesh-garment-outlook-4334176</guid>
@@ -186,15 +243,12 @@
         </item>
         <item>
             <title><![CDATA[Beyond microcredit: What Bangladesh’s poor really need]]></title>
-            <description><![CDATA[By Khairul Hassan JahinMusrat Hossain Mithila]]></description>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/beyond-microcredit-what-bangladeshs-poor-really-need-4333986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/beyond-microcredit-what-bangladeshs-poor-really-need-4333986</guid>
-            <dc:creator><![CDATA[Khairul Hassan JahinMusrat Hossain Mithila]]></dc:creator>
             <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / PM’s policy is ‘Bangladesh first’, for others it is self-interest first]]></title>
-            <description><![CDATA[We fully endorse the idea of “Bangladesh First”. But don’t turn it into a mere slogan.]]></description>
             <link>https://www.thedailystar.net/opinion/views/the-third-view/news/pms-policy-bangladesh-first-others-it-self-interest-first-4334281</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/the-third-view/news/pms-policy-bangladesh-first-others-it-self-interest-first-4334281</guid>
             <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
@@ -253,14 +307,6 @@
             <title><![CDATA[Women and girls are not getting any safer]]></title>
             <link>https://www.thedailystar.net/opinion/editorial/news/women-and-girls-are-not-getting-any-safer-4333076</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/women-and-girls-are-not-getting-any-safer-4333076</guid>
-            <pubDate>Wed, 25 Nov 2026 22:18:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Sufism and shrine veneration shaped Muslim society in the Bengal delta]]></title>
-            <description><![CDATA[By Sarwar Alam]]></description>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/how-sufism-and-shrine-veneration-shaped-muslim-society-the-bengal-delta-4333176</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/how-sufism-and-shrine-veneration-shaped-muslim-society-the-bengal-delta-4333176</guid>
-            <dc:creator><![CDATA[Sarwar Alam]]></dc:creator>
             <pubDate>Wed, 25 Nov 2026 22:18:08 GMT</pubDate>
         </item>
         <item>
@@ -395,6 +441,12 @@
             <link>https://www.thedailystar.net/business/economy/rmg/news/wage-board-sets-garment-workers-minimum-wage-tk-17000-4332716</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/rmg/news/wage-board-sets-garment-workers-minimum-wage-tk-17000-4332716</guid>
             <pubDate>Wed, 25 Nov 2026 02:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Sufism and shrine veneration shaped Muslim society in the Bengal delta]]></title>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/how-sufism-and-shrine-veneration-shaped-muslim-society-the-bengal-delta-4333176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/how-sufism-and-shrine-veneration-shaped-muslim-society-the-bengal-delta-4333176</guid>
+            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.11.26)]]></title>
@@ -3055,62 +3107,6 @@
             <link>https://www.thedailystar.net/business/economy/news/overseas-medical-payment-limit-raised-30000-4319526</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/overseas-medical-payment-limit-raised-30000-4319526</guid>
             <pubDate>Tue, 10 Nov 2026 00:03:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bengal’s Age of Reason: What the 19th century can teach us]]></title>
-            <link>https://www.thedailystar.net/slow-reads/focus/news/bengals-age-reason-what-the-19th-century-can-teach-us-4320246</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/bengals-age-reason-what-the-19th-century-can-teach-us-4320246</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today's Gallery (2026.11.11)]]></title>
-            <link>https://www.thedailystar.net/todays-gallery-20261111-4320776</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20261111-4320776</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What makes higher garment wages affordable?]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/what-makes-higher-garment-wages-affordable-4320611</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/what-makes-higher-garment-wages-affordable-4320611</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Bangladesh’s minimum wage system enable workers to live with dignity?]]></title>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladeshs-minimum-wage-system-enable-workers-live-dignity-4320316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/can-bangladeshs-minimum-wage-system-enable-workers-live-dignity-4320316</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new US Congress, but little relief for Bangladesh and developing Asia]]></title>
-            <description><![CDATA[By M.G. Quibria]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/new-us-congress-little-relief-bangladesh-and-developing-asia-4320126</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/new-us-congress-little-relief-bangladesh-and-developing-asia-4320126</guid>
-            <dc:creator><![CDATA[M.G. Quibria]]></dc:creator>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Monpakhi’: Celebrating birds through art and colours]]></title>
-            <link>https://www.thedailystar.net/culture/entertainment/news/monpakhi-celebrating-birds-through-art-and-colours-4320251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/culture/entertainment/news/monpakhi-celebrating-birds-through-art-and-colours-4320251</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sports / Bonna Akter's journey from self-doubt to Asia Cup archery gold]]></title>
-            <link>https://www.thedailystar.net/life-living/news/bonna-akters-journey-self-doubt-asia-cup-archery-gold-4320141</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/bonna-akters-journey-self-doubt-asia-cup-archery-gold-4320141</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Take grassroots poll reform seriously]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/take-grassroots-poll-reform-seriously-4320231</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/take-grassroots-poll-reform-seriously-4320231</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh Bank questions bKash over more than 7,000 fake accounts]]></title>
-            <link>https://www.thedailystar.net/business/news/bangladesh-bank-demands-answers-bkash-over-7000-fake-accounts-4320301</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bangladesh-bank-demands-answers-bkash-over-7000-fake-accounts-4320301</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
